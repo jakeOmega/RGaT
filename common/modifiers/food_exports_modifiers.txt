@@ -1,0 +1,8 @@
+﻿exporting_food = {
+	local_goods_from_slaves = 1000
+	base_resources = -1
+}
+
+single_food_export_adjustment = {
+	local_monthly_food = 5
+}

@@ -1,0 +1,40 @@
+﻿crop_failure = {
+	#local_monthly_food_modifier = -0.8
+	local_tax_modifier = -0.5
+	local_population_happiness = -0.5
+}
+
+terrible_harvest = {
+	#local_monthly_food_modifier = -0.5
+	local_population_happiness = -0.25
+	local_tax_modifier = -0.25
+}
+
+bad_harvest = {
+	#local_monthly_food_modifier = -0.1
+	local_population_happiness = -0.1
+}
+
+average_harvest = {
+}
+
+good_harvest = {
+	#local_monthly_food_modifier = 0.1
+	local_population_happiness = 0.1
+}
+
+great_harvest = {
+	#local_monthly_food_modifier = 0.25
+	local_population_happiness = 0.25
+	local_tax_modifier = 0.25
+}
+
+bumper_crop = {
+	#local_monthly_food_modifier = 0.75
+	local_population_happiness = 0.5
+	local_tax_modifier = 0.5
+}
+
+incompetent_storage_pmod = {
+	local_food_capacity = -5
+}

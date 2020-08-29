@@ -1,0 +1,44 @@
+send_as_envoy = {
+
+	on_other_nation = no
+	on_own_nation = yes
+	close_ui = yes
+	needs_senate_approval = yes
+	
+	potential_trigger = {
+		always = no
+		hidden:scope:target = {
+			NOT = { employer = { tag = REB } }
+			NOT = { employer = { tag = BAR } }
+			is_mercenary = no
+		}
+	}	
+	
+	allowed_trigger = {
+		hidden:scope:target = {
+			is_ruler = no
+			is_co_ruler = no
+		}
+		scope:target = {
+			loyalty > 40
+		}
+	}
+	
+	country_target_trigger = {
+		in_diplomatic_range = scope:actor
+		NOT = {
+			this = scope:actor
+		}
+	}
+	
+	effect = {
+		scope:target = {
+			set_variable = {
+				name = envoy_from
+				value = employer
+			}
+			move_country = scope:recipient
+			trigger_event = {id = character_notification.12 months = {12 24}}
+		}
+	}	
+}	

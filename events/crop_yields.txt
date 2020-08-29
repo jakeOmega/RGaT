@@ -1,0 +1,492 @@
+﻿namespace=crop_yields
+
+crop_yields.1 = {
+	type = province_event 
+	hidden = yes
+	trigger = { province_id = 1 }
+	
+	immediate = {
+		every_region = {
+			save_scope_as = current_region
+			ordered_region_province = {
+				order_by = province_id
+				position = 1
+				save_scope_as = region_main_province #workaround for region not supporting variables
+			}
+			scope:region_main_province = {
+				if = {
+					limit = {NOT = {has_variable = current_yield_status}}
+					set_variable = {
+						name = current_yield_status
+						value = 0
+					}
+				}
+				set_variable = {
+					name = neighbor_count
+					value = 0
+				}
+				set_variable = {
+					name = avg_neighbor_yield
+					value = 0
+				}
+				scope:current_region = {
+					every_neighbor_region = {
+						every_region_province = {
+							limit = {has_variable = current_yield_status}
+							scope:region_main_province = {
+								change_variable = {
+									name = neighbor_count
+									add = 1
+								}
+								change_variable = {
+									name = avg_neighbor_yield
+									add = prev.var:current_yield_status
+								}
+							}
+						}
+					}
+				}
+				if = {
+					limit = {var:neighbor_count > 0}
+					change_variable = {
+						name = avg_neighbor_yield
+						divide = var:neighbor_count
+					}
+				}
+				set_variable = {
+					name = current_yield_status
+					value = 0
+				}
+				change_variable = {
+					name = avg_neighbor_yield
+					multiply = 0.99
+				}
+				change_variable = {
+					name = roll
+					multiply = 0.9
+				}
+				change_variable = {
+					name = roll
+					add = {fixed_range = { min = -0.3 max = 0.3 }}
+				}
+				if = {
+					limit = {var:neighbor_count > 0}
+					change_variable = {
+						name = current_yield_status
+						add = var:avg_neighbor_yield
+					}
+				}
+				change_variable = {
+					name = current_yield_status
+					add = var:roll
+				}	
+			}
+		}
+	}
+}
+
+crop_yields.2 = {
+	type = province_event 
+	hidden = yes
+	trigger = { province_id = 1 }
+	
+	immediate = {
+		every_region = {
+			limit = { NOT = {any_region_province = {OR = {terrain = ocean terrain=coastal_terrain terrain=riverine_terrain}}}}
+			save_scope_as = current_region
+			ordered_region_province = {
+				order_by = province_id
+				position = 1
+				save_scope_as = region_main_province #workaround for region not supporting variables
+			}
+			
+			if = {
+				limit = {
+					scope:region_main_province.var:current_yield_status < -2.5
+				}
+				every_region_province = {
+					remove_province_modifier = crop_failure 
+					remove_province_modifier = terrible_harvest 
+					remove_province_modifier = bad_harvest 
+					remove_province_modifier = good_harvest 
+					remove_province_modifier = great_harvest 
+					remove_province_modifier = bumper_crop 
+					add_province_modifier = {
+						name = crop_failure
+						duration = -1
+					}
+					set_variable = {
+						name = current_yield_status
+						value = scope:region_main_province.var:current_yield_status
+					}
+				}
+				every_country = {
+					trigger_event = {id = crop_yields.201}
+				}
+			}
+			else_if = {
+				limit = {
+					scope:region_main_province.var:current_yield_status < -1.5
+				}
+				every_region_province = {
+					remove_province_modifier = crop_failure 
+					remove_province_modifier = terrible_harvest 
+					remove_province_modifier = bad_harvest 
+					remove_province_modifier = good_harvest 
+					remove_province_modifier = great_harvest 
+					remove_province_modifier = bumper_crop 
+					add_province_modifier = {
+						name = terrible_harvest
+						duration = -1
+					}
+					set_variable = {
+						name = current_yield_status
+						value = scope:region_main_province.var:current_yield_status
+					}
+				}
+				every_country = {
+					limit = {any_owned_province = {state.region = scope:current_region}}
+					trigger_event = {id = crop_yields.202}
+				}
+			}
+			else_if = {
+				limit = {
+					scope:region_main_province.var:current_yield_status < -0.5
+				}
+				every_region_province = {
+					remove_province_modifier = crop_failure 
+					remove_province_modifier = terrible_harvest 
+					remove_province_modifier = bad_harvest 
+					remove_province_modifier = good_harvest 
+					remove_province_modifier = great_harvest 
+					remove_province_modifier = bumper_crop 
+					add_province_modifier = {
+						name = bad_harvest
+						duration = -1
+					}
+					set_variable = {
+						name = current_yield_status
+						value = scope:region_main_province.var:current_yield_status
+					}
+				}
+			}
+				
+				
+			else_if = {
+				limit = {
+					scope:region_main_province.var:current_yield_status < 0.5
+				}
+				every_region_province = {
+					remove_province_modifier = crop_failure 
+					remove_province_modifier = terrible_harvest 
+					remove_province_modifier = bad_harvest 
+					remove_province_modifier = good_harvest 
+					remove_province_modifier = great_harvest 
+					remove_province_modifier = bumper_crop 
+					set_variable = {
+						name = current_yield_status
+						value = scope:region_main_province.var:current_yield_status
+					}
+				}
+			}
+				
+				
+			else_if = {
+				limit = {
+					scope:region_main_province.var:current_yield_status < 1.5
+				}
+				every_region_province = {
+					remove_province_modifier = crop_failure 
+					remove_province_modifier = terrible_harvest 
+					remove_province_modifier = bad_harvest 
+					remove_province_modifier = good_harvest 
+					remove_province_modifier = great_harvest 
+					remove_province_modifier = bumper_crop 
+					add_province_modifier = {
+						name = good_harvest
+						duration = -1
+					}
+					set_variable = {
+						name = current_yield_status
+						value = scope:region_main_province.var:current_yield_status
+					}
+				}
+			}
+				
+			else_if = {
+				limit = {
+					scope:region_main_province.var:current_yield_status < 2.5
+				}
+				every_region_province = {
+					remove_province_modifier = crop_failure 
+					remove_province_modifier = terrible_harvest 
+					remove_province_modifier = bad_harvest 
+					remove_province_modifier = good_harvest 
+					remove_province_modifier = great_harvest 
+					remove_province_modifier = bumper_crop 
+					add_province_modifier = {
+						name = great_harvest
+						duration = -1
+					}
+					set_variable = {
+						name = current_yield_status
+						value = scope:region_main_province.var:current_yield_status
+					}
+				}
+				every_country = {
+					limit = {any_owned_province = {state.region = scope:current_region}}
+					trigger_event = {id = crop_yields.203}
+				}
+			}
+				
+			else = {
+				every_region_province = {
+					remove_province_modifier = crop_failure 
+					remove_province_modifier = terrible_harvest 
+					remove_province_modifier = bad_harvest 
+					remove_province_modifier = good_harvest 
+					remove_province_modifier = great_harvest 
+					remove_province_modifier = bumper_crop 
+					add_province_modifier = {
+						name = bumper_crop
+						duration = -1
+					}
+					set_variable = {
+						name = current_yield_status
+						value = scope:region_main_province.var:current_yield_status
+					}
+				}
+				every_country = {
+					trigger_event = {id = crop_yields.204}
+				}
+			}
+		}
+	}
+}
+
+crop_yields.101 = {
+	type = state_event 
+	hidden = yes
+	
+	immediate = {
+		every_state_province = {
+			
+		}
+	}
+}
+
+crop_yields.102 = {
+	type = state_event 
+	hidden = yes
+	
+	immediate = {
+		every_state_province = {
+			remove_province_modifier = crop_failure 
+			remove_province_modifier = terrible_harvest 
+			remove_province_modifier = bad_harvest 
+			remove_province_modifier = good_harvest 
+			remove_province_modifier = great_harvest 
+			remove_province_modifier = bumper_crop 
+			add_province_modifier = {
+				name = terrible_harvest
+				duration = -1
+			}
+			set_variable = {
+				name = current_yield_status
+				value = scope:region_main_province.var:current_yield_status
+			}
+		}
+	}
+}
+
+crop_yields.103 = {
+	type = state_event 
+	hidden = yes
+	
+	immediate = {
+		every_state_province = {
+			remove_province_modifier = crop_failure 
+			remove_province_modifier = terrible_harvest 
+			remove_province_modifier = bad_harvest 
+			remove_province_modifier = good_harvest 
+			remove_province_modifier = great_harvest 
+			remove_province_modifier = bumper_crop 
+			add_province_modifier = {
+				name = bad_harvest
+				duration = -1
+			}
+			set_variable = {
+				name = current_yield_status
+				value = scope:region_main_province.var:current_yield_status
+			}
+		}
+	}
+}
+
+crop_yields.104 = {
+	type = state_event 
+	hidden = yes
+	
+	immediate = {
+		every_state_province = {
+			remove_province_modifier = crop_failure 
+			remove_province_modifier = terrible_harvest 
+			remove_province_modifier = bad_harvest 
+			remove_province_modifier = good_harvest 
+			remove_province_modifier = great_harvest 
+			remove_province_modifier = bumper_crop 
+			set_variable = {
+				name = current_yield_status
+				value = scope:region_main_province.var:current_yield_status
+			}
+		}
+	}
+}
+
+crop_yields.105 = {
+	type = state_event 
+	hidden = yes
+	
+	immediate = {
+		every_state_province = {
+			remove_province_modifier = crop_failure 
+			remove_province_modifier = terrible_harvest 
+			remove_province_modifier = bad_harvest 
+			remove_province_modifier = average_harvest 
+			remove_province_modifier = great_harvest 
+			remove_province_modifier = bumper_crop 
+			add_province_modifier = {
+				name = good_harvest
+				duration = -1
+			}
+			set_variable = {
+				name = current_yield_status
+				value = scope:region_main_province.var:current_yield_status
+			}
+		}
+	}
+}
+
+crop_yields.106 = {
+	type = state_event 
+	hidden = yes
+	
+	immediate = {
+		every_state_province = {
+			remove_province_modifier = crop_failure 
+			remove_province_modifier = terrible_harvest 
+			remove_province_modifier = bad_harvest 
+			remove_province_modifier = average_harvest 
+			remove_province_modifier = good_harvest 
+			remove_province_modifier = bumper_crop 
+			add_province_modifier = {
+				name = great_harvest
+				duration = -1
+			}
+			set_variable = {
+				name = current_yield_status
+				value = scope:region_main_province.var:current_yield_status
+			}
+		}
+	}
+}
+
+crop_yields.107 = {
+	type = state_event 
+	hidden = yes
+	
+	immediate = {
+		every_state_province = {
+			remove_province_modifier = crop_failure 
+			remove_province_modifier = terrible_harvest 
+			remove_province_modifier = bad_harvest 
+			remove_province_modifier = good_harvest 
+			remove_province_modifier = great_harvest 
+			remove_province_modifier = bumper_crop 
+			add_province_modifier = {
+				name = bumper_crop
+				duration = -1
+			}
+			set_variable = {
+				name = current_yield_status
+				value = scope:region_main_province.var:current_yield_status
+			}
+		}
+	}
+}
+
+crop_yields.201 = {
+	type = country_event 
+	picture = elephant_battle
+	title = "Crop Failure"
+	desc = "[SCOPE.sRegion('current_region').GetName] had a total crop failure!"
+	
+	
+	option = {
+		name = "OK"
+	}
+}
+
+crop_yields.202 = {
+	type = country_event 
+	picture = elephant_battle
+	title = "Terrible Harvest"
+	desc = "[SCOPE.sRegion('current_region').GetName] had a terrible harvest this year!"
+	
+	option = {
+		name = "OK"
+	}
+}
+
+crop_yields.203 = {
+	type = country_event 
+	picture = elephant_battle
+	title = "Great Harvest"
+	desc = "[SCOPE.sRegion('current_region').GetName] had a great harvest this year!"
+	
+	option = {
+		name = "OK"
+	}
+}
+
+crop_yields.204 = {
+	type = country_event 
+	picture = elephant_battle
+	title = "Bumper Crop!"
+	desc = "[SCOPE.sRegion('current_region').GetName] had a bumper crop!"
+	
+	option = {
+		name = "OK"
+	}
+}
+
+crop_yields.1001 = {
+	type = country_event
+	hidden = yes
+	
+	trigger = { tag = ROM }
+	
+	immediate = {
+		every_region = {
+			save_scope_as = current_region
+			ordered_region_province = {
+				order_by = province_id
+				position = 1
+				save_scope_as = region_main_province #workaround for region not supporting variables
+			}
+			scope:region_main_province = {
+				set_variable = {
+					name = roll
+					value = 0
+				}
+			}
+		}
+		every_province = {
+			set_variable = {
+				name = current_yield_status
+				value = 0
+			}
+			trigger_event = {id = crop_yields.1}
+		}
+	}
+}

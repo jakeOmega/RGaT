@@ -1,0 +1,1006 @@
+﻿
+travel_time0_0 = {
+	local_tax_modifier = 1.0
+	local_manpower_modifier = 1.0
+	local_commerce_value_modifier = 1.0
+}
+travel_time0_5 = {
+	local_tax_modifier = 0.995
+	local_manpower_modifier = 0.995
+	local_commerce_value_modifier = 0.995
+}
+travel_time1_0 = {
+	local_tax_modifier = 0.99
+	local_manpower_modifier = 0.99
+	local_commerce_value_modifier = 0.99
+}
+travel_time1_5 = {
+	local_tax_modifier = 0.985
+	local_manpower_modifier = 0.985
+	local_commerce_value_modifier = 0.985
+}
+travel_time2_0 = {
+	local_tax_modifier = 0.98
+	local_manpower_modifier = 0.98
+	local_commerce_value_modifier = 0.98
+}
+travel_time2_5 = {
+	local_tax_modifier = 0.975
+	local_manpower_modifier = 0.975
+	local_commerce_value_modifier = 0.975
+}
+travel_time3_0 = {
+	local_tax_modifier = 0.97
+	local_manpower_modifier = 0.97
+	local_commerce_value_modifier = 0.97
+}
+travel_time3_5 = {
+	local_tax_modifier = 0.965
+	local_manpower_modifier = 0.965
+	local_commerce_value_modifier = 0.965
+}
+travel_time4_0 = {
+	local_tax_modifier = 0.96
+	local_manpower_modifier = 0.96
+	local_commerce_value_modifier = 0.96
+}
+travel_time4_5 = {
+	local_tax_modifier = 0.955
+	local_manpower_modifier = 0.955
+	local_commerce_value_modifier = 0.955
+}
+travel_time5_0 = {
+	local_tax_modifier = 0.95
+	local_manpower_modifier = 0.95
+	local_commerce_value_modifier = 0.95
+}
+travel_time5_5 = {
+	local_tax_modifier = 0.945
+	local_manpower_modifier = 0.945
+	local_commerce_value_modifier = 0.945
+}
+travel_time6_0 = {
+	local_tax_modifier = 0.94
+	local_manpower_modifier = 0.94
+	local_commerce_value_modifier = 0.94
+}
+travel_time6_5 = {
+	local_tax_modifier = 0.935
+	local_manpower_modifier = 0.935
+	local_commerce_value_modifier = 0.935
+}
+travel_time7_0 = {
+	local_tax_modifier = 0.9299999999999999
+	local_manpower_modifier = 0.9299999999999999
+	local_commerce_value_modifier = 0.9299999999999999
+}
+travel_time7_5 = {
+	local_tax_modifier = 0.925
+	local_manpower_modifier = 0.925
+	local_commerce_value_modifier = 0.925
+}
+travel_time8_0 = {
+	local_tax_modifier = 0.92
+	local_manpower_modifier = 0.92
+	local_commerce_value_modifier = 0.92
+}
+travel_time8_5 = {
+	local_tax_modifier = 0.915
+	local_manpower_modifier = 0.915
+	local_commerce_value_modifier = 0.915
+}
+travel_time9_0 = {
+	local_tax_modifier = 0.91
+	local_manpower_modifier = 0.91
+	local_commerce_value_modifier = 0.91
+}
+travel_time9_5 = {
+	local_tax_modifier = 0.905
+	local_manpower_modifier = 0.905
+	local_commerce_value_modifier = 0.905
+}
+travel_time10_0 = {
+	local_tax_modifier = 0.9
+	local_manpower_modifier = 0.9
+	local_commerce_value_modifier = 0.9
+}
+travel_time10_5 = {
+	local_tax_modifier = 0.895
+	local_manpower_modifier = 0.895
+	local_commerce_value_modifier = 0.895
+}
+travel_time11_0 = {
+	local_tax_modifier = 0.89
+	local_manpower_modifier = 0.89
+	local_commerce_value_modifier = 0.89
+}
+travel_time11_5 = {
+	local_tax_modifier = 0.885
+	local_manpower_modifier = 0.885
+	local_commerce_value_modifier = 0.885
+}
+travel_time12_0 = {
+	local_tax_modifier = 0.88
+	local_manpower_modifier = 0.88
+	local_commerce_value_modifier = 0.88
+}
+travel_time12_5 = {
+	local_tax_modifier = 0.875
+	local_manpower_modifier = 0.875
+	local_commerce_value_modifier = 0.875
+}
+travel_time13_0 = {
+	local_tax_modifier = 0.87
+	local_manpower_modifier = 0.87
+	local_commerce_value_modifier = 0.87
+}
+travel_time13_5 = {
+	local_tax_modifier = 0.865
+	local_manpower_modifier = 0.865
+	local_commerce_value_modifier = 0.865
+}
+travel_time14_0 = {
+	local_tax_modifier = 0.86
+	local_manpower_modifier = 0.86
+	local_commerce_value_modifier = 0.86
+}
+travel_time14_5 = {
+	local_tax_modifier = 0.855
+	local_manpower_modifier = 0.855
+	local_commerce_value_modifier = 0.855
+}
+travel_time15_0 = {
+	local_tax_modifier = 0.85
+	local_manpower_modifier = 0.85
+	local_commerce_value_modifier = 0.85
+}
+travel_time15_5 = {
+	local_tax_modifier = 0.845
+	local_manpower_modifier = 0.845
+	local_commerce_value_modifier = 0.845
+}
+travel_time16_0 = {
+	local_tax_modifier = 0.84
+	local_manpower_modifier = 0.84
+	local_commerce_value_modifier = 0.84
+}
+travel_time16_5 = {
+	local_tax_modifier = 0.835
+	local_manpower_modifier = 0.835
+	local_commerce_value_modifier = 0.835
+}
+travel_time17_0 = {
+	local_tax_modifier = 0.83
+	local_manpower_modifier = 0.83
+	local_commerce_value_modifier = 0.83
+}
+travel_time17_5 = {
+	local_tax_modifier = 0.825
+	local_manpower_modifier = 0.825
+	local_commerce_value_modifier = 0.825
+}
+travel_time18_0 = {
+	local_tax_modifier = 0.8200000000000001
+	local_manpower_modifier = 0.8200000000000001
+	local_commerce_value_modifier = 0.8200000000000001
+}
+travel_time18_5 = {
+	local_tax_modifier = 0.815
+	local_manpower_modifier = 0.815
+	local_commerce_value_modifier = 0.815
+}
+travel_time19_0 = {
+	local_tax_modifier = 0.81
+	local_manpower_modifier = 0.81
+	local_commerce_value_modifier = 0.81
+}
+travel_time19_5 = {
+	local_tax_modifier = 0.8049999999999999
+	local_manpower_modifier = 0.8049999999999999
+	local_commerce_value_modifier = 0.8049999999999999
+}
+travel_time20_0 = {
+	local_tax_modifier = 0.8
+	local_manpower_modifier = 0.8
+	local_commerce_value_modifier = 0.8
+}
+travel_time20_5 = {
+	local_tax_modifier = 0.795
+	local_manpower_modifier = 0.795
+	local_commerce_value_modifier = 0.795
+}
+travel_time21_0 = {
+	local_tax_modifier = 0.79
+	local_manpower_modifier = 0.79
+	local_commerce_value_modifier = 0.79
+}
+travel_time21_5 = {
+	local_tax_modifier = 0.785
+	local_manpower_modifier = 0.785
+	local_commerce_value_modifier = 0.785
+}
+travel_time22_0 = {
+	local_tax_modifier = 0.78
+	local_manpower_modifier = 0.78
+	local_commerce_value_modifier = 0.78
+}
+travel_time22_5 = {
+	local_tax_modifier = 0.775
+	local_manpower_modifier = 0.775
+	local_commerce_value_modifier = 0.775
+}
+travel_time23_0 = {
+	local_tax_modifier = 0.77
+	local_manpower_modifier = 0.77
+	local_commerce_value_modifier = 0.77
+}
+travel_time23_5 = {
+	local_tax_modifier = 0.765
+	local_manpower_modifier = 0.765
+	local_commerce_value_modifier = 0.765
+}
+travel_time24_0 = {
+	local_tax_modifier = 0.76
+	local_manpower_modifier = 0.76
+	local_commerce_value_modifier = 0.76
+}
+travel_time24_5 = {
+	local_tax_modifier = 0.755
+	local_manpower_modifier = 0.755
+	local_commerce_value_modifier = 0.755
+}
+travel_time25_0 = {
+	local_tax_modifier = 0.75
+	local_manpower_modifier = 0.75
+	local_commerce_value_modifier = 0.75
+}
+travel_time25_5 = {
+	local_tax_modifier = 0.745
+	local_manpower_modifier = 0.745
+	local_commerce_value_modifier = 0.745
+}
+travel_time26_0 = {
+	local_tax_modifier = 0.74
+	local_manpower_modifier = 0.74
+	local_commerce_value_modifier = 0.74
+}
+travel_time26_5 = {
+	local_tax_modifier = 0.735
+	local_manpower_modifier = 0.735
+	local_commerce_value_modifier = 0.735
+}
+travel_time27_0 = {
+	local_tax_modifier = 0.73
+	local_manpower_modifier = 0.73
+	local_commerce_value_modifier = 0.73
+}
+travel_time27_5 = {
+	local_tax_modifier = 0.725
+	local_manpower_modifier = 0.725
+	local_commerce_value_modifier = 0.725
+}
+travel_time28_0 = {
+	local_tax_modifier = 0.72
+	local_manpower_modifier = 0.72
+	local_commerce_value_modifier = 0.72
+}
+travel_time28_5 = {
+	local_tax_modifier = 0.7150000000000001
+	local_manpower_modifier = 0.7150000000000001
+	local_commerce_value_modifier = 0.7150000000000001
+}
+travel_time29_0 = {
+	local_tax_modifier = 0.71
+	local_manpower_modifier = 0.71
+	local_commerce_value_modifier = 0.71
+}
+travel_time29_5 = {
+	local_tax_modifier = 0.7050000000000001
+	local_manpower_modifier = 0.7050000000000001
+	local_commerce_value_modifier = 0.7050000000000001
+}
+travel_time30_0 = {
+	local_tax_modifier = 0.7
+	local_manpower_modifier = 0.7
+	local_commerce_value_modifier = 0.7
+}
+travel_time30_5 = {
+	local_tax_modifier = 0.6950000000000001
+	local_manpower_modifier = 0.6950000000000001
+	local_commerce_value_modifier = 0.6950000000000001
+}
+travel_time31_0 = {
+	local_tax_modifier = 0.69
+	local_manpower_modifier = 0.69
+	local_commerce_value_modifier = 0.69
+}
+travel_time31_5 = {
+	local_tax_modifier = 0.685
+	local_manpower_modifier = 0.685
+	local_commerce_value_modifier = 0.685
+}
+travel_time32_0 = {
+	local_tax_modifier = 0.6799999999999999
+	local_manpower_modifier = 0.6799999999999999
+	local_commerce_value_modifier = 0.6799999999999999
+}
+travel_time32_5 = {
+	local_tax_modifier = 0.675
+	local_manpower_modifier = 0.675
+	local_commerce_value_modifier = 0.675
+}
+travel_time33_0 = {
+	local_tax_modifier = 0.6699999999999999
+	local_manpower_modifier = 0.6699999999999999
+	local_commerce_value_modifier = 0.6699999999999999
+}
+travel_time33_5 = {
+	local_tax_modifier = 0.665
+	local_manpower_modifier = 0.665
+	local_commerce_value_modifier = 0.665
+}
+travel_time34_0 = {
+	local_tax_modifier = 0.6599999999999999
+	local_manpower_modifier = 0.6599999999999999
+	local_commerce_value_modifier = 0.6599999999999999
+}
+travel_time34_5 = {
+	local_tax_modifier = 0.655
+	local_manpower_modifier = 0.655
+	local_commerce_value_modifier = 0.655
+}
+travel_time35_0 = {
+	local_tax_modifier = 0.65
+	local_manpower_modifier = 0.65
+	local_commerce_value_modifier = 0.65
+}
+travel_time35_5 = {
+	local_tax_modifier = 0.645
+	local_manpower_modifier = 0.645
+	local_commerce_value_modifier = 0.645
+}
+travel_time36_0 = {
+	local_tax_modifier = 0.64
+	local_manpower_modifier = 0.64
+	local_commerce_value_modifier = 0.64
+}
+travel_time36_5 = {
+	local_tax_modifier = 0.635
+	local_manpower_modifier = 0.635
+	local_commerce_value_modifier = 0.635
+}
+travel_time37_0 = {
+	local_tax_modifier = 0.63
+	local_manpower_modifier = 0.63
+	local_commerce_value_modifier = 0.63
+}
+travel_time37_5 = {
+	local_tax_modifier = 0.625
+	local_manpower_modifier = 0.625
+	local_commerce_value_modifier = 0.625
+}
+travel_time38_0 = {
+	local_tax_modifier = 0.62
+	local_manpower_modifier = 0.62
+	local_commerce_value_modifier = 0.62
+}
+travel_time38_5 = {
+	local_tax_modifier = 0.615
+	local_manpower_modifier = 0.615
+	local_commerce_value_modifier = 0.615
+}
+travel_time39_0 = {
+	local_tax_modifier = 0.61
+	local_manpower_modifier = 0.61
+	local_commerce_value_modifier = 0.61
+}
+travel_time39_5 = {
+	local_tax_modifier = 0.605
+	local_manpower_modifier = 0.605
+	local_commerce_value_modifier = 0.605
+}
+travel_time40_0 = {
+	local_tax_modifier = 0.6
+	local_manpower_modifier = 0.6
+	local_commerce_value_modifier = 0.6
+}
+travel_time40_5 = {
+	local_tax_modifier = 0.595
+	local_manpower_modifier = 0.595
+	local_commerce_value_modifier = 0.595
+}
+travel_time41_0 = {
+	local_tax_modifier = 0.5900000000000001
+	local_manpower_modifier = 0.5900000000000001
+	local_commerce_value_modifier = 0.5900000000000001
+}
+travel_time41_5 = {
+	local_tax_modifier = 0.585
+	local_manpower_modifier = 0.585
+	local_commerce_value_modifier = 0.585
+}
+travel_time42_0 = {
+	local_tax_modifier = 0.5800000000000001
+	local_manpower_modifier = 0.5800000000000001
+	local_commerce_value_modifier = 0.5800000000000001
+}
+travel_time42_5 = {
+	local_tax_modifier = 0.575
+	local_manpower_modifier = 0.575
+	local_commerce_value_modifier = 0.575
+}
+travel_time43_0 = {
+	local_tax_modifier = 0.5700000000000001
+	local_manpower_modifier = 0.5700000000000001
+	local_commerce_value_modifier = 0.5700000000000001
+}
+travel_time43_5 = {
+	local_tax_modifier = 0.565
+	local_manpower_modifier = 0.565
+	local_commerce_value_modifier = 0.565
+}
+travel_time44_0 = {
+	local_tax_modifier = 0.56
+	local_manpower_modifier = 0.56
+	local_commerce_value_modifier = 0.56
+}
+travel_time44_5 = {
+	local_tax_modifier = 0.5549999999999999
+	local_manpower_modifier = 0.5549999999999999
+	local_commerce_value_modifier = 0.5549999999999999
+}
+travel_time45_0 = {
+	local_tax_modifier = 0.55
+	local_manpower_modifier = 0.55
+	local_commerce_value_modifier = 0.55
+}
+travel_time45_5 = {
+	local_tax_modifier = 0.5449999999999999
+	local_manpower_modifier = 0.5449999999999999
+	local_commerce_value_modifier = 0.5449999999999999
+}
+travel_time46_0 = {
+	local_tax_modifier = 0.54
+	local_manpower_modifier = 0.54
+	local_commerce_value_modifier = 0.54
+}
+travel_time46_5 = {
+	local_tax_modifier = 0.5349999999999999
+	local_manpower_modifier = 0.5349999999999999
+	local_commerce_value_modifier = 0.5349999999999999
+}
+travel_time47_0 = {
+	local_tax_modifier = 0.53
+	local_manpower_modifier = 0.53
+	local_commerce_value_modifier = 0.53
+}
+travel_time47_5 = {
+	local_tax_modifier = 0.525
+	local_manpower_modifier = 0.525
+	local_commerce_value_modifier = 0.525
+}
+travel_time48_0 = {
+	local_tax_modifier = 0.52
+	local_manpower_modifier = 0.52
+	local_commerce_value_modifier = 0.52
+}
+travel_time48_5 = {
+	local_tax_modifier = 0.515
+	local_manpower_modifier = 0.515
+	local_commerce_value_modifier = 0.515
+}
+travel_time49_0 = {
+	local_tax_modifier = 0.51
+	local_manpower_modifier = 0.51
+	local_commerce_value_modifier = 0.51
+}
+travel_time49_5 = {
+	local_tax_modifier = 0.505
+	local_manpower_modifier = 0.505
+	local_commerce_value_modifier = 0.505
+}
+travel_time50_0 = {
+	local_tax_modifier = 0.5
+	local_manpower_modifier = 0.5
+	local_commerce_value_modifier = 0.5
+}
+travel_time50_5 = {
+	local_tax_modifier = 0.495
+	local_manpower_modifier = 0.495
+	local_commerce_value_modifier = 0.495
+}
+travel_time51_0 = {
+	local_tax_modifier = 0.49
+	local_manpower_modifier = 0.49
+	local_commerce_value_modifier = 0.49
+}
+travel_time51_5 = {
+	local_tax_modifier = 0.485
+	local_manpower_modifier = 0.485
+	local_commerce_value_modifier = 0.485
+}
+travel_time52_0 = {
+	local_tax_modifier = 0.48
+	local_manpower_modifier = 0.48
+	local_commerce_value_modifier = 0.48
+}
+travel_time52_5 = {
+	local_tax_modifier = 0.475
+	local_manpower_modifier = 0.475
+	local_commerce_value_modifier = 0.475
+}
+travel_time53_0 = {
+	local_tax_modifier = 0.47
+	local_manpower_modifier = 0.47
+	local_commerce_value_modifier = 0.47
+}
+travel_time53_5 = {
+	local_tax_modifier = 0.46499999999999997
+	local_manpower_modifier = 0.46499999999999997
+	local_commerce_value_modifier = 0.46499999999999997
+}
+travel_time54_0 = {
+	local_tax_modifier = 0.45999999999999996
+	local_manpower_modifier = 0.45999999999999996
+	local_commerce_value_modifier = 0.45999999999999996
+}
+travel_time54_5 = {
+	local_tax_modifier = 0.45499999999999996
+	local_manpower_modifier = 0.45499999999999996
+	local_commerce_value_modifier = 0.45499999999999996
+}
+travel_time55_0 = {
+	local_tax_modifier = 0.44999999999999996
+	local_manpower_modifier = 0.44999999999999996
+	local_commerce_value_modifier = 0.44999999999999996
+}
+travel_time55_5 = {
+	local_tax_modifier = 0.44499999999999995
+	local_manpower_modifier = 0.44499999999999995
+	local_commerce_value_modifier = 0.44499999999999995
+}
+travel_time56_0 = {
+	local_tax_modifier = 0.43999999999999995
+	local_manpower_modifier = 0.43999999999999995
+	local_commerce_value_modifier = 0.43999999999999995
+}
+travel_time56_5 = {
+	local_tax_modifier = 0.43500000000000005
+	local_manpower_modifier = 0.43500000000000005
+	local_commerce_value_modifier = 0.43500000000000005
+}
+travel_time57_0 = {
+	local_tax_modifier = 0.43000000000000005
+	local_manpower_modifier = 0.43000000000000005
+	local_commerce_value_modifier = 0.43000000000000005
+}
+travel_time57_5 = {
+	local_tax_modifier = 0.42500000000000004
+	local_manpower_modifier = 0.42500000000000004
+	local_commerce_value_modifier = 0.42500000000000004
+}
+travel_time58_0 = {
+	local_tax_modifier = 0.42000000000000004
+	local_manpower_modifier = 0.42000000000000004
+	local_commerce_value_modifier = 0.42000000000000004
+}
+travel_time58_5 = {
+	local_tax_modifier = 0.41500000000000004
+	local_manpower_modifier = 0.41500000000000004
+	local_commerce_value_modifier = 0.41500000000000004
+}
+travel_time59_0 = {
+	local_tax_modifier = 0.41000000000000003
+	local_manpower_modifier = 0.41000000000000003
+	local_commerce_value_modifier = 0.41000000000000003
+}
+travel_time59_5 = {
+	local_tax_modifier = 0.405
+	local_manpower_modifier = 0.405
+	local_commerce_value_modifier = 0.405
+}
+travel_time60_0 = {
+	local_tax_modifier = 0.4
+	local_manpower_modifier = 0.4
+	local_commerce_value_modifier = 0.4
+}
+travel_time60_5 = {
+	local_tax_modifier = 0.395
+	local_manpower_modifier = 0.395
+	local_commerce_value_modifier = 0.395
+}
+travel_time61_0 = {
+	local_tax_modifier = 0.39
+	local_manpower_modifier = 0.39
+	local_commerce_value_modifier = 0.39
+}
+travel_time61_5 = {
+	local_tax_modifier = 0.385
+	local_manpower_modifier = 0.385
+	local_commerce_value_modifier = 0.385
+}
+travel_time62_0 = {
+	local_tax_modifier = 0.38
+	local_manpower_modifier = 0.38
+	local_commerce_value_modifier = 0.38
+}
+travel_time62_5 = {
+	local_tax_modifier = 0.375
+	local_manpower_modifier = 0.375
+	local_commerce_value_modifier = 0.375
+}
+travel_time63_0 = {
+	local_tax_modifier = 0.37
+	local_manpower_modifier = 0.37
+	local_commerce_value_modifier = 0.37
+}
+travel_time63_5 = {
+	local_tax_modifier = 0.365
+	local_manpower_modifier = 0.365
+	local_commerce_value_modifier = 0.365
+}
+travel_time64_0 = {
+	local_tax_modifier = 0.36
+	local_manpower_modifier = 0.36
+	local_commerce_value_modifier = 0.36
+}
+travel_time64_5 = {
+	local_tax_modifier = 0.355
+	local_manpower_modifier = 0.355
+	local_commerce_value_modifier = 0.355
+}
+travel_time65_0 = {
+	local_tax_modifier = 0.35
+	local_manpower_modifier = 0.35
+	local_commerce_value_modifier = 0.35
+}
+travel_time65_5 = {
+	local_tax_modifier = 0.345
+	local_manpower_modifier = 0.345
+	local_commerce_value_modifier = 0.345
+}
+travel_time66_0 = {
+	local_tax_modifier = 0.33999999999999997
+	local_manpower_modifier = 0.33999999999999997
+	local_commerce_value_modifier = 0.33999999999999997
+}
+travel_time66_5 = {
+	local_tax_modifier = 0.33499999999999996
+	local_manpower_modifier = 0.33499999999999996
+	local_commerce_value_modifier = 0.33499999999999996
+}
+travel_time67_0 = {
+	local_tax_modifier = 0.32999999999999996
+	local_manpower_modifier = 0.32999999999999996
+	local_commerce_value_modifier = 0.32999999999999996
+}
+travel_time67_5 = {
+	local_tax_modifier = 0.32499999999999996
+	local_manpower_modifier = 0.32499999999999996
+	local_commerce_value_modifier = 0.32499999999999996
+}
+travel_time68_0 = {
+	local_tax_modifier = 0.31999999999999995
+	local_manpower_modifier = 0.31999999999999995
+	local_commerce_value_modifier = 0.31999999999999995
+}
+travel_time68_5 = {
+	local_tax_modifier = 0.31499999999999995
+	local_manpower_modifier = 0.31499999999999995
+	local_commerce_value_modifier = 0.31499999999999995
+}
+travel_time69_0 = {
+	local_tax_modifier = 0.31000000000000005
+	local_manpower_modifier = 0.31000000000000005
+	local_commerce_value_modifier = 0.31000000000000005
+}
+travel_time69_5 = {
+	local_tax_modifier = 0.30500000000000005
+	local_manpower_modifier = 0.30500000000000005
+	local_commerce_value_modifier = 0.30500000000000005
+}
+travel_time70_0 = {
+	local_tax_modifier = 0.30000000000000004
+	local_manpower_modifier = 0.30000000000000004
+	local_commerce_value_modifier = 0.30000000000000004
+}
+travel_time70_5 = {
+	local_tax_modifier = 0.29500000000000004
+	local_manpower_modifier = 0.29500000000000004
+	local_commerce_value_modifier = 0.29500000000000004
+}
+travel_time71_0 = {
+	local_tax_modifier = 0.29000000000000004
+	local_manpower_modifier = 0.29000000000000004
+	local_commerce_value_modifier = 0.29000000000000004
+}
+travel_time71_5 = {
+	local_tax_modifier = 0.28500000000000003
+	local_manpower_modifier = 0.28500000000000003
+	local_commerce_value_modifier = 0.28500000000000003
+}
+travel_time72_0 = {
+	local_tax_modifier = 0.28
+	local_manpower_modifier = 0.28
+	local_commerce_value_modifier = 0.28
+}
+travel_time72_5 = {
+	local_tax_modifier = 0.275
+	local_manpower_modifier = 0.275
+	local_commerce_value_modifier = 0.275
+}
+travel_time73_0 = {
+	local_tax_modifier = 0.27
+	local_manpower_modifier = 0.27
+	local_commerce_value_modifier = 0.27
+}
+travel_time73_5 = {
+	local_tax_modifier = 0.265
+	local_manpower_modifier = 0.265
+	local_commerce_value_modifier = 0.265
+}
+travel_time74_0 = {
+	local_tax_modifier = 0.26
+	local_manpower_modifier = 0.26
+	local_commerce_value_modifier = 0.26
+}
+travel_time74_5 = {
+	local_tax_modifier = 0.255
+	local_manpower_modifier = 0.255
+	local_commerce_value_modifier = 0.255
+}
+travel_time75_0 = {
+	local_tax_modifier = 0.25
+	local_manpower_modifier = 0.25
+	local_commerce_value_modifier = 0.25
+}
+travel_time75_5 = {
+	local_tax_modifier = 0.245
+	local_manpower_modifier = 0.245
+	local_commerce_value_modifier = 0.245
+}
+travel_time76_0 = {
+	local_tax_modifier = 0.24
+	local_manpower_modifier = 0.24
+	local_commerce_value_modifier = 0.24
+}
+travel_time76_5 = {
+	local_tax_modifier = 0.235
+	local_manpower_modifier = 0.235
+	local_commerce_value_modifier = 0.235
+}
+travel_time77_0 = {
+	local_tax_modifier = 0.22999999999999998
+	local_manpower_modifier = 0.22999999999999998
+	local_commerce_value_modifier = 0.22999999999999998
+}
+travel_time77_5 = {
+	local_tax_modifier = 0.22499999999999998
+	local_manpower_modifier = 0.22499999999999998
+	local_commerce_value_modifier = 0.22499999999999998
+}
+travel_time78_0 = {
+	local_tax_modifier = 0.21999999999999997
+	local_manpower_modifier = 0.21999999999999997
+	local_commerce_value_modifier = 0.21999999999999997
+}
+travel_time78_5 = {
+	local_tax_modifier = 0.21499999999999997
+	local_manpower_modifier = 0.21499999999999997
+	local_commerce_value_modifier = 0.21499999999999997
+}
+travel_time79_0 = {
+	local_tax_modifier = 0.20999999999999996
+	local_manpower_modifier = 0.20999999999999996
+	local_commerce_value_modifier = 0.20999999999999996
+}
+travel_time79_5 = {
+	local_tax_modifier = 0.20499999999999996
+	local_manpower_modifier = 0.20499999999999996
+	local_commerce_value_modifier = 0.20499999999999996
+}
+travel_time80_0 = {
+	local_tax_modifier = 0.19999999999999996
+	local_manpower_modifier = 0.19999999999999996
+	local_commerce_value_modifier = 0.19999999999999996
+}
+travel_time80_5 = {
+	local_tax_modifier = 0.19499999999999995
+	local_manpower_modifier = 0.19499999999999995
+	local_commerce_value_modifier = 0.19499999999999995
+}
+travel_time81_0 = {
+	local_tax_modifier = 0.18999999999999995
+	local_manpower_modifier = 0.18999999999999995
+	local_commerce_value_modifier = 0.18999999999999995
+}
+travel_time81_5 = {
+	local_tax_modifier = 0.18500000000000005
+	local_manpower_modifier = 0.18500000000000005
+	local_commerce_value_modifier = 0.18500000000000005
+}
+travel_time82_0 = {
+	local_tax_modifier = 0.18000000000000005
+	local_manpower_modifier = 0.18000000000000005
+	local_commerce_value_modifier = 0.18000000000000005
+}
+travel_time82_5 = {
+	local_tax_modifier = 0.17500000000000004
+	local_manpower_modifier = 0.17500000000000004
+	local_commerce_value_modifier = 0.17500000000000004
+}
+travel_time83_0 = {
+	local_tax_modifier = 0.17000000000000004
+	local_manpower_modifier = 0.17000000000000004
+	local_commerce_value_modifier = 0.17000000000000004
+}
+travel_time83_5 = {
+	local_tax_modifier = 0.16500000000000004
+	local_manpower_modifier = 0.16500000000000004
+	local_commerce_value_modifier = 0.16500000000000004
+}
+travel_time84_0 = {
+	local_tax_modifier = 0.16000000000000003
+	local_manpower_modifier = 0.16000000000000003
+	local_commerce_value_modifier = 0.16000000000000003
+}
+travel_time84_5 = {
+	local_tax_modifier = 0.15500000000000003
+	local_manpower_modifier = 0.15500000000000003
+	local_commerce_value_modifier = 0.15500000000000003
+}
+travel_time85_0 = {
+	local_tax_modifier = 0.15000000000000002
+	local_manpower_modifier = 0.15000000000000002
+	local_commerce_value_modifier = 0.15000000000000002
+}
+travel_time85_5 = {
+	local_tax_modifier = 0.14500000000000002
+	local_manpower_modifier = 0.14500000000000002
+	local_commerce_value_modifier = 0.14500000000000002
+}
+travel_time86_0 = {
+	local_tax_modifier = 0.14
+	local_manpower_modifier = 0.14
+	local_commerce_value_modifier = 0.14
+}
+travel_time86_5 = {
+	local_tax_modifier = 0.135
+	local_manpower_modifier = 0.135
+	local_commerce_value_modifier = 0.135
+}
+travel_time87_0 = {
+	local_tax_modifier = 0.13
+	local_manpower_modifier = 0.13
+	local_commerce_value_modifier = 0.13
+}
+travel_time87_5 = {
+	local_tax_modifier = 0.125
+	local_manpower_modifier = 0.125
+	local_commerce_value_modifier = 0.125
+}
+travel_time88_0 = {
+	local_tax_modifier = 0.12
+	local_manpower_modifier = 0.12
+	local_commerce_value_modifier = 0.12
+}
+travel_time88_5 = {
+	local_tax_modifier = 0.11499999999999999
+	local_manpower_modifier = 0.11499999999999999
+	local_commerce_value_modifier = 0.11499999999999999
+}
+travel_time89_0 = {
+	local_tax_modifier = 0.10999999999999999
+	local_manpower_modifier = 0.10999999999999999
+	local_commerce_value_modifier = 0.10999999999999999
+}
+travel_time89_5 = {
+	local_tax_modifier = 0.10499999999999998
+	local_manpower_modifier = 0.10499999999999998
+	local_commerce_value_modifier = 0.10499999999999998
+}
+travel_time90_0 = {
+	local_tax_modifier = 0.09999999999999998
+	local_manpower_modifier = 0.09999999999999998
+	local_commerce_value_modifier = 0.09999999999999998
+}
+travel_time90_5 = {
+	local_tax_modifier = 0.09499999999999997
+	local_manpower_modifier = 0.09499999999999997
+	local_commerce_value_modifier = 0.09499999999999997
+}
+travel_time91_0 = {
+	local_tax_modifier = 0.08999999999999997
+	local_manpower_modifier = 0.08999999999999997
+	local_commerce_value_modifier = 0.08999999999999997
+}
+travel_time91_5 = {
+	local_tax_modifier = 0.08499999999999996
+	local_manpower_modifier = 0.08499999999999996
+	local_commerce_value_modifier = 0.08499999999999996
+}
+travel_time92_0 = {
+	local_tax_modifier = 0.07999999999999996
+	local_manpower_modifier = 0.07999999999999996
+	local_commerce_value_modifier = 0.07999999999999996
+}
+travel_time92_5 = {
+	local_tax_modifier = 0.07499999999999996
+	local_manpower_modifier = 0.07499999999999996
+	local_commerce_value_modifier = 0.07499999999999996
+}
+travel_time93_0 = {
+	local_tax_modifier = 0.06999999999999995
+	local_manpower_modifier = 0.06999999999999995
+	local_commerce_value_modifier = 0.06999999999999995
+}
+travel_time93_5 = {
+	local_tax_modifier = 0.06499999999999995
+	local_manpower_modifier = 0.06499999999999995
+	local_commerce_value_modifier = 0.06499999999999995
+}
+travel_time94_0 = {
+	local_tax_modifier = 0.06000000000000005
+	local_manpower_modifier = 0.06000000000000005
+	local_commerce_value_modifier = 0.06000000000000005
+}
+travel_time94_5 = {
+	local_tax_modifier = 0.05500000000000005
+	local_manpower_modifier = 0.05500000000000005
+	local_commerce_value_modifier = 0.05500000000000005
+}
+travel_time95_0 = {
+	local_tax_modifier = 0.050000000000000044
+	local_manpower_modifier = 0.050000000000000044
+	local_commerce_value_modifier = 0.050000000000000044
+}
+travel_time95_5 = {
+	local_tax_modifier = 0.04500000000000004
+	local_manpower_modifier = 0.04500000000000004
+	local_commerce_value_modifier = 0.04500000000000004
+}
+travel_time96_0 = {
+	local_tax_modifier = 0.040000000000000036
+	local_manpower_modifier = 0.040000000000000036
+	local_commerce_value_modifier = 0.040000000000000036
+}
+travel_time96_5 = {
+	local_tax_modifier = 0.03500000000000003
+	local_manpower_modifier = 0.03500000000000003
+	local_commerce_value_modifier = 0.03500000000000003
+}
+travel_time97_0 = {
+	local_tax_modifier = 0.030000000000000027
+	local_manpower_modifier = 0.030000000000000027
+	local_commerce_value_modifier = 0.030000000000000027
+}
+travel_time97_5 = {
+	local_tax_modifier = 0.025000000000000022
+	local_manpower_modifier = 0.025000000000000022
+	local_commerce_value_modifier = 0.025000000000000022
+}
+travel_time98_0 = {
+	local_tax_modifier = 0.020000000000000018
+	local_manpower_modifier = 0.020000000000000018
+	local_commerce_value_modifier = 0.020000000000000018
+}
+travel_time98_5 = {
+	local_tax_modifier = 0.015000000000000013
+	local_manpower_modifier = 0.015000000000000013
+	local_commerce_value_modifier = 0.015000000000000013
+}
+travel_time99_0 = {
+	local_tax_modifier = 0.010000000000000009
+	local_manpower_modifier = 0.010000000000000009
+	local_commerce_value_modifier = 0.010000000000000009
+}
+travel_time99_5 = {
+	local_tax_modifier = 0.0050000000000000044
+	local_manpower_modifier = 0.0050000000000000044
+	local_commerce_value_modifier = 0.0050000000000000044
+}
+travel_time100_0 = {
+	local_tax_modifier = 0.0
+	local_manpower_modifier = 0.0
+	local_commerce_value_modifier = 0.0
+}

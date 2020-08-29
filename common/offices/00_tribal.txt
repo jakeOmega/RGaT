@@ -1,0 +1,140 @@
+﻿office_arbitrator = {
+	type = tribal
+	skill = charisma
+	
+	skill_modifier = {
+		diplomatic_reputation = 0.1
+		diplomatic_relations = 0.25
+	}
+	personal_modifier = {
+		prominence = 10
+		monthly_character_fam_prestige = 0.1
+		monthly_character_experience = 1
+		monthly_wage_for_character = 0.01
+		monthly_character_prominence = 0.25
+	}
+}
+
+office_elder = {
+	type = tribal
+	skill = charisma
+	
+	skill_modifier = {
+		global_tribesmen_happyness = 0.03
+	}
+	personal_modifier = {
+		prominence = 10
+		monthly_character_fam_prestige = 0.1
+		monthly_character_experience = 0.5
+		monthly_wage_for_character = 0.02
+		monthly_character_prominence = 0.5
+	}
+}
+
+
+office_warchief = {
+	type = tribal
+	skill = martial
+	
+	skill_modifier = {
+		global_cohort_start_experience = 0.05
+		experience_decay = -0.05
+		army_maintenance_cost = -0.025
+	}
+	personal_modifier = {
+		prominence = 20
+		monthly_character_fam_prestige = 0.1
+		monthly_character_experience = 2
+		monthly_wage_for_character = 0.01
+		monthly_character_prominence = 0.5
+	}
+}
+
+office_bodyguard = {
+	type = tribal
+	skill = martial
+
+
+	skill_modifier = {
+		manpower_recovery_speed = 0.05
+		price_imprison_cost_modifier = -0.1
+		land_morale_modifier = 0.025
+	}
+	personal_modifier = {
+		prominence = 5
+		monthly_character_fam_prestige = 0.1
+		monthly_character_experience = 0.5
+		monthly_wage_for_character = 0.01
+		monthly_character_prominence = 0.5
+	}
+	
+}
+
+office_high_priest = {
+	type = tribal
+	skill = zeal
+
+
+	skill_modifier = {
+		omen_power = 0.05
+	}
+	personal_modifier = {
+		prominence = 5
+		monthly_character_fam_prestige = 0.1
+		monthly_character_experience = 0.5
+		monthly_wage_for_character = 0.01
+		monthly_character_prominence = 0.25
+	}
+}
+
+office_wise_person = {
+	type = tribal
+	skill = zeal
+	
+	skill_modifier = {
+		monthly_political_influence = 0.05
+	}
+	
+	personal_modifier = {
+		prominence = 5
+		monthly_character_fam_prestige = 0.1
+		monthly_character_experience = 0.5
+		monthly_wage_for_character = 0.01
+		monthly_character_prominence = 0.125
+	}
+}
+
+
+
+office_magistrate = {
+	type = tribal
+	skill = finesse
+	
+	skill_modifier = {
+		global_tax_modifier = 0.05
+		stability_monthly_change = 0.025
+	}
+	personal_modifier = {
+		monthly_wage_for_character = 0.02
+		prominence = 10
+		monthly_character_fam_prestige = 0.1
+		monthly_character_experience = 2
+		monthly_character_prominence = 0.25
+	}
+}
+
+office_apothecary = {
+	type = tribal
+	skill = finesse
+	
+	skill_modifier = {
+		health = 0.025
+	}
+	personal_modifier = {
+		monthly_wage_for_character = 0.01
+		prominence = 5
+		monthly_character_fam_prestige = 0.1
+		monthly_character_experience = 1
+		monthly_character_prominence = 0.125
+	}
+}

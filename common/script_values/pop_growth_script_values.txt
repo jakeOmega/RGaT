@@ -1,0 +1,501 @@
+﻿civilization_factor = {
+	value = 1.1
+	subtract = {
+		value = 1.1
+		divide = {
+			value = 10
+			multiply = {
+				value = root.civilization_value
+				divide = 100
+			}
+			add = 1
+		}
+	}
+}
+
+additional_travel_time_sval = {
+	value = 0
+	if = {
+		limit = {
+			OR = {
+				terrain = plains
+				terrain = farmland
+			}
+		}
+		add = 1
+	}
+	else_if = {
+		limit = {
+			OR = {
+				terrain = hills
+				terrain = forest
+				terrain = desert
+			}
+		}
+		add = 2
+	}
+	else_if = {
+		limit = {
+			OR = {
+				terrain = mountain
+				terrain = marsh
+				terrain = jungle
+			}
+		}
+		add = 5
+	}
+	else = {
+		add = 5
+	}
+	if = {
+		limit = { has_road_towards = prev }
+		multiply = 0.5
+	}
+	multiply = overextension_factor
+
+}
+
+overextension_factor = {
+	value = 1
+	add = {
+		value = scope:country.has_aggressive_expansion
+		divide = 50
+	}
+}
+
+migration_attraction = {
+	value = 0
+	if = {
+		limit = { has_province_rank = settlement }
+		add = marginal_food_production
+		subtract = high_pop_food_production
+		multiply = 100
+	}
+	else = {
+		add = {
+			value = root.population_cap
+			subtract = root.total_population
+			multiply = 0.5
+		}
+	}
+}
+
+high_pop_food_production = {
+	value = 0.2
+	multiply = crop_yield_modifier
+}
+
+low_pop_food_production = {
+	if = {
+		limit = { terrain = farmland }
+		value = 0.5
+	}
+	else_if = {
+		limit = { terrain = plains }
+		value = 0.4
+	}
+	else_if = {
+		limit = { terrain = mountain }
+		value = 0.25
+	}
+	else_if = {
+		limit = { terrain = hills }
+		value = 0.35
+	}
+	else_if = {
+		limit = { AND = {terrain = desert has_minor_river = no is_adjacent_to_major_river = no} }
+		value = 0.25
+	}
+	else_if = {
+		limit = { terrain = desert}
+		value = 0.3
+	}
+	else_if = {
+		limit = { terrain = marsh}
+		value = 0.25
+	}
+	else_if = {
+		limit = { terrain = jungle}
+		value = 0.25
+	}
+	else_if = {
+		limit = { terrain = forest}
+		value = 0.3
+	}
+	else = {
+		value = 0.2
+	}
+	if = {
+		limit = {
+			has_minor_river = yes
+		}
+		add = 0.05
+	}
+	if = {
+		limit = {
+			is_adjacent_to_major_river = yes
+		}
+		add = 0.05
+	}
+	if = {
+		limit = {
+			is_coastal = yes
+		}
+		add = 0.05
+	}
+	subtract = high_pop_food_production
+	multiply = civilization_factor
+	add = high_pop_food_production
+	multiply = crop_yield_modifier
+}
+
+crop_yield_modifier = {
+	value = 1
+	if = {
+		limit = { var:current_yield_status < -2.5 }
+		multiply = 0.2001
+	}
+	else_if = {
+		limit = { var:current_yield_status < -1.5 }
+		multiply = 0.5001
+	}
+	else_if = {
+		limit = { var:current_yield_status < -0.5 }
+		multiply = 0.9001
+	}
+	else_if = {
+		limit = { var:current_yield_status < 0.5 }
+		multiply = 1.0001
+	}
+	else_if = {
+		limit = { var:current_yield_status < 1.5 }
+		multiply = 1.1001
+	}
+	else_if = {
+		limit = { var:current_yield_status < 2.5 }
+		multiply = 1.25001
+	}
+	else = {
+		multiply = 1.5001
+	}
+}
+
+marginal_food_production = {
+	value = effective_population
+    multiply = -1
+    multiply = {
+		value = low_pop_food_production
+		subtract = high_pop_food_production
+	}
+    divide = effective_population_cap
+	add = low_pop_food_production
+	if = {
+		limit = {
+			OR = {
+				has_province_rank = city_metropolis
+				AND = {has_province_rank = city total_population > max_food_producers_city}
+			}
+		}
+		multiply = 0
+	}
+}
+
+carrying_cap_factor = {
+	value = root.total_population
+	if = {
+		limit = { root.total_population > 50 }
+		subtract = 50
+		multiply = 1.2
+		add = 50
+	}
+		
+	divide = root.population_cap
+	multiply = -1
+	add = 1
+}
+
+growth_rate = {
+	value = root.total_population
+	multiply = carrying_cap_factor
+	multiply = 0.3
+}
+
+annual_growth_rate = {
+	value = growth_rate
+	divide = root.total_population
+	multiply = 100
+	divide = 12
+}
+
+max_food_producers_city = {
+	value = 15
+}
+
+effective_population = {
+	value = 3
+	add = owner.manpower_percentage
+	divide = 4
+	multiply = {
+		value = num_of_freemen
+		add = num_of_tribesmen
+		add = num_of_citizen
+	}
+	if = {
+		limit = { NOR = {has_building = slave_mine_building has_building = basic_settlement_infratructure_building} }
+		add = num_of_slaves
+	}
+	
+	if = {
+		limit = { 
+			NOT = {has_province_rank = settlement}
+		}
+		max = max_food_producers_city
+	}
+}
+
+effective_population_cap = {
+	value = root.population_cap
+	if = {
+		limit = {
+			state = {
+				has_state_food = 0
+			}
+		}
+		multiply = 4
+	}
+		
+	if = {
+		limit = { 
+			NOT = {has_province_rank = settlement}
+		}
+		max = max_food_producers_city
+	}
+}
+
+surplus_produced = {
+	value = marginal_food_production
+	add = {
+		value = low_pop_food_production
+		subtract = marginal_food_production
+		multiply = 0.5
+	}
+    multiply = effective_population
+	if = {
+		limit = { has_province_rank = city_metropolis }
+		multiply = 0
+	}
+}
+
+deity_global_monthly_food_modifier_svalue = 0.01
+deity_global_food_capacity_svalue = 15
+add_prominent_character_veterans = {
+	value = 0
+	add = home_country.total_power_base
+	multiply = 0.025
+	floor = yes
+}
+remove_prominent_character_veterans = {
+	value = 0
+	subtract = home_country.total_power_base
+	multiply = 0.05
+	floor = yes
+}
+
+current_office_sval = {
+	value = 0
+	if = {
+		limit = {has_office = office_censor}
+		add = 1001
+	}
+	else_if = {
+		limit = {has_office = office_praetor}
+		add = 101
+	}
+	else_if = {
+		limit = {has_office = office_tribune_of_the_soldiers}
+		add = 1
+	}
+	else_if = {
+		limit = {has_office = office_tribune_of_the_treasury}
+		add = 2
+	}
+	else_if = {
+		limit = {has_office = office_augur}
+		add = 3
+	}
+	else_if = {
+		limit = {has_office = office_pontifex}
+		add = 102
+	}
+	else_if = {
+		limit = {has_office = office_plebeian_aedile}
+		add = 103
+	}
+	else_if = {
+		limit = {has_office = office_republic_physician}
+		add = 4
+	}
+	else_if = {
+		limit = {has_office = office_foreign_minister}
+		add = 104
+	}
+	else_if = {
+		limit = {has_office = office_royal_tutor}
+		add = 5
+	}
+	else_if = {
+		limit = {has_office = office_marshal}
+		add = 1002
+	}
+	else_if = {
+		limit = {has_office = office_master_of_the_guard}
+		add = 1003
+	}
+	else_if = {
+		limit = {has_office = office_high_priest_monarchy}
+		add = 105
+	}
+	else_if = {
+		limit = {has_office = office_philosopher}
+		add = 6
+	}
+	else_if = {
+		limit = {has_office = office_steward}
+		add = 106
+	}
+	else_if = {
+		limit = {has_office = office_physician}
+		add = 7
+	}
+	else_if = {
+		limit = {has_office = office_arbitrator}
+		add = 107
+	}
+	else_if = {
+		limit = {has_office = office_elder}
+		add = 1004
+	}
+	else_if = {
+		limit = {has_office = office_warchief}
+		add = 1005
+	}
+	else_if = {
+		limit = {has_office = office_bodyguard}
+		add = 1006
+	}
+	else_if = {
+		limit = {has_office = office_high_priest}
+		add = 108
+	}
+	else_if = {
+		limit = {has_office = office_wise_person}
+		add = 8
+	}
+	else_if = {
+		limit = {has_office = office_magistrate}
+		add = 109
+	}
+	else_if = {
+		limit = {has_office = office_apothecary}
+		add = 9
+	}
+}
+
+job_importance_sval = {
+	value = 0
+	if = {
+		limit = {current_office_sval > 1000}
+		add = 1
+	}
+	else_if = {
+		limit = {current_office_sval > 100}
+		add = 0.5
+	}
+	else = {
+		add = 0.25
+	}
+}
+
+prominence_factor_sval = {
+	value = 0
+	if = {
+		limit = { prominence < 25}
+		add = 15
+	}
+	else_if = {
+		limit = { prominence < 50}
+		add = 10
+	}
+	else = {
+		add = 5
+	}
+}
+
+job_prestige_sval = {
+	value = 0
+	add = job_importance_sval
+	multiply = 100
+	if = {
+		limit = {is_ruler = yes}
+		add = 200
+	}
+	if = {
+		limit = {is_general = yes}
+		unit = {
+			add = {
+				value = unit_size
+				multiply = 200
+				root.home_country = {
+					divide = num_of_cohorts
+				}
+			}
+		}
+	}
+	if = {
+		limit = {is_admiral = yes}
+		unit = {
+			add = {
+				value = unit_size
+				multiply = 80
+				root.home_country = {
+					divide = num_of_ships
+				}
+			}
+		}
+	}
+	if = {
+		limit = {is_governor = yes}
+		every_governor_state = {
+			every_state_province = {
+				add = {
+					value = total_population
+					multiply = 200
+					root.home_country = {
+						divide = country_population
+					}
+					multiply = {
+						value = 1
+						subtract = {
+							value = var:travel_time
+							divide = 100
+							max = 1
+						}
+					}
+				}
+			}
+		}
+	}
+}
+
+gold_from_holding = {
+	value = 0
+	add = prev.province_tax_income
+	multiply = {
+		value = 1
+		subtract = {
+			value = prev.var:travel_time
+			divide = 100
+		}
+	}
+	multiply = 12
+}

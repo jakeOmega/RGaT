@@ -1,0 +1,4 @@
+﻿opinion_seized_province = {
+	value = -10
+	yearly_decay = 1
+}

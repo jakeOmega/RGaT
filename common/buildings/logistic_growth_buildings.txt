@@ -1,0 +1,199 @@
+﻿### Settlement Buildings
+
+latifundia_building = { #Slave Estate
+	local_slaves_output = 0.3
+	local_population_capacity_modifier = 0.2
+	
+	potential = {
+		has_city_status = no
+	}
+
+	cost = 120
+	time = 730
+	
+	modification_display = {
+		0 = value_income
+		1 = local_population_capacity
+	}
+	
+	chance = {
+		modifier = {
+			add = 1
+		}
+	}
+	
+}
+
+food_export_infrastructure = {
+	local_food_capacity = 25
+	local_monthly_food = -10
+	base_resources = 2
+	
+	potential = {
+		always = yes
+	}
+
+	cost = 120
+	time = 730
+	
+	modification_display = {
+		0 = local_population_capacity
+	}
+	
+	chance = {
+		modifier = {
+			add = 5
+		}
+		modifier = {
+			state = {state_monthly_food_income > 5}
+			add = 20
+		}
+		modifier = {
+			state = {state_monthly_food_income > 10}
+			add = 10
+		}
+		modifier = {
+			state = {state_monthly_food_income > 15}
+			add = 10
+		}
+		modifier = {
+			state = {state_monthly_food_income > 20}
+			add = 10
+		}
+		modifier = {
+			state = {state_monthly_food_income > 25}
+			add = 10
+		}
+	}
+	
+}
+
+slave_mine_building = { #Mine
+	local_goods_from_slaves = -10
+	local_population_capacity_modifier = 0.2
+
+	potential = {
+		has_city_status = no
+	}
+	
+	allow = {
+		has_minable_trade_good_trigger = yes 
+	}
+	
+	cost = 120
+	time = 730
+	
+	modification_display = {
+		0 = local_goods_from_slaves
+		1 = local_population_capacity
+	}
+	
+	chance = {
+		modifier = {
+			has_minable_trade_good_trigger = yes
+			add = 15
+		}
+	}
+	
+}
+
+basic_settlement_infratructure_building = { #Farming Settlement
+	local_goods_from_slaves = -10
+	local_population_capacity_modifier = 0.2
+	potential = {
+		has_city_status = no
+	}
+	
+	allow = {
+		has_food_trade_good_trigger = yes
+	}
+	
+	cost = 120
+	time = 730
+	
+	modification_display = {
+		0 = local_goods_from_slaves
+		1 = local_population_capacity_modifier
+	}
+	
+	chance = {
+		modifier = {
+			has_food_trade_good_trigger = yes
+			add = 15
+		}
+	}
+	
+}
+
+hill_fort = { #Tribal Settlement
+	local_tribesmen_happyness = happiness_large_svalue
+	local_tribesmen_output = 0.3
+	local_population_capacity_modifier = 0.2
+	
+	potential = {
+		has_city_status = no
+	}
+	
+	cost = 120
+	time = 730
+	
+	modification_display = {
+		0 = value_income
+		1 = value_manpower
+	}
+	
+	chance = {
+		modifier = {
+			owner = {
+				is_tribal = yes
+			}
+			add = 1.5
+		}
+
+		# really bad unless we have some tribesmen in the province
+		modifier = {
+			any_pops_in_province = {
+				percent < 0.25
+				pop_type = tribesmen
+			}
+			add = -100
+		}
+		modifier = {
+			is_capital = yes
+			add = -100
+		}
+	}
+	
+}
+
+local_forum_building = { #Provincial Legation
+	local_migration_speed_modifier = 3
+	local_citizen_desired_pop_ratio = 0.1
+	
+	potential = {
+		has_city_status = no
+	}
+	
+	cost = 120
+	time = 180
+	
+	modification_display = {
+		0 = local_migration_speed_modifier
+		1 = local_citizen_desired_pop_ratio
+	}
+}
+population_building = { #Granary
+	local_food_capacity = 50
+
+	cost = 50
+	time = 180
+
+	potential = {
+		has_city_status = yes
+	}
+	
+	modification_display = {
+		0 = local_food_capacity
+	}
+
+}

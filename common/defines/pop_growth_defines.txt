@@ -1,0 +1,22 @@
+﻿NGame = {
+	STARTING_COHORTS_PER_MANPOWER = 2.0
+	STARTING_SHIPS_PER_PORT_POPULATION = 0.06
+}
+
+NPowerBase = {
+	FROM_TITLE = 0
+	LOYAL_COHORTS = 100
+	LOYAL_VETERANS = 100
+	NON_LOYAL_COHORTS = 50
+	SHIPS = 10
+	GOVERNOR_POP = 100
+	RULER_POP = 20
+	HOLDINGS = 50
+	HEAD_OF_FAMILY = 60
+	MIN_EMPLOYER_UNIT_THRESHOLD = 25 # when country is too small, this will be the smallest threshold with which the powerbase will be calculated
+	MIN_EMPLOYER_SHIP_THRESHOLD = 10 # when scountry is too small, this will be the smallest threshold with which the powerbase will be calculated
+}
+
+NCombat = {	
+	LAND_STRENGTH_DAMAGE_MODIFIER = 0.6	
+}

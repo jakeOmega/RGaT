@@ -1,0 +1,38 @@
+﻿nobles = {
+	outout_modifier = {
+		research_points = 0.5
+	}
+	
+	count_modifier = {
+		pop_food_consumption = -0.25
+		local_base_trade_routes = 0.15
+	}
+	
+	
+	
+	demotes_to = citizen
+	
+	conquest_demote_chance = 5 #5% - Nobles will stay a nuisance.
+	
+	base_happyness = -0.5
+	political_weight = 3
+	score = yes
+	
+	# Activity Speeds
+	growing_pop = 0.0
+	convert = 0.4
+	assimilate = 0.4
+	promote = 0
+	demote = 1
+	migrant = 1
+	ui_tier = 1
+	
+	color = hsv { 0.95  0.82  0.56 }
+	
+	integrated_pop_type_right = yes
+	
+	modification_display = {
+		0 = value_income
+	}
+
+}

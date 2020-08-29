@@ -1,0 +1,165 @@
+﻿office_foreign_minister = {
+	type = monarchy
+	skill = charisma
+
+
+	skill_modifier = {
+		diplomatic_reputation = 0.2
+		diplomatic_relations = 0.5
+	}
+	personal_modifier = {
+		monthly_wage_for_character = 0.02
+		monthly_character_fam_prestige = 0.1
+		monthly_character_experience = 2
+		prominence = 15
+		monthly_character_prominence = 0.125
+	}
+}
+
+office_royal_tutor = {
+	type = monarchy
+	skill = charisma
+	
+	skill_modifier = {
+		monthly_political_influence = 0.05
+	}
+	
+	personal_modifier = {
+		monthly_wage_for_character = 0.01
+
+		monthly_character_fam_prestige = 0.1
+
+		monthly_character_experience = 1
+		
+		prominence = 5
+		monthly_character_prominence = 0.125
+	}
+}
+
+office_marshal = {
+	type = monarchy
+	skill = martial
+
+	skill_modifier = {
+		monthly_military_experience = 0.05
+		land_morale_modifier = 0.025
+		siege_ability = 0.05
+	}
+	personal_modifier = {
+		monthly_wage_for_character = 0.01
+
+		monthly_character_fam_prestige = 0.1
+
+		monthly_character_experience = 2
+
+		prominence = 30
+		monthly_character_prominence = 0.5
+	}
+	
+}
+
+office_master_of_the_guard = {
+	type = monarchy
+	skill = martial
+	
+	skill_modifier = {
+		price_imprison_cost_modifier = -0.1
+	}
+	personal_modifier = {
+		monthly_wage_for_character = 0.01
+
+		monthly_character_fam_prestige = 0.1
+
+		monthly_character_experience = 0.5
+
+		prominence = 10
+		monthly_character_prominence = 0.5
+	}
+}
+
+office_high_priest_monarchy = {
+	type = monarchy
+	skill = zeal
+
+
+	skill_modifier = {
+		omen_power = 0.05
+		enact_holy_site_cost_modifier = -0.05
+	}
+	personal_modifier = {
+		monthly_wage_for_character = 0.01
+
+		monthly_character_fam_prestige = 0.1
+
+		monthly_character_experience = 1
+
+		prominence = 15
+		monthly_character_prominence = 0.25
+	}
+}
+
+office_philosopher = {
+	type = monarchy
+	skill = zeal
+	
+	skill_modifier = {
+		monthly_legitimacy = 0.1
+	}
+	
+	personal_modifier = {
+		monthly_wage_for_character = 0.01
+
+		monthly_character_fam_prestige = 0.1
+
+		monthly_character_experience = 0.5
+
+		prominence = 5
+		monthly_character_prominence = 0.125
+	}
+}
+
+office_steward = {
+
+	type = monarchy
+	skill = finesse
+
+
+	skill_modifier = {
+		global_tax_modifier = 0.1
+		stability_monthly_change = 0.025
+	}
+	personal_modifier = {
+		monthly_wage_for_character = 0.01
+
+		monthly_character_fam_prestige = 0.1
+
+		monthly_character_experience = 2
+
+		prominence = 20
+		monthly_character_prominence = 0.25
+	}
+	
+}
+
+office_physician = {
+
+	type = monarchy
+	skill = finesse
+	
+
+	skill_modifier = {
+		health = 0.025
+	}
+	
+	personal_modifier = {
+		monthly_wage_for_character = 0.01
+
+		monthly_character_fam_prestige = 0.1
+
+		monthly_character_experience = 1
+
+		prominence = 5
+		monthly_character_prominence = 0.125
+	}
+}
+

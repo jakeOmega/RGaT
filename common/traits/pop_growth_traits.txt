@@ -1,0 +1,175 @@
+﻿alcimachid = {
+	type = status
+	
+	prominence = 10
+	martial = 1
+	country = {
+		diplomatic_reputation = 1
+		price_execute_cost_modifier = -0.25
+	}
+	
+}
+
+antigonids = {
+	type = status
+	
+	prominence = 10
+	finesse = 1
+	country = {
+		agressive_expansion_monthly_change = -0.01
+		global_defensive = 0.1
+	}
+	
+}
+
+antipatrid = {
+	type = status
+	
+	character_loyalty = -5
+	prominence = 10
+	charisma = 1
+	country = {
+		build_cost = -0.05
+		monthly_legitimacy = 0.1
+	}
+	
+}
+
+argeads = {
+	type = status
+	
+	prominence = 10
+	martial = 1
+	
+	support_for_character_as_heir = 5
+
+	country = {
+		agressive_expansion_impact = -0.1
+		monthly_legitimacy = 0.05
+		stability_monthly_change = 0.05
+	}
+	
+}
+
+lagids = {
+	type = status
+	
+	prominence = 10
+	zeal = 1
+	country = {
+		happiness_for_wrong_culture_group_modifier = wrong_culture_group_large
+		research_points_modifier = 0.05
+	}
+	
+}
+
+seleucids = {
+	type = status
+	prominence = 10
+	finesse = 1
+	country = {
+		change_governor_policy_cost_modifier = -0.25
+		global_monthly_state_loyalty = 0.05
+	}
+}
+
+aeacidae = {
+	type = status
+	prominence = 5
+	martial = 1
+	country = {
+		ruler_popularity_gain = 0.2
+		land_morale_modifier = 0.05
+	}
+}
+
+assertive = { #
+	type = personality
+	
+	opposites = {
+		submissive
+	}
+	monthly_character_experience = 0.1
+	monthly_conviction_for_head_of_family_party = -0.1
+	province = {
+		state_commerce_modifier = 0.05
+	}
+	country = {
+		global_commerce_modifier = 0.05
+	}
+}
+
+arrogant = { #
+	type = personality
+	opposites = {
+		modest
+	}
+	monthly_conviction_for_head_of_family_party = -0.15
+	monthly_optimates_party_conviction = 0.1
+	monthly_oligarchic_party_conviction = 0.05
+	monthly_boni_party_conviction = -0.05
+	charisma = -1
+	character_loyalty = -10
+	
+	country = {
+		monthly_political_influence = -0.25
+	}
+}
+
+prominent = { #
+	type = personality
+	opposites = {
+		unnoticeable
+	}
+	senate_influence = 0.1
+	monthly_optimates_party_conviction = 0.1
+	monthly_oligarchic_party_conviction = 0.05
+	monthly_character_popularity = 0.1
+	support_for_character_as_heir = 2
+	province = {
+		state_commerce_modifier = 0.1
+	}
+}
+
+unnoticeable = { #
+	type = personality
+	opposites = {
+		prominent
+	}
+	support_for_character_as_heir = -2
+	monthly_character_popularity = -0.1
+	province = {
+		state_commerce_modifier = -0.1
+	}
+}
+
+ambitious = { #
+	type = personality
+	opposites = {
+		content
+	}
+	senate_influence = 0.1
+	monthly_populares_party_conviction = 0.05
+	monthly_oligarchic_party_conviction = 0.05
+	prominence = 10
+	finesse = 1
+	martial = 1
+	charisma = 1
+	zeal = 1
+	character_loyalty = -5
+	support_for_character_as_heir = 1
+	
+	monthly_character_experience = 0.1
+	loyalty_gain_chance_modifier = 0.25
+
+}
+content = { #
+	type = personality
+	opposites = {
+		ambitious
+	}
+	monthly_boni_party_conviction = 0.1
+	monthly_traditionalist_party_conviction = 0.15
+	prominence = -5
+	character_loyalty = 10
+}

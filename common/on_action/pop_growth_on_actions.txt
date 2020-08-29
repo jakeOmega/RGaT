@@ -1,0 +1,65 @@
+﻿yearly_province_pulse =
+{	
+	events = {
+		crop_yields.2
+		update_pop_growth.1
+	}
+}
+
+monthly_province_pulse =
+{	
+	events = {
+		crop_yields.1
+		build_food_export.1
+		build_food_export.2
+		build_food_export.3
+	}
+}
+
+yearly_character_pulse = {
+	events = {
+		update_travel_time.9007
+	}
+}
+    
+on_game_initialized = {
+    events = {
+        update_travel_time.9004
+		crop_yields.1001
+		update_pop_growth.2 
+    }
+}
+on_ownership_change = {
+	effect = {
+		set_variable = {
+			name = travel_time
+			value = 999999
+		}
+		trigger_event = { id = update_pop_growth.9002 }
+	}
+}
+
+on_province_occupied = {
+	events = {
+		#seize_province.1
+	}
+}
+
+yearly_country_pulse = {
+	events = {
+		character_notification.1
+	}
+}
+
+on_office_gained = {
+	events = {
+		character_notification.5
+		character_notification.10
+	}
+}
+
+custom_on_great_battle_commander = {
+	events = {
+		character_notification.8
+	}
+}

@@ -1,0 +1,255 @@
+﻿namespace=character_notification
+
+character_notification.1 = {
+	type = country_event
+	picture = elephant_battle
+	hidden = yes
+	
+	trigger = {
+		any_character = {
+			NOT = { has_variable = prominence_flag }
+			prominence > 60
+			is_mercenary = no
+			is_adult = yes
+		}
+	}
+	
+	immediate = {
+		every_character = {
+			limit = {
+				NOT = { has_variable = prominence_flag }
+				prominence > 60
+			}
+			save_scope_as = prominent_character
+			set_variable = {
+				name = prominence_flag
+			}
+			add_loyal_veterans = add_prominent_character_veterans
+			add_prominence = 10
+			ROOT = {trigger_event = {id = character_notification.2}}
+		}
+	}
+}
+
+character_notification.2 = {
+	type = country_event
+	picture = elephant_battle
+	title = "Person of Note"
+	desc = "[SCOPE.sChar('prominent_character').GetName] is increasingly prominent in the halls of power. We should keep an eye on them."
+	
+	left_portrait = scope:prominent_character
+	
+	option = {
+		name = "OK"
+	}
+
+}
+
+character_notification.3 = {
+	type = country_event
+	picture = elephant_battle
+	hidden = yes
+	
+	trigger = {
+		any_character = {
+			NOT = { has_variable = prominence_flag }
+			OR = {
+				prominence < 60
+			}
+		}
+	}
+	
+	immediate = {
+		every_character = {
+			limit = {
+				NOT = { has_variable = prominence_flag }
+				OR = {
+					prominence < 60
+				}
+			}
+			save_scope_as = prominent_character
+			set_variable = {
+				name = prominence_flag
+			}
+			add_loyal_veterans = remove_prominent_character_veterans
+			ROOT = {trigger_event = {id = character_notification.4}}
+		}
+	}
+}
+
+character_notification.4 = {
+	type = country_event
+	picture = elephant_battle
+	title = "Person of Note"
+	desc = "[SCOPE.sChar('prominent_character').GetName] has lost much of their position of strength."
+	
+	left_portrait = scope:prominent_character
+	
+	option = {
+		name = "OK"
+	}
+}
+
+character_notification.5 = {
+	type = character_event
+	picture = elephant_battle
+	title = "Overlooked for Office"
+	hidden = yes
+	
+	trigger = {
+		country = {
+			any_character = {
+				has_variable = prominence_flag
+				prominence > root.prominence
+				job_prestige_sval < root.job_prestige_sval
+				is_ruler = no
+				prisoner = no
+				is_alive = yes
+			}
+		}
+	}
+	
+	immediate = {
+		save_scope_as = upstart_character
+		country = {
+			every_character = {
+				limit = { 
+					has_variable = prominence_flag
+					prominence > root.prominence
+					job_prestige_sval < root.job_prestige_sval
+					is_ruler = no
+					prisoner = no
+					is_alive = yes
+				}
+				save_scope_as = offended_character
+				trigger_event = { id = character_notification.6 }
+			}
+		}
+		country = { trigger_event = { id = character_notification.7 }}
+	}
+}
+
+character_notification.6 = {
+	type = character_event
+	picture = elephant_battle
+	title = "Overlooked for Office"
+	hidden = yes
+	
+	immediate = {
+		add_loyalty = offended
+	}
+}
+
+character_notification.7 = {
+	type = country_event
+	picture = elephant_battle
+	title = "Overlooked for Office"
+	desc = "[SCOPE.sChar('offended_character').GetName] is offended by [SCOPE.sChar('upstart_character').GetName] getting an office when they lack one as prestigous."
+	
+	left_portrait = scope:upstart_character
+	right_portrait = scope:offended_character
+	
+	option = {
+		name = "OK"
+	}
+}
+
+character_notification.8 = {
+	type = character_event
+	hidden = yes
+	
+	immediate = {
+		save_scope_as = prominent_character
+		add_prominence = prominence_factor_sval
+		home_country = {trigger_event = {id = character_notification.9}}
+	}
+}
+
+character_notification.9 = {
+	type = country_event
+	picture = elephant_battle
+	title = "Person of Note"
+	desc = "[SCOPE.sChar('prominent_character').GetName] has won a great victory and has achieved greater prominence in [ROOT.GetCapital.GetName]."
+	
+	left_portrait = scope:prominent_character
+	
+	option = {
+		name = "OK"
+	}
+}
+
+character_notification.10 = {
+	type = character_event
+	hidden = yes
+	
+	immediate = {
+		set_variable = {
+			name = current_office
+			value = current_office_sval
+		}
+		#trigger_event = {id = character_notification.11 years = 5}
+	}
+}
+
+character_notification.11 = {
+	type = character_event
+	hidden = yes
+	
+	trigger = {var:current_office = current_office_sval}
+	
+	immediate = {
+		set_variable = {
+			name = prominence_to_add
+			value = prominence_factor_sval
+		}
+		change_variable = {
+			name = prominence_to_add
+			multiply = job_importance_sval
+		}
+		random_list = {
+			1 = {#terrible job
+				change_variable = {
+					name = prominence_to_add
+					multiply = -2
+				}
+				add_prominence = var:prominence_to_add
+			}
+			4 = {#bad job
+				change_variable = {
+					name = prominence_to_add
+					multiply = -1
+				}
+				add_prominence = var:prominence_to_add
+			}
+			10 = { #okay job
+				
+			}
+			4 = { #good job
+				change_variable = {
+					name = prominence_to_add
+					multiply = 1
+				}
+				add_prominence = var:prominence_to_add
+			}
+			1 = { #great job
+				change_variable = {
+					name = prominence_to_add
+					multiply = 2
+				}
+				add_prominence = var:prominence_to_add
+			}
+		}
+	}
+}
+
+
+character_notification.12 = {
+	type = character_event
+	hidden = yes
+	
+	trigger = {exists = var:envoy_from}
+	
+	immediate = {
+		move_country = var:envoy_from
+	}
+}

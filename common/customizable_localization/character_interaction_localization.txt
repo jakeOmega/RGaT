@@ -1,0 +1,8 @@
+﻿char_history_test = {
+	type = character
+		
+	text = { 
+		localization_key = char_history_test
+		trigger = { always = yes }
+	}	
+}
