@@ -1,0 +1,405 @@
+﻿map_mode_null = {color = hsv {0 0 0.5} category = 8}
+map_mode0 = {
+    color = hsv { 0.3333 0.9 0.5 }
+    category = 8
+}
+map_mode1 = {
+    color = hsv { 0.32996699999999995 0.9 0.5 }
+    category = 8
+}
+map_mode2 = {
+    color = hsv { 0.326634 0.9 0.5 }
+    category = 8
+}
+map_mode3 = {
+    color = hsv { 0.323301 0.9 0.5 }
+    category = 8
+}
+map_mode4 = {
+    color = hsv { 0.31996800000000003 0.9 0.5 }
+    category = 8
+}
+map_mode5 = {
+    color = hsv { 0.316635 0.9 0.5 }
+    category = 8
+}
+map_mode6 = {
+    color = hsv { 0.31330199999999997 0.9 0.5 }
+    category = 8
+}
+map_mode7 = {
+    color = hsv { 0.309969 0.9 0.5 }
+    category = 8
+}
+map_mode8 = {
+    color = hsv { 0.30663599999999996 0.9 0.5 }
+    category = 8
+}
+map_mode9 = {
+    color = hsv { 0.303303 0.9 0.5 }
+    category = 8
+}
+map_mode10 = {
+    color = hsv { 0.29997 0.9 0.5 }
+    category = 8
+}
+map_mode11 = {
+    color = hsv { 0.296637 0.9 0.5 }
+    category = 8
+}
+map_mode12 = {
+    color = hsv { 0.29330399999999995 0.9 0.5 }
+    category = 8
+}
+map_mode13 = {
+    color = hsv { 0.289971 0.9 0.5 }
+    category = 8
+}
+map_mode14 = {
+    color = hsv { 0.286638 0.9 0.5 }
+    category = 8
+}
+map_mode15 = {
+    color = hsv { 0.283305 0.9 0.5 }
+    category = 8
+}
+map_mode16 = {
+    color = hsv { 0.279972 0.9 0.5 }
+    category = 8
+}
+map_mode17 = {
+    color = hsv { 0.27663899999999997 0.9 0.5 }
+    category = 8
+}
+map_mode18 = {
+    color = hsv { 0.273306 0.9 0.5 }
+    category = 8
+}
+map_mode19 = {
+    color = hsv { 0.269973 0.9 0.5 }
+    category = 8
+}
+map_mode20 = {
+    color = hsv { 0.26664 0.9 0.5 }
+    category = 8
+}
+map_mode21 = {
+    color = hsv { 0.263307 0.9 0.5 }
+    category = 8
+}
+map_mode22 = {
+    color = hsv { 0.259974 0.9 0.5 }
+    category = 8
+}
+map_mode23 = {
+    color = hsv { 0.25664099999999995 0.9 0.5 }
+    category = 8
+}
+map_mode24 = {
+    color = hsv { 0.253308 0.9 0.5 }
+    category = 8
+}
+map_mode25 = {
+    color = hsv { 0.24997499999999997 0.9 0.5 }
+    category = 8
+}
+map_mode26 = {
+    color = hsv { 0.24664199999999997 0.9 0.5 }
+    category = 8
+}
+map_mode27 = {
+    color = hsv { 0.243309 0.9 0.5 }
+    category = 8
+}
+map_mode28 = {
+    color = hsv { 0.239976 0.9 0.5 }
+    category = 8
+}
+map_mode29 = {
+    color = hsv { 0.23664299999999996 0.9 0.5 }
+    category = 8
+}
+map_mode30 = {
+    color = hsv { 0.23331 0.9 0.5 }
+    category = 8
+}
+map_mode31 = {
+    color = hsv { 0.229977 0.9 0.5 }
+    category = 8
+}
+map_mode32 = {
+    color = hsv { 0.226644 0.9 0.5 }
+    category = 8
+}
+map_mode33 = {
+    color = hsv { 0.22331099999999998 0.9 0.5 }
+    category = 8
+}
+map_mode34 = {
+    color = hsv { 0.21997799999999998 0.9 0.5 }
+    category = 8
+}
+map_mode35 = {
+    color = hsv { 0.216645 0.9 0.5 }
+    category = 8
+}
+map_mode36 = {
+    color = hsv { 0.213312 0.9 0.5 }
+    category = 8
+}
+map_mode37 = {
+    color = hsv { 0.20997899999999997 0.9 0.5 }
+    category = 8
+}
+map_mode38 = {
+    color = hsv { 0.206646 0.9 0.5 }
+    category = 8
+}
+map_mode39 = {
+    color = hsv { 0.203313 0.9 0.5 }
+    category = 8
+}
+map_mode40 = {
+    color = hsv { 0.19997999999999996 0.9 0.5 }
+    category = 8
+}
+map_mode41 = {
+    color = hsv { 0.196647 0.9 0.5 }
+    category = 8
+}
+map_mode42 = {
+    color = hsv { 0.19331399999999999 0.9 0.5 }
+    category = 8
+}
+map_mode43 = {
+    color = hsv { 0.189981 0.9 0.5 }
+    category = 8
+}
+map_mode44 = {
+    color = hsv { 0.186648 0.9 0.5 }
+    category = 8
+}
+map_mode45 = {
+    color = hsv { 0.18331499999999998 0.9 0.5 }
+    category = 8
+}
+map_mode46 = {
+    color = hsv { 0.179982 0.9 0.5 }
+    category = 8
+}
+map_mode47 = {
+    color = hsv { 0.176649 0.9 0.5 }
+    category = 8
+}
+map_mode48 = {
+    color = hsv { 0.17331599999999997 0.9 0.5 }
+    category = 8
+}
+map_mode49 = {
+    color = hsv { 0.169983 0.9 0.5 }
+    category = 8
+}
+map_mode50 = {
+    color = hsv { 0.16665 0.9 0.5 }
+    category = 8
+}
+map_mode51 = {
+    color = hsv { 0.163317 0.9 0.5 }
+    category = 8
+}
+map_mode52 = {
+    color = hsv { 0.15998400000000002 0.9 0.5 }
+    category = 8
+}
+map_mode53 = {
+    color = hsv { 0.15665099999999998 0.9 0.5 }
+    category = 8
+}
+map_mode54 = {
+    color = hsv { 0.15331799999999998 0.9 0.5 }
+    category = 8
+}
+map_mode55 = {
+    color = hsv { 0.149985 0.9 0.5 }
+    category = 8
+}
+map_mode56 = {
+    color = hsv { 0.14665199999999998 0.9 0.5 }
+    category = 8
+}
+map_mode57 = {
+    color = hsv { 0.143319 0.9 0.5 }
+    category = 8
+}
+map_mode58 = {
+    color = hsv { 0.139986 0.9 0.5 }
+    category = 8
+}
+map_mode59 = {
+    color = hsv { 0.136653 0.9 0.5 }
+    category = 8
+}
+map_mode60 = {
+    color = hsv { 0.13332 0.9 0.5 }
+    category = 8
+}
+map_mode61 = {
+    color = hsv { 0.129987 0.9 0.5 }
+    category = 8
+}
+map_mode62 = {
+    color = hsv { 0.126654 0.9 0.5 }
+    category = 8
+}
+map_mode63 = {
+    color = hsv { 0.12332099999999999 0.9 0.5 }
+    category = 8
+}
+map_mode64 = {
+    color = hsv { 0.119988 0.9 0.5 }
+    category = 8
+}
+map_mode65 = {
+    color = hsv { 0.116655 0.9 0.5 }
+    category = 8
+}
+map_mode66 = {
+    color = hsv { 0.113322 0.9 0.5 }
+    category = 8
+}
+map_mode67 = {
+    color = hsv { 0.10998899999999999 0.9 0.5 }
+    category = 8
+}
+map_mode68 = {
+    color = hsv { 0.106656 0.9 0.5 }
+    category = 8
+}
+map_mode69 = {
+    color = hsv { 0.103323 0.9 0.5 }
+    category = 8
+}
+map_mode70 = {
+    color = hsv { 0.09998999999999998 0.9 0.5 }
+    category = 8
+}
+map_mode71 = {
+    color = hsv { 0.09665699999999999 0.9 0.5 }
+    category = 8
+}
+map_mode72 = {
+    color = hsv { 0.093324 0.9 0.5 }
+    category = 8
+}
+map_mode73 = {
+    color = hsv { 0.089991 0.9 0.5 }
+    category = 8
+}
+map_mode74 = {
+    color = hsv { 0.08665799999999999 0.9 0.5 }
+    category = 8
+}
+map_mode75 = {
+    color = hsv { 0.083325 0.9 0.5 }
+    category = 8
+}
+map_mode76 = {
+    color = hsv { 0.07999200000000001 0.9 0.5 }
+    category = 8
+}
+map_mode77 = {
+    color = hsv { 0.07665899999999999 0.9 0.5 }
+    category = 8
+}
+map_mode78 = {
+    color = hsv { 0.07332599999999999 0.9 0.5 }
+    category = 8
+}
+map_mode79 = {
+    color = hsv { 0.069993 0.9 0.5 }
+    category = 8
+}
+map_mode80 = {
+    color = hsv { 0.06666 0.9 0.5 }
+    category = 8
+}
+map_mode81 = {
+    color = hsv { 0.063327 0.9 0.5 }
+    category = 8
+}
+map_mode82 = {
+    color = hsv { 0.059994 0.9 0.5 }
+    category = 8
+}
+map_mode83 = {
+    color = hsv { 0.056661 0.9 0.5 }
+    category = 8
+}
+map_mode84 = {
+    color = hsv { 0.053328 0.9 0.5 }
+    category = 8
+}
+map_mode85 = {
+    color = hsv { 0.04999499999999999 0.9 0.5 }
+    category = 8
+}
+map_mode86 = {
+    color = hsv { 0.046662 0.9 0.5 }
+    category = 8
+}
+map_mode87 = {
+    color = hsv { 0.04332899999999999 0.9 0.5 }
+    category = 8
+}
+map_mode88 = {
+    color = hsv { 0.039996000000000004 0.9 0.5 }
+    category = 8
+}
+map_mode89 = {
+    color = hsv { 0.036662999999999994 0.9 0.5 }
+    category = 8
+}
+map_mode90 = {
+    color = hsv { 0.03333 0.9 0.5 }
+    category = 8
+}
+map_mode91 = {
+    color = hsv { 0.029997 0.9 0.5 }
+    category = 8
+}
+map_mode92 = {
+    color = hsv { 0.026664 0.9 0.5 }
+    category = 8
+}
+map_mode93 = {
+    color = hsv { 0.023331 0.9 0.5 }
+    category = 8
+}
+map_mode94 = {
+    color = hsv { 0.019998000000000002 0.9 0.5 }
+    category = 8
+}
+map_mode95 = {
+    color = hsv { 0.016665 0.9 0.5 }
+    category = 8
+}
+map_mode96 = {
+    color = hsv { 0.013332 0.9 0.5 }
+    category = 8
+}
+map_mode97 = {
+    color = hsv { 0.009999000000000001 0.9 0.5 }
+    category = 8
+}
+map_mode98 = {
+    color = hsv { 0.006666 0.9 0.5 }
+    category = 8
+}
+map_mode99 = {
+    color = hsv { 0.003333 0.9 0.5 }
+    category = 8
+}
+map_mode100 = {
+    color = hsv { 0.0 0.9 0.5 }
+    category = 8
+}

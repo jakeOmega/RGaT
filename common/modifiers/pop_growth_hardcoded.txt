@@ -11,7 +11,6 @@ base_values = {
 	land_morale_recovery = 0.01		#1%, rest monarch stats
 	naval_morale_recovery = 0.2		#20% morale recovery.
 	monthly_tyranny = -0.02
-	agressive_expansion_monthly_decay = 0.002
 	
 	country_civilization_value = 10
 	loyalty_to_overlord = 10
@@ -34,9 +33,13 @@ base_values = {
 	
 	monthly_military_experience = 0.3
 
-	global_freemen_desired_pop_ratio = 0.1
-	fabricate_claim_speed = 4
-	
+	global_freemen_desired_pop_ratio = 1
+	fabricate_claim_speed = 4	
+	character_loyalty = 10
+}
+
+positive_diplomatic_reputation = {
+	integrate_speed = 0.05
 }
 
 is_tribe = {
@@ -45,13 +48,15 @@ is_tribe = {
 
 	change_governor_policy_cost_modifier = 0.1
 	army_maintenance_cost = 0.5
-	global_tribesmen_desired_pop_ratio = 0.3
-	global_freemen_desired_pop_ratio = -0.1
+	global_tribesmen_desired_pop_ratio = 1
+	global_freemen_desired_pop_ratio = -1
 	global_nobles_desired_pop_ratio = -0.07
 	
 	price_found_city_cost_modifier = 0.25
 	price_revoke_city_status_cost_modifier = -0.5
     price_revoke_metropolis_status_cost_modifier = -0.5
+	
+	army_maintenance_cost = -0.8
 
 }
 
@@ -65,12 +70,102 @@ positive_stability = {
 	research_points_modifier = 0.005
 	monthly_legitimacy = 0.003
 	global_population_happiness = 0.002
-	global_population_growth = 0.0
 	local_migration_speed_modifier = 0.1
 }
 
 aggressive_expansion = {
-	subject_loyalty = -0.25
+	subject_loyalty = -0.1
+	global_monthly_state_loyalty = -0.005
+}
+
+high_aggressive_expansion = {
+	monthly_political_influence_modifier = -0.001
+	stability_monthly_change = -0.0075
+}
+
+area_troops = {
+	local_unrest = -5
+	minimum_unrest = -5
+	city_monthly_state_loyalty = 0.5
+}
+
+is_capital_region = {
+}
+
+nation_rank_1 = {
+	global_commerce_modifier = 0.2	
+	global_defensive = 0.2
+	diplomatic_relations = 1
+	num_of_clan_chiefs = 1
+	integrate_speed = 0.05
+}
+
+nation_rank_2 = {
+	diplomatic_relations = 2
+	diplomatic_range_modifier = 0.10
+	num_of_clan_chiefs = 1
+	integrate_speed = 0.1
+	war_score_cost = -0.25
+	happiness_for_same_culture_modifier = 0.04
+}
+
+nation_rank_3 = {
+	diplomatic_relations = 3
+	global_capital_trade_routes = 1
+	diplomatic_range_modifier = 0.5
+	num_of_clan_chiefs = 2
+	integrate_speed = 0.15
+	monthly_political_influence_modifier = 0.25
+	civil_war_threshold = -0.03
+	war_score_cost = -0.2
+	happiness_for_same_culture_modifier = 0.08
+}
+
+nation_rank_4 = {
+	diplomatic_relations = 4
+	global_capital_trade_routes = 2
+	diplomatic_range_modifier = 1.25
+	num_of_clan_chiefs = 3
+	change_governor_policy_cost_modifier = -0.1
+	general_loyalty = -2.5
+	admiral_loyalty = -2.5
+	governor_loyalty = -2.5
+	integrate_speed = 0.2
+	monthly_political_influence_modifier = 0.5
+	civil_war_threshold = -0.05
+	war_score_cost = -0.4
+	happiness_for_same_culture_modifier = 0.12
+}
+
+
+nation_rank_5 = {
+	diplomatic_relations = 5
+	global_capital_trade_routes = 2
+	diplomatic_range_modifier = 2.25
+	num_of_clan_chiefs = 3
+	change_governor_policy_cost_modifier = -0.3
+	general_loyalty = -5
+	admiral_loyalty = -5
+	governor_loyalty = -5
+	integrate_speed = 0.25
+	monthly_political_influence_modifier = 0.75
+	civil_war_threshold = -0.08
+	war_score_cost = -0.6
+	happiness_for_same_culture_modifier = 0.16
+}
+
+antagonist_ai = {
+	civil_war_threshold = 0.20
+	happiness_for_same_culture_modifier = 0.1
+}
+
+tyranny = {
+	character_loyalty = -0.15
+	civil_war_threshold = -0.001
+	global_slaves_output = 0.005
+	price_imprison_cost_modifier = -0.01
+	price_execute_cost_modifier = -0.01
+	loyalty_gain_chance_modifier = 0.002
 }
 
 ##########################################################################
@@ -126,10 +221,9 @@ province_base_values = {
 	local_food_capacity = 10
 	local_monthly_civilization = 0.01
 	local_start_experience = 20
-	local_tax_modifier = -1
-	local_manpower_modifier = -1
-	local_commerce_value_modifier = -1
 	local_migration_attraction = 20
+	local_goods_from_slaves = 1000
+	base_resources = -1
 }
 
 civilization_value = {
@@ -139,23 +233,22 @@ civilization_value = {
 	local_tribesmen_happyness = -0.004
 	
 	barbarian_growth = -0.005
-	local_population_capacity = 0.06 
+	local_population_capacity = 0.25 
 	supply_limit_modifier = 0.02
 	
-	local_freemen_desired_pop_ratio = -0.001
-	local_slaves_desired_pop_ratio = 0.002
+	local_freemen_desired_pop_ratio = -0.01
+	local_slaves_desired_pop_ratio = 0.02
 	local_start_experience = -0.4
-}
+	}
 
 is_capital_city = {
 	supply_limit_modifier = 0.1
-	local_output_modifier = 0.1
-	local_nobles_desired_pop_ratio = 0.1
+	local_nobles_desired_pop_ratio = 0.2
 	local_citizen_desired_pop_ratio = 0.04
 	local_freemen_desired_pop_ratio = 0.04
 	local_nobles_happyness = happiness_large_svalue
 	local_citizen_happyness = happiness_large_svalue
-	local_population_capacity_modifier = 1
+	local_population_capacity_modifier = 0.25
 	local_building_slot = 3
 	local_pop_promotion_speed_modifier = 0.25
 	local_pop_conversion_speed_modifier = 0.20
@@ -207,10 +300,10 @@ empty_capacity = {
 
 is_state_capital = {
 	local_population_capacity = 1
-	local_output_modifier = 0.10
 	local_pop_promotion_speed_modifier = 0.1
 	local_monthly_food = 1
 	local_building_slot = 1
+	local_nobles_desired_pop_ratio = 0.05
 }
 
 depopulated_province = {
@@ -223,6 +316,9 @@ unrest = {
 	local_migration_speed_modifier = 0.25
 }
 
+no_unrest = {
+}
+
 city_population = {
 	supply_limit = 0.5
 	local_pop_promotion_speed_modifier = 0.05
@@ -231,8 +327,7 @@ city_population = {
 	local_citizen_happyness = -0.002
 	local_freemen_happyness = -0.002
 	local_tribesmen_happyness = -0.003
-	local_output_modifier = 0.01
-	local_food_capacity = 1.2
+	local_food_capacity = 2.4
 }
 
 frigid_climate = {
@@ -243,5 +338,18 @@ alpine_climate = {
 }
 
 arid_climate = {
-	local_population_capacity_modifier = -0.5
+	local_population_capacity_modifier = -0.4
+}
+
+is_capital_area = {
+}
+
+dominant_non_primary_culture = {
+	local_pop_conversion_speed_modifier = -0.10
+	local_pop_assimilation_speed_modifier = -0.25
+	local_research_points_modifier = -0.75
+}
+
+governor_finesse_mod = {
+	local_unrest = -0.1
 }

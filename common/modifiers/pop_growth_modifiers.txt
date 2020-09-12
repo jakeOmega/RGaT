@@ -5132,6 +5132,2706 @@ surplus_produced9_99 = {
 surplus_produced10_0 = {
 	local_monthly_food = 10.0
 }
+surplus_produced10_10 = {
+	local_monthly_food = 10.10
+}
+surplus_produced10_20 = {
+	local_monthly_food = 10.20
+}
+surplus_produced10_3 = {
+	local_monthly_food = 10.3
+}
+surplus_produced10_4 = {
+	local_monthly_food = 10.4
+}
+surplus_produced10_5 = {
+	local_monthly_food = 10.5
+}
+surplus_produced10_60 = {
+	local_monthly_food = 10.60
+}
+surplus_produced10_70 = {
+	local_monthly_food = 10.70
+}
+surplus_produced10_8 = {
+	local_monthly_food = 10.8
+}
+surplus_produced10_9 = {
+	local_monthly_food = 10.9
+}
+surplus_produced11_0 = {
+	local_monthly_food = 11.0
+}
+surplus_produced11_10 = {
+	local_monthly_food = 11.10
+}
+surplus_produced11_20 = {
+	local_monthly_food = 11.20
+}
+surplus_produced11_3 = {
+	local_monthly_food = 11.3
+}
+surplus_produced11_4 = {
+	local_monthly_food = 11.4
+}
+surplus_produced11_5 = {
+	local_monthly_food = 11.5
+}
+surplus_produced11_60 = {
+	local_monthly_food = 11.60
+}
+surplus_produced11_70 = {
+	local_monthly_food = 11.70
+}
+surplus_produced11_8 = {
+	local_monthly_food = 11.8
+}
+surplus_produced11_9 = {
+	local_monthly_food = 11.9
+}
+surplus_produced12_0 = {
+	local_monthly_food = 12.0
+}
+surplus_produced12_10 = {
+	local_monthly_food = 12.10
+}
+surplus_produced12_20 = {
+	local_monthly_food = 12.20
+}
+surplus_produced12_3 = {
+	local_monthly_food = 12.3
+}
+surplus_produced12_4 = {
+	local_monthly_food = 12.4
+}
+surplus_produced12_5 = {
+	local_monthly_food = 12.5
+}
+surplus_produced12_60 = {
+	local_monthly_food = 12.60
+}
+surplus_produced12_70 = {
+	local_monthly_food = 12.70
+}
+surplus_produced12_8 = {
+	local_monthly_food = 12.8
+}
+surplus_produced12_9 = {
+	local_monthly_food = 12.9
+}
+surplus_produced13_0 = {
+	local_monthly_food = 13.0
+}
+surplus_produced13_10 = {
+	local_monthly_food = 13.10
+}
+surplus_produced13_20 = {
+	local_monthly_food = 13.20
+}
+surplus_produced13_3 = {
+	local_monthly_food = 13.3
+}
+surplus_produced13_4 = {
+	local_monthly_food = 13.4
+}
+surplus_produced13_5 = {
+	local_monthly_food = 13.5
+}
+surplus_produced13_60 = {
+	local_monthly_food = 13.60
+}
+surplus_produced13_70 = {
+	local_monthly_food = 13.70
+}
+surplus_produced13_8 = {
+	local_monthly_food = 13.8
+}
+surplus_produced13_9 = {
+	local_monthly_food = 13.9
+}
+surplus_produced14_0 = {
+	local_monthly_food = 14.0
+}
+surplus_produced14_10 = {
+	local_monthly_food = 14.10
+}
+surplus_produced14_20 = {
+	local_monthly_food = 14.20
+}
+surplus_produced14_3 = {
+	local_monthly_food = 14.3
+}
+surplus_produced14_4 = {
+	local_monthly_food = 14.4
+}
+surplus_produced14_5 = {
+	local_monthly_food = 14.5
+}
+surplus_produced14_60 = {
+	local_monthly_food = 14.60
+}
+surplus_produced14_70 = {
+	local_monthly_food = 14.70
+}
+surplus_produced14_8 = {
+	local_monthly_food = 14.8
+}
+surplus_produced14_9 = {
+	local_monthly_food = 14.9
+}
+surplus_produced15_0 = {
+	local_monthly_food = 15.0
+}
+surplus_produced15_10 = {
+	local_monthly_food = 15.10
+}
+surplus_produced15_20 = {
+	local_monthly_food = 15.20
+}
+surplus_produced15_3 = {
+	local_monthly_food = 15.3
+}
+surplus_produced15_4 = {
+	local_monthly_food = 15.4
+}
+surplus_produced15_5 = {
+	local_monthly_food = 15.5
+}
+surplus_produced15_60 = {
+	local_monthly_food = 15.60
+}
+surplus_produced15_70 = {
+	local_monthly_food = 15.70
+}
+surplus_produced15_8 = {
+	local_monthly_food = 15.8
+}
+surplus_produced15_9 = {
+	local_monthly_food = 15.9
+}
+surplus_produced16_0 = {
+	local_monthly_food = 16.0
+}
+surplus_produced16_1 = {
+	local_monthly_food = 16.1
+}
+surplus_produced16_2 = {
+	local_monthly_food = 16.2
+}
+surplus_produced16_3 = {
+	local_monthly_food = 16.3
+}
+surplus_produced16_40 = {
+	local_monthly_food = 16.40
+}
+surplus_produced16_5 = {
+	local_monthly_food = 16.5
+}
+surplus_produced16_6 = {
+	local_monthly_food = 16.6
+}
+surplus_produced16_7 = {
+	local_monthly_food = 16.7
+}
+surplus_produced16_8 = {
+	local_monthly_food = 16.8
+}
+surplus_produced16_90 = {
+	local_monthly_food = 16.90
+}
+surplus_produced17_0 = {
+	local_monthly_food = 17.0
+}
+surplus_produced17_1 = {
+	local_monthly_food = 17.1
+}
+surplus_produced17_2 = {
+	local_monthly_food = 17.2
+}
+surplus_produced17_3 = {
+	local_monthly_food = 17.3
+}
+surplus_produced17_40 = {
+	local_monthly_food = 17.40
+}
+surplus_produced17_5 = {
+	local_monthly_food = 17.5
+}
+surplus_produced17_6 = {
+	local_monthly_food = 17.6
+}
+surplus_produced17_7 = {
+	local_monthly_food = 17.7
+}
+surplus_produced17_8 = {
+	local_monthly_food = 17.8
+}
+surplus_produced17_90 = {
+	local_monthly_food = 17.90
+}
+surplus_produced18_0 = {
+	local_monthly_food = 18.0
+}
+surplus_produced18_1 = {
+	local_monthly_food = 18.1
+}
+surplus_produced18_2 = {
+	local_monthly_food = 18.2
+}
+surplus_produced18_3 = {
+	local_monthly_food = 18.3
+}
+surplus_produced18_40 = {
+	local_monthly_food = 18.40
+}
+surplus_produced18_5 = {
+	local_monthly_food = 18.5
+}
+surplus_produced18_6 = {
+	local_monthly_food = 18.6
+}
+surplus_produced18_7 = {
+	local_monthly_food = 18.7
+}
+surplus_produced18_8 = {
+	local_monthly_food = 18.8
+}
+surplus_produced18_90 = {
+	local_monthly_food = 18.90
+}
+surplus_produced19_0 = {
+	local_monthly_food = 19.0
+}
+surplus_produced19_1 = {
+	local_monthly_food = 19.1
+}
+surplus_produced19_20 = {
+	local_monthly_food = 19.20
+}
+surplus_produced19_3 = {
+	local_monthly_food = 19.3
+}
+surplus_produced19_40 = {
+	local_monthly_food = 19.40
+}
+surplus_produced19_5 = {
+	local_monthly_food = 19.5
+}
+surplus_produced19_6 = {
+	local_monthly_food = 19.6
+}
+surplus_produced19_70 = {
+	local_monthly_food = 19.70
+}
+surplus_produced19_8 = {
+	local_monthly_food = 19.8
+}
+surplus_produced19_90 = {
+	local_monthly_food = 19.90
+}
+surplus_produced20_0 = {
+	local_monthly_food = 20.0
+}
+surplus_produced20_1 = {
+	local_monthly_food = 20.1
+}
+surplus_produced20_20 = {
+	local_monthly_food = 20.20
+}
+surplus_produced20_3 = {
+	local_monthly_food = 20.3
+}
+surplus_produced20_40 = {
+	local_monthly_food = 20.40
+}
+surplus_produced20_5 = {
+	local_monthly_food = 20.5
+}
+surplus_produced20_6 = {
+	local_monthly_food = 20.6
+}
+surplus_produced20_70 = {
+	local_monthly_food = 20.70
+}
+surplus_produced20_8 = {
+	local_monthly_food = 20.8
+}
+surplus_produced20_90 = {
+	local_monthly_food = 20.90
+}
+surplus_produced21_0 = {
+	local_monthly_food = 21.0
+}
+surplus_produced21_1 = {
+	local_monthly_food = 21.1
+}
+surplus_produced21_20 = {
+	local_monthly_food = 21.20
+}
+surplus_produced21_3 = {
+	local_monthly_food = 21.3
+}
+surplus_produced21_40 = {
+	local_monthly_food = 21.40
+}
+surplus_produced21_5 = {
+	local_monthly_food = 21.5
+}
+surplus_produced21_6 = {
+	local_monthly_food = 21.6
+}
+surplus_produced21_70 = {
+	local_monthly_food = 21.70
+}
+surplus_produced21_8 = {
+	local_monthly_food = 21.8
+}
+surplus_produced21_90 = {
+	local_monthly_food = 21.90
+}
+surplus_produced22_0 = {
+	local_monthly_food = 22.0
+}
+surplus_produced22_1 = {
+	local_monthly_food = 22.1
+}
+surplus_produced22_20 = {
+	local_monthly_food = 22.20
+}
+surplus_produced22_3 = {
+	local_monthly_food = 22.3
+}
+surplus_produced22_40 = {
+	local_monthly_food = 22.40
+}
+surplus_produced22_5 = {
+	local_monthly_food = 22.5
+}
+surplus_produced22_6 = {
+	local_monthly_food = 22.6
+}
+surplus_produced22_70 = {
+	local_monthly_food = 22.70
+}
+surplus_produced22_8 = {
+	local_monthly_food = 22.8
+}
+surplus_produced22_90 = {
+	local_monthly_food = 22.90
+}
+surplus_produced23_0 = {
+	local_monthly_food = 23.0
+}
+surplus_produced23_1 = {
+	local_monthly_food = 23.1
+}
+surplus_produced23_20 = {
+	local_monthly_food = 23.20
+}
+surplus_produced23_3 = {
+	local_monthly_food = 23.3
+}
+surplus_produced23_40 = {
+	local_monthly_food = 23.40
+}
+surplus_produced23_5 = {
+	local_monthly_food = 23.5
+}
+surplus_produced23_6 = {
+	local_monthly_food = 23.6
+}
+surplus_produced23_70 = {
+	local_monthly_food = 23.70
+}
+surplus_produced23_8 = {
+	local_monthly_food = 23.8
+}
+surplus_produced23_90 = {
+	local_monthly_food = 23.90
+}
+surplus_produced24_0 = {
+	local_monthly_food = 24.0
+}
+surplus_produced24_1 = {
+	local_monthly_food = 24.1
+}
+surplus_produced24_20 = {
+	local_monthly_food = 24.20
+}
+surplus_produced24_3 = {
+	local_monthly_food = 24.3
+}
+surplus_produced24_40 = {
+	local_monthly_food = 24.40
+}
+surplus_produced24_5 = {
+	local_monthly_food = 24.5
+}
+surplus_produced24_6 = {
+	local_monthly_food = 24.6
+}
+surplus_produced24_70 = {
+	local_monthly_food = 24.70
+}
+surplus_produced24_8 = {
+	local_monthly_food = 24.8
+}
+surplus_produced24_90 = {
+	local_monthly_food = 24.90
+}
+surplus_produced25_0 = {
+	local_monthly_food = 25.0
+}
+surplus_produced25_1 = {
+	local_monthly_food = 25.1
+}
+surplus_produced25_20 = {
+	local_monthly_food = 25.20
+}
+surplus_produced25_3 = {
+	local_monthly_food = 25.3
+}
+surplus_produced25_40 = {
+	local_monthly_food = 25.40
+}
+surplus_produced25_5 = {
+	local_monthly_food = 25.5
+}
+surplus_produced25_6 = {
+	local_monthly_food = 25.6
+}
+surplus_produced25_70 = {
+	local_monthly_food = 25.70
+}
+surplus_produced25_8 = {
+	local_monthly_food = 25.8
+}
+surplus_produced25_90 = {
+	local_monthly_food = 25.90
+}
+surplus_produced26_0 = {
+	local_monthly_food = 26.0
+}
+surplus_produced26_1 = {
+	local_monthly_food = 26.1
+}
+surplus_produced26_20 = {
+	local_monthly_food = 26.20
+}
+surplus_produced26_3 = {
+	local_monthly_food = 26.3
+}
+surplus_produced26_40 = {
+	local_monthly_food = 26.40
+}
+surplus_produced26_5 = {
+	local_monthly_food = 26.5
+}
+surplus_produced26_6 = {
+	local_monthly_food = 26.6
+}
+surplus_produced26_70 = {
+	local_monthly_food = 26.70
+}
+surplus_produced26_8 = {
+	local_monthly_food = 26.8
+}
+surplus_produced26_90 = {
+	local_monthly_food = 26.90
+}
+surplus_produced27_0 = {
+	local_monthly_food = 27.0
+}
+surplus_produced27_1 = {
+	local_monthly_food = 27.1
+}
+surplus_produced27_20 = {
+	local_monthly_food = 27.20
+}
+surplus_produced27_3 = {
+	local_monthly_food = 27.3
+}
+surplus_produced27_40 = {
+	local_monthly_food = 27.40
+}
+surplus_produced27_5 = {
+	local_monthly_food = 27.5
+}
+surplus_produced27_6 = {
+	local_monthly_food = 27.6
+}
+surplus_produced27_70 = {
+	local_monthly_food = 27.70
+}
+surplus_produced27_8 = {
+	local_monthly_food = 27.8
+}
+surplus_produced27_90 = {
+	local_monthly_food = 27.90
+}
+surplus_produced28_0 = {
+	local_monthly_food = 28.0
+}
+surplus_produced28_1 = {
+	local_monthly_food = 28.1
+}
+surplus_produced28_20 = {
+	local_monthly_food = 28.20
+}
+surplus_produced28_3 = {
+	local_monthly_food = 28.3
+}
+surplus_produced28_40 = {
+	local_monthly_food = 28.40
+}
+surplus_produced28_5 = {
+	local_monthly_food = 28.5
+}
+surplus_produced28_6 = {
+	local_monthly_food = 28.6
+}
+surplus_produced28_70 = {
+	local_monthly_food = 28.70
+}
+surplus_produced28_8 = {
+	local_monthly_food = 28.8
+}
+surplus_produced28_90 = {
+	local_monthly_food = 28.90
+}
+surplus_produced29_0 = {
+	local_monthly_food = 29.0
+}
+surplus_produced29_1 = {
+	local_monthly_food = 29.1
+}
+surplus_produced29_20 = {
+	local_monthly_food = 29.20
+}
+surplus_produced29_3 = {
+	local_monthly_food = 29.3
+}
+surplus_produced29_40 = {
+	local_monthly_food = 29.40
+}
+surplus_produced29_5 = {
+	local_monthly_food = 29.5
+}
+surplus_produced29_6 = {
+	local_monthly_food = 29.6
+}
+surplus_produced29_70 = {
+	local_monthly_food = 29.70
+}
+surplus_produced29_8 = {
+	local_monthly_food = 29.8
+}
+surplus_produced29_90 = {
+	local_monthly_food = 29.90
+}
+surplus_produced30_0 = {
+	local_monthly_food = 30.0
+}
+surplus_produced30_1 = {
+	local_monthly_food = 30.1
+}
+surplus_produced30_20 = {
+	local_monthly_food = 30.20
+}
+surplus_produced30_3 = {
+	local_monthly_food = 30.3
+}
+surplus_produced30_40 = {
+	local_monthly_food = 30.40
+}
+surplus_produced30_5 = {
+	local_monthly_food = 30.5
+}
+surplus_produced30_6 = {
+	local_monthly_food = 30.6
+}
+surplus_produced30_70 = {
+	local_monthly_food = 30.70
+}
+surplus_produced30_8 = {
+	local_monthly_food = 30.8
+}
+surplus_produced30_90 = {
+	local_monthly_food = 30.90
+}
+surplus_produced31_0 = {
+	local_monthly_food = 31.0
+}
+surplus_produced31_1 = {
+	local_monthly_food = 31.1
+}
+surplus_produced31_20 = {
+	local_monthly_food = 31.20
+}
+surplus_produced31_3 = {
+	local_monthly_food = 31.3
+}
+surplus_produced31_40 = {
+	local_monthly_food = 31.40
+}
+surplus_produced31_5 = {
+	local_monthly_food = 31.5
+}
+surplus_produced31_6 = {
+	local_monthly_food = 31.6
+}
+surplus_produced31_70 = {
+	local_monthly_food = 31.70
+}
+surplus_produced31_8 = {
+	local_monthly_food = 31.8
+}
+surplus_produced31_90 = {
+	local_monthly_food = 31.90
+}
+surplus_produced32_0 = {
+	local_monthly_food = 32.0
+}
+surplus_produced32_1 = {
+	local_monthly_food = 32.1
+}
+surplus_produced32_2 = {
+	local_monthly_food = 32.2
+}
+surplus_produced32_30 = {
+	local_monthly_food = 32.30
+}
+surplus_produced32_4 = {
+	local_monthly_food = 32.4
+}
+surplus_produced32_5 = {
+	local_monthly_food = 32.5
+}
+surplus_produced32_6 = {
+	local_monthly_food = 32.6
+}
+surplus_produced32_7 = {
+	local_monthly_food = 32.7
+}
+surplus_produced32_80 = {
+	local_monthly_food = 32.80
+}
+surplus_produced32_9 = {
+	local_monthly_food = 32.9
+}
+surplus_produced33_0 = {
+	local_monthly_food = 33.0
+}
+surplus_produced33_1 = {
+	local_monthly_food = 33.1
+}
+surplus_produced33_2 = {
+	local_monthly_food = 33.2
+}
+surplus_produced33_30 = {
+	local_monthly_food = 33.30
+}
+surplus_produced33_4 = {
+	local_monthly_food = 33.4
+}
+surplus_produced33_5 = {
+	local_monthly_food = 33.5
+}
+surplus_produced33_6 = {
+	local_monthly_food = 33.6
+}
+surplus_produced33_7 = {
+	local_monthly_food = 33.7
+}
+surplus_produced33_80 = {
+	local_monthly_food = 33.80
+}
+surplus_produced33_9 = {
+	local_monthly_food = 33.9
+}
+surplus_produced34_0 = {
+	local_monthly_food = 34.0
+}
+surplus_produced34_1 = {
+	local_monthly_food = 34.1
+}
+surplus_produced34_2 = {
+	local_monthly_food = 34.2
+}
+surplus_produced34_30 = {
+	local_monthly_food = 34.30
+}
+surplus_produced34_4 = {
+	local_monthly_food = 34.4
+}
+surplus_produced34_5 = {
+	local_monthly_food = 34.5
+}
+surplus_produced34_6 = {
+	local_monthly_food = 34.6
+}
+surplus_produced34_7 = {
+	local_monthly_food = 34.7
+}
+surplus_produced34_80 = {
+	local_monthly_food = 34.80
+}
+surplus_produced34_9 = {
+	local_monthly_food = 34.9
+}
+surplus_produced35_0 = {
+	local_monthly_food = 35.0
+}
+surplus_produced35_1 = {
+	local_monthly_food = 35.1
+}
+surplus_produced35_2 = {
+	local_monthly_food = 35.2
+}
+surplus_produced35_30 = {
+	local_monthly_food = 35.30
+}
+surplus_produced35_4 = {
+	local_monthly_food = 35.4
+}
+surplus_produced35_5 = {
+	local_monthly_food = 35.5
+}
+surplus_produced35_6 = {
+	local_monthly_food = 35.6
+}
+surplus_produced35_7 = {
+	local_monthly_food = 35.7
+}
+surplus_produced35_80 = {
+	local_monthly_food = 35.80
+}
+surplus_produced35_9 = {
+	local_monthly_food = 35.9
+}
+surplus_produced36_0 = {
+	local_monthly_food = 36.0
+}
+surplus_produced36_1 = {
+	local_monthly_food = 36.1
+}
+surplus_produced36_2 = {
+	local_monthly_food = 36.2
+}
+surplus_produced36_30 = {
+	local_monthly_food = 36.30
+}
+surplus_produced36_4 = {
+	local_monthly_food = 36.4
+}
+surplus_produced36_5 = {
+	local_monthly_food = 36.5
+}
+surplus_produced36_6 = {
+	local_monthly_food = 36.6
+}
+surplus_produced36_7 = {
+	local_monthly_food = 36.7
+}
+surplus_produced36_80 = {
+	local_monthly_food = 36.80
+}
+surplus_produced36_9 = {
+	local_monthly_food = 36.9
+}
+surplus_produced37_0 = {
+	local_monthly_food = 37.0
+}
+surplus_produced37_1 = {
+	local_monthly_food = 37.1
+}
+surplus_produced37_2 = {
+	local_monthly_food = 37.2
+}
+surplus_produced37_30 = {
+	local_monthly_food = 37.30
+}
+surplus_produced37_4 = {
+	local_monthly_food = 37.4
+}
+surplus_produced37_5 = {
+	local_monthly_food = 37.5
+}
+surplus_produced37_6 = {
+	local_monthly_food = 37.6
+}
+surplus_produced37_7 = {
+	local_monthly_food = 37.7
+}
+surplus_produced37_80 = {
+	local_monthly_food = 37.80
+}
+surplus_produced37_9 = {
+	local_monthly_food = 37.9
+}
+surplus_produced38_0 = {
+	local_monthly_food = 38.0
+}
+surplus_produced38_1 = {
+	local_monthly_food = 38.1
+}
+surplus_produced38_2 = {
+	local_monthly_food = 38.2
+}
+surplus_produced38_30 = {
+	local_monthly_food = 38.30
+}
+surplus_produced38_40 = {
+	local_monthly_food = 38.40
+}
+surplus_produced38_5 = {
+	local_monthly_food = 38.5
+}
+surplus_produced38_6 = {
+	local_monthly_food = 38.6
+}
+surplus_produced38_7 = {
+	local_monthly_food = 38.7
+}
+surplus_produced38_80 = {
+	local_monthly_food = 38.80
+}
+surplus_produced38_90 = {
+	local_monthly_food = 38.90
+}
+surplus_produced39_0 = {
+	local_monthly_food = 39.0
+}
+surplus_produced39_1 = {
+	local_monthly_food = 39.1
+}
+surplus_produced39_2 = {
+	local_monthly_food = 39.2
+}
+surplus_produced39_30 = {
+	local_monthly_food = 39.30
+}
+surplus_produced39_40 = {
+	local_monthly_food = 39.40
+}
+surplus_produced39_5 = {
+	local_monthly_food = 39.5
+}
+surplus_produced39_6 = {
+	local_monthly_food = 39.6
+}
+surplus_produced39_7 = {
+	local_monthly_food = 39.7
+}
+surplus_produced39_80 = {
+	local_monthly_food = 39.80
+}
+surplus_produced39_90 = {
+	local_monthly_food = 39.90
+}
+surplus_produced40_0 = {
+	local_monthly_food = 40.0
+}
+surplus_produced40_1 = {
+	local_monthly_food = 40.1
+}
+surplus_produced40_2 = {
+	local_monthly_food = 40.2
+}
+surplus_produced40_30 = {
+	local_monthly_food = 40.30
+}
+surplus_produced40_40 = {
+	local_monthly_food = 40.40
+}
+surplus_produced40_5 = {
+	local_monthly_food = 40.5
+}
+surplus_produced40_6 = {
+	local_monthly_food = 40.6
+}
+surplus_produced40_7 = {
+	local_monthly_food = 40.7
+}
+surplus_produced40_80 = {
+	local_monthly_food = 40.80
+}
+surplus_produced40_90 = {
+	local_monthly_food = 40.90
+}
+surplus_produced41_0 = {
+	local_monthly_food = 41.0
+}
+surplus_produced41_1 = {
+	local_monthly_food = 41.1
+}
+surplus_produced41_2 = {
+	local_monthly_food = 41.2
+}
+surplus_produced41_30 = {
+	local_monthly_food = 41.30
+}
+surplus_produced41_40 = {
+	local_monthly_food = 41.40
+}
+surplus_produced41_5 = {
+	local_monthly_food = 41.5
+}
+surplus_produced41_6 = {
+	local_monthly_food = 41.6
+}
+surplus_produced41_7 = {
+	local_monthly_food = 41.7
+}
+surplus_produced41_80 = {
+	local_monthly_food = 41.80
+}
+surplus_produced41_90 = {
+	local_monthly_food = 41.90
+}
+surplus_produced42_0 = {
+	local_monthly_food = 42.0
+}
+surplus_produced42_1 = {
+	local_monthly_food = 42.1
+}
+surplus_produced42_2 = {
+	local_monthly_food = 42.2
+}
+surplus_produced42_30 = {
+	local_monthly_food = 42.30
+}
+surplus_produced42_40 = {
+	local_monthly_food = 42.40
+}
+surplus_produced42_5 = {
+	local_monthly_food = 42.5
+}
+surplus_produced42_6 = {
+	local_monthly_food = 42.6
+}
+surplus_produced42_7 = {
+	local_monthly_food = 42.7
+}
+surplus_produced42_80 = {
+	local_monthly_food = 42.80
+}
+surplus_produced42_90 = {
+	local_monthly_food = 42.90
+}
+surplus_produced43_0 = {
+	local_monthly_food = 43.0
+}
+surplus_produced43_1 = {
+	local_monthly_food = 43.1
+}
+surplus_produced43_2 = {
+	local_monthly_food = 43.2
+}
+surplus_produced43_30 = {
+	local_monthly_food = 43.30
+}
+surplus_produced43_40 = {
+	local_monthly_food = 43.40
+}
+surplus_produced43_5 = {
+	local_monthly_food = 43.5
+}
+surplus_produced43_6 = {
+	local_monthly_food = 43.6
+}
+surplus_produced43_7 = {
+	local_monthly_food = 43.7
+}
+surplus_produced43_80 = {
+	local_monthly_food = 43.80
+}
+surplus_produced43_90 = {
+	local_monthly_food = 43.90
+}
+surplus_produced44_0 = {
+	local_monthly_food = 44.0
+}
+surplus_produced44_1 = {
+	local_monthly_food = 44.1
+}
+surplus_produced44_2 = {
+	local_monthly_food = 44.2
+}
+surplus_produced44_30 = {
+	local_monthly_food = 44.30
+}
+surplus_produced44_40 = {
+	local_monthly_food = 44.40
+}
+surplus_produced44_5 = {
+	local_monthly_food = 44.5
+}
+surplus_produced44_6 = {
+	local_monthly_food = 44.6
+}
+surplus_produced44_7 = {
+	local_monthly_food = 44.7
+}
+surplus_produced44_80 = {
+	local_monthly_food = 44.80
+}
+surplus_produced44_90 = {
+	local_monthly_food = 44.90
+}
+surplus_produced45_0 = {
+	local_monthly_food = 45.0
+}
+surplus_produced45_1 = {
+	local_monthly_food = 45.1
+}
+surplus_produced45_2 = {
+	local_monthly_food = 45.2
+}
+surplus_produced45_30 = {
+	local_monthly_food = 45.30
+}
+surplus_produced45_40 = {
+	local_monthly_food = 45.40
+}
+surplus_produced45_5 = {
+	local_monthly_food = 45.5
+}
+surplus_produced45_6 = {
+	local_monthly_food = 45.6
+}
+surplus_produced45_7 = {
+	local_monthly_food = 45.7
+}
+surplus_produced45_80 = {
+	local_monthly_food = 45.80
+}
+surplus_produced45_90 = {
+	local_monthly_food = 45.90
+}
+surplus_produced46_0 = {
+	local_monthly_food = 46.0
+}
+surplus_produced46_1 = {
+	local_monthly_food = 46.1
+}
+surplus_produced46_2 = {
+	local_monthly_food = 46.2
+}
+surplus_produced46_30 = {
+	local_monthly_food = 46.30
+}
+surplus_produced46_40 = {
+	local_monthly_food = 46.40
+}
+surplus_produced46_5 = {
+	local_monthly_food = 46.5
+}
+surplus_produced46_6 = {
+	local_monthly_food = 46.6
+}
+surplus_produced46_7 = {
+	local_monthly_food = 46.7
+}
+surplus_produced46_80 = {
+	local_monthly_food = 46.80
+}
+surplus_produced46_90 = {
+	local_monthly_food = 46.90
+}
+surplus_produced47_0 = {
+	local_monthly_food = 47.0
+}
+surplus_produced47_1 = {
+	local_monthly_food = 47.1
+}
+surplus_produced47_2 = {
+	local_monthly_food = 47.2
+}
+surplus_produced47_30 = {
+	local_monthly_food = 47.30
+}
+surplus_produced47_40 = {
+	local_monthly_food = 47.40
+}
+surplus_produced47_5 = {
+	local_monthly_food = 47.5
+}
+surplus_produced47_6 = {
+	local_monthly_food = 47.6
+}
+surplus_produced47_7 = {
+	local_monthly_food = 47.7
+}
+surplus_produced47_80 = {
+	local_monthly_food = 47.80
+}
+surplus_produced47_90 = {
+	local_monthly_food = 47.90
+}
+surplus_produced48_0 = {
+	local_monthly_food = 48.0
+}
+surplus_produced48_1 = {
+	local_monthly_food = 48.1
+}
+surplus_produced48_2 = {
+	local_monthly_food = 48.2
+}
+surplus_produced48_30 = {
+	local_monthly_food = 48.30
+}
+surplus_produced48_40 = {
+	local_monthly_food = 48.40
+}
+surplus_produced48_5 = {
+	local_monthly_food = 48.5
+}
+surplus_produced48_6 = {
+	local_monthly_food = 48.6
+}
+surplus_produced48_7 = {
+	local_monthly_food = 48.7
+}
+surplus_produced48_80 = {
+	local_monthly_food = 48.80
+}
+surplus_produced48_90 = {
+	local_monthly_food = 48.90
+}
+surplus_produced49_0 = {
+	local_monthly_food = 49.0
+}
+surplus_produced49_1 = {
+	local_monthly_food = 49.1
+}
+surplus_produced49_2 = {
+	local_monthly_food = 49.2
+}
+surplus_produced49_30 = {
+	local_monthly_food = 49.30
+}
+surplus_produced49_40 = {
+	local_monthly_food = 49.40
+}
+surplus_produced49_5 = {
+	local_monthly_food = 49.5
+}
+surplus_produced49_6 = {
+	local_monthly_food = 49.6
+}
+surplus_produced49_7 = {
+	local_monthly_food = 49.7
+}
+surplus_produced49_80 = {
+	local_monthly_food = 49.80
+}
+surplus_produced49_90 = {
+	local_monthly_food = 49.90
+}
+surplus_produced50_0 = {
+	local_monthly_food = 50.0
+}
+surplus_produced50_1 = {
+	local_monthly_food = 50.1
+}
+surplus_produced50_2 = {
+	local_monthly_food = 50.2
+}
+surplus_produced50_30 = {
+	local_monthly_food = 50.30
+}
+surplus_produced50_40 = {
+	local_monthly_food = 50.40
+}
+surplus_produced50_5 = {
+	local_monthly_food = 50.5
+}
+surplus_produced50_6 = {
+	local_monthly_food = 50.6
+}
+surplus_produced50_7 = {
+	local_monthly_food = 50.7
+}
+surplus_produced50_80 = {
+	local_monthly_food = 50.80
+}
+surplus_produced50_90 = {
+	local_monthly_food = 50.90
+}
+surplus_produced51_0 = {
+	local_monthly_food = 51.0
+}
+surplus_produced51_1 = {
+	local_monthly_food = 51.1
+}
+surplus_produced51_2 = {
+	local_monthly_food = 51.2
+}
+surplus_produced51_30 = {
+	local_monthly_food = 51.30
+}
+surplus_produced51_40 = {
+	local_monthly_food = 51.40
+}
+surplus_produced51_5 = {
+	local_monthly_food = 51.5
+}
+surplus_produced51_6 = {
+	local_monthly_food = 51.6
+}
+surplus_produced51_7 = {
+	local_monthly_food = 51.7
+}
+surplus_produced51_80 = {
+	local_monthly_food = 51.80
+}
+surplus_produced51_90 = {
+	local_monthly_food = 51.90
+}
+surplus_produced52_0 = {
+	local_monthly_food = 52.0
+}
+surplus_produced52_1 = {
+	local_monthly_food = 52.1
+}
+surplus_produced52_2 = {
+	local_monthly_food = 52.2
+}
+surplus_produced52_30 = {
+	local_monthly_food = 52.30
+}
+surplus_produced52_40 = {
+	local_monthly_food = 52.40
+}
+surplus_produced52_5 = {
+	local_monthly_food = 52.5
+}
+surplus_produced52_6 = {
+	local_monthly_food = 52.6
+}
+surplus_produced52_7 = {
+	local_monthly_food = 52.7
+}
+surplus_produced52_80 = {
+	local_monthly_food = 52.80
+}
+surplus_produced52_90 = {
+	local_monthly_food = 52.90
+}
+surplus_produced53_0 = {
+	local_monthly_food = 53.0
+}
+surplus_produced53_1 = {
+	local_monthly_food = 53.1
+}
+surplus_produced53_2 = {
+	local_monthly_food = 53.2
+}
+surplus_produced53_30 = {
+	local_monthly_food = 53.30
+}
+surplus_produced53_40 = {
+	local_monthly_food = 53.40
+}
+surplus_produced53_5 = {
+	local_monthly_food = 53.5
+}
+surplus_produced53_6 = {
+	local_monthly_food = 53.6
+}
+surplus_produced53_7 = {
+	local_monthly_food = 53.7
+}
+surplus_produced53_80 = {
+	local_monthly_food = 53.80
+}
+surplus_produced53_90 = {
+	local_monthly_food = 53.90
+}
+surplus_produced54_0 = {
+	local_monthly_food = 54.0
+}
+surplus_produced54_1 = {
+	local_monthly_food = 54.1
+}
+surplus_produced54_2 = {
+	local_monthly_food = 54.2
+}
+surplus_produced54_30 = {
+	local_monthly_food = 54.30
+}
+surplus_produced54_40 = {
+	local_monthly_food = 54.40
+}
+surplus_produced54_5 = {
+	local_monthly_food = 54.5
+}
+surplus_produced54_6 = {
+	local_monthly_food = 54.6
+}
+surplus_produced54_7 = {
+	local_monthly_food = 54.7
+}
+surplus_produced54_80 = {
+	local_monthly_food = 54.80
+}
+surplus_produced54_90 = {
+	local_monthly_food = 54.90
+}
+surplus_produced55_0 = {
+	local_monthly_food = 55.0
+}
+surplus_produced55_1 = {
+	local_monthly_food = 55.1
+}
+surplus_produced55_2 = {
+	local_monthly_food = 55.2
+}
+surplus_produced55_30 = {
+	local_monthly_food = 55.30
+}
+surplus_produced55_40 = {
+	local_monthly_food = 55.40
+}
+surplus_produced55_5 = {
+	local_monthly_food = 55.5
+}
+surplus_produced55_6 = {
+	local_monthly_food = 55.6
+}
+surplus_produced55_7 = {
+	local_monthly_food = 55.7
+}
+surplus_produced55_80 = {
+	local_monthly_food = 55.80
+}
+surplus_produced55_90 = {
+	local_monthly_food = 55.90
+}
+surplus_produced56_0 = {
+	local_monthly_food = 56.0
+}
+surplus_produced56_1 = {
+	local_monthly_food = 56.1
+}
+surplus_produced56_2 = {
+	local_monthly_food = 56.2
+}
+surplus_produced56_30 = {
+	local_monthly_food = 56.30
+}
+surplus_produced56_40 = {
+	local_monthly_food = 56.40
+}
+surplus_produced56_5 = {
+	local_monthly_food = 56.5
+}
+surplus_produced56_6 = {
+	local_monthly_food = 56.6
+}
+surplus_produced56_7 = {
+	local_monthly_food = 56.7
+}
+surplus_produced56_80 = {
+	local_monthly_food = 56.80
+}
+surplus_produced56_90 = {
+	local_monthly_food = 56.90
+}
+surplus_produced57_0 = {
+	local_monthly_food = 57.0
+}
+surplus_produced57_1 = {
+	local_monthly_food = 57.1
+}
+surplus_produced57_2 = {
+	local_monthly_food = 57.2
+}
+surplus_produced57_30 = {
+	local_monthly_food = 57.30
+}
+surplus_produced57_40 = {
+	local_monthly_food = 57.40
+}
+surplus_produced57_5 = {
+	local_monthly_food = 57.5
+}
+surplus_produced57_6 = {
+	local_monthly_food = 57.6
+}
+surplus_produced57_7 = {
+	local_monthly_food = 57.7
+}
+surplus_produced57_80 = {
+	local_monthly_food = 57.80
+}
+surplus_produced57_90 = {
+	local_monthly_food = 57.90
+}
+surplus_produced58_0 = {
+	local_monthly_food = 58.0
+}
+surplus_produced58_1 = {
+	local_monthly_food = 58.1
+}
+surplus_produced58_2 = {
+	local_monthly_food = 58.2
+}
+surplus_produced58_30 = {
+	local_monthly_food = 58.30
+}
+surplus_produced58_40 = {
+	local_monthly_food = 58.40
+}
+surplus_produced58_5 = {
+	local_monthly_food = 58.5
+}
+surplus_produced58_6 = {
+	local_monthly_food = 58.6
+}
+surplus_produced58_7 = {
+	local_monthly_food = 58.7
+}
+surplus_produced58_80 = {
+	local_monthly_food = 58.80
+}
+surplus_produced58_90 = {
+	local_monthly_food = 58.90
+}
+surplus_produced59_0 = {
+	local_monthly_food = 59.0
+}
+surplus_produced59_1 = {
+	local_monthly_food = 59.1
+}
+surplus_produced59_2 = {
+	local_monthly_food = 59.2
+}
+surplus_produced59_30 = {
+	local_monthly_food = 59.30
+}
+surplus_produced59_40 = {
+	local_monthly_food = 59.40
+}
+surplus_produced59_5 = {
+	local_monthly_food = 59.5
+}
+surplus_produced59_6 = {
+	local_monthly_food = 59.6
+}
+surplus_produced59_7 = {
+	local_monthly_food = 59.7
+}
+surplus_produced59_80 = {
+	local_monthly_food = 59.80
+}
+surplus_produced59_90 = {
+	local_monthly_food = 59.90
+}
+surplus_produced60_0 = {
+	local_monthly_food = 60.0
+}
+surplus_produced60_1 = {
+	local_monthly_food = 60.1
+}
+surplus_produced60_2 = {
+	local_monthly_food = 60.2
+}
+surplus_produced60_30 = {
+	local_monthly_food = 60.30
+}
+surplus_produced60_40 = {
+	local_monthly_food = 60.40
+}
+surplus_produced60_5 = {
+	local_monthly_food = 60.5
+}
+surplus_produced60_6 = {
+	local_monthly_food = 60.6
+}
+surplus_produced60_7 = {
+	local_monthly_food = 60.7
+}
+surplus_produced60_80 = {
+	local_monthly_food = 60.80
+}
+surplus_produced60_90 = {
+	local_monthly_food = 60.90
+}
+surplus_produced61_0 = {
+	local_monthly_food = 61.0
+}
+surplus_produced61_1 = {
+	local_monthly_food = 61.1
+}
+surplus_produced61_2 = {
+	local_monthly_food = 61.2
+}
+surplus_produced61_30 = {
+	local_monthly_food = 61.30
+}
+surplus_produced61_40 = {
+	local_monthly_food = 61.40
+}
+surplus_produced61_5 = {
+	local_monthly_food = 61.5
+}
+surplus_produced61_6 = {
+	local_monthly_food = 61.6
+}
+surplus_produced61_7 = {
+	local_monthly_food = 61.7
+}
+surplus_produced61_80 = {
+	local_monthly_food = 61.80
+}
+surplus_produced61_90 = {
+	local_monthly_food = 61.90
+}
+surplus_produced62_0 = {
+	local_monthly_food = 62.0
+}
+surplus_produced62_1 = {
+	local_monthly_food = 62.1
+}
+surplus_produced62_2 = {
+	local_monthly_food = 62.2
+}
+surplus_produced62_30 = {
+	local_monthly_food = 62.30
+}
+surplus_produced62_40 = {
+	local_monthly_food = 62.40
+}
+surplus_produced62_5 = {
+	local_monthly_food = 62.5
+}
+surplus_produced62_6 = {
+	local_monthly_food = 62.6
+}
+surplus_produced62_7 = {
+	local_monthly_food = 62.7
+}
+surplus_produced62_80 = {
+	local_monthly_food = 62.80
+}
+surplus_produced62_90 = {
+	local_monthly_food = 62.90
+}
+surplus_produced63_0 = {
+	local_monthly_food = 63.0
+}
+surplus_produced63_1 = {
+	local_monthly_food = 63.1
+}
+surplus_produced63_2 = {
+	local_monthly_food = 63.2
+}
+surplus_produced63_30 = {
+	local_monthly_food = 63.30
+}
+surplus_produced63_40 = {
+	local_monthly_food = 63.40
+}
+surplus_produced63_5 = {
+	local_monthly_food = 63.5
+}
+surplus_produced63_6 = {
+	local_monthly_food = 63.6
+}
+surplus_produced63_7 = {
+	local_monthly_food = 63.7
+}
+surplus_produced63_80 = {
+	local_monthly_food = 63.80
+}
+surplus_produced63_90 = {
+	local_monthly_food = 63.90
+}
+surplus_produced64_0 = {
+	local_monthly_food = 64.0
+}
+surplus_produced64_10 = {
+	local_monthly_food = 64.10
+}
+surplus_produced64_2 = {
+	local_monthly_food = 64.2
+}
+surplus_produced64_3 = {
+	local_monthly_food = 64.3
+}
+surplus_produced64_4 = {
+	local_monthly_food = 64.4
+}
+surplus_produced64_5 = {
+	local_monthly_food = 64.5
+}
+surplus_produced64_60 = {
+	local_monthly_food = 64.60
+}
+surplus_produced64_7 = {
+	local_monthly_food = 64.7
+}
+surplus_produced64_8 = {
+	local_monthly_food = 64.8
+}
+surplus_produced64_9 = {
+	local_monthly_food = 64.9
+}
+surplus_produced65_0 = {
+	local_monthly_food = 65.0
+}
+surplus_produced65_10 = {
+	local_monthly_food = 65.10
+}
+surplus_produced65_2 = {
+	local_monthly_food = 65.2
+}
+surplus_produced65_3 = {
+	local_monthly_food = 65.3
+}
+surplus_produced65_4 = {
+	local_monthly_food = 65.4
+}
+surplus_produced65_5 = {
+	local_monthly_food = 65.5
+}
+surplus_produced65_60 = {
+	local_monthly_food = 65.60
+}
+surplus_produced65_7 = {
+	local_monthly_food = 65.7
+}
+surplus_produced65_8 = {
+	local_monthly_food = 65.8
+}
+surplus_produced65_9 = {
+	local_monthly_food = 65.9
+}
+surplus_produced66_0 = {
+	local_monthly_food = 66.0
+}
+surplus_produced66_10 = {
+	local_monthly_food = 66.10
+}
+surplus_produced66_2 = {
+	local_monthly_food = 66.2
+}
+surplus_produced66_3 = {
+	local_monthly_food = 66.3
+}
+surplus_produced66_4 = {
+	local_monthly_food = 66.4
+}
+surplus_produced66_5 = {
+	local_monthly_food = 66.5
+}
+surplus_produced66_60 = {
+	local_monthly_food = 66.60
+}
+surplus_produced66_7 = {
+	local_monthly_food = 66.7
+}
+surplus_produced66_8 = {
+	local_monthly_food = 66.8
+}
+surplus_produced66_9 = {
+	local_monthly_food = 66.9
+}
+surplus_produced67_0 = {
+	local_monthly_food = 67.0
+}
+surplus_produced67_10 = {
+	local_monthly_food = 67.10
+}
+surplus_produced67_2 = {
+	local_monthly_food = 67.2
+}
+surplus_produced67_3 = {
+	local_monthly_food = 67.3
+}
+surplus_produced67_4 = {
+	local_monthly_food = 67.4
+}
+surplus_produced67_5 = {
+	local_monthly_food = 67.5
+}
+surplus_produced67_60 = {
+	local_monthly_food = 67.60
+}
+surplus_produced67_7 = {
+	local_monthly_food = 67.7
+}
+surplus_produced67_8 = {
+	local_monthly_food = 67.8
+}
+surplus_produced67_9 = {
+	local_monthly_food = 67.9
+}
+surplus_produced68_0 = {
+	local_monthly_food = 68.0
+}
+surplus_produced68_10 = {
+	local_monthly_food = 68.10
+}
+surplus_produced68_2 = {
+	local_monthly_food = 68.2
+}
+surplus_produced68_3 = {
+	local_monthly_food = 68.3
+}
+surplus_produced68_4 = {
+	local_monthly_food = 68.4
+}
+surplus_produced68_5 = {
+	local_monthly_food = 68.5
+}
+surplus_produced68_60 = {
+	local_monthly_food = 68.60
+}
+surplus_produced68_7 = {
+	local_monthly_food = 68.7
+}
+surplus_produced68_8 = {
+	local_monthly_food = 68.8
+}
+surplus_produced68_9 = {
+	local_monthly_food = 68.9
+}
+surplus_produced69_0 = {
+	local_monthly_food = 69.0
+}
+surplus_produced69_10 = {
+	local_monthly_food = 69.10
+}
+surplus_produced69_2 = {
+	local_monthly_food = 69.2
+}
+surplus_produced69_3 = {
+	local_monthly_food = 69.3
+}
+surplus_produced69_4 = {
+	local_monthly_food = 69.4
+}
+surplus_produced69_5 = {
+	local_monthly_food = 69.5
+}
+surplus_produced69_60 = {
+	local_monthly_food = 69.60
+}
+surplus_produced69_7 = {
+	local_monthly_food = 69.7
+}
+surplus_produced69_8 = {
+	local_monthly_food = 69.8
+}
+surplus_produced69_9 = {
+	local_monthly_food = 69.9
+}
+surplus_produced70_0 = {
+	local_monthly_food = 70.0
+}
+surplus_produced70_10 = {
+	local_monthly_food = 70.10
+}
+surplus_produced70_2 = {
+	local_monthly_food = 70.2
+}
+surplus_produced70_3 = {
+	local_monthly_food = 70.3
+}
+surplus_produced70_4 = {
+	local_monthly_food = 70.4
+}
+surplus_produced70_5 = {
+	local_monthly_food = 70.5
+}
+surplus_produced70_60 = {
+	local_monthly_food = 70.60
+}
+surplus_produced70_7 = {
+	local_monthly_food = 70.7
+}
+surplus_produced70_8 = {
+	local_monthly_food = 70.8
+}
+surplus_produced70_9 = {
+	local_monthly_food = 70.9
+}
+surplus_produced71_0 = {
+	local_monthly_food = 71.0
+}
+surplus_produced71_10 = {
+	local_monthly_food = 71.10
+}
+surplus_produced71_2 = {
+	local_monthly_food = 71.2
+}
+surplus_produced71_3 = {
+	local_monthly_food = 71.3
+}
+surplus_produced71_4 = {
+	local_monthly_food = 71.4
+}
+surplus_produced71_5 = {
+	local_monthly_food = 71.5
+}
+surplus_produced71_60 = {
+	local_monthly_food = 71.60
+}
+surplus_produced71_7 = {
+	local_monthly_food = 71.7
+}
+surplus_produced71_8 = {
+	local_monthly_food = 71.8
+}
+surplus_produced71_9 = {
+	local_monthly_food = 71.9
+}
+surplus_produced72_0 = {
+	local_monthly_food = 72.0
+}
+surplus_produced72_10 = {
+	local_monthly_food = 72.10
+}
+surplus_produced72_2 = {
+	local_monthly_food = 72.2
+}
+surplus_produced72_3 = {
+	local_monthly_food = 72.3
+}
+surplus_produced72_4 = {
+	local_monthly_food = 72.4
+}
+surplus_produced72_5 = {
+	local_monthly_food = 72.5
+}
+surplus_produced72_60 = {
+	local_monthly_food = 72.60
+}
+surplus_produced72_7 = {
+	local_monthly_food = 72.7
+}
+surplus_produced72_8 = {
+	local_monthly_food = 72.8
+}
+surplus_produced72_9 = {
+	local_monthly_food = 72.9
+}
+surplus_produced73_0 = {
+	local_monthly_food = 73.0
+}
+surplus_produced73_10 = {
+	local_monthly_food = 73.10
+}
+surplus_produced73_2 = {
+	local_monthly_food = 73.2
+}
+surplus_produced73_3 = {
+	local_monthly_food = 73.3
+}
+surplus_produced73_4 = {
+	local_monthly_food = 73.4
+}
+surplus_produced73_5 = {
+	local_monthly_food = 73.5
+}
+surplus_produced73_60 = {
+	local_monthly_food = 73.60
+}
+surplus_produced73_7 = {
+	local_monthly_food = 73.7
+}
+surplus_produced73_8 = {
+	local_monthly_food = 73.8
+}
+surplus_produced73_9 = {
+	local_monthly_food = 73.9
+}
+surplus_produced74_0 = {
+	local_monthly_food = 74.0
+}
+surplus_produced74_10 = {
+	local_monthly_food = 74.10
+}
+surplus_produced74_2 = {
+	local_monthly_food = 74.2
+}
+surplus_produced74_3 = {
+	local_monthly_food = 74.3
+}
+surplus_produced74_4 = {
+	local_monthly_food = 74.4
+}
+surplus_produced74_5 = {
+	local_monthly_food = 74.5
+}
+surplus_produced74_60 = {
+	local_monthly_food = 74.60
+}
+surplus_produced74_7 = {
+	local_monthly_food = 74.7
+}
+surplus_produced74_8 = {
+	local_monthly_food = 74.8
+}
+surplus_produced74_9 = {
+	local_monthly_food = 74.9
+}
+surplus_produced75_0 = {
+	local_monthly_food = 75.0
+}
+surplus_produced75_10 = {
+	local_monthly_food = 75.10
+}
+surplus_produced75_2 = {
+	local_monthly_food = 75.2
+}
+surplus_produced75_3 = {
+	local_monthly_food = 75.3
+}
+surplus_produced75_4 = {
+	local_monthly_food = 75.4
+}
+surplus_produced75_5 = {
+	local_monthly_food = 75.5
+}
+surplus_produced75_60 = {
+	local_monthly_food = 75.60
+}
+surplus_produced75_7 = {
+	local_monthly_food = 75.7
+}
+surplus_produced75_8 = {
+	local_monthly_food = 75.8
+}
+surplus_produced75_9 = {
+	local_monthly_food = 75.9
+}
+surplus_produced76_0 = {
+	local_monthly_food = 76.0
+}
+surplus_produced76_10 = {
+	local_monthly_food = 76.10
+}
+surplus_produced76_2 = {
+	local_monthly_food = 76.2
+}
+surplus_produced76_3 = {
+	local_monthly_food = 76.3
+}
+surplus_produced76_4 = {
+	local_monthly_food = 76.4
+}
+surplus_produced76_5 = {
+	local_monthly_food = 76.5
+}
+surplus_produced76_60 = {
+	local_monthly_food = 76.60
+}
+surplus_produced76_7 = {
+	local_monthly_food = 76.7
+}
+surplus_produced76_80 = {
+	local_monthly_food = 76.80
+}
+surplus_produced76_9 = {
+	local_monthly_food = 76.9
+}
+surplus_produced77_0 = {
+	local_monthly_food = 77.0
+}
+surplus_produced77_10 = {
+	local_monthly_food = 77.10
+}
+surplus_produced77_2 = {
+	local_monthly_food = 77.2
+}
+surplus_produced77_30 = {
+	local_monthly_food = 77.30
+}
+surplus_produced77_4 = {
+	local_monthly_food = 77.4
+}
+surplus_produced77_5 = {
+	local_monthly_food = 77.5
+}
+surplus_produced77_60 = {
+	local_monthly_food = 77.60
+}
+surplus_produced77_7 = {
+	local_monthly_food = 77.7
+}
+surplus_produced77_80 = {
+	local_monthly_food = 77.80
+}
+surplus_produced77_9 = {
+	local_monthly_food = 77.9
+}
+surplus_produced78_0 = {
+	local_monthly_food = 78.0
+}
+surplus_produced78_10 = {
+	local_monthly_food = 78.10
+}
+surplus_produced78_2 = {
+	local_monthly_food = 78.2
+}
+surplus_produced78_30 = {
+	local_monthly_food = 78.30
+}
+surplus_produced78_4 = {
+	local_monthly_food = 78.4
+}
+surplus_produced78_5 = {
+	local_monthly_food = 78.5
+}
+surplus_produced78_60 = {
+	local_monthly_food = 78.60
+}
+surplus_produced78_7 = {
+	local_monthly_food = 78.7
+}
+surplus_produced78_80 = {
+	local_monthly_food = 78.80
+}
+surplus_produced78_9 = {
+	local_monthly_food = 78.9
+}
+surplus_produced79_0 = {
+	local_monthly_food = 79.0
+}
+surplus_produced79_10 = {
+	local_monthly_food = 79.10
+}
+surplus_produced79_2 = {
+	local_monthly_food = 79.2
+}
+surplus_produced79_30 = {
+	local_monthly_food = 79.30
+}
+surplus_produced79_4 = {
+	local_monthly_food = 79.4
+}
+surplus_produced79_5 = {
+	local_monthly_food = 79.5
+}
+surplus_produced79_60 = {
+	local_monthly_food = 79.60
+}
+surplus_produced79_7 = {
+	local_monthly_food = 79.7
+}
+surplus_produced79_80 = {
+	local_monthly_food = 79.80
+}
+surplus_produced79_9 = {
+	local_monthly_food = 79.9
+}
+surplus_produced80_0 = {
+	local_monthly_food = 80.0
+}
+surplus_produced80_10 = {
+	local_monthly_food = 80.10
+}
+surplus_produced80_2 = {
+	local_monthly_food = 80.2
+}
+surplus_produced80_30 = {
+	local_monthly_food = 80.30
+}
+surplus_produced80_4 = {
+	local_monthly_food = 80.4
+}
+surplus_produced80_5 = {
+	local_monthly_food = 80.5
+}
+surplus_produced80_60 = {
+	local_monthly_food = 80.60
+}
+surplus_produced80_7 = {
+	local_monthly_food = 80.7
+}
+surplus_produced80_80 = {
+	local_monthly_food = 80.80
+}
+surplus_produced80_9 = {
+	local_monthly_food = 80.9
+}
+surplus_produced81_0 = {
+	local_monthly_food = 81.0
+}
+surplus_produced81_10 = {
+	local_monthly_food = 81.10
+}
+surplus_produced81_2 = {
+	local_monthly_food = 81.2
+}
+surplus_produced81_30 = {
+	local_monthly_food = 81.30
+}
+surplus_produced81_4 = {
+	local_monthly_food = 81.4
+}
+surplus_produced81_5 = {
+	local_monthly_food = 81.5
+}
+surplus_produced81_60 = {
+	local_monthly_food = 81.60
+}
+surplus_produced81_7 = {
+	local_monthly_food = 81.7
+}
+surplus_produced81_80 = {
+	local_monthly_food = 81.80
+}
+surplus_produced81_9 = {
+	local_monthly_food = 81.9
+}
+surplus_produced82_0 = {
+	local_monthly_food = 82.0
+}
+surplus_produced82_10 = {
+	local_monthly_food = 82.10
+}
+surplus_produced82_2 = {
+	local_monthly_food = 82.2
+}
+surplus_produced82_30 = {
+	local_monthly_food = 82.30
+}
+surplus_produced82_4 = {
+	local_monthly_food = 82.4
+}
+surplus_produced82_5 = {
+	local_monthly_food = 82.5
+}
+surplus_produced82_60 = {
+	local_monthly_food = 82.60
+}
+surplus_produced82_7 = {
+	local_monthly_food = 82.7
+}
+surplus_produced82_80 = {
+	local_monthly_food = 82.80
+}
+surplus_produced82_9 = {
+	local_monthly_food = 82.9
+}
+surplus_produced83_0 = {
+	local_monthly_food = 83.0
+}
+surplus_produced83_10 = {
+	local_monthly_food = 83.10
+}
+surplus_produced83_2 = {
+	local_monthly_food = 83.2
+}
+surplus_produced83_30 = {
+	local_monthly_food = 83.30
+}
+surplus_produced83_4 = {
+	local_monthly_food = 83.4
+}
+surplus_produced83_5 = {
+	local_monthly_food = 83.5
+}
+surplus_produced83_60 = {
+	local_monthly_food = 83.60
+}
+surplus_produced83_7 = {
+	local_monthly_food = 83.7
+}
+surplus_produced83_80 = {
+	local_monthly_food = 83.80
+}
+surplus_produced83_9 = {
+	local_monthly_food = 83.9
+}
+surplus_produced84_0 = {
+	local_monthly_food = 84.0
+}
+surplus_produced84_10 = {
+	local_monthly_food = 84.10
+}
+surplus_produced84_2 = {
+	local_monthly_food = 84.2
+}
+surplus_produced84_30 = {
+	local_monthly_food = 84.30
+}
+surplus_produced84_4 = {
+	local_monthly_food = 84.4
+}
+surplus_produced84_5 = {
+	local_monthly_food = 84.5
+}
+surplus_produced84_60 = {
+	local_monthly_food = 84.60
+}
+surplus_produced84_7 = {
+	local_monthly_food = 84.7
+}
+surplus_produced84_80 = {
+	local_monthly_food = 84.80
+}
+surplus_produced84_9 = {
+	local_monthly_food = 84.9
+}
+surplus_produced85_0 = {
+	local_monthly_food = 85.0
+}
+surplus_produced85_10 = {
+	local_monthly_food = 85.10
+}
+surplus_produced85_2 = {
+	local_monthly_food = 85.2
+}
+surplus_produced85_30 = {
+	local_monthly_food = 85.30
+}
+surplus_produced85_4 = {
+	local_monthly_food = 85.4
+}
+surplus_produced85_5 = {
+	local_monthly_food = 85.5
+}
+surplus_produced85_60 = {
+	local_monthly_food = 85.60
+}
+surplus_produced85_7 = {
+	local_monthly_food = 85.7
+}
+surplus_produced85_80 = {
+	local_monthly_food = 85.80
+}
+surplus_produced85_9 = {
+	local_monthly_food = 85.9
+}
+surplus_produced86_0 = {
+	local_monthly_food = 86.0
+}
+surplus_produced86_10 = {
+	local_monthly_food = 86.10
+}
+surplus_produced86_2 = {
+	local_monthly_food = 86.2
+}
+surplus_produced86_30 = {
+	local_monthly_food = 86.30
+}
+surplus_produced86_4 = {
+	local_monthly_food = 86.4
+}
+surplus_produced86_5 = {
+	local_monthly_food = 86.5
+}
+surplus_produced86_60 = {
+	local_monthly_food = 86.60
+}
+surplus_produced86_7 = {
+	local_monthly_food = 86.7
+}
+surplus_produced86_80 = {
+	local_monthly_food = 86.80
+}
+surplus_produced86_9 = {
+	local_monthly_food = 86.9
+}
+surplus_produced87_0 = {
+	local_monthly_food = 87.0
+}
+surplus_produced87_10 = {
+	local_monthly_food = 87.10
+}
+surplus_produced87_2 = {
+	local_monthly_food = 87.2
+}
+surplus_produced87_30 = {
+	local_monthly_food = 87.30
+}
+surplus_produced87_4 = {
+	local_monthly_food = 87.4
+}
+surplus_produced87_5 = {
+	local_monthly_food = 87.5
+}
+surplus_produced87_60 = {
+	local_monthly_food = 87.60
+}
+surplus_produced87_7 = {
+	local_monthly_food = 87.7
+}
+surplus_produced87_80 = {
+	local_monthly_food = 87.80
+}
+surplus_produced87_9 = {
+	local_monthly_food = 87.9
+}
+surplus_produced88_0 = {
+	local_monthly_food = 88.0
+}
+surplus_produced88_10 = {
+	local_monthly_food = 88.10
+}
+surplus_produced88_2 = {
+	local_monthly_food = 88.2
+}
+surplus_produced88_30 = {
+	local_monthly_food = 88.30
+}
+surplus_produced88_4 = {
+	local_monthly_food = 88.4
+}
+surplus_produced88_5 = {
+	local_monthly_food = 88.5
+}
+surplus_produced88_60 = {
+	local_monthly_food = 88.60
+}
+surplus_produced88_7 = {
+	local_monthly_food = 88.7
+}
+surplus_produced88_80 = {
+	local_monthly_food = 88.80
+}
+surplus_produced88_9 = {
+	local_monthly_food = 88.9
+}
+surplus_produced89_0 = {
+	local_monthly_food = 89.0
+}
+surplus_produced89_10 = {
+	local_monthly_food = 89.10
+}
+surplus_produced89_2 = {
+	local_monthly_food = 89.2
+}
+surplus_produced89_30 = {
+	local_monthly_food = 89.30
+}
+surplus_produced89_4 = {
+	local_monthly_food = 89.4
+}
+surplus_produced89_5 = {
+	local_monthly_food = 89.5
+}
+surplus_produced89_60 = {
+	local_monthly_food = 89.60
+}
+surplus_produced89_7 = {
+	local_monthly_food = 89.7
+}
+surplus_produced89_80 = {
+	local_monthly_food = 89.80
+}
+surplus_produced89_9 = {
+	local_monthly_food = 89.9
+}
+surplus_produced90_0 = {
+	local_monthly_food = 90.0
+}
+surplus_produced90_10 = {
+	local_monthly_food = 90.10
+}
+surplus_produced90_2 = {
+	local_monthly_food = 90.2
+}
+surplus_produced90_30 = {
+	local_monthly_food = 90.30
+}
+surplus_produced90_4 = {
+	local_monthly_food = 90.4
+}
+surplus_produced90_5 = {
+	local_monthly_food = 90.5
+}
+surplus_produced90_60 = {
+	local_monthly_food = 90.60
+}
+surplus_produced90_7 = {
+	local_monthly_food = 90.7
+}
+surplus_produced90_80 = {
+	local_monthly_food = 90.80
+}
+surplus_produced90_9 = {
+	local_monthly_food = 90.9
+}
+surplus_produced91_0 = {
+	local_monthly_food = 91.0
+}
+surplus_produced91_10 = {
+	local_monthly_food = 91.10
+}
+surplus_produced91_2 = {
+	local_monthly_food = 91.2
+}
+surplus_produced91_30 = {
+	local_monthly_food = 91.30
+}
+surplus_produced91_4 = {
+	local_monthly_food = 91.4
+}
+surplus_produced91_5 = {
+	local_monthly_food = 91.5
+}
+surplus_produced91_60 = {
+	local_monthly_food = 91.60
+}
+surplus_produced91_7 = {
+	local_monthly_food = 91.7
+}
+surplus_produced91_80 = {
+	local_monthly_food = 91.80
+}
+surplus_produced91_9 = {
+	local_monthly_food = 91.9
+}
+surplus_produced92_0 = {
+	local_monthly_food = 92.0
+}
+surplus_produced92_10 = {
+	local_monthly_food = 92.10
+}
+surplus_produced92_2 = {
+	local_monthly_food = 92.2
+}
+surplus_produced92_30 = {
+	local_monthly_food = 92.30
+}
+surplus_produced92_4 = {
+	local_monthly_food = 92.4
+}
+surplus_produced92_5 = {
+	local_monthly_food = 92.5
+}
+surplus_produced92_60 = {
+	local_monthly_food = 92.60
+}
+surplus_produced92_7 = {
+	local_monthly_food = 92.7
+}
+surplus_produced92_80 = {
+	local_monthly_food = 92.80
+}
+surplus_produced92_9 = {
+	local_monthly_food = 92.9
+}
+surplus_produced93_0 = {
+	local_monthly_food = 93.0
+}
+surplus_produced93_10 = {
+	local_monthly_food = 93.10
+}
+surplus_produced93_2 = {
+	local_monthly_food = 93.2
+}
+surplus_produced93_30 = {
+	local_monthly_food = 93.30
+}
+surplus_produced93_4 = {
+	local_monthly_food = 93.4
+}
+surplus_produced93_5 = {
+	local_monthly_food = 93.5
+}
+surplus_produced93_60 = {
+	local_monthly_food = 93.60
+}
+surplus_produced93_7 = {
+	local_monthly_food = 93.7
+}
+surplus_produced93_80 = {
+	local_monthly_food = 93.80
+}
+surplus_produced93_9 = {
+	local_monthly_food = 93.9
+}
+surplus_produced94_0 = {
+	local_monthly_food = 94.0
+}
+surplus_produced94_10 = {
+	local_monthly_food = 94.10
+}
+surplus_produced94_2 = {
+	local_monthly_food = 94.2
+}
+surplus_produced94_30 = {
+	local_monthly_food = 94.30
+}
+surplus_produced94_4 = {
+	local_monthly_food = 94.4
+}
+surplus_produced94_5 = {
+	local_monthly_food = 94.5
+}
+surplus_produced94_60 = {
+	local_monthly_food = 94.60
+}
+surplus_produced94_7 = {
+	local_monthly_food = 94.7
+}
+surplus_produced94_80 = {
+	local_monthly_food = 94.80
+}
+surplus_produced94_9 = {
+	local_monthly_food = 94.9
+}
+surplus_produced95_0 = {
+	local_monthly_food = 95.0
+}
+surplus_produced95_10 = {
+	local_monthly_food = 95.10
+}
+surplus_produced95_2 = {
+	local_monthly_food = 95.2
+}
+surplus_produced95_30 = {
+	local_monthly_food = 95.30
+}
+surplus_produced95_4 = {
+	local_monthly_food = 95.4
+}
+surplus_produced95_5 = {
+	local_monthly_food = 95.5
+}
+surplus_produced95_60 = {
+	local_monthly_food = 95.60
+}
+surplus_produced95_7 = {
+	local_monthly_food = 95.7
+}
+surplus_produced95_80 = {
+	local_monthly_food = 95.80
+}
+surplus_produced95_9 = {
+	local_monthly_food = 95.9
+}
+surplus_produced96_0 = {
+	local_monthly_food = 96.0
+}
+surplus_produced96_10 = {
+	local_monthly_food = 96.10
+}
+surplus_produced96_2 = {
+	local_monthly_food = 96.2
+}
+surplus_produced96_30 = {
+	local_monthly_food = 96.30
+}
+surplus_produced96_4 = {
+	local_monthly_food = 96.4
+}
+surplus_produced96_5 = {
+	local_monthly_food = 96.5
+}
+surplus_produced96_60 = {
+	local_monthly_food = 96.60
+}
+surplus_produced96_7 = {
+	local_monthly_food = 96.7
+}
+surplus_produced96_80 = {
+	local_monthly_food = 96.80
+}
+surplus_produced96_9 = {
+	local_monthly_food = 96.9
+}
+surplus_produced97_0 = {
+	local_monthly_food = 97.0
+}
+surplus_produced97_10 = {
+	local_monthly_food = 97.10
+}
+surplus_produced97_2 = {
+	local_monthly_food = 97.2
+}
+surplus_produced97_30 = {
+	local_monthly_food = 97.30
+}
+surplus_produced97_4 = {
+	local_monthly_food = 97.4
+}
+surplus_produced97_5 = {
+	local_monthly_food = 97.5
+}
+surplus_produced97_60 = {
+	local_monthly_food = 97.60
+}
+surplus_produced97_7 = {
+	local_monthly_food = 97.7
+}
+surplus_produced97_80 = {
+	local_monthly_food = 97.80
+}
+surplus_produced97_9 = {
+	local_monthly_food = 97.9
+}
+surplus_produced98_0 = {
+	local_monthly_food = 98.0
+}
+surplus_produced98_10 = {
+	local_monthly_food = 98.10
+}
+surplus_produced98_2 = {
+	local_monthly_food = 98.2
+}
+surplus_produced98_30 = {
+	local_monthly_food = 98.30
+}
+surplus_produced98_4 = {
+	local_monthly_food = 98.4
+}
+surplus_produced98_5 = {
+	local_monthly_food = 98.5
+}
+surplus_produced98_60 = {
+	local_monthly_food = 98.60
+}
+surplus_produced98_7 = {
+	local_monthly_food = 98.7
+}
+surplus_produced98_80 = {
+	local_monthly_food = 98.80
+}
+surplus_produced98_9 = {
+	local_monthly_food = 98.9
+}
+surplus_produced99_0 = {
+	local_monthly_food = 99.0
+}
+surplus_produced99_10 = {
+	local_monthly_food = 99.10
+}
+surplus_produced99_2 = {
+	local_monthly_food = 99.2
+}
+surplus_produced99_30 = {
+	local_monthly_food = 99.30
+}
+surplus_produced99_4 = {
+	local_monthly_food = 99.4
+}
+surplus_produced99_5 = {
+	local_monthly_food = 99.5
+}
+surplus_produced99_60 = {
+	local_monthly_food = 99.60
+}
+surplus_produced99_7 = {
+	local_monthly_food = 99.7
+}
+surplus_produced99_80 = {
+	local_monthly_food = 99.80
+}
+surplus_produced99_9 = {
+	local_monthly_food = 99.9
+}
+surplus_produced100_0 = {
+	local_monthly_food = 100.0
+}
 migration_attractionn50_0 = {
 	local_migration_attraction = -50.0
 }

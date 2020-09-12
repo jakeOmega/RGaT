@@ -1,0 +1,1215 @@
+﻿namespace=state_loyalty
+
+state_loyalty.1 = {
+	type = province_event
+	hidden = yes
+    
+    trigger = {has_owner = yes}
+	
+	immediate = {   
+
+			if = {limit = {has_province_modifier = state_loyalty0_0} remove_province_modifier = state_loyalty0_0}
+			if = {limit = {has_province_modifier = state_loyalty0_5} remove_province_modifier = state_loyalty0_5}
+			if = {limit = {has_province_modifier = state_loyalty1_0} remove_province_modifier = state_loyalty1_0}
+			if = {limit = {has_province_modifier = state_loyalty1_5} remove_province_modifier = state_loyalty1_5}
+			if = {limit = {has_province_modifier = state_loyalty2_0} remove_province_modifier = state_loyalty2_0}
+			if = {limit = {has_province_modifier = state_loyalty2_5} remove_province_modifier = state_loyalty2_5}
+			if = {limit = {has_province_modifier = state_loyalty3_0} remove_province_modifier = state_loyalty3_0}
+			if = {limit = {has_province_modifier = state_loyalty3_5} remove_province_modifier = state_loyalty3_5}
+			if = {limit = {has_province_modifier = state_loyalty4_0} remove_province_modifier = state_loyalty4_0}
+			if = {limit = {has_province_modifier = state_loyalty4_5} remove_province_modifier = state_loyalty4_5}
+			if = {limit = {has_province_modifier = state_loyalty5_0} remove_province_modifier = state_loyalty5_0}
+			if = {limit = {has_province_modifier = state_loyalty5_5} remove_province_modifier = state_loyalty5_5}
+			if = {limit = {has_province_modifier = state_loyalty6_0} remove_province_modifier = state_loyalty6_0}
+			if = {limit = {has_province_modifier = state_loyalty6_5} remove_province_modifier = state_loyalty6_5}
+			if = {limit = {has_province_modifier = state_loyalty7_0} remove_province_modifier = state_loyalty7_0}
+			if = {limit = {has_province_modifier = state_loyalty7_5} remove_province_modifier = state_loyalty7_5}
+			if = {limit = {has_province_modifier = state_loyalty8_0} remove_province_modifier = state_loyalty8_0}
+			if = {limit = {has_province_modifier = state_loyalty8_5} remove_province_modifier = state_loyalty8_5}
+			if = {limit = {has_province_modifier = state_loyalty9_0} remove_province_modifier = state_loyalty9_0}
+			if = {limit = {has_province_modifier = state_loyalty9_5} remove_province_modifier = state_loyalty9_5}
+			if = {limit = {has_province_modifier = state_loyalty10_0} remove_province_modifier = state_loyalty10_0}
+			if = {limit = {has_province_modifier = state_loyalty10_5} remove_province_modifier = state_loyalty10_5}
+			if = {limit = {has_province_modifier = state_loyalty11_0} remove_province_modifier = state_loyalty11_0}
+			if = {limit = {has_province_modifier = state_loyalty11_5} remove_province_modifier = state_loyalty11_5}
+			if = {limit = {has_province_modifier = state_loyalty12_0} remove_province_modifier = state_loyalty12_0}
+			if = {limit = {has_province_modifier = state_loyalty12_5} remove_province_modifier = state_loyalty12_5}
+			if = {limit = {has_province_modifier = state_loyalty13_0} remove_province_modifier = state_loyalty13_0}
+			if = {limit = {has_province_modifier = state_loyalty13_5} remove_province_modifier = state_loyalty13_5}
+			if = {limit = {has_province_modifier = state_loyalty14_0} remove_province_modifier = state_loyalty14_0}
+			if = {limit = {has_province_modifier = state_loyalty14_5} remove_province_modifier = state_loyalty14_5}
+			if = {limit = {has_province_modifier = state_loyalty15_0} remove_province_modifier = state_loyalty15_0}
+			if = {limit = {has_province_modifier = state_loyalty15_5} remove_province_modifier = state_loyalty15_5}
+			if = {limit = {has_province_modifier = state_loyalty16_0} remove_province_modifier = state_loyalty16_0}
+			if = {limit = {has_province_modifier = state_loyalty16_5} remove_province_modifier = state_loyalty16_5}
+			if = {limit = {has_province_modifier = state_loyalty17_0} remove_province_modifier = state_loyalty17_0}
+			if = {limit = {has_province_modifier = state_loyalty17_5} remove_province_modifier = state_loyalty17_5}
+			if = {limit = {has_province_modifier = state_loyalty18_0} remove_province_modifier = state_loyalty18_0}
+			if = {limit = {has_province_modifier = state_loyalty18_5} remove_province_modifier = state_loyalty18_5}
+			if = {limit = {has_province_modifier = state_loyalty19_0} remove_province_modifier = state_loyalty19_0}
+			if = {limit = {has_province_modifier = state_loyalty19_5} remove_province_modifier = state_loyalty19_5}
+			if = {limit = {has_province_modifier = state_loyalty20_0} remove_province_modifier = state_loyalty20_0}
+			if = {limit = {has_province_modifier = state_loyalty20_5} remove_province_modifier = state_loyalty20_5}
+			if = {limit = {has_province_modifier = state_loyalty21_0} remove_province_modifier = state_loyalty21_0}
+			if = {limit = {has_province_modifier = state_loyalty21_5} remove_province_modifier = state_loyalty21_5}
+			if = {limit = {has_province_modifier = state_loyalty22_0} remove_province_modifier = state_loyalty22_0}
+			if = {limit = {has_province_modifier = state_loyalty22_5} remove_province_modifier = state_loyalty22_5}
+			if = {limit = {has_province_modifier = state_loyalty23_0} remove_province_modifier = state_loyalty23_0}
+			if = {limit = {has_province_modifier = state_loyalty23_5} remove_province_modifier = state_loyalty23_5}
+			if = {limit = {has_province_modifier = state_loyalty24_0} remove_province_modifier = state_loyalty24_0}
+			if = {limit = {has_province_modifier = state_loyalty24_5} remove_province_modifier = state_loyalty24_5}
+			if = {limit = {has_province_modifier = state_loyalty25_0} remove_province_modifier = state_loyalty25_0}
+			if = {limit = {has_province_modifier = state_loyalty25_5} remove_province_modifier = state_loyalty25_5}
+			if = {limit = {has_province_modifier = state_loyalty26_0} remove_province_modifier = state_loyalty26_0}
+			if = {limit = {has_province_modifier = state_loyalty26_5} remove_province_modifier = state_loyalty26_5}
+			if = {limit = {has_province_modifier = state_loyalty27_0} remove_province_modifier = state_loyalty27_0}
+			if = {limit = {has_province_modifier = state_loyalty27_5} remove_province_modifier = state_loyalty27_5}
+			if = {limit = {has_province_modifier = state_loyalty28_0} remove_province_modifier = state_loyalty28_0}
+			if = {limit = {has_province_modifier = state_loyalty28_5} remove_province_modifier = state_loyalty28_5}
+			if = {limit = {has_province_modifier = state_loyalty29_0} remove_province_modifier = state_loyalty29_0}
+			if = {limit = {has_province_modifier = state_loyalty29_5} remove_province_modifier = state_loyalty29_5}
+			if = {limit = {has_province_modifier = state_loyalty30_0} remove_province_modifier = state_loyalty30_0}
+			if = {limit = {has_province_modifier = state_loyalty30_5} remove_province_modifier = state_loyalty30_5}
+			if = {limit = {has_province_modifier = state_loyalty31_0} remove_province_modifier = state_loyalty31_0}
+			if = {limit = {has_province_modifier = state_loyalty31_5} remove_province_modifier = state_loyalty31_5}
+			if = {limit = {has_province_modifier = state_loyalty32_0} remove_province_modifier = state_loyalty32_0}
+			if = {limit = {has_province_modifier = state_loyalty32_5} remove_province_modifier = state_loyalty32_5}
+			if = {limit = {has_province_modifier = state_loyalty33_0} remove_province_modifier = state_loyalty33_0}
+			if = {limit = {has_province_modifier = state_loyalty33_5} remove_province_modifier = state_loyalty33_5}
+			if = {limit = {has_province_modifier = state_loyalty34_0} remove_province_modifier = state_loyalty34_0}
+			if = {limit = {has_province_modifier = state_loyalty34_5} remove_province_modifier = state_loyalty34_5}
+			if = {limit = {has_province_modifier = state_loyalty35_0} remove_province_modifier = state_loyalty35_0}
+			if = {limit = {has_province_modifier = state_loyalty35_5} remove_province_modifier = state_loyalty35_5}
+			if = {limit = {has_province_modifier = state_loyalty36_0} remove_province_modifier = state_loyalty36_0}
+			if = {limit = {has_province_modifier = state_loyalty36_5} remove_province_modifier = state_loyalty36_5}
+			if = {limit = {has_province_modifier = state_loyalty37_0} remove_province_modifier = state_loyalty37_0}
+			if = {limit = {has_province_modifier = state_loyalty37_5} remove_province_modifier = state_loyalty37_5}
+			if = {limit = {has_province_modifier = state_loyalty38_0} remove_province_modifier = state_loyalty38_0}
+			if = {limit = {has_province_modifier = state_loyalty38_5} remove_province_modifier = state_loyalty38_5}
+			if = {limit = {has_province_modifier = state_loyalty39_0} remove_province_modifier = state_loyalty39_0}
+			if = {limit = {has_province_modifier = state_loyalty39_5} remove_province_modifier = state_loyalty39_5}
+			if = {limit = {has_province_modifier = state_loyalty40_0} remove_province_modifier = state_loyalty40_0}
+			if = {limit = {has_province_modifier = state_loyalty40_5} remove_province_modifier = state_loyalty40_5}
+			if = {limit = {has_province_modifier = state_loyalty41_0} remove_province_modifier = state_loyalty41_0}
+			if = {limit = {has_province_modifier = state_loyalty41_5} remove_province_modifier = state_loyalty41_5}
+			if = {limit = {has_province_modifier = state_loyalty42_0} remove_province_modifier = state_loyalty42_0}
+			if = {limit = {has_province_modifier = state_loyalty42_5} remove_province_modifier = state_loyalty42_5}
+			if = {limit = {has_province_modifier = state_loyalty43_0} remove_province_modifier = state_loyalty43_0}
+			if = {limit = {has_province_modifier = state_loyalty43_5} remove_province_modifier = state_loyalty43_5}
+			if = {limit = {has_province_modifier = state_loyalty44_0} remove_province_modifier = state_loyalty44_0}
+			if = {limit = {has_province_modifier = state_loyalty44_5} remove_province_modifier = state_loyalty44_5}
+			if = {limit = {has_province_modifier = state_loyalty45_0} remove_province_modifier = state_loyalty45_0}
+			if = {limit = {has_province_modifier = state_loyalty45_5} remove_province_modifier = state_loyalty45_5}
+			if = {limit = {has_province_modifier = state_loyalty46_0} remove_province_modifier = state_loyalty46_0}
+			if = {limit = {has_province_modifier = state_loyalty46_5} remove_province_modifier = state_loyalty46_5}
+			if = {limit = {has_province_modifier = state_loyalty47_0} remove_province_modifier = state_loyalty47_0}
+			if = {limit = {has_province_modifier = state_loyalty47_5} remove_province_modifier = state_loyalty47_5}
+			if = {limit = {has_province_modifier = state_loyalty48_0} remove_province_modifier = state_loyalty48_0}
+			if = {limit = {has_province_modifier = state_loyalty48_5} remove_province_modifier = state_loyalty48_5}
+			if = {limit = {has_province_modifier = state_loyalty49_0} remove_province_modifier = state_loyalty49_0}
+			if = {limit = {has_province_modifier = state_loyalty49_5} remove_province_modifier = state_loyalty49_5}
+			if = {limit = {has_province_modifier = state_loyalty50_0} remove_province_modifier = state_loyalty50_0}
+			if = {limit = {has_province_modifier = state_loyalty50_5} remove_province_modifier = state_loyalty50_5}
+			if = {limit = {has_province_modifier = state_loyalty51_0} remove_province_modifier = state_loyalty51_0}
+			if = {limit = {has_province_modifier = state_loyalty51_5} remove_province_modifier = state_loyalty51_5}
+			if = {limit = {has_province_modifier = state_loyalty52_0} remove_province_modifier = state_loyalty52_0}
+			if = {limit = {has_province_modifier = state_loyalty52_5} remove_province_modifier = state_loyalty52_5}
+			if = {limit = {has_province_modifier = state_loyalty53_0} remove_province_modifier = state_loyalty53_0}
+			if = {limit = {has_province_modifier = state_loyalty53_5} remove_province_modifier = state_loyalty53_5}
+			if = {limit = {has_province_modifier = state_loyalty54_0} remove_province_modifier = state_loyalty54_0}
+			if = {limit = {has_province_modifier = state_loyalty54_5} remove_province_modifier = state_loyalty54_5}
+			if = {limit = {has_province_modifier = state_loyalty55_0} remove_province_modifier = state_loyalty55_0}
+			if = {limit = {has_province_modifier = state_loyalty55_5} remove_province_modifier = state_loyalty55_5}
+			if = {limit = {has_province_modifier = state_loyalty56_0} remove_province_modifier = state_loyalty56_0}
+			if = {limit = {has_province_modifier = state_loyalty56_5} remove_province_modifier = state_loyalty56_5}
+			if = {limit = {has_province_modifier = state_loyalty57_0} remove_province_modifier = state_loyalty57_0}
+			if = {limit = {has_province_modifier = state_loyalty57_5} remove_province_modifier = state_loyalty57_5}
+			if = {limit = {has_province_modifier = state_loyalty58_0} remove_province_modifier = state_loyalty58_0}
+			if = {limit = {has_province_modifier = state_loyalty58_5} remove_province_modifier = state_loyalty58_5}
+			if = {limit = {has_province_modifier = state_loyalty59_0} remove_province_modifier = state_loyalty59_0}
+			if = {limit = {has_province_modifier = state_loyalty59_5} remove_province_modifier = state_loyalty59_5}
+			if = {limit = {has_province_modifier = state_loyalty60_0} remove_province_modifier = state_loyalty60_0}
+			if = {limit = {has_province_modifier = state_loyalty60_5} remove_province_modifier = state_loyalty60_5}
+			if = {limit = {has_province_modifier = state_loyalty61_0} remove_province_modifier = state_loyalty61_0}
+			if = {limit = {has_province_modifier = state_loyalty61_5} remove_province_modifier = state_loyalty61_5}
+			if = {limit = {has_province_modifier = state_loyalty62_0} remove_province_modifier = state_loyalty62_0}
+			if = {limit = {has_province_modifier = state_loyalty62_5} remove_province_modifier = state_loyalty62_5}
+			if = {limit = {has_province_modifier = state_loyalty63_0} remove_province_modifier = state_loyalty63_0}
+			if = {limit = {has_province_modifier = state_loyalty63_5} remove_province_modifier = state_loyalty63_5}
+			if = {limit = {has_province_modifier = state_loyalty64_0} remove_province_modifier = state_loyalty64_0}
+			if = {limit = {has_province_modifier = state_loyalty64_5} remove_province_modifier = state_loyalty64_5}
+			if = {limit = {has_province_modifier = state_loyalty65_0} remove_province_modifier = state_loyalty65_0}
+			if = {limit = {has_province_modifier = state_loyalty65_5} remove_province_modifier = state_loyalty65_5}
+			if = {limit = {has_province_modifier = state_loyalty66_0} remove_province_modifier = state_loyalty66_0}
+			if = {limit = {has_province_modifier = state_loyalty66_5} remove_province_modifier = state_loyalty66_5}
+			if = {limit = {has_province_modifier = state_loyalty67_0} remove_province_modifier = state_loyalty67_0}
+			if = {limit = {has_province_modifier = state_loyalty67_5} remove_province_modifier = state_loyalty67_5}
+			if = {limit = {has_province_modifier = state_loyalty68_0} remove_province_modifier = state_loyalty68_0}
+			if = {limit = {has_province_modifier = state_loyalty68_5} remove_province_modifier = state_loyalty68_5}
+			if = {limit = {has_province_modifier = state_loyalty69_0} remove_province_modifier = state_loyalty69_0}
+			if = {limit = {has_province_modifier = state_loyalty69_5} remove_province_modifier = state_loyalty69_5}
+			if = {limit = {has_province_modifier = state_loyalty70_0} remove_province_modifier = state_loyalty70_0}
+			if = {limit = {has_province_modifier = state_loyalty70_5} remove_province_modifier = state_loyalty70_5}
+			if = {limit = {has_province_modifier = state_loyalty71_0} remove_province_modifier = state_loyalty71_0}
+			if = {limit = {has_province_modifier = state_loyalty71_5} remove_province_modifier = state_loyalty71_5}
+			if = {limit = {has_province_modifier = state_loyalty72_0} remove_province_modifier = state_loyalty72_0}
+			if = {limit = {has_province_modifier = state_loyalty72_5} remove_province_modifier = state_loyalty72_5}
+			if = {limit = {has_province_modifier = state_loyalty73_0} remove_province_modifier = state_loyalty73_0}
+			if = {limit = {has_province_modifier = state_loyalty73_5} remove_province_modifier = state_loyalty73_5}
+			if = {limit = {has_province_modifier = state_loyalty74_0} remove_province_modifier = state_loyalty74_0}
+			if = {limit = {has_province_modifier = state_loyalty74_5} remove_province_modifier = state_loyalty74_5}
+			if = {limit = {has_province_modifier = state_loyalty75_0} remove_province_modifier = state_loyalty75_0}
+			if = {limit = {has_province_modifier = state_loyalty75_5} remove_province_modifier = state_loyalty75_5}
+			if = {limit = {has_province_modifier = state_loyalty76_0} remove_province_modifier = state_loyalty76_0}
+			if = {limit = {has_province_modifier = state_loyalty76_5} remove_province_modifier = state_loyalty76_5}
+			if = {limit = {has_province_modifier = state_loyalty77_0} remove_province_modifier = state_loyalty77_0}
+			if = {limit = {has_province_modifier = state_loyalty77_5} remove_province_modifier = state_loyalty77_5}
+			if = {limit = {has_province_modifier = state_loyalty78_0} remove_province_modifier = state_loyalty78_0}
+			if = {limit = {has_province_modifier = state_loyalty78_5} remove_province_modifier = state_loyalty78_5}
+			if = {limit = {has_province_modifier = state_loyalty79_0} remove_province_modifier = state_loyalty79_0}
+			if = {limit = {has_province_modifier = state_loyalty79_5} remove_province_modifier = state_loyalty79_5}
+			if = {limit = {has_province_modifier = state_loyalty80_0} remove_province_modifier = state_loyalty80_0}
+			if = {limit = {has_province_modifier = state_loyalty80_5} remove_province_modifier = state_loyalty80_5}
+			if = {limit = {has_province_modifier = state_loyalty81_0} remove_province_modifier = state_loyalty81_0}
+			if = {limit = {has_province_modifier = state_loyalty81_5} remove_province_modifier = state_loyalty81_5}
+			if = {limit = {has_province_modifier = state_loyalty82_0} remove_province_modifier = state_loyalty82_0}
+			if = {limit = {has_province_modifier = state_loyalty82_5} remove_province_modifier = state_loyalty82_5}
+			if = {limit = {has_province_modifier = state_loyalty83_0} remove_province_modifier = state_loyalty83_0}
+			if = {limit = {has_province_modifier = state_loyalty83_5} remove_province_modifier = state_loyalty83_5}
+			if = {limit = {has_province_modifier = state_loyalty84_0} remove_province_modifier = state_loyalty84_0}
+			if = {limit = {has_province_modifier = state_loyalty84_5} remove_province_modifier = state_loyalty84_5}
+			if = {limit = {has_province_modifier = state_loyalty85_0} remove_province_modifier = state_loyalty85_0}
+			if = {limit = {has_province_modifier = state_loyalty85_5} remove_province_modifier = state_loyalty85_5}
+			if = {limit = {has_province_modifier = state_loyalty86_0} remove_province_modifier = state_loyalty86_0}
+			if = {limit = {has_province_modifier = state_loyalty86_5} remove_province_modifier = state_loyalty86_5}
+			if = {limit = {has_province_modifier = state_loyalty87_0} remove_province_modifier = state_loyalty87_0}
+			if = {limit = {has_province_modifier = state_loyalty87_5} remove_province_modifier = state_loyalty87_5}
+			if = {limit = {has_province_modifier = state_loyalty88_0} remove_province_modifier = state_loyalty88_0}
+			if = {limit = {has_province_modifier = state_loyalty88_5} remove_province_modifier = state_loyalty88_5}
+			if = {limit = {has_province_modifier = state_loyalty89_0} remove_province_modifier = state_loyalty89_0}
+			if = {limit = {has_province_modifier = state_loyalty89_5} remove_province_modifier = state_loyalty89_5}
+			if = {limit = {has_province_modifier = state_loyalty90_0} remove_province_modifier = state_loyalty90_0}
+			if = {limit = {has_province_modifier = state_loyalty90_5} remove_province_modifier = state_loyalty90_5}
+			if = {limit = {has_province_modifier = state_loyalty91_0} remove_province_modifier = state_loyalty91_0}
+			if = {limit = {has_province_modifier = state_loyalty91_5} remove_province_modifier = state_loyalty91_5}
+			if = {limit = {has_province_modifier = state_loyalty92_0} remove_province_modifier = state_loyalty92_0}
+			if = {limit = {has_province_modifier = state_loyalty92_5} remove_province_modifier = state_loyalty92_5}
+			if = {limit = {has_province_modifier = state_loyalty93_0} remove_province_modifier = state_loyalty93_0}
+			if = {limit = {has_province_modifier = state_loyalty93_5} remove_province_modifier = state_loyalty93_5}
+			if = {limit = {has_province_modifier = state_loyalty94_0} remove_province_modifier = state_loyalty94_0}
+			if = {limit = {has_province_modifier = state_loyalty94_5} remove_province_modifier = state_loyalty94_5}
+			if = {limit = {has_province_modifier = state_loyalty95_0} remove_province_modifier = state_loyalty95_0}
+			if = {limit = {has_province_modifier = state_loyalty95_5} remove_province_modifier = state_loyalty95_5}
+			if = {limit = {has_province_modifier = state_loyalty96_0} remove_province_modifier = state_loyalty96_0}
+			if = {limit = {has_province_modifier = state_loyalty96_5} remove_province_modifier = state_loyalty96_5}
+			if = {limit = {has_province_modifier = state_loyalty97_0} remove_province_modifier = state_loyalty97_0}
+			if = {limit = {has_province_modifier = state_loyalty97_5} remove_province_modifier = state_loyalty97_5}
+			if = {limit = {has_province_modifier = state_loyalty98_0} remove_province_modifier = state_loyalty98_0}
+			if = {limit = {has_province_modifier = state_loyalty98_5} remove_province_modifier = state_loyalty98_5}
+			if = {limit = {has_province_modifier = state_loyalty99_0} remove_province_modifier = state_loyalty99_0}
+			if = {limit = {has_province_modifier = state_loyalty99_5} remove_province_modifier = state_loyalty99_5}
+			if = {limit = {has_province_modifier = state_loyalty100_0} remove_province_modifier = state_loyalty100_0}
+		if = { limit = {state.state_level_loyalty<50.0 }
+			if = { limit = {state.state_level_loyalty<25.0 }
+				if = { limit = {state.state_level_loyalty<12.5 }
+					if = { limit = {state.state_level_loyalty<6.0 }
+						if = { limit = {state.state_level_loyalty<3.0 }
+							if = { limit = {state.state_level_loyalty<1.5 }
+								if = { limit = {state.state_level_loyalty<0.5 }
+									add_permanent_province_modifier = { name = state_loyalty0_0}
+								}
+								else = { 
+									if = { limit = {state.state_level_loyalty<1.0 }
+										add_permanent_province_modifier = { name = state_loyalty0_5}
+									}
+									else = { 
+										add_permanent_province_modifier = { name = state_loyalty1_0}
+									}
+								}
+							}
+							else = { 
+								if = { limit = {state.state_level_loyalty<2.0 }
+									add_permanent_province_modifier = { name = state_loyalty1_5}
+								}
+								else = { 
+									if = { limit = {state.state_level_loyalty<2.5 }
+										add_permanent_province_modifier = { name = state_loyalty2_0}
+									}
+									else = { 
+										add_permanent_province_modifier = { name = state_loyalty2_5}
+									}
+								}
+							}
+						}
+						else = { 
+							if = { limit = {state.state_level_loyalty<4.5 }
+								if = { limit = {state.state_level_loyalty<3.5 }
+									add_permanent_province_modifier = { name = state_loyalty3_0}
+								}
+								else = { 
+									if = { limit = {state.state_level_loyalty<4.0 }
+										add_permanent_province_modifier = { name = state_loyalty3_5}
+									}
+									else = { 
+										add_permanent_province_modifier = { name = state_loyalty4_0}
+									}
+								}
+							}
+							else = { 
+								if = { limit = {state.state_level_loyalty<5.0 }
+									add_permanent_province_modifier = { name = state_loyalty4_5}
+								}
+								else = { 
+									if = { limit = {state.state_level_loyalty<5.5 }
+										add_permanent_province_modifier = { name = state_loyalty5_0}
+									}
+									else = { 
+										add_permanent_province_modifier = { name = state_loyalty5_5}
+									}
+								}
+							}
+						}
+					}
+					else = { 
+						if = { limit = {state.state_level_loyalty<9.0 }
+							if = { limit = {state.state_level_loyalty<7.5 }
+								if = { limit = {state.state_level_loyalty<6.5 }
+									add_permanent_province_modifier = { name = state_loyalty6_0}
+								}
+								else = { 
+									if = { limit = {state.state_level_loyalty<7.0 }
+										add_permanent_province_modifier = { name = state_loyalty6_5}
+									}
+									else = { 
+										add_permanent_province_modifier = { name = state_loyalty7_0}
+									}
+								}
+							}
+							else = { 
+								if = { limit = {state.state_level_loyalty<8.0 }
+									add_permanent_province_modifier = { name = state_loyalty7_5}
+								}
+								else = { 
+									if = { limit = {state.state_level_loyalty<8.5 }
+										add_permanent_province_modifier = { name = state_loyalty8_0}
+									}
+									else = { 
+										add_permanent_province_modifier = { name = state_loyalty8_5}
+									}
+								}
+							}
+						}
+						else = { 
+							if = { limit = {state.state_level_loyalty<10.5 }
+								if = { limit = {state.state_level_loyalty<9.5 }
+									add_permanent_province_modifier = { name = state_loyalty9_0}
+								}
+								else = { 
+									if = { limit = {state.state_level_loyalty<10.0 }
+										add_permanent_province_modifier = { name = state_loyalty9_5}
+									}
+									else = { 
+										add_permanent_province_modifier = { name = state_loyalty10_0}
+									}
+								}
+							}
+							else = { 
+								if = { limit = {state.state_level_loyalty<11.5 }
+									if = { limit = {state.state_level_loyalty<11.0 }
+										add_permanent_province_modifier = { name = state_loyalty10_5}
+									}
+									else = { 
+										add_permanent_province_modifier = { name = state_loyalty11_0}
+									}
+								}
+								else = { 
+									if = { limit = {state.state_level_loyalty<12.0 }
+										add_permanent_province_modifier = { name = state_loyalty11_5}
+									}
+									else = { 
+										add_permanent_province_modifier = { name = state_loyalty12_0}
+									}
+								}
+							}
+						}
+					}
+				}
+				else = { 
+					if = { limit = {state.state_level_loyalty<18.5 }
+						if = { limit = {state.state_level_loyalty<15.5 }
+							if = { limit = {state.state_level_loyalty<14.0 }
+								if = { limit = {state.state_level_loyalty<13.0 }
+									add_permanent_province_modifier = { name = state_loyalty12_5}
+								}
+								else = { 
+									if = { limit = {state.state_level_loyalty<13.5 }
+										add_permanent_province_modifier = { name = state_loyalty13_0}
+									}
+									else = { 
+										add_permanent_province_modifier = { name = state_loyalty13_5}
+									}
+								}
+							}
+							else = { 
+								if = { limit = {state.state_level_loyalty<14.5 }
+									add_permanent_province_modifier = { name = state_loyalty14_0}
+								}
+								else = { 
+									if = { limit = {state.state_level_loyalty<15.0 }
+										add_permanent_province_modifier = { name = state_loyalty14_5}
+									}
+									else = { 
+										add_permanent_province_modifier = { name = state_loyalty15_0}
+									}
+								}
+							}
+						}
+						else = { 
+							if = { limit = {state.state_level_loyalty<17.0 }
+								if = { limit = {state.state_level_loyalty<16.0 }
+									add_permanent_province_modifier = { name = state_loyalty15_5}
+								}
+								else = { 
+									if = { limit = {state.state_level_loyalty<16.5 }
+										add_permanent_province_modifier = { name = state_loyalty16_0}
+									}
+									else = { 
+										add_permanent_province_modifier = { name = state_loyalty16_5}
+									}
+								}
+							}
+							else = { 
+								if = { limit = {state.state_level_loyalty<17.5 }
+									add_permanent_province_modifier = { name = state_loyalty17_0}
+								}
+								else = { 
+									if = { limit = {state.state_level_loyalty<18.0 }
+										add_permanent_province_modifier = { name = state_loyalty17_5}
+									}
+									else = { 
+										add_permanent_province_modifier = { name = state_loyalty18_0}
+									}
+								}
+							}
+						}
+					}
+					else = { 
+						if = { limit = {state.state_level_loyalty<21.5 }
+							if = { limit = {state.state_level_loyalty<20.0 }
+								if = { limit = {state.state_level_loyalty<19.0 }
+									add_permanent_province_modifier = { name = state_loyalty18_5}
+								}
+								else = { 
+									if = { limit = {state.state_level_loyalty<19.5 }
+										add_permanent_province_modifier = { name = state_loyalty19_0}
+									}
+									else = { 
+										add_permanent_province_modifier = { name = state_loyalty19_5}
+									}
+								}
+							}
+							else = { 
+								if = { limit = {state.state_level_loyalty<20.5 }
+									add_permanent_province_modifier = { name = state_loyalty20_0}
+								}
+								else = { 
+									if = { limit = {state.state_level_loyalty<21.0 }
+										add_permanent_province_modifier = { name = state_loyalty20_5}
+									}
+									else = { 
+										add_permanent_province_modifier = { name = state_loyalty21_0}
+									}
+								}
+							}
+						}
+						else = { 
+							if = { limit = {state.state_level_loyalty<23.0 }
+								if = { limit = {state.state_level_loyalty<22.0 }
+									add_permanent_province_modifier = { name = state_loyalty21_5}
+								}
+								else = { 
+									if = { limit = {state.state_level_loyalty<22.5 }
+										add_permanent_province_modifier = { name = state_loyalty22_0}
+									}
+									else = { 
+										add_permanent_province_modifier = { name = state_loyalty22_5}
+									}
+								}
+							}
+							else = { 
+								if = { limit = {state.state_level_loyalty<24.0 }
+									if = { limit = {state.state_level_loyalty<23.5 }
+										add_permanent_province_modifier = { name = state_loyalty23_0}
+									}
+									else = { 
+										add_permanent_province_modifier = { name = state_loyalty23_5}
+									}
+								}
+								else = { 
+									if = { limit = {state.state_level_loyalty<24.5 }
+										add_permanent_province_modifier = { name = state_loyalty24_0}
+									}
+									else = { 
+										add_permanent_province_modifier = { name = state_loyalty24_5}
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+			else = { 
+				if = { limit = {state.state_level_loyalty<37.5 }
+					if = { limit = {state.state_level_loyalty<31.0 }
+						if = { limit = {state.state_level_loyalty<28.0 }
+							if = { limit = {state.state_level_loyalty<26.5 }
+								if = { limit = {state.state_level_loyalty<25.5 }
+									add_permanent_province_modifier = { name = state_loyalty25_0}
+								}
+								else = { 
+									if = { limit = {state.state_level_loyalty<26.0 }
+										add_permanent_province_modifier = { name = state_loyalty25_5}
+									}
+									else = { 
+										add_permanent_province_modifier = { name = state_loyalty26_0}
+									}
+								}
+							}
+							else = { 
+								if = { limit = {state.state_level_loyalty<27.0 }
+									add_permanent_province_modifier = { name = state_loyalty26_5}
+								}
+								else = { 
+									if = { limit = {state.state_level_loyalty<27.5 }
+										add_permanent_province_modifier = { name = state_loyalty27_0}
+									}
+									else = { 
+										add_permanent_province_modifier = { name = state_loyalty27_5}
+									}
+								}
+							}
+						}
+						else = { 
+							if = { limit = {state.state_level_loyalty<29.5 }
+								if = { limit = {state.state_level_loyalty<28.5 }
+									add_permanent_province_modifier = { name = state_loyalty28_0}
+								}
+								else = { 
+									if = { limit = {state.state_level_loyalty<29.0 }
+										add_permanent_province_modifier = { name = state_loyalty28_5}
+									}
+									else = { 
+										add_permanent_province_modifier = { name = state_loyalty29_0}
+									}
+								}
+							}
+							else = { 
+								if = { limit = {state.state_level_loyalty<30.0 }
+									add_permanent_province_modifier = { name = state_loyalty29_5}
+								}
+								else = { 
+									if = { limit = {state.state_level_loyalty<30.5 }
+										add_permanent_province_modifier = { name = state_loyalty30_0}
+									}
+									else = { 
+										add_permanent_province_modifier = { name = state_loyalty30_5}
+									}
+								}
+							}
+						}
+					}
+					else = { 
+						if = { limit = {state.state_level_loyalty<34.0 }
+							if = { limit = {state.state_level_loyalty<32.5 }
+								if = { limit = {state.state_level_loyalty<31.5 }
+									add_permanent_province_modifier = { name = state_loyalty31_0}
+								}
+								else = { 
+									if = { limit = {state.state_level_loyalty<32.0 }
+										add_permanent_province_modifier = { name = state_loyalty31_5}
+									}
+									else = { 
+										add_permanent_province_modifier = { name = state_loyalty32_0}
+									}
+								}
+							}
+							else = { 
+								if = { limit = {state.state_level_loyalty<33.0 }
+									add_permanent_province_modifier = { name = state_loyalty32_5}
+								}
+								else = { 
+									if = { limit = {state.state_level_loyalty<33.5 }
+										add_permanent_province_modifier = { name = state_loyalty33_0}
+									}
+									else = { 
+										add_permanent_province_modifier = { name = state_loyalty33_5}
+									}
+								}
+							}
+						}
+						else = { 
+							if = { limit = {state.state_level_loyalty<35.5 }
+								if = { limit = {state.state_level_loyalty<34.5 }
+									add_permanent_province_modifier = { name = state_loyalty34_0}
+								}
+								else = { 
+									if = { limit = {state.state_level_loyalty<35.0 }
+										add_permanent_province_modifier = { name = state_loyalty34_5}
+									}
+									else = { 
+										add_permanent_province_modifier = { name = state_loyalty35_0}
+									}
+								}
+							}
+							else = { 
+								if = { limit = {state.state_level_loyalty<36.5 }
+									if = { limit = {state.state_level_loyalty<36.0 }
+										add_permanent_province_modifier = { name = state_loyalty35_5}
+									}
+									else = { 
+										add_permanent_province_modifier = { name = state_loyalty36_0}
+									}
+								}
+								else = { 
+									if = { limit = {state.state_level_loyalty<37.0 }
+										add_permanent_province_modifier = { name = state_loyalty36_5}
+									}
+									else = { 
+										add_permanent_province_modifier = { name = state_loyalty37_0}
+									}
+								}
+							}
+						}
+					}
+				}
+				else = { 
+					if = { limit = {state.state_level_loyalty<43.5 }
+						if = { limit = {state.state_level_loyalty<40.5 }
+							if = { limit = {state.state_level_loyalty<39.0 }
+								if = { limit = {state.state_level_loyalty<38.0 }
+									add_permanent_province_modifier = { name = state_loyalty37_5}
+								}
+								else = { 
+									if = { limit = {state.state_level_loyalty<38.5 }
+										add_permanent_province_modifier = { name = state_loyalty38_0}
+									}
+									else = { 
+										add_permanent_province_modifier = { name = state_loyalty38_5}
+									}
+								}
+							}
+							else = { 
+								if = { limit = {state.state_level_loyalty<39.5 }
+									add_permanent_province_modifier = { name = state_loyalty39_0}
+								}
+								else = { 
+									if = { limit = {state.state_level_loyalty<40.0 }
+										add_permanent_province_modifier = { name = state_loyalty39_5}
+									}
+									else = { 
+										add_permanent_province_modifier = { name = state_loyalty40_0}
+									}
+								}
+							}
+						}
+						else = { 
+							if = { limit = {state.state_level_loyalty<42.0 }
+								if = { limit = {state.state_level_loyalty<41.0 }
+									add_permanent_province_modifier = { name = state_loyalty40_5}
+								}
+								else = { 
+									if = { limit = {state.state_level_loyalty<41.5 }
+										add_permanent_province_modifier = { name = state_loyalty41_0}
+									}
+									else = { 
+										add_permanent_province_modifier = { name = state_loyalty41_5}
+									}
+								}
+							}
+							else = { 
+								if = { limit = {state.state_level_loyalty<42.5 }
+									add_permanent_province_modifier = { name = state_loyalty42_0}
+								}
+								else = { 
+									if = { limit = {state.state_level_loyalty<43.0 }
+										add_permanent_province_modifier = { name = state_loyalty42_5}
+									}
+									else = { 
+										add_permanent_province_modifier = { name = state_loyalty43_0}
+									}
+								}
+							}
+						}
+					}
+					else = { 
+						if = { limit = {state.state_level_loyalty<46.5 }
+							if = { limit = {state.state_level_loyalty<45.0 }
+								if = { limit = {state.state_level_loyalty<44.0 }
+									add_permanent_province_modifier = { name = state_loyalty43_5}
+								}
+								else = { 
+									if = { limit = {state.state_level_loyalty<44.5 }
+										add_permanent_province_modifier = { name = state_loyalty44_0}
+									}
+									else = { 
+										add_permanent_province_modifier = { name = state_loyalty44_5}
+									}
+								}
+							}
+							else = { 
+								if = { limit = {state.state_level_loyalty<45.5 }
+									add_permanent_province_modifier = { name = state_loyalty45_0}
+								}
+								else = { 
+									if = { limit = {state.state_level_loyalty<46.0 }
+										add_permanent_province_modifier = { name = state_loyalty45_5}
+									}
+									else = { 
+										add_permanent_province_modifier = { name = state_loyalty46_0}
+									}
+								}
+							}
+						}
+						else = { 
+							if = { limit = {state.state_level_loyalty<48.0 }
+								if = { limit = {state.state_level_loyalty<47.0 }
+									add_permanent_province_modifier = { name = state_loyalty46_5}
+								}
+								else = { 
+									if = { limit = {state.state_level_loyalty<47.5 }
+										add_permanent_province_modifier = { name = state_loyalty47_0}
+									}
+									else = { 
+										add_permanent_province_modifier = { name = state_loyalty47_5}
+									}
+								}
+							}
+							else = { 
+								if = { limit = {state.state_level_loyalty<49.0 }
+									if = { limit = {state.state_level_loyalty<48.5 }
+										add_permanent_province_modifier = { name = state_loyalty48_0}
+									}
+									else = { 
+										add_permanent_province_modifier = { name = state_loyalty48_5}
+									}
+								}
+								else = { 
+									if = { limit = {state.state_level_loyalty<49.5 }
+										add_permanent_province_modifier = { name = state_loyalty49_0}
+									}
+									else = { 
+										add_permanent_province_modifier = { name = state_loyalty49_5}
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+		else = { 
+			if = { limit = {state.state_level_loyalty<75.0 }
+				if = { limit = {state.state_level_loyalty<62.5 }
+					if = { limit = {state.state_level_loyalty<56.0 }
+						if = { limit = {state.state_level_loyalty<53.0 }
+							if = { limit = {state.state_level_loyalty<51.5 }
+								if = { limit = {state.state_level_loyalty<50.5 }
+									add_permanent_province_modifier = { name = state_loyalty50_0}
+								}
+								else = { 
+									if = { limit = {state.state_level_loyalty<51.0 }
+										add_permanent_province_modifier = { name = state_loyalty50_5}
+									}
+									else = { 
+										add_permanent_province_modifier = { name = state_loyalty51_0}
+									}
+								}
+							}
+							else = { 
+								if = { limit = {state.state_level_loyalty<52.0 }
+									add_permanent_province_modifier = { name = state_loyalty51_5}
+								}
+								else = { 
+									if = { limit = {state.state_level_loyalty<52.5 }
+										add_permanent_province_modifier = { name = state_loyalty52_0}
+									}
+									else = { 
+										add_permanent_province_modifier = { name = state_loyalty52_5}
+									}
+								}
+							}
+						}
+						else = { 
+							if = { limit = {state.state_level_loyalty<54.5 }
+								if = { limit = {state.state_level_loyalty<53.5 }
+									add_permanent_province_modifier = { name = state_loyalty53_0}
+								}
+								else = { 
+									if = { limit = {state.state_level_loyalty<54.0 }
+										add_permanent_province_modifier = { name = state_loyalty53_5}
+									}
+									else = { 
+										add_permanent_province_modifier = { name = state_loyalty54_0}
+									}
+								}
+							}
+							else = { 
+								if = { limit = {state.state_level_loyalty<55.0 }
+									add_permanent_province_modifier = { name = state_loyalty54_5}
+								}
+								else = { 
+									if = { limit = {state.state_level_loyalty<55.5 }
+										add_permanent_province_modifier = { name = state_loyalty55_0}
+									}
+									else = { 
+										add_permanent_province_modifier = { name = state_loyalty55_5}
+									}
+								}
+							}
+						}
+					}
+					else = { 
+						if = { limit = {state.state_level_loyalty<59.0 }
+							if = { limit = {state.state_level_loyalty<57.5 }
+								if = { limit = {state.state_level_loyalty<56.5 }
+									add_permanent_province_modifier = { name = state_loyalty56_0}
+								}
+								else = { 
+									if = { limit = {state.state_level_loyalty<57.0 }
+										add_permanent_province_modifier = { name = state_loyalty56_5}
+									}
+									else = { 
+										add_permanent_province_modifier = { name = state_loyalty57_0}
+									}
+								}
+							}
+							else = { 
+								if = { limit = {state.state_level_loyalty<58.0 }
+									add_permanent_province_modifier = { name = state_loyalty57_5}
+								}
+								else = { 
+									if = { limit = {state.state_level_loyalty<58.5 }
+										add_permanent_province_modifier = { name = state_loyalty58_0}
+									}
+									else = { 
+										add_permanent_province_modifier = { name = state_loyalty58_5}
+									}
+								}
+							}
+						}
+						else = { 
+							if = { limit = {state.state_level_loyalty<60.5 }
+								if = { limit = {state.state_level_loyalty<59.5 }
+									add_permanent_province_modifier = { name = state_loyalty59_0}
+								}
+								else = { 
+									if = { limit = {state.state_level_loyalty<60.0 }
+										add_permanent_province_modifier = { name = state_loyalty59_5}
+									}
+									else = { 
+										add_permanent_province_modifier = { name = state_loyalty60_0}
+									}
+								}
+							}
+							else = { 
+								if = { limit = {state.state_level_loyalty<61.5 }
+									if = { limit = {state.state_level_loyalty<61.0 }
+										add_permanent_province_modifier = { name = state_loyalty60_5}
+									}
+									else = { 
+										add_permanent_province_modifier = { name = state_loyalty61_0}
+									}
+								}
+								else = { 
+									if = { limit = {state.state_level_loyalty<62.0 }
+										add_permanent_province_modifier = { name = state_loyalty61_5}
+									}
+									else = { 
+										add_permanent_province_modifier = { name = state_loyalty62_0}
+									}
+								}
+							}
+						}
+					}
+				}
+				else = { 
+					if = { limit = {state.state_level_loyalty<68.5 }
+						if = { limit = {state.state_level_loyalty<65.5 }
+							if = { limit = {state.state_level_loyalty<64.0 }
+								if = { limit = {state.state_level_loyalty<63.0 }
+									add_permanent_province_modifier = { name = state_loyalty62_5}
+								}
+								else = { 
+									if = { limit = {state.state_level_loyalty<63.5 }
+										add_permanent_province_modifier = { name = state_loyalty63_0}
+									}
+									else = { 
+										add_permanent_province_modifier = { name = state_loyalty63_5}
+									}
+								}
+							}
+							else = { 
+								if = { limit = {state.state_level_loyalty<64.5 }
+									add_permanent_province_modifier = { name = state_loyalty64_0}
+								}
+								else = { 
+									if = { limit = {state.state_level_loyalty<65.0 }
+										add_permanent_province_modifier = { name = state_loyalty64_5}
+									}
+									else = { 
+										add_permanent_province_modifier = { name = state_loyalty65_0}
+									}
+								}
+							}
+						}
+						else = { 
+							if = { limit = {state.state_level_loyalty<67.0 }
+								if = { limit = {state.state_level_loyalty<66.0 }
+									add_permanent_province_modifier = { name = state_loyalty65_5}
+								}
+								else = { 
+									if = { limit = {state.state_level_loyalty<66.5 }
+										add_permanent_province_modifier = { name = state_loyalty66_0}
+									}
+									else = { 
+										add_permanent_province_modifier = { name = state_loyalty66_5}
+									}
+								}
+							}
+							else = { 
+								if = { limit = {state.state_level_loyalty<67.5 }
+									add_permanent_province_modifier = { name = state_loyalty67_0}
+								}
+								else = { 
+									if = { limit = {state.state_level_loyalty<68.0 }
+										add_permanent_province_modifier = { name = state_loyalty67_5}
+									}
+									else = { 
+										add_permanent_province_modifier = { name = state_loyalty68_0}
+									}
+								}
+							}
+						}
+					}
+					else = { 
+						if = { limit = {state.state_level_loyalty<71.5 }
+							if = { limit = {state.state_level_loyalty<70.0 }
+								if = { limit = {state.state_level_loyalty<69.0 }
+									add_permanent_province_modifier = { name = state_loyalty68_5}
+								}
+								else = { 
+									if = { limit = {state.state_level_loyalty<69.5 }
+										add_permanent_province_modifier = { name = state_loyalty69_0}
+									}
+									else = { 
+										add_permanent_province_modifier = { name = state_loyalty69_5}
+									}
+								}
+							}
+							else = { 
+								if = { limit = {state.state_level_loyalty<70.5 }
+									add_permanent_province_modifier = { name = state_loyalty70_0}
+								}
+								else = { 
+									if = { limit = {state.state_level_loyalty<71.0 }
+										add_permanent_province_modifier = { name = state_loyalty70_5}
+									}
+									else = { 
+										add_permanent_province_modifier = { name = state_loyalty71_0}
+									}
+								}
+							}
+						}
+						else = { 
+							if = { limit = {state.state_level_loyalty<73.0 }
+								if = { limit = {state.state_level_loyalty<72.0 }
+									add_permanent_province_modifier = { name = state_loyalty71_5}
+								}
+								else = { 
+									if = { limit = {state.state_level_loyalty<72.5 }
+										add_permanent_province_modifier = { name = state_loyalty72_0}
+									}
+									else = { 
+										add_permanent_province_modifier = { name = state_loyalty72_5}
+									}
+								}
+							}
+							else = { 
+								if = { limit = {state.state_level_loyalty<74.0 }
+									if = { limit = {state.state_level_loyalty<73.5 }
+										add_permanent_province_modifier = { name = state_loyalty73_0}
+									}
+									else = { 
+										add_permanent_province_modifier = { name = state_loyalty73_5}
+									}
+								}
+								else = { 
+									if = { limit = {state.state_level_loyalty<74.5 }
+										add_permanent_province_modifier = { name = state_loyalty74_0}
+									}
+									else = { 
+										add_permanent_province_modifier = { name = state_loyalty74_5}
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+			else = { 
+				if = { limit = {state.state_level_loyalty<87.5 }
+					if = { limit = {state.state_level_loyalty<81.0 }
+						if = { limit = {state.state_level_loyalty<78.0 }
+							if = { limit = {state.state_level_loyalty<76.5 }
+								if = { limit = {state.state_level_loyalty<75.5 }
+									add_permanent_province_modifier = { name = state_loyalty75_0}
+								}
+								else = { 
+									if = { limit = {state.state_level_loyalty<76.0 }
+										add_permanent_province_modifier = { name = state_loyalty75_5}
+									}
+									else = { 
+										add_permanent_province_modifier = { name = state_loyalty76_0}
+									}
+								}
+							}
+							else = { 
+								if = { limit = {state.state_level_loyalty<77.0 }
+									add_permanent_province_modifier = { name = state_loyalty76_5}
+								}
+								else = { 
+									if = { limit = {state.state_level_loyalty<77.5 }
+										add_permanent_province_modifier = { name = state_loyalty77_0}
+									}
+									else = { 
+										add_permanent_province_modifier = { name = state_loyalty77_5}
+									}
+								}
+							}
+						}
+						else = { 
+							if = { limit = {state.state_level_loyalty<79.5 }
+								if = { limit = {state.state_level_loyalty<78.5 }
+									add_permanent_province_modifier = { name = state_loyalty78_0}
+								}
+								else = { 
+									if = { limit = {state.state_level_loyalty<79.0 }
+										add_permanent_province_modifier = { name = state_loyalty78_5}
+									}
+									else = { 
+										add_permanent_province_modifier = { name = state_loyalty79_0}
+									}
+								}
+							}
+							else = { 
+								if = { limit = {state.state_level_loyalty<80.0 }
+									add_permanent_province_modifier = { name = state_loyalty79_5}
+								}
+								else = { 
+									if = { limit = {state.state_level_loyalty<80.5 }
+										add_permanent_province_modifier = { name = state_loyalty80_0}
+									}
+									else = { 
+										add_permanent_province_modifier = { name = state_loyalty80_5}
+									}
+								}
+							}
+						}
+					}
+					else = { 
+						if = { limit = {state.state_level_loyalty<84.0 }
+							if = { limit = {state.state_level_loyalty<82.5 }
+								if = { limit = {state.state_level_loyalty<81.5 }
+									add_permanent_province_modifier = { name = state_loyalty81_0}
+								}
+								else = { 
+									if = { limit = {state.state_level_loyalty<82.0 }
+										add_permanent_province_modifier = { name = state_loyalty81_5}
+									}
+									else = { 
+										add_permanent_province_modifier = { name = state_loyalty82_0}
+									}
+								}
+							}
+							else = { 
+								if = { limit = {state.state_level_loyalty<83.0 }
+									add_permanent_province_modifier = { name = state_loyalty82_5}
+								}
+								else = { 
+									if = { limit = {state.state_level_loyalty<83.5 }
+										add_permanent_province_modifier = { name = state_loyalty83_0}
+									}
+									else = { 
+										add_permanent_province_modifier = { name = state_loyalty83_5}
+									}
+								}
+							}
+						}
+						else = { 
+							if = { limit = {state.state_level_loyalty<85.5 }
+								if = { limit = {state.state_level_loyalty<84.5 }
+									add_permanent_province_modifier = { name = state_loyalty84_0}
+								}
+								else = { 
+									if = { limit = {state.state_level_loyalty<85.0 }
+										add_permanent_province_modifier = { name = state_loyalty84_5}
+									}
+									else = { 
+										add_permanent_province_modifier = { name = state_loyalty85_0}
+									}
+								}
+							}
+							else = { 
+								if = { limit = {state.state_level_loyalty<86.5 }
+									if = { limit = {state.state_level_loyalty<86.0 }
+										add_permanent_province_modifier = { name = state_loyalty85_5}
+									}
+									else = { 
+										add_permanent_province_modifier = { name = state_loyalty86_0}
+									}
+								}
+								else = { 
+									if = { limit = {state.state_level_loyalty<87.0 }
+										add_permanent_province_modifier = { name = state_loyalty86_5}
+									}
+									else = { 
+										add_permanent_province_modifier = { name = state_loyalty87_0}
+									}
+								}
+							}
+						}
+					}
+				}
+				else = { 
+					if = { limit = {state.state_level_loyalty<94.0 }
+						if = { limit = {state.state_level_loyalty<90.5 }
+							if = { limit = {state.state_level_loyalty<89.0 }
+								if = { limit = {state.state_level_loyalty<88.0 }
+									add_permanent_province_modifier = { name = state_loyalty87_5}
+								}
+								else = { 
+									if = { limit = {state.state_level_loyalty<88.5 }
+										add_permanent_province_modifier = { name = state_loyalty88_0}
+									}
+									else = { 
+										add_permanent_province_modifier = { name = state_loyalty88_5}
+									}
+								}
+							}
+							else = { 
+								if = { limit = {state.state_level_loyalty<89.5 }
+									add_permanent_province_modifier = { name = state_loyalty89_0}
+								}
+								else = { 
+									if = { limit = {state.state_level_loyalty<90.0 }
+										add_permanent_province_modifier = { name = state_loyalty89_5}
+									}
+									else = { 
+										add_permanent_province_modifier = { name = state_loyalty90_0}
+									}
+								}
+							}
+						}
+						else = { 
+							if = { limit = {state.state_level_loyalty<92.0 }
+								if = { limit = {state.state_level_loyalty<91.0 }
+									add_permanent_province_modifier = { name = state_loyalty90_5}
+								}
+								else = { 
+									if = { limit = {state.state_level_loyalty<91.5 }
+										add_permanent_province_modifier = { name = state_loyalty91_0}
+									}
+									else = { 
+										add_permanent_province_modifier = { name = state_loyalty91_5}
+									}
+								}
+							}
+							else = { 
+								if = { limit = {state.state_level_loyalty<93.0 }
+									if = { limit = {state.state_level_loyalty<92.5 }
+										add_permanent_province_modifier = { name = state_loyalty92_0}
+									}
+									else = { 
+										add_permanent_province_modifier = { name = state_loyalty92_5}
+									}
+								}
+								else = { 
+									if = { limit = {state.state_level_loyalty<93.5 }
+										add_permanent_province_modifier = { name = state_loyalty93_0}
+									}
+									else = { 
+										add_permanent_province_modifier = { name = state_loyalty93_5}
+									}
+								}
+							}
+						}
+					}
+					else = { 
+						if = { limit = {state.state_level_loyalty<97.0 }
+							if = { limit = {state.state_level_loyalty<95.5 }
+								if = { limit = {state.state_level_loyalty<94.5 }
+									add_permanent_province_modifier = { name = state_loyalty94_0}
+								}
+								else = { 
+									if = { limit = {state.state_level_loyalty<95.0 }
+										add_permanent_province_modifier = { name = state_loyalty94_5}
+									}
+									else = { 
+										add_permanent_province_modifier = { name = state_loyalty95_0}
+									}
+								}
+							}
+							else = { 
+								if = { limit = {state.state_level_loyalty<96.0 }
+									add_permanent_province_modifier = { name = state_loyalty95_5}
+								}
+								else = { 
+									if = { limit = {state.state_level_loyalty<96.5 }
+										add_permanent_province_modifier = { name = state_loyalty96_0}
+									}
+									else = { 
+										add_permanent_province_modifier = { name = state_loyalty96_5}
+									}
+								}
+							}
+						}
+						else = { 
+							if = { limit = {state.state_level_loyalty<98.5 }
+								if = { limit = {state.state_level_loyalty<97.5 }
+									add_permanent_province_modifier = { name = state_loyalty97_0}
+								}
+								else = { 
+									if = { limit = {state.state_level_loyalty<98.0 }
+										add_permanent_province_modifier = { name = state_loyalty97_5}
+									}
+									else = { 
+										add_permanent_province_modifier = { name = state_loyalty98_0}
+									}
+								}
+							}
+							else = { 
+								if = { limit = {state.state_level_loyalty<99.5 }
+									if = { limit = {state.state_level_loyalty<99.0 }
+										add_permanent_province_modifier = { name = state_loyalty98_5}
+									}
+									else = { 
+										add_permanent_province_modifier = { name = state_loyalty99_0}
+									}
+								}
+								else = { 
+									if = { limit = {state.state_level_loyalty<100.0 }
+										add_permanent_province_modifier = { name = state_loyalty99_5}
+									}
+									else = { 
+										add_permanent_province_modifier = { name = state_loyalty100_0}
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+    }
+}
+

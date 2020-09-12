@@ -53,9 +53,7 @@ character_notification.3 = {
 	trigger = {
 		any_character = {
 			NOT = { has_variable = prominence_flag }
-			OR = {
-				prominence < 60
-			}
+			prominence < 60
 		}
 	}
 	
@@ -63,9 +61,7 @@ character_notification.3 = {
 		every_character = {
 			limit = {
 				NOT = { has_variable = prominence_flag }
-				OR = {
-					prominence < 60
-				}
+				prominence < 60
 			}
 			save_scope_as = prominent_character
 			set_variable = {
@@ -92,8 +88,6 @@ character_notification.4 = {
 
 character_notification.5 = {
 	type = character_event
-	picture = elephant_battle
-	title = "Overlooked for Office"
 	hidden = yes
 	
 	trigger = {
@@ -103,6 +97,7 @@ character_notification.5 = {
 				prominence > root.prominence
 				job_prestige_sval < root.job_prestige_sval
 				is_ruler = no
+				is_co_ruler = no
 				prisoner = no
 				is_alive = yes
 			}

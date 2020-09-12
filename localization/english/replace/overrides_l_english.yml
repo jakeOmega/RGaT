@@ -1,5 +1,5 @@
 ﻿l_english:
-AGRESSIVE_EXPANSION_TT:1 "#T Overextension#!\nThis changes by $CHANGE|-=$ each month, and has the following impact:\n$EFFECT$\n\nThe monthly change is due to:\n$WHY$\n\n#TF Overextension is a measure of the inability of your state to keep up with recent conquests. It increase travel time to your distant provinces. #!"
+AGRESSIVE_EXPANSION_TT:1 "#T Overextension#!\nThis changes by $CHANGE|-=$ each month, and has the following impact:\n$EFFECT$\n\nThe monthly change is due to:\n$WHY$\n\n#TF Overextension is a measure of the inability of your state to keep up with recent conquests. #!"
 MONTHLY_AE_CHANGE:0 "#T Monthly Overextension#!\nThe monthly change of $VAL|-=2$ is due to:\n$WHY$"
 NO_DECAY_IN_OFF_WAR:0 "@trigger_no!There is no inherent decay of our current #Y Overextension#!, as we are currently the aggressors in a war."
 THREATEN_WAR_FLAVOR:1 "Threatening war allows a country to take a territory from another without fighting a war against them. If accepted, the chosen territory will be transferred in exchange for Overextension."
@@ -21,3 +21,6 @@ AGGRESSIVE_EXPANSION_NOT_TRIGGER:0 "Has NOT $COMPARATOR$ $NUM|Y$ Overextension."
 AGGRESSIVE_EXPANSION_TRIGGER:0 "Has $COMPARATOR$ $NUM|Y$ Overextension."
 naval_raiding_ae_gain_tooltip:1 "We will gain #R [SCOPE.ScriptValue('naval_raiding_ae_gain_tooltip_svalue')|0]#! Overextension."
 naval_raiding_tooltip:2 "This navy can raid up to #Y [SCOPE.ScriptValue('naval_raid_capacity_tooltip_svalue')|0]#! adjacent ports for #Y Slaves#! if they are protected by fewer than #Y [SCOPE.ScriptValue('naval_raid_fort_limit_tooltip_svalue')|0]#! fortress levels and have a population above #Y 5#!.\nPerforming a Naval Raid will cause #R 1#! Overextension point and an additional #R 1#! point per raided port (up to #R [SCOPE.ScriptValue('naval_raid_capacity_tooltip_svalue')|0]#!)."
+town_hall_building:0 "Urban Industry"
+basic_settlement_infratructure_building:0 "Food Export Infrastructure"
+grain:0 "Food Exports"

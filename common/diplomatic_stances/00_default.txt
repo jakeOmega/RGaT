@@ -1,0 +1,11 @@
+﻿appeasement_stance = {
+	modifier = {
+		improve_relation_cost_modifier = -0.5
+	}
+	ai_will_do = {
+		modifier = {
+			add = has_aggressive_expansion
+			war = no
+		}
+	}
+}

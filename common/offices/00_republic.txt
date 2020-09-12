@@ -4,17 +4,15 @@
 
 
 	skill_modifier = {
-		monthly_tyranny = -0.05
-		monthly_political_influence = 0.05
-		loyalty_gain_chance_modifier = -0.05
+		monthly_party_approval = 0.02
 	}
 	personal_modifier = {
 		senate_influence = 0.15
 		monthly_wage_for_character = 0.02
 		prominence = 30
 		monthly_character_fam_prestige = 0.1
-		monthly_character_experience = 0.5
-		monthly_character_prominence = 0.5
+		monthly_character_prominence = 0.25
+		monthly_character_experience = 0.8
 	}
 }
 
@@ -23,17 +21,16 @@ office_praetor = {
 	skill = charisma
 	
 	skill_modifier = {
-		culture_happiness_modifier = 0.025
-		monthly_corruption = -0.05
+		diplomatic_reputation = 0.25
 	}
 	
 	personal_modifier = {
 		monthly_wage_for_character = 0.01
 		monthly_character_popularity = 0.01
-		monthly_character_experience = 1
+		monthly_character_prominence = 0.05
+		monthly_character_experience = 0.7
 		monthly_character_fam_prestige = 0.1
 		prominence = 10
-		monthly_character_prominence = 0.25
 	}
 	
 }
@@ -45,34 +42,35 @@ office_tribune_of_the_soldiers = {
 
 
 	skill_modifier = {
-		discipline = 0.025
+		discipline = 0.005
 	}
 	personal_modifier = {
 		prominence = 10
 
 		monthly_wage_for_character = 0.01
+		monthly_character_prominence = 0.05
 		monthly_character_fam_prestige = 0.1
-		monthly_character_experience = 2
-		monthly_character_prominence = 0.125
+		monthly_character_experience = 0.8
 	}
 }
 
 office_tribune_of_the_treasury = {
 
 	type = republic
-	skill = finesse
+	skill = martial
 
 
 	skill_modifier = {
-		global_tax_modifier = 0.1
+		global_tax_modifier = 0.015
 	}
 	personal_modifier = {
 		monthly_character_popularity = 0.01
 		monthly_wage_for_character = 0.01
 		monthly_character_fam_prestige = 0.1
 		prominence = 10
-		monthly_character_prominence = 0.125
-		monthly_character_experience = 2
+
+		monthly_character_prominence = 0.05
+		monthly_character_experience = 0.8
 	}
 }
 
@@ -82,14 +80,14 @@ office_augur = {
 
 
 	skill_modifier = {
-		omen_power = 0.05
+		omen_power = 0.03
 	}
 	personal_modifier = {
 		prominence = 5
 		monthly_character_fam_prestige = 0.1
-		monthly_character_experience = 0.5
+		monthly_character_prominence = 0.05
+		monthly_character_experience = 0.6
 		monthly_wage_for_character = 0.01
-		monthly_character_prominence = 0.125
 	}
 }
 
@@ -100,15 +98,14 @@ office_pontifex = {
 
 
 	skill_modifier = {
-		change_pantheon_cost_modifier = -0.05
-		enact_holy_site_cost_modifier = -0.05
+		stability_cost_modifier = -0.02
 	}
 	personal_modifier = {
 		prominence = 10
 		monthly_character_fam_prestige = 0.1
-		monthly_character_experience = 0.5
+		monthly_character_prominence = 0.05
+		monthly_character_experience = 0.8
 		monthly_wage_for_character = 0.01
-		monthly_character_prominence = 0.25
 	}
 	
 }
@@ -119,17 +116,16 @@ office_plebeian_aedile = {
 
 
 	skill_modifier = {
-		global_freemen_happyness = 0.05
-		stability_monthly_change = 0.05
-		monthly_political_influence = -0.025
+		global_freemen_happyness = 0.006
 	}
 	personal_modifier = {
 		senate_influence = 0.1
 		monthly_character_popularity = 0.01
+		monthly_character_prominence = 0.05
 		monthly_character_fam_prestige = 0.1
-		monthly_character_experience = 2
+		monthly_character_experience = 0.8
 		monthly_wage_for_character = 0.01
-		monthly_character_prominence = 0.25
+
 		prominence = 10
 	}
 }
@@ -140,14 +136,14 @@ office_republic_physician = {
 	skill = finesse
 	
 	skill_modifier = {
-		health = 0.025
+		health = 0.005
 	}
 	
 	personal_modifier = {
 		prominence = 5
 		monthly_character_fam_prestige = 0.1
-		monthly_character_experience = 1
+		monthly_character_prominence = 0.05
+		monthly_character_experience = 0.5
 		monthly_wage_for_character = 0.01
-		monthly_character_prominence = 0.125
 	}
 }

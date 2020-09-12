@@ -1,0 +1,43 @@
+namespace = recolonization
+
+recolonization.1 = {
+	type = province_event
+	hidden = yes
+	
+	trigger = {
+		any_neighbor_province = {
+			has_owner = no
+			has_variable = settled_flag
+		}
+		has_owner = yes
+		total_population > 1
+		any_pops_in_province = {
+			OR = {
+				pop_type = freemen
+				pop_type = citizen
+				pop_type = tribesmen
+			}
+		}
+	}
+	
+	immediate = {
+		random_neighbor_province = {
+			limit = {
+				has_owner = no
+				has_variable = settled_flag
+			}
+			save_scope_as = colonized_prov
+			set_owned_by = root.owner
+		}
+		random_pops_in_province = {
+			limit = {
+				OR = {
+					pop_type = freemen
+					pop_type = citizen
+					pop_type = tribesmen
+				}
+			}
+			move_pop = scope:colonized_prov
+		}
+	}
+}

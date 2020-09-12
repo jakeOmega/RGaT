@@ -1,0 +1,3004 @@
+﻿
+troop_maintenance0_0 = {
+	global_manpower_modifier = -0.0
+}
+troop_maintenance0_1 = {
+	global_manpower_modifier = -0.001
+}
+troop_maintenance0_2 = {
+	global_manpower_modifier = -0.002
+}
+troop_maintenance0_30000000000000004 = {
+	global_manpower_modifier = -0.0030000000000000005
+}
+troop_maintenance0_4 = {
+	global_manpower_modifier = -0.004
+}
+troop_maintenance0_5 = {
+	global_manpower_modifier = -0.005
+}
+troop_maintenance0_6000000000000001 = {
+	global_manpower_modifier = -0.006000000000000001
+}
+troop_maintenance0_7000000000000001 = {
+	global_manpower_modifier = -0.007000000000000001
+}
+troop_maintenance0_8 = {
+	global_manpower_modifier = -0.008
+}
+troop_maintenance0_9 = {
+	global_manpower_modifier = -0.009000000000000001
+}
+troop_maintenance1_0 = {
+	global_manpower_modifier = -0.01
+}
+troop_maintenance1_1 = {
+	global_manpower_modifier = -0.011000000000000001
+}
+troop_maintenance1_2000000000000002 = {
+	global_manpower_modifier = -0.012000000000000002
+}
+troop_maintenance1_3 = {
+	global_manpower_modifier = -0.013000000000000001
+}
+troop_maintenance1_4000000000000001 = {
+	global_manpower_modifier = -0.014000000000000002
+}
+troop_maintenance1_5 = {
+	global_manpower_modifier = -0.015
+}
+troop_maintenance1_6 = {
+	global_manpower_modifier = -0.016
+}
+troop_maintenance1_7000000000000002 = {
+	global_manpower_modifier = -0.017
+}
+troop_maintenance1_8 = {
+	global_manpower_modifier = -0.018000000000000002
+}
+troop_maintenance1_9000000000000001 = {
+	global_manpower_modifier = -0.019000000000000003
+}
+troop_maintenance2_0 = {
+	global_manpower_modifier = -0.02
+}
+troop_maintenance2_1 = {
+	global_manpower_modifier = -0.021
+}
+troop_maintenance2_2 = {
+	global_manpower_modifier = -0.022000000000000002
+}
+troop_maintenance2_3000000000000003 = {
+	global_manpower_modifier = -0.023000000000000003
+}
+troop_maintenance2_4000000000000004 = {
+	global_manpower_modifier = -0.024000000000000004
+}
+troop_maintenance2_5 = {
+	global_manpower_modifier = -0.025
+}
+troop_maintenance2_6 = {
+	global_manpower_modifier = -0.026000000000000002
+}
+troop_maintenance2_7 = {
+	global_manpower_modifier = -0.027000000000000003
+}
+troop_maintenance2_8000000000000003 = {
+	global_manpower_modifier = -0.028000000000000004
+}
+troop_maintenance2_9000000000000004 = {
+	global_manpower_modifier = -0.029000000000000005
+}
+troop_maintenance3_0 = {
+	global_manpower_modifier = -0.03
+}
+troop_maintenance3_1 = {
+	global_manpower_modifier = -0.031
+}
+troop_maintenance3_2 = {
+	global_manpower_modifier = -0.032
+}
+troop_maintenance3_3000000000000003 = {
+	global_manpower_modifier = -0.033
+}
+troop_maintenance3_4000000000000004 = {
+	global_manpower_modifier = -0.034
+}
+troop_maintenance3_5 = {
+	global_manpower_modifier = -0.035
+}
+troop_maintenance3_6 = {
+	global_manpower_modifier = -0.036000000000000004
+}
+troop_maintenance3_7 = {
+	global_manpower_modifier = -0.037000000000000005
+}
+troop_maintenance3_8000000000000003 = {
+	global_manpower_modifier = -0.038000000000000006
+}
+troop_maintenance3_9000000000000004 = {
+	global_manpower_modifier = -0.03900000000000001
+}
+troop_maintenance4_0 = {
+	global_manpower_modifier = -0.04
+}
+troop_maintenance4_1000000000000005 = {
+	global_manpower_modifier = -0.04100000000000001
+}
+troop_maintenance4_2 = {
+	global_manpower_modifier = -0.042
+}
+troop_maintenance4_3 = {
+	global_manpower_modifier = -0.043
+}
+troop_maintenance4_4 = {
+	global_manpower_modifier = -0.044000000000000004
+}
+troop_maintenance4_5 = {
+	global_manpower_modifier = -0.045
+}
+troop_maintenance4_6000000000000005 = {
+	global_manpower_modifier = -0.046000000000000006
+}
+troop_maintenance4_7 = {
+	global_manpower_modifier = -0.047
+}
+troop_maintenance4_800000000000001 = {
+	global_manpower_modifier = -0.04800000000000001
+}
+troop_maintenance4_9 = {
+	global_manpower_modifier = -0.049
+}
+troop_maintenance5_0 = {
+	global_manpower_modifier = -0.05
+}
+troop_maintenance5_1000000000000005 = {
+	global_manpower_modifier = -0.051000000000000004
+}
+troop_maintenance5_2 = {
+	global_manpower_modifier = -0.052000000000000005
+}
+troop_maintenance5_300000000000001 = {
+	global_manpower_modifier = -0.053000000000000005
+}
+troop_maintenance5_4 = {
+	global_manpower_modifier = -0.054000000000000006
+}
+troop_maintenance5_5 = {
+	global_manpower_modifier = -0.055
+}
+troop_maintenance5_6000000000000005 = {
+	global_manpower_modifier = -0.05600000000000001
+}
+troop_maintenance5_7 = {
+	global_manpower_modifier = -0.057
+}
+troop_maintenance5_800000000000001 = {
+	global_manpower_modifier = -0.05800000000000001
+}
+troop_maintenance5_9 = {
+	global_manpower_modifier = -0.059000000000000004
+}
+troop_maintenance6_0 = {
+	global_manpower_modifier = -0.06
+}
+troop_maintenance6_1000000000000005 = {
+	global_manpower_modifier = -0.061000000000000006
+}
+troop_maintenance6_2 = {
+	global_manpower_modifier = -0.062
+}
+troop_maintenance6_300000000000001 = {
+	global_manpower_modifier = -0.063
+}
+troop_maintenance6_4 = {
+	global_manpower_modifier = -0.064
+}
+troop_maintenance6_5 = {
+	global_manpower_modifier = -0.065
+}
+troop_maintenance6_6000000000000005 = {
+	global_manpower_modifier = -0.066
+}
+troop_maintenance6_7 = {
+	global_manpower_modifier = -0.067
+}
+troop_maintenance6_800000000000001 = {
+	global_manpower_modifier = -0.068
+}
+troop_maintenance6_9 = {
+	global_manpower_modifier = -0.069
+}
+troop_maintenance7_0 = {
+	global_manpower_modifier = -0.07
+}
+troop_maintenance7_1000000000000005 = {
+	global_manpower_modifier = -0.07100000000000001
+}
+troop_maintenance7_2 = {
+	global_manpower_modifier = -0.07200000000000001
+}
+troop_maintenance7_300000000000001 = {
+	global_manpower_modifier = -0.07300000000000001
+}
+troop_maintenance7_4 = {
+	global_manpower_modifier = -0.07400000000000001
+}
+troop_maintenance7_5 = {
+	global_manpower_modifier = -0.075
+}
+troop_maintenance7_6000000000000005 = {
+	global_manpower_modifier = -0.07600000000000001
+}
+troop_maintenance7_7 = {
+	global_manpower_modifier = -0.077
+}
+troop_maintenance7_800000000000001 = {
+	global_manpower_modifier = -0.07800000000000001
+}
+troop_maintenance7_9 = {
+	global_manpower_modifier = -0.079
+}
+troop_maintenance8_0 = {
+	global_manpower_modifier = -0.08
+}
+troop_maintenance8_1 = {
+	global_manpower_modifier = -0.081
+}
+troop_maintenance8_200000000000001 = {
+	global_manpower_modifier = -0.08200000000000002
+}
+troop_maintenance8_3 = {
+	global_manpower_modifier = -0.083
+}
+troop_maintenance8_4 = {
+	global_manpower_modifier = -0.084
+}
+troop_maintenance8_5 = {
+	global_manpower_modifier = -0.085
+}
+troop_maintenance8_6 = {
+	global_manpower_modifier = -0.086
+}
+troop_maintenance8_700000000000001 = {
+	global_manpower_modifier = -0.08700000000000001
+}
+troop_maintenance8_8 = {
+	global_manpower_modifier = -0.08800000000000001
+}
+troop_maintenance8_9 = {
+	global_manpower_modifier = -0.08900000000000001
+}
+troop_maintenance9_0 = {
+	global_manpower_modifier = -0.09
+}
+troop_maintenance9_1 = {
+	global_manpower_modifier = -0.091
+}
+troop_maintenance9_200000000000001 = {
+	global_manpower_modifier = -0.09200000000000001
+}
+troop_maintenance9_3 = {
+	global_manpower_modifier = -0.09300000000000001
+}
+troop_maintenance9_4 = {
+	global_manpower_modifier = -0.094
+}
+troop_maintenance9_5 = {
+	global_manpower_modifier = -0.095
+}
+troop_maintenance9_600000000000001 = {
+	global_manpower_modifier = -0.09600000000000002
+}
+troop_maintenance9_700000000000001 = {
+	global_manpower_modifier = -0.09700000000000002
+}
+troop_maintenance9_8 = {
+	global_manpower_modifier = -0.098
+}
+troop_maintenance9_9 = {
+	global_manpower_modifier = -0.099
+}
+troop_maintenance10_0 = {
+	global_manpower_modifier = -0.1
+}
+troop_maintenance10_100000000000001 = {
+	global_manpower_modifier = -0.10100000000000002
+}
+troop_maintenance10_200000000000001 = {
+	global_manpower_modifier = -0.10200000000000001
+}
+troop_maintenance10_3 = {
+	global_manpower_modifier = -0.10300000000000001
+}
+troop_maintenance10_4 = {
+	global_manpower_modifier = -0.10400000000000001
+}
+troop_maintenance10_5 = {
+	global_manpower_modifier = -0.105
+}
+troop_maintenance10_600000000000001 = {
+	global_manpower_modifier = -0.10600000000000001
+}
+troop_maintenance10_700000000000001 = {
+	global_manpower_modifier = -0.10700000000000001
+}
+troop_maintenance10_8 = {
+	global_manpower_modifier = -0.10800000000000001
+}
+troop_maintenance10_9 = {
+	global_manpower_modifier = -0.109
+}
+troop_maintenance11_0 = {
+	global_manpower_modifier = -0.11
+}
+troop_maintenance11_100000000000001 = {
+	global_manpower_modifier = -0.11100000000000002
+}
+troop_maintenance11_200000000000001 = {
+	global_manpower_modifier = -0.11200000000000002
+}
+troop_maintenance11_3 = {
+	global_manpower_modifier = -0.113
+}
+troop_maintenance11_4 = {
+	global_manpower_modifier = -0.114
+}
+troop_maintenance11_5 = {
+	global_manpower_modifier = -0.115
+}
+troop_maintenance11_600000000000001 = {
+	global_manpower_modifier = -0.11600000000000002
+}
+troop_maintenance11_700000000000001 = {
+	global_manpower_modifier = -0.117
+}
+troop_maintenance11_8 = {
+	global_manpower_modifier = -0.11800000000000001
+}
+troop_maintenance11_9 = {
+	global_manpower_modifier = -0.11900000000000001
+}
+troop_maintenance12_0 = {
+	global_manpower_modifier = -0.12
+}
+troop_maintenance12_100000000000001 = {
+	global_manpower_modifier = -0.12100000000000001
+}
+troop_maintenance12_200000000000001 = {
+	global_manpower_modifier = -0.12200000000000001
+}
+troop_maintenance12_3 = {
+	global_manpower_modifier = -0.12300000000000001
+}
+troop_maintenance12_4 = {
+	global_manpower_modifier = -0.124
+}
+troop_maintenance12_5 = {
+	global_manpower_modifier = -0.125
+}
+troop_maintenance12_600000000000001 = {
+	global_manpower_modifier = -0.126
+}
+troop_maintenance12_700000000000001 = {
+	global_manpower_modifier = -0.127
+}
+troop_maintenance12_8 = {
+	global_manpower_modifier = -0.128
+}
+troop_maintenance12_9 = {
+	global_manpower_modifier = -0.129
+}
+troop_maintenance13_0 = {
+	global_manpower_modifier = -0.13
+}
+troop_maintenance13_100000000000001 = {
+	global_manpower_modifier = -0.131
+}
+troop_maintenance13_200000000000001 = {
+	global_manpower_modifier = -0.132
+}
+troop_maintenance13_3 = {
+	global_manpower_modifier = -0.133
+}
+troop_maintenance13_4 = {
+	global_manpower_modifier = -0.134
+}
+troop_maintenance13_5 = {
+	global_manpower_modifier = -0.135
+}
+troop_maintenance13_600000000000001 = {
+	global_manpower_modifier = -0.136
+}
+troop_maintenance13_700000000000001 = {
+	global_manpower_modifier = -0.137
+}
+troop_maintenance13_8 = {
+	global_manpower_modifier = -0.138
+}
+troop_maintenance13_9 = {
+	global_manpower_modifier = -0.139
+}
+troop_maintenance14_0 = {
+	global_manpower_modifier = -0.14
+}
+troop_maintenance14_100000000000001 = {
+	global_manpower_modifier = -0.14100000000000001
+}
+troop_maintenance14_200000000000001 = {
+	global_manpower_modifier = -0.14200000000000002
+}
+troop_maintenance14_3 = {
+	global_manpower_modifier = -0.14300000000000002
+}
+troop_maintenance14_4 = {
+	global_manpower_modifier = -0.14400000000000002
+}
+troop_maintenance14_5 = {
+	global_manpower_modifier = -0.145
+}
+troop_maintenance14_600000000000001 = {
+	global_manpower_modifier = -0.14600000000000002
+}
+troop_maintenance14_700000000000001 = {
+	global_manpower_modifier = -0.14700000000000002
+}
+troop_maintenance14_8 = {
+	global_manpower_modifier = -0.14800000000000002
+}
+troop_maintenance14_9 = {
+	global_manpower_modifier = -0.149
+}
+troop_maintenance15_0 = {
+	global_manpower_modifier = -0.15
+}
+troop_maintenance15_100000000000001 = {
+	global_manpower_modifier = -0.15100000000000002
+}
+troop_maintenance15_200000000000001 = {
+	global_manpower_modifier = -0.15200000000000002
+}
+troop_maintenance15_3 = {
+	global_manpower_modifier = -0.153
+}
+troop_maintenance15_4 = {
+	global_manpower_modifier = -0.154
+}
+troop_maintenance15_5 = {
+	global_manpower_modifier = -0.155
+}
+troop_maintenance15_600000000000001 = {
+	global_manpower_modifier = -0.15600000000000003
+}
+troop_maintenance15_700000000000001 = {
+	global_manpower_modifier = -0.157
+}
+troop_maintenance15_8 = {
+	global_manpower_modifier = -0.158
+}
+troop_maintenance15_9 = {
+	global_manpower_modifier = -0.159
+}
+troop_maintenance16_0 = {
+	global_manpower_modifier = -0.16
+}
+troop_maintenance16_1 = {
+	global_manpower_modifier = -0.161
+}
+troop_maintenance16_2 = {
+	global_manpower_modifier = -0.162
+}
+troop_maintenance16_3 = {
+	global_manpower_modifier = -0.163
+}
+troop_maintenance16_400000000000002 = {
+	global_manpower_modifier = -0.16400000000000003
+}
+troop_maintenance16_5 = {
+	global_manpower_modifier = -0.165
+}
+troop_maintenance16_6 = {
+	global_manpower_modifier = -0.166
+}
+troop_maintenance16_7 = {
+	global_manpower_modifier = -0.16699999999999998
+}
+troop_maintenance16_8 = {
+	global_manpower_modifier = -0.168
+}
+troop_maintenance16_900000000000002 = {
+	global_manpower_modifier = -0.169
+}
+troop_maintenance17_0 = {
+	global_manpower_modifier = -0.17
+}
+troop_maintenance17_1 = {
+	global_manpower_modifier = -0.171
+}
+troop_maintenance17_2 = {
+	global_manpower_modifier = -0.172
+}
+troop_maintenance17_3 = {
+	global_manpower_modifier = -0.17300000000000001
+}
+troop_maintenance17_400000000000002 = {
+	global_manpower_modifier = -0.17400000000000002
+}
+troop_maintenance17_5 = {
+	global_manpower_modifier = -0.175
+}
+troop_maintenance17_6 = {
+	global_manpower_modifier = -0.17600000000000002
+}
+troop_maintenance17_7 = {
+	global_manpower_modifier = -0.177
+}
+troop_maintenance17_8 = {
+	global_manpower_modifier = -0.17800000000000002
+}
+troop_maintenance17_900000000000002 = {
+	global_manpower_modifier = -0.17900000000000002
+}
+troop_maintenance18_0 = {
+	global_manpower_modifier = -0.18
+}
+troop_maintenance18_1 = {
+	global_manpower_modifier = -0.18100000000000002
+}
+troop_maintenance18_2 = {
+	global_manpower_modifier = -0.182
+}
+troop_maintenance18_3 = {
+	global_manpower_modifier = -0.183
+}
+troop_maintenance18_400000000000002 = {
+	global_manpower_modifier = -0.18400000000000002
+}
+troop_maintenance18_5 = {
+	global_manpower_modifier = -0.185
+}
+troop_maintenance18_6 = {
+	global_manpower_modifier = -0.18600000000000003
+}
+troop_maintenance18_7 = {
+	global_manpower_modifier = -0.187
+}
+troop_maintenance18_8 = {
+	global_manpower_modifier = -0.188
+}
+troop_maintenance18_900000000000002 = {
+	global_manpower_modifier = -0.18900000000000003
+}
+troop_maintenance19_0 = {
+	global_manpower_modifier = -0.19
+}
+troop_maintenance19_1 = {
+	global_manpower_modifier = -0.191
+}
+troop_maintenance19_200000000000003 = {
+	global_manpower_modifier = -0.19200000000000003
+}
+troop_maintenance19_3 = {
+	global_manpower_modifier = -0.193
+}
+troop_maintenance19_400000000000002 = {
+	global_manpower_modifier = -0.19400000000000003
+}
+troop_maintenance19_5 = {
+	global_manpower_modifier = -0.195
+}
+troop_maintenance19_6 = {
+	global_manpower_modifier = -0.196
+}
+troop_maintenance19_700000000000003 = {
+	global_manpower_modifier = -0.19700000000000004
+}
+troop_maintenance19_8 = {
+	global_manpower_modifier = -0.198
+}
+troop_maintenance19_900000000000002 = {
+	global_manpower_modifier = -0.199
+}
+troop_maintenance20_0 = {
+	global_manpower_modifier = -0.2
+}
+troop_maintenance20_1 = {
+	global_manpower_modifier = -0.201
+}
+troop_maintenance20_200000000000003 = {
+	global_manpower_modifier = -0.20200000000000004
+}
+troop_maintenance20_3 = {
+	global_manpower_modifier = -0.203
+}
+troop_maintenance20_400000000000002 = {
+	global_manpower_modifier = -0.20400000000000001
+}
+troop_maintenance20_5 = {
+	global_manpower_modifier = -0.205
+}
+troop_maintenance20_6 = {
+	global_manpower_modifier = -0.20600000000000002
+}
+troop_maintenance20_700000000000003 = {
+	global_manpower_modifier = -0.20700000000000002
+}
+troop_maintenance20_8 = {
+	global_manpower_modifier = -0.20800000000000002
+}
+troop_maintenance20_900000000000002 = {
+	global_manpower_modifier = -0.20900000000000002
+}
+troop_maintenance21_0 = {
+	global_manpower_modifier = -0.21
+}
+troop_maintenance21_1 = {
+	global_manpower_modifier = -0.21100000000000002
+}
+troop_maintenance21_200000000000003 = {
+	global_manpower_modifier = -0.21200000000000002
+}
+troop_maintenance21_3 = {
+	global_manpower_modifier = -0.213
+}
+troop_maintenance21_400000000000002 = {
+	global_manpower_modifier = -0.21400000000000002
+}
+troop_maintenance21_5 = {
+	global_manpower_modifier = -0.215
+}
+troop_maintenance21_6 = {
+	global_manpower_modifier = -0.21600000000000003
+}
+troop_maintenance21_700000000000003 = {
+	global_manpower_modifier = -0.21700000000000003
+}
+troop_maintenance21_8 = {
+	global_manpower_modifier = -0.218
+}
+troop_maintenance21_900000000000002 = {
+	global_manpower_modifier = -0.21900000000000003
+}
+troop_maintenance22_0 = {
+	global_manpower_modifier = -0.22
+}
+troop_maintenance22_1 = {
+	global_manpower_modifier = -0.221
+}
+troop_maintenance22_200000000000003 = {
+	global_manpower_modifier = -0.22200000000000003
+}
+troop_maintenance22_3 = {
+	global_manpower_modifier = -0.223
+}
+troop_maintenance22_400000000000002 = {
+	global_manpower_modifier = -0.22400000000000003
+}
+troop_maintenance22_5 = {
+	global_manpower_modifier = -0.225
+}
+troop_maintenance22_6 = {
+	global_manpower_modifier = -0.226
+}
+troop_maintenance22_700000000000003 = {
+	global_manpower_modifier = -0.22700000000000004
+}
+troop_maintenance22_8 = {
+	global_manpower_modifier = -0.228
+}
+troop_maintenance22_900000000000002 = {
+	global_manpower_modifier = -0.229
+}
+troop_maintenance23_0 = {
+	global_manpower_modifier = -0.23
+}
+troop_maintenance23_1 = {
+	global_manpower_modifier = -0.231
+}
+troop_maintenance23_200000000000003 = {
+	global_manpower_modifier = -0.23200000000000004
+}
+troop_maintenance23_3 = {
+	global_manpower_modifier = -0.233
+}
+troop_maintenance23_400000000000002 = {
+	global_manpower_modifier = -0.234
+}
+troop_maintenance23_5 = {
+	global_manpower_modifier = -0.235
+}
+troop_maintenance23_6 = {
+	global_manpower_modifier = -0.23600000000000002
+}
+troop_maintenance23_700000000000003 = {
+	global_manpower_modifier = -0.23700000000000002
+}
+troop_maintenance23_8 = {
+	global_manpower_modifier = -0.23800000000000002
+}
+troop_maintenance23_900000000000002 = {
+	global_manpower_modifier = -0.23900000000000002
+}
+troop_maintenance24_0 = {
+	global_manpower_modifier = -0.24
+}
+troop_maintenance24_1 = {
+	global_manpower_modifier = -0.24100000000000002
+}
+troop_maintenance24_200000000000003 = {
+	global_manpower_modifier = -0.24200000000000002
+}
+troop_maintenance24_3 = {
+	global_manpower_modifier = -0.243
+}
+troop_maintenance24_400000000000002 = {
+	global_manpower_modifier = -0.24400000000000002
+}
+troop_maintenance24_5 = {
+	global_manpower_modifier = -0.245
+}
+troop_maintenance24_6 = {
+	global_manpower_modifier = -0.24600000000000002
+}
+troop_maintenance24_700000000000003 = {
+	global_manpower_modifier = -0.24700000000000003
+}
+troop_maintenance24_8 = {
+	global_manpower_modifier = -0.248
+}
+troop_maintenance24_900000000000002 = {
+	global_manpower_modifier = -0.24900000000000003
+}
+troop_maintenance25_0 = {
+	global_manpower_modifier = -0.25
+}
+troop_maintenance25_1 = {
+	global_manpower_modifier = -0.251
+}
+troop_maintenance25_200000000000003 = {
+	global_manpower_modifier = -0.252
+}
+troop_maintenance25_3 = {
+	global_manpower_modifier = -0.253
+}
+troop_maintenance25_400000000000002 = {
+	global_manpower_modifier = -0.254
+}
+troop_maintenance25_5 = {
+	global_manpower_modifier = -0.255
+}
+troop_maintenance25_6 = {
+	global_manpower_modifier = -0.256
+}
+troop_maintenance25_700000000000003 = {
+	global_manpower_modifier = -0.257
+}
+troop_maintenance25_8 = {
+	global_manpower_modifier = -0.258
+}
+troop_maintenance25_900000000000002 = {
+	global_manpower_modifier = -0.259
+}
+troop_maintenance26_0 = {
+	global_manpower_modifier = -0.26
+}
+troop_maintenance26_1 = {
+	global_manpower_modifier = -0.261
+}
+troop_maintenance26_200000000000003 = {
+	global_manpower_modifier = -0.262
+}
+troop_maintenance26_3 = {
+	global_manpower_modifier = -0.263
+}
+troop_maintenance26_400000000000002 = {
+	global_manpower_modifier = -0.264
+}
+troop_maintenance26_5 = {
+	global_manpower_modifier = -0.265
+}
+troop_maintenance26_6 = {
+	global_manpower_modifier = -0.266
+}
+troop_maintenance26_700000000000003 = {
+	global_manpower_modifier = -0.267
+}
+troop_maintenance26_8 = {
+	global_manpower_modifier = -0.268
+}
+troop_maintenance26_900000000000002 = {
+	global_manpower_modifier = -0.269
+}
+troop_maintenance27_0 = {
+	global_manpower_modifier = -0.27
+}
+troop_maintenance27_1 = {
+	global_manpower_modifier = -0.271
+}
+troop_maintenance27_200000000000003 = {
+	global_manpower_modifier = -0.272
+}
+troop_maintenance27_3 = {
+	global_manpower_modifier = -0.273
+}
+troop_maintenance27_400000000000002 = {
+	global_manpower_modifier = -0.274
+}
+troop_maintenance27_5 = {
+	global_manpower_modifier = -0.275
+}
+troop_maintenance27_6 = {
+	global_manpower_modifier = -0.276
+}
+troop_maintenance27_700000000000003 = {
+	global_manpower_modifier = -0.277
+}
+troop_maintenance27_8 = {
+	global_manpower_modifier = -0.278
+}
+troop_maintenance27_900000000000002 = {
+	global_manpower_modifier = -0.279
+}
+troop_maintenance28_0 = {
+	global_manpower_modifier = -0.28
+}
+troop_maintenance28_1 = {
+	global_manpower_modifier = -0.281
+}
+troop_maintenance28_200000000000003 = {
+	global_manpower_modifier = -0.28200000000000003
+}
+troop_maintenance28_3 = {
+	global_manpower_modifier = -0.28300000000000003
+}
+troop_maintenance28_400000000000002 = {
+	global_manpower_modifier = -0.28400000000000003
+}
+troop_maintenance28_5 = {
+	global_manpower_modifier = -0.285
+}
+troop_maintenance28_6 = {
+	global_manpower_modifier = -0.28600000000000003
+}
+troop_maintenance28_700000000000003 = {
+	global_manpower_modifier = -0.28700000000000003
+}
+troop_maintenance28_8 = {
+	global_manpower_modifier = -0.28800000000000003
+}
+troop_maintenance28_900000000000002 = {
+	global_manpower_modifier = -0.28900000000000003
+}
+troop_maintenance29_0 = {
+	global_manpower_modifier = -0.29
+}
+troop_maintenance29_1 = {
+	global_manpower_modifier = -0.29100000000000004
+}
+troop_maintenance29_200000000000003 = {
+	global_manpower_modifier = -0.29200000000000004
+}
+troop_maintenance29_3 = {
+	global_manpower_modifier = -0.293
+}
+troop_maintenance29_400000000000002 = {
+	global_manpower_modifier = -0.29400000000000004
+}
+troop_maintenance29_5 = {
+	global_manpower_modifier = -0.295
+}
+troop_maintenance29_6 = {
+	global_manpower_modifier = -0.29600000000000004
+}
+troop_maintenance29_700000000000003 = {
+	global_manpower_modifier = -0.29700000000000004
+}
+troop_maintenance29_8 = {
+	global_manpower_modifier = -0.298
+}
+troop_maintenance29_900000000000002 = {
+	global_manpower_modifier = -0.29900000000000004
+}
+troop_maintenance30_0 = {
+	global_manpower_modifier = -0.3
+}
+troop_maintenance30_1 = {
+	global_manpower_modifier = -0.301
+}
+troop_maintenance30_200000000000003 = {
+	global_manpower_modifier = -0.30200000000000005
+}
+troop_maintenance30_3 = {
+	global_manpower_modifier = -0.303
+}
+troop_maintenance30_400000000000002 = {
+	global_manpower_modifier = -0.30400000000000005
+}
+troop_maintenance30_5 = {
+	global_manpower_modifier = -0.305
+}
+troop_maintenance30_6 = {
+	global_manpower_modifier = -0.306
+}
+troop_maintenance30_700000000000003 = {
+	global_manpower_modifier = -0.30700000000000005
+}
+troop_maintenance30_8 = {
+	global_manpower_modifier = -0.308
+}
+troop_maintenance30_900000000000002 = {
+	global_manpower_modifier = -0.309
+}
+troop_maintenance31_0 = {
+	global_manpower_modifier = -0.31
+}
+troop_maintenance31_1 = {
+	global_manpower_modifier = -0.311
+}
+troop_maintenance31_200000000000003 = {
+	global_manpower_modifier = -0.31200000000000006
+}
+troop_maintenance31_3 = {
+	global_manpower_modifier = -0.313
+}
+troop_maintenance31_400000000000002 = {
+	global_manpower_modifier = -0.314
+}
+troop_maintenance31_5 = {
+	global_manpower_modifier = -0.315
+}
+troop_maintenance31_6 = {
+	global_manpower_modifier = -0.316
+}
+troop_maintenance31_700000000000003 = {
+	global_manpower_modifier = -0.317
+}
+troop_maintenance31_8 = {
+	global_manpower_modifier = -0.318
+}
+troop_maintenance31_900000000000002 = {
+	global_manpower_modifier = -0.319
+}
+troop_maintenance32_0 = {
+	global_manpower_modifier = -0.32
+}
+troop_maintenance32_1 = {
+	global_manpower_modifier = -0.321
+}
+troop_maintenance32_2 = {
+	global_manpower_modifier = -0.322
+}
+troop_maintenance32_300000000000004 = {
+	global_manpower_modifier = -0.32300000000000006
+}
+troop_maintenance32_4 = {
+	global_manpower_modifier = -0.324
+}
+troop_maintenance32_5 = {
+	global_manpower_modifier = -0.325
+}
+troop_maintenance32_6 = {
+	global_manpower_modifier = -0.326
+}
+troop_maintenance32_7 = {
+	global_manpower_modifier = -0.327
+}
+troop_maintenance32_800000000000004 = {
+	global_manpower_modifier = -0.32800000000000007
+}
+troop_maintenance32_9 = {
+	global_manpower_modifier = -0.32899999999999996
+}
+troop_maintenance33_0 = {
+	global_manpower_modifier = -0.33
+}
+troop_maintenance33_1 = {
+	global_manpower_modifier = -0.331
+}
+troop_maintenance33_2 = {
+	global_manpower_modifier = -0.332
+}
+troop_maintenance33_300000000000004 = {
+	global_manpower_modifier = -0.333
+}
+troop_maintenance33_4 = {
+	global_manpower_modifier = -0.33399999999999996
+}
+troop_maintenance33_5 = {
+	global_manpower_modifier = -0.335
+}
+troop_maintenance33_6 = {
+	global_manpower_modifier = -0.336
+}
+troop_maintenance33_7 = {
+	global_manpower_modifier = -0.337
+}
+troop_maintenance33_800000000000004 = {
+	global_manpower_modifier = -0.338
+}
+troop_maintenance33_9 = {
+	global_manpower_modifier = -0.33899999999999997
+}
+troop_maintenance34_0 = {
+	global_manpower_modifier = -0.34
+}
+troop_maintenance34_1 = {
+	global_manpower_modifier = -0.341
+}
+troop_maintenance34_2 = {
+	global_manpower_modifier = -0.342
+}
+troop_maintenance34_300000000000004 = {
+	global_manpower_modifier = -0.343
+}
+troop_maintenance34_4 = {
+	global_manpower_modifier = -0.344
+}
+troop_maintenance34_5 = {
+	global_manpower_modifier = -0.345
+}
+troop_maintenance34_6 = {
+	global_manpower_modifier = -0.34600000000000003
+}
+troop_maintenance34_7 = {
+	global_manpower_modifier = -0.34700000000000003
+}
+troop_maintenance34_800000000000004 = {
+	global_manpower_modifier = -0.34800000000000003
+}
+troop_maintenance34_9 = {
+	global_manpower_modifier = -0.349
+}
+troop_maintenance35_0 = {
+	global_manpower_modifier = -0.35
+}
+troop_maintenance35_1 = {
+	global_manpower_modifier = -0.35100000000000003
+}
+troop_maintenance35_2 = {
+	global_manpower_modifier = -0.35200000000000004
+}
+troop_maintenance35_300000000000004 = {
+	global_manpower_modifier = -0.35300000000000004
+}
+troop_maintenance35_4 = {
+	global_manpower_modifier = -0.354
+}
+troop_maintenance35_5 = {
+	global_manpower_modifier = -0.355
+}
+troop_maintenance35_6 = {
+	global_manpower_modifier = -0.35600000000000004
+}
+troop_maintenance35_7 = {
+	global_manpower_modifier = -0.35700000000000004
+}
+troop_maintenance35_800000000000004 = {
+	global_manpower_modifier = -0.35800000000000004
+}
+troop_maintenance35_9 = {
+	global_manpower_modifier = -0.359
+}
+troop_maintenance36_0 = {
+	global_manpower_modifier = -0.36
+}
+troop_maintenance36_1 = {
+	global_manpower_modifier = -0.361
+}
+troop_maintenance36_2 = {
+	global_manpower_modifier = -0.36200000000000004
+}
+troop_maintenance36_300000000000004 = {
+	global_manpower_modifier = -0.36300000000000004
+}
+troop_maintenance36_4 = {
+	global_manpower_modifier = -0.364
+}
+troop_maintenance36_5 = {
+	global_manpower_modifier = -0.365
+}
+troop_maintenance36_6 = {
+	global_manpower_modifier = -0.366
+}
+troop_maintenance36_7 = {
+	global_manpower_modifier = -0.36700000000000005
+}
+troop_maintenance36_800000000000004 = {
+	global_manpower_modifier = -0.36800000000000005
+}
+troop_maintenance36_9 = {
+	global_manpower_modifier = -0.369
+}
+troop_maintenance37_0 = {
+	global_manpower_modifier = -0.37
+}
+troop_maintenance37_1 = {
+	global_manpower_modifier = -0.371
+}
+troop_maintenance37_2 = {
+	global_manpower_modifier = -0.37200000000000005
+}
+troop_maintenance37_300000000000004 = {
+	global_manpower_modifier = -0.37300000000000005
+}
+troop_maintenance37_4 = {
+	global_manpower_modifier = -0.374
+}
+troop_maintenance37_5 = {
+	global_manpower_modifier = -0.375
+}
+troop_maintenance37_6 = {
+	global_manpower_modifier = -0.376
+}
+troop_maintenance37_7 = {
+	global_manpower_modifier = -0.377
+}
+troop_maintenance37_800000000000004 = {
+	global_manpower_modifier = -0.37800000000000006
+}
+troop_maintenance37_9 = {
+	global_manpower_modifier = -0.379
+}
+troop_maintenance38_0 = {
+	global_manpower_modifier = -0.38
+}
+troop_maintenance38_1 = {
+	global_manpower_modifier = -0.381
+}
+troop_maintenance38_2 = {
+	global_manpower_modifier = -0.382
+}
+troop_maintenance38_300000000000004 = {
+	global_manpower_modifier = -0.38300000000000006
+}
+troop_maintenance38_400000000000006 = {
+	global_manpower_modifier = -0.38400000000000006
+}
+troop_maintenance38_5 = {
+	global_manpower_modifier = -0.385
+}
+troop_maintenance38_6 = {
+	global_manpower_modifier = -0.386
+}
+troop_maintenance38_7 = {
+	global_manpower_modifier = -0.387
+}
+troop_maintenance38_800000000000004 = {
+	global_manpower_modifier = -0.38800000000000007
+}
+troop_maintenance38_900000000000006 = {
+	global_manpower_modifier = -0.38900000000000007
+}
+troop_maintenance39_0 = {
+	global_manpower_modifier = -0.39
+}
+troop_maintenance39_1 = {
+	global_manpower_modifier = -0.391
+}
+troop_maintenance39_2 = {
+	global_manpower_modifier = -0.392
+}
+troop_maintenance39_300000000000004 = {
+	global_manpower_modifier = -0.393
+}
+troop_maintenance39_400000000000006 = {
+	global_manpower_modifier = -0.3940000000000001
+}
+troop_maintenance39_5 = {
+	global_manpower_modifier = -0.395
+}
+troop_maintenance39_6 = {
+	global_manpower_modifier = -0.396
+}
+troop_maintenance39_7 = {
+	global_manpower_modifier = -0.397
+}
+troop_maintenance39_800000000000004 = {
+	global_manpower_modifier = -0.398
+}
+troop_maintenance39_900000000000006 = {
+	global_manpower_modifier = -0.3990000000000001
+}
+troop_maintenance40_0 = {
+	global_manpower_modifier = -0.4
+}
+troop_maintenance40_1 = {
+	global_manpower_modifier = -0.401
+}
+troop_maintenance40_2 = {
+	global_manpower_modifier = -0.402
+}
+troop_maintenance40_300000000000004 = {
+	global_manpower_modifier = -0.403
+}
+troop_maintenance40_400000000000006 = {
+	global_manpower_modifier = -0.4040000000000001
+}
+troop_maintenance40_5 = {
+	global_manpower_modifier = -0.405
+}
+troop_maintenance40_6 = {
+	global_manpower_modifier = -0.406
+}
+troop_maintenance40_7 = {
+	global_manpower_modifier = -0.40700000000000003
+}
+troop_maintenance40_800000000000004 = {
+	global_manpower_modifier = -0.40800000000000003
+}
+troop_maintenance40_900000000000006 = {
+	global_manpower_modifier = -0.40900000000000003
+}
+troop_maintenance41_0 = {
+	global_manpower_modifier = -0.41
+}
+troop_maintenance41_1 = {
+	global_manpower_modifier = -0.41100000000000003
+}
+troop_maintenance41_2 = {
+	global_manpower_modifier = -0.41200000000000003
+}
+troop_maintenance41_300000000000004 = {
+	global_manpower_modifier = -0.41300000000000003
+}
+troop_maintenance41_400000000000006 = {
+	global_manpower_modifier = -0.41400000000000003
+}
+troop_maintenance41_5 = {
+	global_manpower_modifier = -0.415
+}
+troop_maintenance41_6 = {
+	global_manpower_modifier = -0.41600000000000004
+}
+troop_maintenance41_7 = {
+	global_manpower_modifier = -0.41700000000000004
+}
+troop_maintenance41_800000000000004 = {
+	global_manpower_modifier = -0.41800000000000004
+}
+troop_maintenance41_900000000000006 = {
+	global_manpower_modifier = -0.41900000000000004
+}
+troop_maintenance42_0 = {
+	global_manpower_modifier = -0.42
+}
+troop_maintenance42_1 = {
+	global_manpower_modifier = -0.42100000000000004
+}
+troop_maintenance42_2 = {
+	global_manpower_modifier = -0.42200000000000004
+}
+troop_maintenance42_300000000000004 = {
+	global_manpower_modifier = -0.42300000000000004
+}
+troop_maintenance42_400000000000006 = {
+	global_manpower_modifier = -0.42400000000000004
+}
+troop_maintenance42_5 = {
+	global_manpower_modifier = -0.425
+}
+troop_maintenance42_6 = {
+	global_manpower_modifier = -0.426
+}
+troop_maintenance42_7 = {
+	global_manpower_modifier = -0.42700000000000005
+}
+troop_maintenance42_800000000000004 = {
+	global_manpower_modifier = -0.42800000000000005
+}
+troop_maintenance42_900000000000006 = {
+	global_manpower_modifier = -0.42900000000000005
+}
+troop_maintenance43_0 = {
+	global_manpower_modifier = -0.43
+}
+troop_maintenance43_1 = {
+	global_manpower_modifier = -0.431
+}
+troop_maintenance43_2 = {
+	global_manpower_modifier = -0.43200000000000005
+}
+troop_maintenance43_300000000000004 = {
+	global_manpower_modifier = -0.43300000000000005
+}
+troop_maintenance43_400000000000006 = {
+	global_manpower_modifier = -0.43400000000000005
+}
+troop_maintenance43_5 = {
+	global_manpower_modifier = -0.435
+}
+troop_maintenance43_6 = {
+	global_manpower_modifier = -0.436
+}
+troop_maintenance43_7 = {
+	global_manpower_modifier = -0.43700000000000006
+}
+troop_maintenance43_800000000000004 = {
+	global_manpower_modifier = -0.43800000000000006
+}
+troop_maintenance43_900000000000006 = {
+	global_manpower_modifier = -0.43900000000000006
+}
+troop_maintenance44_0 = {
+	global_manpower_modifier = -0.44
+}
+troop_maintenance44_1 = {
+	global_manpower_modifier = -0.441
+}
+troop_maintenance44_2 = {
+	global_manpower_modifier = -0.442
+}
+troop_maintenance44_300000000000004 = {
+	global_manpower_modifier = -0.44300000000000006
+}
+troop_maintenance44_400000000000006 = {
+	global_manpower_modifier = -0.44400000000000006
+}
+troop_maintenance44_5 = {
+	global_manpower_modifier = -0.445
+}
+troop_maintenance44_6 = {
+	global_manpower_modifier = -0.446
+}
+troop_maintenance44_7 = {
+	global_manpower_modifier = -0.447
+}
+troop_maintenance44_800000000000004 = {
+	global_manpower_modifier = -0.44800000000000006
+}
+troop_maintenance44_900000000000006 = {
+	global_manpower_modifier = -0.44900000000000007
+}
+troop_maintenance45_0 = {
+	global_manpower_modifier = -0.45
+}
+troop_maintenance45_1 = {
+	global_manpower_modifier = -0.451
+}
+troop_maintenance45_2 = {
+	global_manpower_modifier = -0.452
+}
+troop_maintenance45_300000000000004 = {
+	global_manpower_modifier = -0.45300000000000007
+}
+troop_maintenance45_400000000000006 = {
+	global_manpower_modifier = -0.45400000000000007
+}
+troop_maintenance45_5 = {
+	global_manpower_modifier = -0.455
+}
+troop_maintenance45_6 = {
+	global_manpower_modifier = -0.456
+}
+troop_maintenance45_7 = {
+	global_manpower_modifier = -0.457
+}
+troop_maintenance45_800000000000004 = {
+	global_manpower_modifier = -0.458
+}
+troop_maintenance45_900000000000006 = {
+	global_manpower_modifier = -0.4590000000000001
+}
+troop_maintenance46_0 = {
+	global_manpower_modifier = -0.46
+}
+troop_maintenance46_1 = {
+	global_manpower_modifier = -0.461
+}
+troop_maintenance46_2 = {
+	global_manpower_modifier = -0.462
+}
+troop_maintenance46_300000000000004 = {
+	global_manpower_modifier = -0.463
+}
+troop_maintenance46_400000000000006 = {
+	global_manpower_modifier = -0.4640000000000001
+}
+troop_maintenance46_5 = {
+	global_manpower_modifier = -0.465
+}
+troop_maintenance46_6 = {
+	global_manpower_modifier = -0.466
+}
+troop_maintenance46_7 = {
+	global_manpower_modifier = -0.467
+}
+troop_maintenance46_800000000000004 = {
+	global_manpower_modifier = -0.468
+}
+troop_maintenance46_900000000000006 = {
+	global_manpower_modifier = -0.4690000000000001
+}
+troop_maintenance47_0 = {
+	global_manpower_modifier = -0.47
+}
+troop_maintenance47_1 = {
+	global_manpower_modifier = -0.47100000000000003
+}
+troop_maintenance47_2 = {
+	global_manpower_modifier = -0.47200000000000003
+}
+troop_maintenance47_300000000000004 = {
+	global_manpower_modifier = -0.47300000000000003
+}
+troop_maintenance47_400000000000006 = {
+	global_manpower_modifier = -0.47400000000000003
+}
+troop_maintenance47_5 = {
+	global_manpower_modifier = -0.475
+}
+troop_maintenance47_6 = {
+	global_manpower_modifier = -0.47600000000000003
+}
+troop_maintenance47_7 = {
+	global_manpower_modifier = -0.47700000000000004
+}
+troop_maintenance47_800000000000004 = {
+	global_manpower_modifier = -0.47800000000000004
+}
+troop_maintenance47_900000000000006 = {
+	global_manpower_modifier = -0.47900000000000004
+}
+troop_maintenance48_0 = {
+	global_manpower_modifier = -0.48
+}
+troop_maintenance48_1 = {
+	global_manpower_modifier = -0.48100000000000004
+}
+troop_maintenance48_2 = {
+	global_manpower_modifier = -0.48200000000000004
+}
+troop_maintenance48_300000000000004 = {
+	global_manpower_modifier = -0.48300000000000004
+}
+troop_maintenance48_400000000000006 = {
+	global_manpower_modifier = -0.48400000000000004
+}
+troop_maintenance48_5 = {
+	global_manpower_modifier = -0.485
+}
+troop_maintenance48_6 = {
+	global_manpower_modifier = -0.486
+}
+troop_maintenance48_7 = {
+	global_manpower_modifier = -0.48700000000000004
+}
+troop_maintenance48_800000000000004 = {
+	global_manpower_modifier = -0.48800000000000004
+}
+troop_maintenance48_900000000000006 = {
+	global_manpower_modifier = -0.48900000000000005
+}
+troop_maintenance49_0 = {
+	global_manpower_modifier = -0.49
+}
+troop_maintenance49_1 = {
+	global_manpower_modifier = -0.491
+}
+troop_maintenance49_2 = {
+	global_manpower_modifier = -0.49200000000000005
+}
+troop_maintenance49_300000000000004 = {
+	global_manpower_modifier = -0.49300000000000005
+}
+troop_maintenance49_400000000000006 = {
+	global_manpower_modifier = -0.49400000000000005
+}
+troop_maintenance49_5 = {
+	global_manpower_modifier = -0.495
+}
+troop_maintenance49_6 = {
+	global_manpower_modifier = -0.496
+}
+troop_maintenance49_7 = {
+	global_manpower_modifier = -0.49700000000000005
+}
+troop_maintenance49_800000000000004 = {
+	global_manpower_modifier = -0.49800000000000005
+}
+troop_maintenance49_900000000000006 = {
+	global_manpower_modifier = -0.49900000000000005
+}
+troop_maintenance50_0 = {
+	global_manpower_modifier = -0.5
+}
+troop_maintenance50_1 = {
+	global_manpower_modifier = -0.501
+}
+troop_maintenance50_2 = {
+	global_manpower_modifier = -0.502
+}
+troop_maintenance50_300000000000004 = {
+	global_manpower_modifier = -0.503
+}
+troop_maintenance50_400000000000006 = {
+	global_manpower_modifier = -0.504
+}
+troop_maintenance50_5 = {
+	global_manpower_modifier = -0.505
+}
+troop_maintenance50_6 = {
+	global_manpower_modifier = -0.506
+}
+troop_maintenance50_7 = {
+	global_manpower_modifier = -0.507
+}
+troop_maintenance50_800000000000004 = {
+	global_manpower_modifier = -0.508
+}
+troop_maintenance50_900000000000006 = {
+	global_manpower_modifier = -0.509
+}
+troop_maintenance51_0 = {
+	global_manpower_modifier = -0.51
+}
+troop_maintenance51_1 = {
+	global_manpower_modifier = -0.511
+}
+troop_maintenance51_2 = {
+	global_manpower_modifier = -0.512
+}
+troop_maintenance51_300000000000004 = {
+	global_manpower_modifier = -0.513
+}
+troop_maintenance51_400000000000006 = {
+	global_manpower_modifier = -0.514
+}
+troop_maintenance51_5 = {
+	global_manpower_modifier = -0.515
+}
+troop_maintenance51_6 = {
+	global_manpower_modifier = -0.516
+}
+troop_maintenance51_7 = {
+	global_manpower_modifier = -0.517
+}
+troop_maintenance51_800000000000004 = {
+	global_manpower_modifier = -0.518
+}
+troop_maintenance51_900000000000006 = {
+	global_manpower_modifier = -0.519
+}
+troop_maintenance52_0 = {
+	global_manpower_modifier = -0.52
+}
+troop_maintenance52_1 = {
+	global_manpower_modifier = -0.521
+}
+troop_maintenance52_2 = {
+	global_manpower_modifier = -0.522
+}
+troop_maintenance52_300000000000004 = {
+	global_manpower_modifier = -0.523
+}
+troop_maintenance52_400000000000006 = {
+	global_manpower_modifier = -0.524
+}
+troop_maintenance52_5 = {
+	global_manpower_modifier = -0.525
+}
+troop_maintenance52_6 = {
+	global_manpower_modifier = -0.526
+}
+troop_maintenance52_7 = {
+	global_manpower_modifier = -0.527
+}
+troop_maintenance52_800000000000004 = {
+	global_manpower_modifier = -0.528
+}
+troop_maintenance52_900000000000006 = {
+	global_manpower_modifier = -0.529
+}
+troop_maintenance53_0 = {
+	global_manpower_modifier = -0.53
+}
+troop_maintenance53_1 = {
+	global_manpower_modifier = -0.531
+}
+troop_maintenance53_2 = {
+	global_manpower_modifier = -0.532
+}
+troop_maintenance53_300000000000004 = {
+	global_manpower_modifier = -0.533
+}
+troop_maintenance53_400000000000006 = {
+	global_manpower_modifier = -0.534
+}
+troop_maintenance53_5 = {
+	global_manpower_modifier = -0.535
+}
+troop_maintenance53_6 = {
+	global_manpower_modifier = -0.536
+}
+troop_maintenance53_7 = {
+	global_manpower_modifier = -0.537
+}
+troop_maintenance53_800000000000004 = {
+	global_manpower_modifier = -0.538
+}
+troop_maintenance53_900000000000006 = {
+	global_manpower_modifier = -0.539
+}
+troop_maintenance54_0 = {
+	global_manpower_modifier = -0.54
+}
+troop_maintenance54_1 = {
+	global_manpower_modifier = -0.541
+}
+troop_maintenance54_2 = {
+	global_manpower_modifier = -0.542
+}
+troop_maintenance54_300000000000004 = {
+	global_manpower_modifier = -0.543
+}
+troop_maintenance54_400000000000006 = {
+	global_manpower_modifier = -0.544
+}
+troop_maintenance54_5 = {
+	global_manpower_modifier = -0.545
+}
+troop_maintenance54_6 = {
+	global_manpower_modifier = -0.546
+}
+troop_maintenance54_7 = {
+	global_manpower_modifier = -0.547
+}
+troop_maintenance54_800000000000004 = {
+	global_manpower_modifier = -0.548
+}
+troop_maintenance54_900000000000006 = {
+	global_manpower_modifier = -0.549
+}
+troop_maintenance55_0 = {
+	global_manpower_modifier = -0.55
+}
+troop_maintenance55_1 = {
+	global_manpower_modifier = -0.551
+}
+troop_maintenance55_2 = {
+	global_manpower_modifier = -0.552
+}
+troop_maintenance55_300000000000004 = {
+	global_manpower_modifier = -0.553
+}
+troop_maintenance55_400000000000006 = {
+	global_manpower_modifier = -0.554
+}
+troop_maintenance55_5 = {
+	global_manpower_modifier = -0.555
+}
+troop_maintenance55_6 = {
+	global_manpower_modifier = -0.556
+}
+troop_maintenance55_7 = {
+	global_manpower_modifier = -0.557
+}
+troop_maintenance55_800000000000004 = {
+	global_manpower_modifier = -0.558
+}
+troop_maintenance55_900000000000006 = {
+	global_manpower_modifier = -0.559
+}
+troop_maintenance56_0 = {
+	global_manpower_modifier = -0.56
+}
+troop_maintenance56_1 = {
+	global_manpower_modifier = -0.561
+}
+troop_maintenance56_2 = {
+	global_manpower_modifier = -0.562
+}
+troop_maintenance56_300000000000004 = {
+	global_manpower_modifier = -0.5630000000000001
+}
+troop_maintenance56_400000000000006 = {
+	global_manpower_modifier = -0.5640000000000001
+}
+troop_maintenance56_5 = {
+	global_manpower_modifier = -0.565
+}
+troop_maintenance56_6 = {
+	global_manpower_modifier = -0.5660000000000001
+}
+troop_maintenance56_7 = {
+	global_manpower_modifier = -0.5670000000000001
+}
+troop_maintenance56_800000000000004 = {
+	global_manpower_modifier = -0.5680000000000001
+}
+troop_maintenance56_900000000000006 = {
+	global_manpower_modifier = -0.5690000000000001
+}
+troop_maintenance57_0 = {
+	global_manpower_modifier = -0.57
+}
+troop_maintenance57_1 = {
+	global_manpower_modifier = -0.5710000000000001
+}
+troop_maintenance57_2 = {
+	global_manpower_modifier = -0.5720000000000001
+}
+troop_maintenance57_300000000000004 = {
+	global_manpower_modifier = -0.5730000000000001
+}
+troop_maintenance57_400000000000006 = {
+	global_manpower_modifier = -0.5740000000000001
+}
+troop_maintenance57_5 = {
+	global_manpower_modifier = -0.575
+}
+troop_maintenance57_6 = {
+	global_manpower_modifier = -0.5760000000000001
+}
+troop_maintenance57_7 = {
+	global_manpower_modifier = -0.5770000000000001
+}
+troop_maintenance57_800000000000004 = {
+	global_manpower_modifier = -0.5780000000000001
+}
+troop_maintenance57_900000000000006 = {
+	global_manpower_modifier = -0.5790000000000001
+}
+troop_maintenance58_0 = {
+	global_manpower_modifier = -0.58
+}
+troop_maintenance58_1 = {
+	global_manpower_modifier = -0.581
+}
+troop_maintenance58_2 = {
+	global_manpower_modifier = -0.5820000000000001
+}
+troop_maintenance58_300000000000004 = {
+	global_manpower_modifier = -0.5830000000000001
+}
+troop_maintenance58_400000000000006 = {
+	global_manpower_modifier = -0.5840000000000001
+}
+troop_maintenance58_5 = {
+	global_manpower_modifier = -0.585
+}
+troop_maintenance58_6 = {
+	global_manpower_modifier = -0.586
+}
+troop_maintenance58_7 = {
+	global_manpower_modifier = -0.5870000000000001
+}
+troop_maintenance58_800000000000004 = {
+	global_manpower_modifier = -0.5880000000000001
+}
+troop_maintenance58_900000000000006 = {
+	global_manpower_modifier = -0.5890000000000001
+}
+troop_maintenance59_0 = {
+	global_manpower_modifier = -0.59
+}
+troop_maintenance59_1 = {
+	global_manpower_modifier = -0.591
+}
+troop_maintenance59_2 = {
+	global_manpower_modifier = -0.5920000000000001
+}
+troop_maintenance59_300000000000004 = {
+	global_manpower_modifier = -0.5930000000000001
+}
+troop_maintenance59_400000000000006 = {
+	global_manpower_modifier = -0.5940000000000001
+}
+troop_maintenance59_5 = {
+	global_manpower_modifier = -0.595
+}
+troop_maintenance59_6 = {
+	global_manpower_modifier = -0.596
+}
+troop_maintenance59_7 = {
+	global_manpower_modifier = -0.597
+}
+troop_maintenance59_800000000000004 = {
+	global_manpower_modifier = -0.5980000000000001
+}
+troop_maintenance59_900000000000006 = {
+	global_manpower_modifier = -0.5990000000000001
+}
+troop_maintenance60_0 = {
+	global_manpower_modifier = -0.6
+}
+troop_maintenance60_1 = {
+	global_manpower_modifier = -0.601
+}
+troop_maintenance60_2 = {
+	global_manpower_modifier = -0.602
+}
+troop_maintenance60_300000000000004 = {
+	global_manpower_modifier = -0.6030000000000001
+}
+troop_maintenance60_400000000000006 = {
+	global_manpower_modifier = -0.6040000000000001
+}
+troop_maintenance60_5 = {
+	global_manpower_modifier = -0.605
+}
+troop_maintenance60_6 = {
+	global_manpower_modifier = -0.606
+}
+troop_maintenance60_7 = {
+	global_manpower_modifier = -0.607
+}
+troop_maintenance60_800000000000004 = {
+	global_manpower_modifier = -0.6080000000000001
+}
+troop_maintenance60_900000000000006 = {
+	global_manpower_modifier = -0.6090000000000001
+}
+troop_maintenance61_0 = {
+	global_manpower_modifier = -0.61
+}
+troop_maintenance61_1 = {
+	global_manpower_modifier = -0.611
+}
+troop_maintenance61_2 = {
+	global_manpower_modifier = -0.612
+}
+troop_maintenance61_300000000000004 = {
+	global_manpower_modifier = -0.613
+}
+troop_maintenance61_400000000000006 = {
+	global_manpower_modifier = -0.6140000000000001
+}
+troop_maintenance61_5 = {
+	global_manpower_modifier = -0.615
+}
+troop_maintenance61_6 = {
+	global_manpower_modifier = -0.616
+}
+troop_maintenance61_7 = {
+	global_manpower_modifier = -0.617
+}
+troop_maintenance61_800000000000004 = {
+	global_manpower_modifier = -0.618
+}
+troop_maintenance61_900000000000006 = {
+	global_manpower_modifier = -0.6190000000000001
+}
+troop_maintenance62_0 = {
+	global_manpower_modifier = -0.62
+}
+troop_maintenance62_1 = {
+	global_manpower_modifier = -0.621
+}
+troop_maintenance62_2 = {
+	global_manpower_modifier = -0.622
+}
+troop_maintenance62_300000000000004 = {
+	global_manpower_modifier = -0.623
+}
+troop_maintenance62_400000000000006 = {
+	global_manpower_modifier = -0.6240000000000001
+}
+troop_maintenance62_5 = {
+	global_manpower_modifier = -0.625
+}
+troop_maintenance62_6 = {
+	global_manpower_modifier = -0.626
+}
+troop_maintenance62_7 = {
+	global_manpower_modifier = -0.627
+}
+troop_maintenance62_800000000000004 = {
+	global_manpower_modifier = -0.628
+}
+troop_maintenance62_900000000000006 = {
+	global_manpower_modifier = -0.629
+}
+troop_maintenance63_0 = {
+	global_manpower_modifier = -0.63
+}
+troop_maintenance63_1 = {
+	global_manpower_modifier = -0.631
+}
+troop_maintenance63_2 = {
+	global_manpower_modifier = -0.632
+}
+troop_maintenance63_300000000000004 = {
+	global_manpower_modifier = -0.633
+}
+troop_maintenance63_400000000000006 = {
+	global_manpower_modifier = -0.634
+}
+troop_maintenance63_5 = {
+	global_manpower_modifier = -0.635
+}
+troop_maintenance63_6 = {
+	global_manpower_modifier = -0.636
+}
+troop_maintenance63_7 = {
+	global_manpower_modifier = -0.637
+}
+troop_maintenance63_800000000000004 = {
+	global_manpower_modifier = -0.638
+}
+troop_maintenance63_900000000000006 = {
+	global_manpower_modifier = -0.639
+}
+troop_maintenance64_0 = {
+	global_manpower_modifier = -0.64
+}
+troop_maintenance64_10000000000001 = {
+	global_manpower_modifier = -0.6410000000000001
+}
+troop_maintenance64_2 = {
+	global_manpower_modifier = -0.642
+}
+troop_maintenance64_3 = {
+	global_manpower_modifier = -0.643
+}
+troop_maintenance64_4 = {
+	global_manpower_modifier = -0.644
+}
+troop_maintenance64_5 = {
+	global_manpower_modifier = -0.645
+}
+troop_maintenance64_60000000000001 = {
+	global_manpower_modifier = -0.6460000000000001
+}
+troop_maintenance64_7 = {
+	global_manpower_modifier = -0.647
+}
+troop_maintenance64_8 = {
+	global_manpower_modifier = -0.648
+}
+troop_maintenance64_9 = {
+	global_manpower_modifier = -0.649
+}
+troop_maintenance65_0 = {
+	global_manpower_modifier = -0.65
+}
+troop_maintenance65_10000000000001 = {
+	global_manpower_modifier = -0.6510000000000001
+}
+troop_maintenance65_2 = {
+	global_manpower_modifier = -0.652
+}
+troop_maintenance65_3 = {
+	global_manpower_modifier = -0.653
+}
+troop_maintenance65_4 = {
+	global_manpower_modifier = -0.654
+}
+troop_maintenance65_5 = {
+	global_manpower_modifier = -0.655
+}
+troop_maintenance65_60000000000001 = {
+	global_manpower_modifier = -0.6560000000000001
+}
+troop_maintenance65_7 = {
+	global_manpower_modifier = -0.657
+}
+troop_maintenance65_8 = {
+	global_manpower_modifier = -0.6579999999999999
+}
+troop_maintenance65_9 = {
+	global_manpower_modifier = -0.659
+}
+troop_maintenance66_0 = {
+	global_manpower_modifier = -0.66
+}
+troop_maintenance66_10000000000001 = {
+	global_manpower_modifier = -0.661
+}
+troop_maintenance66_2 = {
+	global_manpower_modifier = -0.662
+}
+troop_maintenance66_3 = {
+	global_manpower_modifier = -0.6629999999999999
+}
+troop_maintenance66_4 = {
+	global_manpower_modifier = -0.664
+}
+troop_maintenance66_5 = {
+	global_manpower_modifier = -0.665
+}
+troop_maintenance66_60000000000001 = {
+	global_manpower_modifier = -0.666
+}
+troop_maintenance66_7 = {
+	global_manpower_modifier = -0.667
+}
+troop_maintenance66_8 = {
+	global_manpower_modifier = -0.6679999999999999
+}
+troop_maintenance66_9 = {
+	global_manpower_modifier = -0.669
+}
+troop_maintenance67_0 = {
+	global_manpower_modifier = -0.67
+}
+troop_maintenance67_10000000000001 = {
+	global_manpower_modifier = -0.671
+}
+troop_maintenance67_2 = {
+	global_manpower_modifier = -0.672
+}
+troop_maintenance67_3 = {
+	global_manpower_modifier = -0.6729999999999999
+}
+troop_maintenance67_4 = {
+	global_manpower_modifier = -0.674
+}
+troop_maintenance67_5 = {
+	global_manpower_modifier = -0.675
+}
+troop_maintenance67_60000000000001 = {
+	global_manpower_modifier = -0.676
+}
+troop_maintenance67_7 = {
+	global_manpower_modifier = -0.677
+}
+troop_maintenance67_8 = {
+	global_manpower_modifier = -0.6779999999999999
+}
+troop_maintenance67_9 = {
+	global_manpower_modifier = -0.679
+}
+troop_maintenance68_0 = {
+	global_manpower_modifier = -0.68
+}
+troop_maintenance68_10000000000001 = {
+	global_manpower_modifier = -0.681
+}
+troop_maintenance68_2 = {
+	global_manpower_modifier = -0.682
+}
+troop_maintenance68_3 = {
+	global_manpower_modifier = -0.6829999999999999
+}
+troop_maintenance68_4 = {
+	global_manpower_modifier = -0.684
+}
+troop_maintenance68_5 = {
+	global_manpower_modifier = -0.685
+}
+troop_maintenance68_60000000000001 = {
+	global_manpower_modifier = -0.686
+}
+troop_maintenance68_7 = {
+	global_manpower_modifier = -0.687
+}
+troop_maintenance68_8 = {
+	global_manpower_modifier = -0.688
+}
+troop_maintenance68_9 = {
+	global_manpower_modifier = -0.6890000000000001
+}
+troop_maintenance69_0 = {
+	global_manpower_modifier = -0.69
+}
+troop_maintenance69_10000000000001 = {
+	global_manpower_modifier = -0.6910000000000001
+}
+troop_maintenance69_2 = {
+	global_manpower_modifier = -0.6920000000000001
+}
+troop_maintenance69_3 = {
+	global_manpower_modifier = -0.693
+}
+troop_maintenance69_4 = {
+	global_manpower_modifier = -0.6940000000000001
+}
+troop_maintenance69_5 = {
+	global_manpower_modifier = -0.695
+}
+troop_maintenance69_60000000000001 = {
+	global_manpower_modifier = -0.6960000000000001
+}
+troop_maintenance69_7 = {
+	global_manpower_modifier = -0.6970000000000001
+}
+troop_maintenance69_8 = {
+	global_manpower_modifier = -0.698
+}
+troop_maintenance69_9 = {
+	global_manpower_modifier = -0.6990000000000001
+}
+troop_maintenance70_0 = {
+	global_manpower_modifier = -0.7
+}
+troop_maintenance70_10000000000001 = {
+	global_manpower_modifier = -0.7010000000000001
+}
+troop_maintenance70_2 = {
+	global_manpower_modifier = -0.7020000000000001
+}
+troop_maintenance70_3 = {
+	global_manpower_modifier = -0.703
+}
+troop_maintenance70_4 = {
+	global_manpower_modifier = -0.7040000000000001
+}
+troop_maintenance70_5 = {
+	global_manpower_modifier = -0.705
+}
+troop_maintenance70_60000000000001 = {
+	global_manpower_modifier = -0.7060000000000001
+}
+troop_maintenance70_7 = {
+	global_manpower_modifier = -0.7070000000000001
+}
+troop_maintenance70_8 = {
+	global_manpower_modifier = -0.708
+}
+troop_maintenance70_9 = {
+	global_manpower_modifier = -0.7090000000000001
+}
+troop_maintenance71_0 = {
+	global_manpower_modifier = -0.71
+}
+troop_maintenance71_10000000000001 = {
+	global_manpower_modifier = -0.7110000000000001
+}
+troop_maintenance71_2 = {
+	global_manpower_modifier = -0.7120000000000001
+}
+troop_maintenance71_3 = {
+	global_manpower_modifier = -0.713
+}
+troop_maintenance71_4 = {
+	global_manpower_modifier = -0.7140000000000001
+}
+troop_maintenance71_5 = {
+	global_manpower_modifier = -0.715
+}
+troop_maintenance71_60000000000001 = {
+	global_manpower_modifier = -0.7160000000000001
+}
+troop_maintenance71_7 = {
+	global_manpower_modifier = -0.7170000000000001
+}
+troop_maintenance71_8 = {
+	global_manpower_modifier = -0.718
+}
+troop_maintenance71_9 = {
+	global_manpower_modifier = -0.7190000000000001
+}
+troop_maintenance72_0 = {
+	global_manpower_modifier = -0.72
+}
+troop_maintenance72_10000000000001 = {
+	global_manpower_modifier = -0.7210000000000001
+}
+troop_maintenance72_2 = {
+	global_manpower_modifier = -0.722
+}
+troop_maintenance72_3 = {
+	global_manpower_modifier = -0.723
+}
+troop_maintenance72_4 = {
+	global_manpower_modifier = -0.7240000000000001
+}
+troop_maintenance72_5 = {
+	global_manpower_modifier = -0.725
+}
+troop_maintenance72_60000000000001 = {
+	global_manpower_modifier = -0.7260000000000001
+}
+troop_maintenance72_7 = {
+	global_manpower_modifier = -0.727
+}
+troop_maintenance72_8 = {
+	global_manpower_modifier = -0.728
+}
+troop_maintenance72_9 = {
+	global_manpower_modifier = -0.7290000000000001
+}
+troop_maintenance73_0 = {
+	global_manpower_modifier = -0.73
+}
+troop_maintenance73_10000000000001 = {
+	global_manpower_modifier = -0.7310000000000001
+}
+troop_maintenance73_2 = {
+	global_manpower_modifier = -0.732
+}
+troop_maintenance73_3 = {
+	global_manpower_modifier = -0.733
+}
+troop_maintenance73_4 = {
+	global_manpower_modifier = -0.7340000000000001
+}
+troop_maintenance73_5 = {
+	global_manpower_modifier = -0.735
+}
+troop_maintenance73_60000000000001 = {
+	global_manpower_modifier = -0.7360000000000001
+}
+troop_maintenance73_7 = {
+	global_manpower_modifier = -0.737
+}
+troop_maintenance73_8 = {
+	global_manpower_modifier = -0.738
+}
+troop_maintenance73_9 = {
+	global_manpower_modifier = -0.7390000000000001
+}
+troop_maintenance74_0 = {
+	global_manpower_modifier = -0.74
+}
+troop_maintenance74_10000000000001 = {
+	global_manpower_modifier = -0.7410000000000001
+}
+troop_maintenance74_2 = {
+	global_manpower_modifier = -0.742
+}
+troop_maintenance74_3 = {
+	global_manpower_modifier = -0.743
+}
+troop_maintenance74_4 = {
+	global_manpower_modifier = -0.7440000000000001
+}
+troop_maintenance74_5 = {
+	global_manpower_modifier = -0.745
+}
+troop_maintenance74_60000000000001 = {
+	global_manpower_modifier = -0.7460000000000001
+}
+troop_maintenance74_7 = {
+	global_manpower_modifier = -0.747
+}
+troop_maintenance74_8 = {
+	global_manpower_modifier = -0.748
+}
+troop_maintenance74_9 = {
+	global_manpower_modifier = -0.7490000000000001
+}
+troop_maintenance75_0 = {
+	global_manpower_modifier = -0.75
+}
+troop_maintenance75_10000000000001 = {
+	global_manpower_modifier = -0.7510000000000001
+}
+troop_maintenance75_2 = {
+	global_manpower_modifier = -0.752
+}
+troop_maintenance75_3 = {
+	global_manpower_modifier = -0.753
+}
+troop_maintenance75_4 = {
+	global_manpower_modifier = -0.754
+}
+troop_maintenance75_5 = {
+	global_manpower_modifier = -0.755
+}
+troop_maintenance75_60000000000001 = {
+	global_manpower_modifier = -0.7560000000000001
+}
+troop_maintenance75_7 = {
+	global_manpower_modifier = -0.757
+}
+troop_maintenance75_8 = {
+	global_manpower_modifier = -0.758
+}
+troop_maintenance75_9 = {
+	global_manpower_modifier = -0.759
+}
+troop_maintenance76_0 = {
+	global_manpower_modifier = -0.76
+}
+troop_maintenance76_10000000000001 = {
+	global_manpower_modifier = -0.7610000000000001
+}
+troop_maintenance76_2 = {
+	global_manpower_modifier = -0.762
+}
+troop_maintenance76_3 = {
+	global_manpower_modifier = -0.763
+}
+troop_maintenance76_4 = {
+	global_manpower_modifier = -0.764
+}
+troop_maintenance76_5 = {
+	global_manpower_modifier = -0.765
+}
+troop_maintenance76_60000000000001 = {
+	global_manpower_modifier = -0.7660000000000001
+}
+troop_maintenance76_7 = {
+	global_manpower_modifier = -0.767
+}
+troop_maintenance76_80000000000001 = {
+	global_manpower_modifier = -0.7680000000000001
+}
+troop_maintenance76_9 = {
+	global_manpower_modifier = -0.769
+}
+troop_maintenance77_0 = {
+	global_manpower_modifier = -0.77
+}
+troop_maintenance77_10000000000001 = {
+	global_manpower_modifier = -0.7710000000000001
+}
+troop_maintenance77_2 = {
+	global_manpower_modifier = -0.772
+}
+troop_maintenance77_30000000000001 = {
+	global_manpower_modifier = -0.7730000000000001
+}
+troop_maintenance77_4 = {
+	global_manpower_modifier = -0.774
+}
+troop_maintenance77_5 = {
+	global_manpower_modifier = -0.775
+}
+troop_maintenance77_60000000000001 = {
+	global_manpower_modifier = -0.7760000000000001
+}
+troop_maintenance77_7 = {
+	global_manpower_modifier = -0.777
+}
+troop_maintenance77_80000000000001 = {
+	global_manpower_modifier = -0.7780000000000001
+}
+troop_maintenance77_9 = {
+	global_manpower_modifier = -0.779
+}
+troop_maintenance78_0 = {
+	global_manpower_modifier = -0.78
+}
+troop_maintenance78_10000000000001 = {
+	global_manpower_modifier = -0.7810000000000001
+}
+troop_maintenance78_2 = {
+	global_manpower_modifier = -0.782
+}
+troop_maintenance78_30000000000001 = {
+	global_manpower_modifier = -0.7830000000000001
+}
+troop_maintenance78_4 = {
+	global_manpower_modifier = -0.784
+}
+troop_maintenance78_5 = {
+	global_manpower_modifier = -0.785
+}
+troop_maintenance78_60000000000001 = {
+	global_manpower_modifier = -0.786
+}
+troop_maintenance78_7 = {
+	global_manpower_modifier = -0.787
+}
+troop_maintenance78_80000000000001 = {
+	global_manpower_modifier = -0.7880000000000001
+}
+troop_maintenance78_9 = {
+	global_manpower_modifier = -0.789
+}
+troop_maintenance79_0 = {
+	global_manpower_modifier = -0.79
+}
+troop_maintenance79_10000000000001 = {
+	global_manpower_modifier = -0.791
+}
+troop_maintenance79_2 = {
+	global_manpower_modifier = -0.792
+}
+troop_maintenance79_30000000000001 = {
+	global_manpower_modifier = -0.7930000000000001
+}
+troop_maintenance79_4 = {
+	global_manpower_modifier = -0.794
+}
+troop_maintenance79_5 = {
+	global_manpower_modifier = -0.795
+}
+troop_maintenance79_60000000000001 = {
+	global_manpower_modifier = -0.796
+}
+troop_maintenance79_7 = {
+	global_manpower_modifier = -0.797
+}
+troop_maintenance79_80000000000001 = {
+	global_manpower_modifier = -0.7980000000000002
+}
+troop_maintenance79_9 = {
+	global_manpower_modifier = -0.799
+}
+troop_maintenance80_0 = {
+	global_manpower_modifier = -0.8
+}
+troop_maintenance80_10000000000001 = {
+	global_manpower_modifier = -0.801
+}
+troop_maintenance80_2 = {
+	global_manpower_modifier = -0.802
+}
+troop_maintenance80_30000000000001 = {
+	global_manpower_modifier = -0.8030000000000002
+}
+troop_maintenance80_4 = {
+	global_manpower_modifier = -0.804
+}
+troop_maintenance80_5 = {
+	global_manpower_modifier = -0.805
+}
+troop_maintenance80_60000000000001 = {
+	global_manpower_modifier = -0.806
+}
+troop_maintenance80_7 = {
+	global_manpower_modifier = -0.807
+}
+troop_maintenance80_80000000000001 = {
+	global_manpower_modifier = -0.8080000000000002
+}
+troop_maintenance80_9 = {
+	global_manpower_modifier = -0.809
+}
+troop_maintenance81_0 = {
+	global_manpower_modifier = -0.81
+}
+troop_maintenance81_10000000000001 = {
+	global_manpower_modifier = -0.811
+}
+troop_maintenance81_2 = {
+	global_manpower_modifier = -0.812
+}
+troop_maintenance81_30000000000001 = {
+	global_manpower_modifier = -0.8130000000000002
+}
+troop_maintenance81_4 = {
+	global_manpower_modifier = -0.8140000000000001
+}
+troop_maintenance81_5 = {
+	global_manpower_modifier = -0.815
+}
+troop_maintenance81_60000000000001 = {
+	global_manpower_modifier = -0.8160000000000001
+}
+troop_maintenance81_7 = {
+	global_manpower_modifier = -0.8170000000000001
+}
+troop_maintenance81_80000000000001 = {
+	global_manpower_modifier = -0.8180000000000001
+}
+troop_maintenance81_9 = {
+	global_manpower_modifier = -0.8190000000000001
+}
+troop_maintenance82_0 = {
+	global_manpower_modifier = -0.82
+}
+troop_maintenance82_10000000000001 = {
+	global_manpower_modifier = -0.8210000000000001
+}
+troop_maintenance82_2 = {
+	global_manpower_modifier = -0.8220000000000001
+}
+troop_maintenance82_30000000000001 = {
+	global_manpower_modifier = -0.8230000000000001
+}
+troop_maintenance82_4 = {
+	global_manpower_modifier = -0.8240000000000001
+}
+troop_maintenance82_5 = {
+	global_manpower_modifier = -0.825
+}
+troop_maintenance82_60000000000001 = {
+	global_manpower_modifier = -0.8260000000000001
+}
+troop_maintenance82_7 = {
+	global_manpower_modifier = -0.8270000000000001
+}
+troop_maintenance82_80000000000001 = {
+	global_manpower_modifier = -0.8280000000000001
+}
+troop_maintenance82_9 = {
+	global_manpower_modifier = -0.8290000000000001
+}
+troop_maintenance83_0 = {
+	global_manpower_modifier = -0.83
+}
+troop_maintenance83_10000000000001 = {
+	global_manpower_modifier = -0.8310000000000001
+}
+troop_maintenance83_2 = {
+	global_manpower_modifier = -0.8320000000000001
+}
+troop_maintenance83_30000000000001 = {
+	global_manpower_modifier = -0.8330000000000001
+}
+troop_maintenance83_4 = {
+	global_manpower_modifier = -0.8340000000000001
+}
+troop_maintenance83_5 = {
+	global_manpower_modifier = -0.835
+}
+troop_maintenance83_60000000000001 = {
+	global_manpower_modifier = -0.8360000000000001
+}
+troop_maintenance83_7 = {
+	global_manpower_modifier = -0.8370000000000001
+}
+troop_maintenance83_80000000000001 = {
+	global_manpower_modifier = -0.8380000000000001
+}
+troop_maintenance83_9 = {
+	global_manpower_modifier = -0.8390000000000001
+}
+troop_maintenance84_0 = {
+	global_manpower_modifier = -0.84
+}
+troop_maintenance84_10000000000001 = {
+	global_manpower_modifier = -0.8410000000000001
+}
+troop_maintenance84_2 = {
+	global_manpower_modifier = -0.8420000000000001
+}
+troop_maintenance84_30000000000001 = {
+	global_manpower_modifier = -0.8430000000000001
+}
+troop_maintenance84_4 = {
+	global_manpower_modifier = -0.8440000000000001
+}
+troop_maintenance84_5 = {
+	global_manpower_modifier = -0.845
+}
+troop_maintenance84_60000000000001 = {
+	global_manpower_modifier = -0.8460000000000001
+}
+troop_maintenance84_7 = {
+	global_manpower_modifier = -0.847
+}
+troop_maintenance84_80000000000001 = {
+	global_manpower_modifier = -0.8480000000000001
+}
+troop_maintenance84_9 = {
+	global_manpower_modifier = -0.8490000000000001
+}
+troop_maintenance85_0 = {
+	global_manpower_modifier = -0.85
+}
+troop_maintenance85_10000000000001 = {
+	global_manpower_modifier = -0.8510000000000001
+}
+troop_maintenance85_2 = {
+	global_manpower_modifier = -0.852
+}
+troop_maintenance85_30000000000001 = {
+	global_manpower_modifier = -0.8530000000000001
+}
+troop_maintenance85_4 = {
+	global_manpower_modifier = -0.8540000000000001
+}
+troop_maintenance85_5 = {
+	global_manpower_modifier = -0.855
+}
+troop_maintenance85_60000000000001 = {
+	global_manpower_modifier = -0.8560000000000001
+}
+troop_maintenance85_7 = {
+	global_manpower_modifier = -0.857
+}
+troop_maintenance85_80000000000001 = {
+	global_manpower_modifier = -0.8580000000000001
+}
+troop_maintenance85_9 = {
+	global_manpower_modifier = -0.8590000000000001
+}
+troop_maintenance86_0 = {
+	global_manpower_modifier = -0.86
+}
+troop_maintenance86_10000000000001 = {
+	global_manpower_modifier = -0.8610000000000001
+}
+troop_maintenance86_2 = {
+	global_manpower_modifier = -0.862
+}
+troop_maintenance86_30000000000001 = {
+	global_manpower_modifier = -0.8630000000000001
+}
+troop_maintenance86_4 = {
+	global_manpower_modifier = -0.8640000000000001
+}
+troop_maintenance86_5 = {
+	global_manpower_modifier = -0.865
+}
+troop_maintenance86_60000000000001 = {
+	global_manpower_modifier = -0.8660000000000001
+}
+troop_maintenance86_7 = {
+	global_manpower_modifier = -0.867
+}
+troop_maintenance86_80000000000001 = {
+	global_manpower_modifier = -0.8680000000000001
+}
+troop_maintenance86_9 = {
+	global_manpower_modifier = -0.8690000000000001
+}
+troop_maintenance87_0 = {
+	global_manpower_modifier = -0.87
+}
+troop_maintenance87_10000000000001 = {
+	global_manpower_modifier = -0.8710000000000001
+}
+troop_maintenance87_2 = {
+	global_manpower_modifier = -0.872
+}
+troop_maintenance87_30000000000001 = {
+	global_manpower_modifier = -0.8730000000000001
+}
+troop_maintenance87_4 = {
+	global_manpower_modifier = -0.8740000000000001
+}
+troop_maintenance87_5 = {
+	global_manpower_modifier = -0.875
+}
+troop_maintenance87_60000000000001 = {
+	global_manpower_modifier = -0.8760000000000001
+}
+troop_maintenance87_7 = {
+	global_manpower_modifier = -0.877
+}
+troop_maintenance87_80000000000001 = {
+	global_manpower_modifier = -0.8780000000000001
+}
+troop_maintenance87_9 = {
+	global_manpower_modifier = -0.879
+}
+troop_maintenance88_0 = {
+	global_manpower_modifier = -0.88
+}
+troop_maintenance88_10000000000001 = {
+	global_manpower_modifier = -0.8810000000000001
+}
+troop_maintenance88_2 = {
+	global_manpower_modifier = -0.882
+}
+troop_maintenance88_30000000000001 = {
+	global_manpower_modifier = -0.8830000000000001
+}
+troop_maintenance88_4 = {
+	global_manpower_modifier = -0.884
+}
+troop_maintenance88_5 = {
+	global_manpower_modifier = -0.885
+}
+troop_maintenance88_60000000000001 = {
+	global_manpower_modifier = -0.8860000000000001
+}
+troop_maintenance88_7 = {
+	global_manpower_modifier = -0.887
+}
+troop_maintenance88_80000000000001 = {
+	global_manpower_modifier = -0.8880000000000001
+}
+troop_maintenance88_9 = {
+	global_manpower_modifier = -0.889
+}
+troop_maintenance89_0 = {
+	global_manpower_modifier = -0.89
+}
+troop_maintenance89_10000000000001 = {
+	global_manpower_modifier = -0.8910000000000001
+}
+troop_maintenance89_2 = {
+	global_manpower_modifier = -0.892
+}
+troop_maintenance89_30000000000001 = {
+	global_manpower_modifier = -0.8930000000000001
+}
+troop_maintenance89_4 = {
+	global_manpower_modifier = -0.894
+}
+troop_maintenance89_5 = {
+	global_manpower_modifier = -0.895
+}
+troop_maintenance89_60000000000001 = {
+	global_manpower_modifier = -0.8960000000000001
+}
+troop_maintenance89_7 = {
+	global_manpower_modifier = -0.897
+}
+troop_maintenance89_80000000000001 = {
+	global_manpower_modifier = -0.8980000000000001
+}
+troop_maintenance89_9 = {
+	global_manpower_modifier = -0.899
+}
+troop_maintenance90_0 = {
+	global_manpower_modifier = -0.9
+}
+troop_maintenance90_10000000000001 = {
+	global_manpower_modifier = -0.9010000000000001
+}
+troop_maintenance90_2 = {
+	global_manpower_modifier = -0.902
+}
+troop_maintenance90_30000000000001 = {
+	global_manpower_modifier = -0.9030000000000001
+}
+troop_maintenance90_4 = {
+	global_manpower_modifier = -0.904
+}
+troop_maintenance90_5 = {
+	global_manpower_modifier = -0.905
+}
+troop_maintenance90_60000000000001 = {
+	global_manpower_modifier = -0.9060000000000001
+}
+troop_maintenance90_7 = {
+	global_manpower_modifier = -0.907
+}
+troop_maintenance90_80000000000001 = {
+	global_manpower_modifier = -0.9080000000000001
+}
+troop_maintenance90_9 = {
+	global_manpower_modifier = -0.909
+}
+troop_maintenance91_0 = {
+	global_manpower_modifier = -0.91
+}
+troop_maintenance91_10000000000001 = {
+	global_manpower_modifier = -0.911
+}
+troop_maintenance91_2 = {
+	global_manpower_modifier = -0.912
+}
+troop_maintenance91_30000000000001 = {
+	global_manpower_modifier = -0.9130000000000001
+}
+troop_maintenance91_4 = {
+	global_manpower_modifier = -0.914
+}
+troop_maintenance91_5 = {
+	global_manpower_modifier = -0.915
+}
+troop_maintenance91_60000000000001 = {
+	global_manpower_modifier = -0.916
+}
+troop_maintenance91_7 = {
+	global_manpower_modifier = -0.917
+}
+troop_maintenance91_80000000000001 = {
+	global_manpower_modifier = -0.9180000000000001
+}
+troop_maintenance91_9 = {
+	global_manpower_modifier = -0.919
+}
+troop_maintenance92_0 = {
+	global_manpower_modifier = -0.92
+}
+troop_maintenance92_10000000000001 = {
+	global_manpower_modifier = -0.921
+}
+troop_maintenance92_2 = {
+	global_manpower_modifier = -0.922
+}
+troop_maintenance92_30000000000001 = {
+	global_manpower_modifier = -0.9230000000000002
+}
+troop_maintenance92_4 = {
+	global_manpower_modifier = -0.924
+}
+troop_maintenance92_5 = {
+	global_manpower_modifier = -0.925
+}
+troop_maintenance92_60000000000001 = {
+	global_manpower_modifier = -0.926
+}
+troop_maintenance92_7 = {
+	global_manpower_modifier = -0.927
+}
+troop_maintenance92_80000000000001 = {
+	global_manpower_modifier = -0.9280000000000002
+}
+troop_maintenance92_9 = {
+	global_manpower_modifier = -0.929
+}
+troop_maintenance93_0 = {
+	global_manpower_modifier = -0.93
+}
+troop_maintenance93_10000000000001 = {
+	global_manpower_modifier = -0.931
+}
+troop_maintenance93_2 = {
+	global_manpower_modifier = -0.932
+}
+troop_maintenance93_30000000000001 = {
+	global_manpower_modifier = -0.9330000000000002
+}
+troop_maintenance93_4 = {
+	global_manpower_modifier = -0.934
+}
+troop_maintenance93_5 = {
+	global_manpower_modifier = -0.935
+}
+troop_maintenance93_60000000000001 = {
+	global_manpower_modifier = -0.936
+}
+troop_maintenance93_7 = {
+	global_manpower_modifier = -0.937
+}
+troop_maintenance93_80000000000001 = {
+	global_manpower_modifier = -0.9380000000000002
+}
+troop_maintenance93_9 = {
+	global_manpower_modifier = -0.9390000000000001
+}
+troop_maintenance94_0 = {
+	global_manpower_modifier = -0.94
+}
+troop_maintenance94_10000000000001 = {
+	global_manpower_modifier = -0.9410000000000001
+}
+troop_maintenance94_2 = {
+	global_manpower_modifier = -0.9420000000000001
+}
+troop_maintenance94_30000000000001 = {
+	global_manpower_modifier = -0.9430000000000001
+}
+troop_maintenance94_4 = {
+	global_manpower_modifier = -0.9440000000000001
+}
+troop_maintenance94_5 = {
+	global_manpower_modifier = -0.945
+}
+troop_maintenance94_60000000000001 = {
+	global_manpower_modifier = -0.9460000000000001
+}
+troop_maintenance94_7 = {
+	global_manpower_modifier = -0.9470000000000001
+}
+troop_maintenance94_80000000000001 = {
+	global_manpower_modifier = -0.9480000000000001
+}
+troop_maintenance94_9 = {
+	global_manpower_modifier = -0.9490000000000001
+}
+troop_maintenance95_0 = {
+	global_manpower_modifier = -0.95
+}
+troop_maintenance95_10000000000001 = {
+	global_manpower_modifier = -0.9510000000000001
+}
+troop_maintenance95_2 = {
+	global_manpower_modifier = -0.9520000000000001
+}
+troop_maintenance95_30000000000001 = {
+	global_manpower_modifier = -0.9530000000000001
+}
+troop_maintenance95_4 = {
+	global_manpower_modifier = -0.9540000000000001
+}
+troop_maintenance95_5 = {
+	global_manpower_modifier = -0.955
+}
+troop_maintenance95_60000000000001 = {
+	global_manpower_modifier = -0.9560000000000001
+}
+troop_maintenance95_7 = {
+	global_manpower_modifier = -0.9570000000000001
+}
+troop_maintenance95_80000000000001 = {
+	global_manpower_modifier = -0.9580000000000001
+}
+troop_maintenance95_9 = {
+	global_manpower_modifier = -0.9590000000000001
+}
+troop_maintenance96_0 = {
+	global_manpower_modifier = -0.96
+}
+troop_maintenance96_10000000000001 = {
+	global_manpower_modifier = -0.9610000000000001
+}
+troop_maintenance96_2 = {
+	global_manpower_modifier = -0.9620000000000001
+}
+troop_maintenance96_30000000000001 = {
+	global_manpower_modifier = -0.9630000000000001
+}
+troop_maintenance96_4 = {
+	global_manpower_modifier = -0.9640000000000001
+}
+troop_maintenance96_5 = {
+	global_manpower_modifier = -0.965
+}
+troop_maintenance96_60000000000001 = {
+	global_manpower_modifier = -0.9660000000000001
+}
+troop_maintenance96_7 = {
+	global_manpower_modifier = -0.9670000000000001
+}
+troop_maintenance96_80000000000001 = {
+	global_manpower_modifier = -0.9680000000000001
+}
+troop_maintenance96_9 = {
+	global_manpower_modifier = -0.9690000000000001
+}
+troop_maintenance97_0 = {
+	global_manpower_modifier = -0.97
+}
+troop_maintenance97_10000000000001 = {
+	global_manpower_modifier = -0.9710000000000001
+}
+troop_maintenance97_2 = {
+	global_manpower_modifier = -0.972
+}
+troop_maintenance97_30000000000001 = {
+	global_manpower_modifier = -0.9730000000000001
+}
+troop_maintenance97_4 = {
+	global_manpower_modifier = -0.9740000000000001
+}
+troop_maintenance97_5 = {
+	global_manpower_modifier = -0.975
+}
+troop_maintenance97_60000000000001 = {
+	global_manpower_modifier = -0.9760000000000001
+}
+troop_maintenance97_7 = {
+	global_manpower_modifier = -0.977
+}
+troop_maintenance97_80000000000001 = {
+	global_manpower_modifier = -0.9780000000000001
+}
+troop_maintenance97_9 = {
+	global_manpower_modifier = -0.9790000000000001
+}
+troop_maintenance98_0 = {
+	global_manpower_modifier = -0.98
+}
+troop_maintenance98_10000000000001 = {
+	global_manpower_modifier = -0.9810000000000001
+}
+troop_maintenance98_2 = {
+	global_manpower_modifier = -0.982
+}
+troop_maintenance98_30000000000001 = {
+	global_manpower_modifier = -0.9830000000000001
+}
+troop_maintenance98_4 = {
+	global_manpower_modifier = -0.9840000000000001
+}
+troop_maintenance98_5 = {
+	global_manpower_modifier = -0.985
+}
+troop_maintenance98_60000000000001 = {
+	global_manpower_modifier = -0.9860000000000001
+}
+troop_maintenance98_7 = {
+	global_manpower_modifier = -0.987
+}
+troop_maintenance98_80000000000001 = {
+	global_manpower_modifier = -0.9880000000000001
+}
+troop_maintenance98_9 = {
+	global_manpower_modifier = -0.9890000000000001
+}
+troop_maintenance99_0 = {
+	global_manpower_modifier = -0.99
+}
+troop_maintenance99_10000000000001 = {
+	global_manpower_modifier = -0.9910000000000001
+}
+troop_maintenance99_2 = {
+	global_manpower_modifier = -0.992
+}
+troop_maintenance99_30000000000001 = {
+	global_manpower_modifier = -0.9930000000000001
+}
+troop_maintenance99_4 = {
+	global_manpower_modifier = -0.9940000000000001
+}
+troop_maintenance99_5 = {
+	global_manpower_modifier = -0.995
+}
+troop_maintenance99_60000000000001 = {
+	global_manpower_modifier = -0.9960000000000001
+}
+troop_maintenance99_7 = {
+	global_manpower_modifier = -0.997
+}
+troop_maintenance99_80000000000001 = {
+	global_manpower_modifier = -0.9980000000000001
+}
+troop_maintenance99_9 = {
+	global_manpower_modifier = -0.9990000000000001
+}
+troop_maintenance100_0 = {
+	global_manpower_modifier = -1.0
+}

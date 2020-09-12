@@ -1,22 +1,36 @@
 ﻿NGame = {
-	STARTING_COHORTS_PER_MANPOWER = 2.0
+	STARTING_COHORTS_PER_MANPOWER = 0.25
 	STARTING_SHIPS_PER_PORT_POPULATION = 0.06
 }
 
-NPowerBase = {
-	FROM_TITLE = 0
-	LOYAL_COHORTS = 100
-	LOYAL_VETERANS = 100
-	NON_LOYAL_COHORTS = 50
-	SHIPS = 10
-	GOVERNOR_POP = 100
-	RULER_POP = 20
-	HOLDINGS = 50
-	HEAD_OF_FAMILY = 60
-	MIN_EMPLOYER_UNIT_THRESHOLD = 25 # when country is too small, this will be the smallest threshold with which the powerbase will be calculated
-	MIN_EMPLOYER_SHIP_THRESHOLD = 10 # when scountry is too small, this will be the smallest threshold with which the powerbase will be calculated
+NCombat = {	
+	LAND_STRENGTH_DAMAGE_MODIFIER = 0.4	
+	GREAT_BATTLE_SIZE_THRESHOLD = 10000
 }
 
-NCombat = {	
-	LAND_STRENGTH_DAMAGE_MODIFIER = 0.6	
+NDiplomacy = {
+	PEACE_CLAIM_AE_REDUCTION = 0 # AE reduction if the taker has a claim
+	PEACE_SUBJECT_AE_REDUCTION = -1 # AE reduction if it is taken for a subject
+	PEACE_AE_INCREASE_FOR_NON_TARGET = 0.0 # AE increase for countries that are not main targets of the war
+	AE_IMPACT_ON_OPINION = 0
+}
+NAI = {
+	BUILD_DURING_WAR_DELAY = 3					# Months the AI will wait before building buildings while at war
+	BUILD_MONTHS_AWAY_FROM_WAR_THRESHOLD = 3	# If the AI is less than this number of months away from declaring war they will hold building construction	
+	#Diplomacy
+	AE_MIN = 1000 #AI starts being hawkish when AE has reached this value plus its own AE value.
+	AE_MAX = 1000 #AI becomes particularly hawkish when AE has reached this value on harder difficulties.
+	AE_CARE = 1000 #AI usually waits for around this AE or a somewhat higher value before declaring a war.
+	AE_CARE_EXTRA = 1000 #Additional variation on top of AE_CARE for when AI cares about AE in declaring wars and peace deals.
+	PEACE_ACCEPTANCE_EXHAUSTION = -20
+	PEACE_ACCEPTANCE_DESPERATION = -50
+	PEACE_ACCEPTANCE_MONTHS_OF_WAR = 120
+	TRADE_REQUEST_ACCEPTANCE = 2000 #Scaling of AI's "good/bad for us" acceptances.
+}
+
+NProvince = {
+	STARVATION_IMMINENT_WARNING = 50
+	DISLOYAL_STATE_WARN_MONTHS = 3
+	TOO_DISLOYAL_THRESHOLD = 10
+	REVOLT_LOYALTY_THRESHOLD = 0
 }

@@ -1,0 +1,1217 @@
+﻿namespace=character_loyalty
+
+character_loyalty.1 = {
+	type = character_event
+	hidden = yes
+    
+    trigger = { }
+	
+	immediate = {      
+
+		if = {limit = {has_character_modifier = character_distance0_0} remove_character_modifier = character_distance0_0}
+		if = {limit = {has_character_modifier = character_distance0_5} remove_character_modifier = character_distance0_5}
+		if = {limit = {has_character_modifier = character_distance1_0} remove_character_modifier = character_distance1_0}
+		if = {limit = {has_character_modifier = character_distance1_5} remove_character_modifier = character_distance1_5}
+		if = {limit = {has_character_modifier = character_distance2_0} remove_character_modifier = character_distance2_0}
+		if = {limit = {has_character_modifier = character_distance2_5} remove_character_modifier = character_distance2_5}
+		if = {limit = {has_character_modifier = character_distance3_0} remove_character_modifier = character_distance3_0}
+		if = {limit = {has_character_modifier = character_distance3_5} remove_character_modifier = character_distance3_5}
+		if = {limit = {has_character_modifier = character_distance4_0} remove_character_modifier = character_distance4_0}
+		if = {limit = {has_character_modifier = character_distance4_5} remove_character_modifier = character_distance4_5}
+		if = {limit = {has_character_modifier = character_distance5_0} remove_character_modifier = character_distance5_0}
+		if = {limit = {has_character_modifier = character_distance5_5} remove_character_modifier = character_distance5_5}
+		if = {limit = {has_character_modifier = character_distance6_0} remove_character_modifier = character_distance6_0}
+		if = {limit = {has_character_modifier = character_distance6_5} remove_character_modifier = character_distance6_5}
+		if = {limit = {has_character_modifier = character_distance7_0} remove_character_modifier = character_distance7_0}
+		if = {limit = {has_character_modifier = character_distance7_5} remove_character_modifier = character_distance7_5}
+		if = {limit = {has_character_modifier = character_distance8_0} remove_character_modifier = character_distance8_0}
+		if = {limit = {has_character_modifier = character_distance8_5} remove_character_modifier = character_distance8_5}
+		if = {limit = {has_character_modifier = character_distance9_0} remove_character_modifier = character_distance9_0}
+		if = {limit = {has_character_modifier = character_distance9_5} remove_character_modifier = character_distance9_5}
+		if = {limit = {has_character_modifier = character_distance10_0} remove_character_modifier = character_distance10_0}
+		if = {limit = {has_character_modifier = character_distance10_5} remove_character_modifier = character_distance10_5}
+		if = {limit = {has_character_modifier = character_distance11_0} remove_character_modifier = character_distance11_0}
+		if = {limit = {has_character_modifier = character_distance11_5} remove_character_modifier = character_distance11_5}
+		if = {limit = {has_character_modifier = character_distance12_0} remove_character_modifier = character_distance12_0}
+		if = {limit = {has_character_modifier = character_distance12_5} remove_character_modifier = character_distance12_5}
+		if = {limit = {has_character_modifier = character_distance13_0} remove_character_modifier = character_distance13_0}
+		if = {limit = {has_character_modifier = character_distance13_5} remove_character_modifier = character_distance13_5}
+		if = {limit = {has_character_modifier = character_distance14_0} remove_character_modifier = character_distance14_0}
+		if = {limit = {has_character_modifier = character_distance14_5} remove_character_modifier = character_distance14_5}
+		if = {limit = {has_character_modifier = character_distance15_0} remove_character_modifier = character_distance15_0}
+		if = {limit = {has_character_modifier = character_distance15_5} remove_character_modifier = character_distance15_5}
+		if = {limit = {has_character_modifier = character_distance16_0} remove_character_modifier = character_distance16_0}
+		if = {limit = {has_character_modifier = character_distance16_5} remove_character_modifier = character_distance16_5}
+		if = {limit = {has_character_modifier = character_distance17_0} remove_character_modifier = character_distance17_0}
+		if = {limit = {has_character_modifier = character_distance17_5} remove_character_modifier = character_distance17_5}
+		if = {limit = {has_character_modifier = character_distance18_0} remove_character_modifier = character_distance18_0}
+		if = {limit = {has_character_modifier = character_distance18_5} remove_character_modifier = character_distance18_5}
+		if = {limit = {has_character_modifier = character_distance19_0} remove_character_modifier = character_distance19_0}
+		if = {limit = {has_character_modifier = character_distance19_5} remove_character_modifier = character_distance19_5}
+		if = {limit = {has_character_modifier = character_distance20_0} remove_character_modifier = character_distance20_0}
+		if = {limit = {has_character_modifier = character_distance20_5} remove_character_modifier = character_distance20_5}
+		if = {limit = {has_character_modifier = character_distance21_0} remove_character_modifier = character_distance21_0}
+		if = {limit = {has_character_modifier = character_distance21_5} remove_character_modifier = character_distance21_5}
+		if = {limit = {has_character_modifier = character_distance22_0} remove_character_modifier = character_distance22_0}
+		if = {limit = {has_character_modifier = character_distance22_5} remove_character_modifier = character_distance22_5}
+		if = {limit = {has_character_modifier = character_distance23_0} remove_character_modifier = character_distance23_0}
+		if = {limit = {has_character_modifier = character_distance23_5} remove_character_modifier = character_distance23_5}
+		if = {limit = {has_character_modifier = character_distance24_0} remove_character_modifier = character_distance24_0}
+		if = {limit = {has_character_modifier = character_distance24_5} remove_character_modifier = character_distance24_5}
+		if = {limit = {has_character_modifier = character_distance25_0} remove_character_modifier = character_distance25_0}
+		if = {limit = {has_character_modifier = character_distance25_5} remove_character_modifier = character_distance25_5}
+		if = {limit = {has_character_modifier = character_distance26_0} remove_character_modifier = character_distance26_0}
+		if = {limit = {has_character_modifier = character_distance26_5} remove_character_modifier = character_distance26_5}
+		if = {limit = {has_character_modifier = character_distance27_0} remove_character_modifier = character_distance27_0}
+		if = {limit = {has_character_modifier = character_distance27_5} remove_character_modifier = character_distance27_5}
+		if = {limit = {has_character_modifier = character_distance28_0} remove_character_modifier = character_distance28_0}
+		if = {limit = {has_character_modifier = character_distance28_5} remove_character_modifier = character_distance28_5}
+		if = {limit = {has_character_modifier = character_distance29_0} remove_character_modifier = character_distance29_0}
+		if = {limit = {has_character_modifier = character_distance29_5} remove_character_modifier = character_distance29_5}
+		if = {limit = {has_character_modifier = character_distance30_0} remove_character_modifier = character_distance30_0}
+		if = {limit = {has_character_modifier = character_distance30_5} remove_character_modifier = character_distance30_5}
+		if = {limit = {has_character_modifier = character_distance31_0} remove_character_modifier = character_distance31_0}
+		if = {limit = {has_character_modifier = character_distance31_5} remove_character_modifier = character_distance31_5}
+		if = {limit = {has_character_modifier = character_distance32_0} remove_character_modifier = character_distance32_0}
+		if = {limit = {has_character_modifier = character_distance32_5} remove_character_modifier = character_distance32_5}
+		if = {limit = {has_character_modifier = character_distance33_0} remove_character_modifier = character_distance33_0}
+		if = {limit = {has_character_modifier = character_distance33_5} remove_character_modifier = character_distance33_5}
+		if = {limit = {has_character_modifier = character_distance34_0} remove_character_modifier = character_distance34_0}
+		if = {limit = {has_character_modifier = character_distance34_5} remove_character_modifier = character_distance34_5}
+		if = {limit = {has_character_modifier = character_distance35_0} remove_character_modifier = character_distance35_0}
+		if = {limit = {has_character_modifier = character_distance35_5} remove_character_modifier = character_distance35_5}
+		if = {limit = {has_character_modifier = character_distance36_0} remove_character_modifier = character_distance36_0}
+		if = {limit = {has_character_modifier = character_distance36_5} remove_character_modifier = character_distance36_5}
+		if = {limit = {has_character_modifier = character_distance37_0} remove_character_modifier = character_distance37_0}
+		if = {limit = {has_character_modifier = character_distance37_5} remove_character_modifier = character_distance37_5}
+		if = {limit = {has_character_modifier = character_distance38_0} remove_character_modifier = character_distance38_0}
+		if = {limit = {has_character_modifier = character_distance38_5} remove_character_modifier = character_distance38_5}
+		if = {limit = {has_character_modifier = character_distance39_0} remove_character_modifier = character_distance39_0}
+		if = {limit = {has_character_modifier = character_distance39_5} remove_character_modifier = character_distance39_5}
+		if = {limit = {has_character_modifier = character_distance40_0} remove_character_modifier = character_distance40_0}
+		if = {limit = {has_character_modifier = character_distance40_5} remove_character_modifier = character_distance40_5}
+		if = {limit = {has_character_modifier = character_distance41_0} remove_character_modifier = character_distance41_0}
+		if = {limit = {has_character_modifier = character_distance41_5} remove_character_modifier = character_distance41_5}
+		if = {limit = {has_character_modifier = character_distance42_0} remove_character_modifier = character_distance42_0}
+		if = {limit = {has_character_modifier = character_distance42_5} remove_character_modifier = character_distance42_5}
+		if = {limit = {has_character_modifier = character_distance43_0} remove_character_modifier = character_distance43_0}
+		if = {limit = {has_character_modifier = character_distance43_5} remove_character_modifier = character_distance43_5}
+		if = {limit = {has_character_modifier = character_distance44_0} remove_character_modifier = character_distance44_0}
+		if = {limit = {has_character_modifier = character_distance44_5} remove_character_modifier = character_distance44_5}
+		if = {limit = {has_character_modifier = character_distance45_0} remove_character_modifier = character_distance45_0}
+		if = {limit = {has_character_modifier = character_distance45_5} remove_character_modifier = character_distance45_5}
+		if = {limit = {has_character_modifier = character_distance46_0} remove_character_modifier = character_distance46_0}
+		if = {limit = {has_character_modifier = character_distance46_5} remove_character_modifier = character_distance46_5}
+		if = {limit = {has_character_modifier = character_distance47_0} remove_character_modifier = character_distance47_0}
+		if = {limit = {has_character_modifier = character_distance47_5} remove_character_modifier = character_distance47_5}
+		if = {limit = {has_character_modifier = character_distance48_0} remove_character_modifier = character_distance48_0}
+		if = {limit = {has_character_modifier = character_distance48_5} remove_character_modifier = character_distance48_5}
+		if = {limit = {has_character_modifier = character_distance49_0} remove_character_modifier = character_distance49_0}
+		if = {limit = {has_character_modifier = character_distance49_5} remove_character_modifier = character_distance49_5}
+		if = {limit = {has_character_modifier = character_distance50_0} remove_character_modifier = character_distance50_0}
+		if = {limit = {has_character_modifier = character_distance50_5} remove_character_modifier = character_distance50_5}
+		if = {limit = {has_character_modifier = character_distance51_0} remove_character_modifier = character_distance51_0}
+		if = {limit = {has_character_modifier = character_distance51_5} remove_character_modifier = character_distance51_5}
+		if = {limit = {has_character_modifier = character_distance52_0} remove_character_modifier = character_distance52_0}
+		if = {limit = {has_character_modifier = character_distance52_5} remove_character_modifier = character_distance52_5}
+		if = {limit = {has_character_modifier = character_distance53_0} remove_character_modifier = character_distance53_0}
+		if = {limit = {has_character_modifier = character_distance53_5} remove_character_modifier = character_distance53_5}
+		if = {limit = {has_character_modifier = character_distance54_0} remove_character_modifier = character_distance54_0}
+		if = {limit = {has_character_modifier = character_distance54_5} remove_character_modifier = character_distance54_5}
+		if = {limit = {has_character_modifier = character_distance55_0} remove_character_modifier = character_distance55_0}
+		if = {limit = {has_character_modifier = character_distance55_5} remove_character_modifier = character_distance55_5}
+		if = {limit = {has_character_modifier = character_distance56_0} remove_character_modifier = character_distance56_0}
+		if = {limit = {has_character_modifier = character_distance56_5} remove_character_modifier = character_distance56_5}
+		if = {limit = {has_character_modifier = character_distance57_0} remove_character_modifier = character_distance57_0}
+		if = {limit = {has_character_modifier = character_distance57_5} remove_character_modifier = character_distance57_5}
+		if = {limit = {has_character_modifier = character_distance58_0} remove_character_modifier = character_distance58_0}
+		if = {limit = {has_character_modifier = character_distance58_5} remove_character_modifier = character_distance58_5}
+		if = {limit = {has_character_modifier = character_distance59_0} remove_character_modifier = character_distance59_0}
+		if = {limit = {has_character_modifier = character_distance59_5} remove_character_modifier = character_distance59_5}
+		if = {limit = {has_character_modifier = character_distance60_0} remove_character_modifier = character_distance60_0}
+		if = {limit = {has_character_modifier = character_distance60_5} remove_character_modifier = character_distance60_5}
+		if = {limit = {has_character_modifier = character_distance61_0} remove_character_modifier = character_distance61_0}
+		if = {limit = {has_character_modifier = character_distance61_5} remove_character_modifier = character_distance61_5}
+		if = {limit = {has_character_modifier = character_distance62_0} remove_character_modifier = character_distance62_0}
+		if = {limit = {has_character_modifier = character_distance62_5} remove_character_modifier = character_distance62_5}
+		if = {limit = {has_character_modifier = character_distance63_0} remove_character_modifier = character_distance63_0}
+		if = {limit = {has_character_modifier = character_distance63_5} remove_character_modifier = character_distance63_5}
+		if = {limit = {has_character_modifier = character_distance64_0} remove_character_modifier = character_distance64_0}
+		if = {limit = {has_character_modifier = character_distance64_5} remove_character_modifier = character_distance64_5}
+		if = {limit = {has_character_modifier = character_distance65_0} remove_character_modifier = character_distance65_0}
+		if = {limit = {has_character_modifier = character_distance65_5} remove_character_modifier = character_distance65_5}
+		if = {limit = {has_character_modifier = character_distance66_0} remove_character_modifier = character_distance66_0}
+		if = {limit = {has_character_modifier = character_distance66_5} remove_character_modifier = character_distance66_5}
+		if = {limit = {has_character_modifier = character_distance67_0} remove_character_modifier = character_distance67_0}
+		if = {limit = {has_character_modifier = character_distance67_5} remove_character_modifier = character_distance67_5}
+		if = {limit = {has_character_modifier = character_distance68_0} remove_character_modifier = character_distance68_0}
+		if = {limit = {has_character_modifier = character_distance68_5} remove_character_modifier = character_distance68_5}
+		if = {limit = {has_character_modifier = character_distance69_0} remove_character_modifier = character_distance69_0}
+		if = {limit = {has_character_modifier = character_distance69_5} remove_character_modifier = character_distance69_5}
+		if = {limit = {has_character_modifier = character_distance70_0} remove_character_modifier = character_distance70_0}
+		if = {limit = {has_character_modifier = character_distance70_5} remove_character_modifier = character_distance70_5}
+		if = {limit = {has_character_modifier = character_distance71_0} remove_character_modifier = character_distance71_0}
+		if = {limit = {has_character_modifier = character_distance71_5} remove_character_modifier = character_distance71_5}
+		if = {limit = {has_character_modifier = character_distance72_0} remove_character_modifier = character_distance72_0}
+		if = {limit = {has_character_modifier = character_distance72_5} remove_character_modifier = character_distance72_5}
+		if = {limit = {has_character_modifier = character_distance73_0} remove_character_modifier = character_distance73_0}
+		if = {limit = {has_character_modifier = character_distance73_5} remove_character_modifier = character_distance73_5}
+		if = {limit = {has_character_modifier = character_distance74_0} remove_character_modifier = character_distance74_0}
+		if = {limit = {has_character_modifier = character_distance74_5} remove_character_modifier = character_distance74_5}
+		if = {limit = {has_character_modifier = character_distance75_0} remove_character_modifier = character_distance75_0}
+		if = {limit = {has_character_modifier = character_distance75_5} remove_character_modifier = character_distance75_5}
+		if = {limit = {has_character_modifier = character_distance76_0} remove_character_modifier = character_distance76_0}
+		if = {limit = {has_character_modifier = character_distance76_5} remove_character_modifier = character_distance76_5}
+		if = {limit = {has_character_modifier = character_distance77_0} remove_character_modifier = character_distance77_0}
+		if = {limit = {has_character_modifier = character_distance77_5} remove_character_modifier = character_distance77_5}
+		if = {limit = {has_character_modifier = character_distance78_0} remove_character_modifier = character_distance78_0}
+		if = {limit = {has_character_modifier = character_distance78_5} remove_character_modifier = character_distance78_5}
+		if = {limit = {has_character_modifier = character_distance79_0} remove_character_modifier = character_distance79_0}
+		if = {limit = {has_character_modifier = character_distance79_5} remove_character_modifier = character_distance79_5}
+		if = {limit = {has_character_modifier = character_distance80_0} remove_character_modifier = character_distance80_0}
+		if = {limit = {has_character_modifier = character_distance80_5} remove_character_modifier = character_distance80_5}
+		if = {limit = {has_character_modifier = character_distance81_0} remove_character_modifier = character_distance81_0}
+		if = {limit = {has_character_modifier = character_distance81_5} remove_character_modifier = character_distance81_5}
+		if = {limit = {has_character_modifier = character_distance82_0} remove_character_modifier = character_distance82_0}
+		if = {limit = {has_character_modifier = character_distance82_5} remove_character_modifier = character_distance82_5}
+		if = {limit = {has_character_modifier = character_distance83_0} remove_character_modifier = character_distance83_0}
+		if = {limit = {has_character_modifier = character_distance83_5} remove_character_modifier = character_distance83_5}
+		if = {limit = {has_character_modifier = character_distance84_0} remove_character_modifier = character_distance84_0}
+		if = {limit = {has_character_modifier = character_distance84_5} remove_character_modifier = character_distance84_5}
+		if = {limit = {has_character_modifier = character_distance85_0} remove_character_modifier = character_distance85_0}
+		if = {limit = {has_character_modifier = character_distance85_5} remove_character_modifier = character_distance85_5}
+		if = {limit = {has_character_modifier = character_distance86_0} remove_character_modifier = character_distance86_0}
+		if = {limit = {has_character_modifier = character_distance86_5} remove_character_modifier = character_distance86_5}
+		if = {limit = {has_character_modifier = character_distance87_0} remove_character_modifier = character_distance87_0}
+		if = {limit = {has_character_modifier = character_distance87_5} remove_character_modifier = character_distance87_5}
+		if = {limit = {has_character_modifier = character_distance88_0} remove_character_modifier = character_distance88_0}
+		if = {limit = {has_character_modifier = character_distance88_5} remove_character_modifier = character_distance88_5}
+		if = {limit = {has_character_modifier = character_distance89_0} remove_character_modifier = character_distance89_0}
+		if = {limit = {has_character_modifier = character_distance89_5} remove_character_modifier = character_distance89_5}
+		if = {limit = {has_character_modifier = character_distance90_0} remove_character_modifier = character_distance90_0}
+		if = {limit = {has_character_modifier = character_distance90_5} remove_character_modifier = character_distance90_5}
+		if = {limit = {has_character_modifier = character_distance91_0} remove_character_modifier = character_distance91_0}
+		if = {limit = {has_character_modifier = character_distance91_5} remove_character_modifier = character_distance91_5}
+		if = {limit = {has_character_modifier = character_distance92_0} remove_character_modifier = character_distance92_0}
+		if = {limit = {has_character_modifier = character_distance92_5} remove_character_modifier = character_distance92_5}
+		if = {limit = {has_character_modifier = character_distance93_0} remove_character_modifier = character_distance93_0}
+		if = {limit = {has_character_modifier = character_distance93_5} remove_character_modifier = character_distance93_5}
+		if = {limit = {has_character_modifier = character_distance94_0} remove_character_modifier = character_distance94_0}
+		if = {limit = {has_character_modifier = character_distance94_5} remove_character_modifier = character_distance94_5}
+		if = {limit = {has_character_modifier = character_distance95_0} remove_character_modifier = character_distance95_0}
+		if = {limit = {has_character_modifier = character_distance95_5} remove_character_modifier = character_distance95_5}
+		if = {limit = {has_character_modifier = character_distance96_0} remove_character_modifier = character_distance96_0}
+		if = {limit = {has_character_modifier = character_distance96_5} remove_character_modifier = character_distance96_5}
+		if = {limit = {has_character_modifier = character_distance97_0} remove_character_modifier = character_distance97_0}
+		if = {limit = {has_character_modifier = character_distance97_5} remove_character_modifier = character_distance97_5}
+		if = {limit = {has_character_modifier = character_distance98_0} remove_character_modifier = character_distance98_0}
+		if = {limit = {has_character_modifier = character_distance98_5} remove_character_modifier = character_distance98_5}
+		if = {limit = {has_character_modifier = character_distance99_0} remove_character_modifier = character_distance99_0}
+		if = {limit = {has_character_modifier = character_distance99_5} remove_character_modifier = character_distance99_5}
+		if = {limit = {has_character_modifier = character_distance100_0} remove_character_modifier = character_distance100_0}
+	if = {
+        limit = {is_governor = yes}
+			if = { limit = {location.var:travel_time<50.0 }
+				if = { limit = {location.var:travel_time<25.0 }
+					if = { limit = {location.var:travel_time<12.5 }
+						if = { limit = {location.var:travel_time<6.0 }
+							if = { limit = {location.var:travel_time<3.0 }
+								if = { limit = {location.var:travel_time<1.5 }
+									if = { limit = {location.var:travel_time<0.5 }
+										add_character_modifier = { name = character_distance0_0}
+									}
+									else = { 
+										if = { limit = {location.var:travel_time<1.0 }
+											add_character_modifier = { name = character_distance0_5}
+										}
+										else = { 
+											add_character_modifier = { name = character_distance1_0}
+										}
+									}
+								}
+								else = { 
+									if = { limit = {location.var:travel_time<2.0 }
+										add_character_modifier = { name = character_distance1_5}
+									}
+									else = { 
+										if = { limit = {location.var:travel_time<2.5 }
+											add_character_modifier = { name = character_distance2_0}
+										}
+										else = { 
+											add_character_modifier = { name = character_distance2_5}
+										}
+									}
+								}
+							}
+							else = { 
+								if = { limit = {location.var:travel_time<4.5 }
+									if = { limit = {location.var:travel_time<3.5 }
+										add_character_modifier = { name = character_distance3_0}
+									}
+									else = { 
+										if = { limit = {location.var:travel_time<4.0 }
+											add_character_modifier = { name = character_distance3_5}
+										}
+										else = { 
+											add_character_modifier = { name = character_distance4_0}
+										}
+									}
+								}
+								else = { 
+									if = { limit = {location.var:travel_time<5.0 }
+										add_character_modifier = { name = character_distance4_5}
+									}
+									else = { 
+										if = { limit = {location.var:travel_time<5.5 }
+											add_character_modifier = { name = character_distance5_0}
+										}
+										else = { 
+											add_character_modifier = { name = character_distance5_5}
+										}
+									}
+								}
+							}
+						}
+						else = { 
+							if = { limit = {location.var:travel_time<9.0 }
+								if = { limit = {location.var:travel_time<7.5 }
+									if = { limit = {location.var:travel_time<6.5 }
+										add_character_modifier = { name = character_distance6_0}
+									}
+									else = { 
+										if = { limit = {location.var:travel_time<7.0 }
+											add_character_modifier = { name = character_distance6_5}
+										}
+										else = { 
+											add_character_modifier = { name = character_distance7_0}
+										}
+									}
+								}
+								else = { 
+									if = { limit = {location.var:travel_time<8.0 }
+										add_character_modifier = { name = character_distance7_5}
+									}
+									else = { 
+										if = { limit = {location.var:travel_time<8.5 }
+											add_character_modifier = { name = character_distance8_0}
+										}
+										else = { 
+											add_character_modifier = { name = character_distance8_5}
+										}
+									}
+								}
+							}
+							else = { 
+								if = { limit = {location.var:travel_time<10.5 }
+									if = { limit = {location.var:travel_time<9.5 }
+										add_character_modifier = { name = character_distance9_0}
+									}
+									else = { 
+										if = { limit = {location.var:travel_time<10.0 }
+											add_character_modifier = { name = character_distance9_5}
+										}
+										else = { 
+											add_character_modifier = { name = character_distance10_0}
+										}
+									}
+								}
+								else = { 
+									if = { limit = {location.var:travel_time<11.5 }
+										if = { limit = {location.var:travel_time<11.0 }
+											add_character_modifier = { name = character_distance10_5}
+										}
+										else = { 
+											add_character_modifier = { name = character_distance11_0}
+										}
+									}
+									else = { 
+										if = { limit = {location.var:travel_time<12.0 }
+											add_character_modifier = { name = character_distance11_5}
+										}
+										else = { 
+											add_character_modifier = { name = character_distance12_0}
+										}
+									}
+								}
+							}
+						}
+					}
+					else = { 
+						if = { limit = {location.var:travel_time<18.5 }
+							if = { limit = {location.var:travel_time<15.5 }
+								if = { limit = {location.var:travel_time<14.0 }
+									if = { limit = {location.var:travel_time<13.0 }
+										add_character_modifier = { name = character_distance12_5}
+									}
+									else = { 
+										if = { limit = {location.var:travel_time<13.5 }
+											add_character_modifier = { name = character_distance13_0}
+										}
+										else = { 
+											add_character_modifier = { name = character_distance13_5}
+										}
+									}
+								}
+								else = { 
+									if = { limit = {location.var:travel_time<14.5 }
+										add_character_modifier = { name = character_distance14_0}
+									}
+									else = { 
+										if = { limit = {location.var:travel_time<15.0 }
+											add_character_modifier = { name = character_distance14_5}
+										}
+										else = { 
+											add_character_modifier = { name = character_distance15_0}
+										}
+									}
+								}
+							}
+							else = { 
+								if = { limit = {location.var:travel_time<17.0 }
+									if = { limit = {location.var:travel_time<16.0 }
+										add_character_modifier = { name = character_distance15_5}
+									}
+									else = { 
+										if = { limit = {location.var:travel_time<16.5 }
+											add_character_modifier = { name = character_distance16_0}
+										}
+										else = { 
+											add_character_modifier = { name = character_distance16_5}
+										}
+									}
+								}
+								else = { 
+									if = { limit = {location.var:travel_time<17.5 }
+										add_character_modifier = { name = character_distance17_0}
+									}
+									else = { 
+										if = { limit = {location.var:travel_time<18.0 }
+											add_character_modifier = { name = character_distance17_5}
+										}
+										else = { 
+											add_character_modifier = { name = character_distance18_0}
+										}
+									}
+								}
+							}
+						}
+						else = { 
+							if = { limit = {location.var:travel_time<21.5 }
+								if = { limit = {location.var:travel_time<20.0 }
+									if = { limit = {location.var:travel_time<19.0 }
+										add_character_modifier = { name = character_distance18_5}
+									}
+									else = { 
+										if = { limit = {location.var:travel_time<19.5 }
+											add_character_modifier = { name = character_distance19_0}
+										}
+										else = { 
+											add_character_modifier = { name = character_distance19_5}
+										}
+									}
+								}
+								else = { 
+									if = { limit = {location.var:travel_time<20.5 }
+										add_character_modifier = { name = character_distance20_0}
+									}
+									else = { 
+										if = { limit = {location.var:travel_time<21.0 }
+											add_character_modifier = { name = character_distance20_5}
+										}
+										else = { 
+											add_character_modifier = { name = character_distance21_0}
+										}
+									}
+								}
+							}
+							else = { 
+								if = { limit = {location.var:travel_time<23.0 }
+									if = { limit = {location.var:travel_time<22.0 }
+										add_character_modifier = { name = character_distance21_5}
+									}
+									else = { 
+										if = { limit = {location.var:travel_time<22.5 }
+											add_character_modifier = { name = character_distance22_0}
+										}
+										else = { 
+											add_character_modifier = { name = character_distance22_5}
+										}
+									}
+								}
+								else = { 
+									if = { limit = {location.var:travel_time<24.0 }
+										if = { limit = {location.var:travel_time<23.5 }
+											add_character_modifier = { name = character_distance23_0}
+										}
+										else = { 
+											add_character_modifier = { name = character_distance23_5}
+										}
+									}
+									else = { 
+										if = { limit = {location.var:travel_time<24.5 }
+											add_character_modifier = { name = character_distance24_0}
+										}
+										else = { 
+											add_character_modifier = { name = character_distance24_5}
+										}
+									}
+								}
+							}
+						}
+					}
+				}
+				else = { 
+					if = { limit = {location.var:travel_time<37.5 }
+						if = { limit = {location.var:travel_time<31.0 }
+							if = { limit = {location.var:travel_time<28.0 }
+								if = { limit = {location.var:travel_time<26.5 }
+									if = { limit = {location.var:travel_time<25.5 }
+										add_character_modifier = { name = character_distance25_0}
+									}
+									else = { 
+										if = { limit = {location.var:travel_time<26.0 }
+											add_character_modifier = { name = character_distance25_5}
+										}
+										else = { 
+											add_character_modifier = { name = character_distance26_0}
+										}
+									}
+								}
+								else = { 
+									if = { limit = {location.var:travel_time<27.0 }
+										add_character_modifier = { name = character_distance26_5}
+									}
+									else = { 
+										if = { limit = {location.var:travel_time<27.5 }
+											add_character_modifier = { name = character_distance27_0}
+										}
+										else = { 
+											add_character_modifier = { name = character_distance27_5}
+										}
+									}
+								}
+							}
+							else = { 
+								if = { limit = {location.var:travel_time<29.5 }
+									if = { limit = {location.var:travel_time<28.5 }
+										add_character_modifier = { name = character_distance28_0}
+									}
+									else = { 
+										if = { limit = {location.var:travel_time<29.0 }
+											add_character_modifier = { name = character_distance28_5}
+										}
+										else = { 
+											add_character_modifier = { name = character_distance29_0}
+										}
+									}
+								}
+								else = { 
+									if = { limit = {location.var:travel_time<30.0 }
+										add_character_modifier = { name = character_distance29_5}
+									}
+									else = { 
+										if = { limit = {location.var:travel_time<30.5 }
+											add_character_modifier = { name = character_distance30_0}
+										}
+										else = { 
+											add_character_modifier = { name = character_distance30_5}
+										}
+									}
+								}
+							}
+						}
+						else = { 
+							if = { limit = {location.var:travel_time<34.0 }
+								if = { limit = {location.var:travel_time<32.5 }
+									if = { limit = {location.var:travel_time<31.5 }
+										add_character_modifier = { name = character_distance31_0}
+									}
+									else = { 
+										if = { limit = {location.var:travel_time<32.0 }
+											add_character_modifier = { name = character_distance31_5}
+										}
+										else = { 
+											add_character_modifier = { name = character_distance32_0}
+										}
+									}
+								}
+								else = { 
+									if = { limit = {location.var:travel_time<33.0 }
+										add_character_modifier = { name = character_distance32_5}
+									}
+									else = { 
+										if = { limit = {location.var:travel_time<33.5 }
+											add_character_modifier = { name = character_distance33_0}
+										}
+										else = { 
+											add_character_modifier = { name = character_distance33_5}
+										}
+									}
+								}
+							}
+							else = { 
+								if = { limit = {location.var:travel_time<35.5 }
+									if = { limit = {location.var:travel_time<34.5 }
+										add_character_modifier = { name = character_distance34_0}
+									}
+									else = { 
+										if = { limit = {location.var:travel_time<35.0 }
+											add_character_modifier = { name = character_distance34_5}
+										}
+										else = { 
+											add_character_modifier = { name = character_distance35_0}
+										}
+									}
+								}
+								else = { 
+									if = { limit = {location.var:travel_time<36.5 }
+										if = { limit = {location.var:travel_time<36.0 }
+											add_character_modifier = { name = character_distance35_5}
+										}
+										else = { 
+											add_character_modifier = { name = character_distance36_0}
+										}
+									}
+									else = { 
+										if = { limit = {location.var:travel_time<37.0 }
+											add_character_modifier = { name = character_distance36_5}
+										}
+										else = { 
+											add_character_modifier = { name = character_distance37_0}
+										}
+									}
+								}
+							}
+						}
+					}
+					else = { 
+						if = { limit = {location.var:travel_time<43.5 }
+							if = { limit = {location.var:travel_time<40.5 }
+								if = { limit = {location.var:travel_time<39.0 }
+									if = { limit = {location.var:travel_time<38.0 }
+										add_character_modifier = { name = character_distance37_5}
+									}
+									else = { 
+										if = { limit = {location.var:travel_time<38.5 }
+											add_character_modifier = { name = character_distance38_0}
+										}
+										else = { 
+											add_character_modifier = { name = character_distance38_5}
+										}
+									}
+								}
+								else = { 
+									if = { limit = {location.var:travel_time<39.5 }
+										add_character_modifier = { name = character_distance39_0}
+									}
+									else = { 
+										if = { limit = {location.var:travel_time<40.0 }
+											add_character_modifier = { name = character_distance39_5}
+										}
+										else = { 
+											add_character_modifier = { name = character_distance40_0}
+										}
+									}
+								}
+							}
+							else = { 
+								if = { limit = {location.var:travel_time<42.0 }
+									if = { limit = {location.var:travel_time<41.0 }
+										add_character_modifier = { name = character_distance40_5}
+									}
+									else = { 
+										if = { limit = {location.var:travel_time<41.5 }
+											add_character_modifier = { name = character_distance41_0}
+										}
+										else = { 
+											add_character_modifier = { name = character_distance41_5}
+										}
+									}
+								}
+								else = { 
+									if = { limit = {location.var:travel_time<42.5 }
+										add_character_modifier = { name = character_distance42_0}
+									}
+									else = { 
+										if = { limit = {location.var:travel_time<43.0 }
+											add_character_modifier = { name = character_distance42_5}
+										}
+										else = { 
+											add_character_modifier = { name = character_distance43_0}
+										}
+									}
+								}
+							}
+						}
+						else = { 
+							if = { limit = {location.var:travel_time<46.5 }
+								if = { limit = {location.var:travel_time<45.0 }
+									if = { limit = {location.var:travel_time<44.0 }
+										add_character_modifier = { name = character_distance43_5}
+									}
+									else = { 
+										if = { limit = {location.var:travel_time<44.5 }
+											add_character_modifier = { name = character_distance44_0}
+										}
+										else = { 
+											add_character_modifier = { name = character_distance44_5}
+										}
+									}
+								}
+								else = { 
+									if = { limit = {location.var:travel_time<45.5 }
+										add_character_modifier = { name = character_distance45_0}
+									}
+									else = { 
+										if = { limit = {location.var:travel_time<46.0 }
+											add_character_modifier = { name = character_distance45_5}
+										}
+										else = { 
+											add_character_modifier = { name = character_distance46_0}
+										}
+									}
+								}
+							}
+							else = { 
+								if = { limit = {location.var:travel_time<48.0 }
+									if = { limit = {location.var:travel_time<47.0 }
+										add_character_modifier = { name = character_distance46_5}
+									}
+									else = { 
+										if = { limit = {location.var:travel_time<47.5 }
+											add_character_modifier = { name = character_distance47_0}
+										}
+										else = { 
+											add_character_modifier = { name = character_distance47_5}
+										}
+									}
+								}
+								else = { 
+									if = { limit = {location.var:travel_time<49.0 }
+										if = { limit = {location.var:travel_time<48.5 }
+											add_character_modifier = { name = character_distance48_0}
+										}
+										else = { 
+											add_character_modifier = { name = character_distance48_5}
+										}
+									}
+									else = { 
+										if = { limit = {location.var:travel_time<49.5 }
+											add_character_modifier = { name = character_distance49_0}
+										}
+										else = { 
+											add_character_modifier = { name = character_distance49_5}
+										}
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+			else = { 
+				if = { limit = {location.var:travel_time<75.0 }
+					if = { limit = {location.var:travel_time<62.5 }
+						if = { limit = {location.var:travel_time<56.0 }
+							if = { limit = {location.var:travel_time<53.0 }
+								if = { limit = {location.var:travel_time<51.5 }
+									if = { limit = {location.var:travel_time<50.5 }
+										add_character_modifier = { name = character_distance50_0}
+									}
+									else = { 
+										if = { limit = {location.var:travel_time<51.0 }
+											add_character_modifier = { name = character_distance50_5}
+										}
+										else = { 
+											add_character_modifier = { name = character_distance51_0}
+										}
+									}
+								}
+								else = { 
+									if = { limit = {location.var:travel_time<52.0 }
+										add_character_modifier = { name = character_distance51_5}
+									}
+									else = { 
+										if = { limit = {location.var:travel_time<52.5 }
+											add_character_modifier = { name = character_distance52_0}
+										}
+										else = { 
+											add_character_modifier = { name = character_distance52_5}
+										}
+									}
+								}
+							}
+							else = { 
+								if = { limit = {location.var:travel_time<54.5 }
+									if = { limit = {location.var:travel_time<53.5 }
+										add_character_modifier = { name = character_distance53_0}
+									}
+									else = { 
+										if = { limit = {location.var:travel_time<54.0 }
+											add_character_modifier = { name = character_distance53_5}
+										}
+										else = { 
+											add_character_modifier = { name = character_distance54_0}
+										}
+									}
+								}
+								else = { 
+									if = { limit = {location.var:travel_time<55.0 }
+										add_character_modifier = { name = character_distance54_5}
+									}
+									else = { 
+										if = { limit = {location.var:travel_time<55.5 }
+											add_character_modifier = { name = character_distance55_0}
+										}
+										else = { 
+											add_character_modifier = { name = character_distance55_5}
+										}
+									}
+								}
+							}
+						}
+						else = { 
+							if = { limit = {location.var:travel_time<59.0 }
+								if = { limit = {location.var:travel_time<57.5 }
+									if = { limit = {location.var:travel_time<56.5 }
+										add_character_modifier = { name = character_distance56_0}
+									}
+									else = { 
+										if = { limit = {location.var:travel_time<57.0 }
+											add_character_modifier = { name = character_distance56_5}
+										}
+										else = { 
+											add_character_modifier = { name = character_distance57_0}
+										}
+									}
+								}
+								else = { 
+									if = { limit = {location.var:travel_time<58.0 }
+										add_character_modifier = { name = character_distance57_5}
+									}
+									else = { 
+										if = { limit = {location.var:travel_time<58.5 }
+											add_character_modifier = { name = character_distance58_0}
+										}
+										else = { 
+											add_character_modifier = { name = character_distance58_5}
+										}
+									}
+								}
+							}
+							else = { 
+								if = { limit = {location.var:travel_time<60.5 }
+									if = { limit = {location.var:travel_time<59.5 }
+										add_character_modifier = { name = character_distance59_0}
+									}
+									else = { 
+										if = { limit = {location.var:travel_time<60.0 }
+											add_character_modifier = { name = character_distance59_5}
+										}
+										else = { 
+											add_character_modifier = { name = character_distance60_0}
+										}
+									}
+								}
+								else = { 
+									if = { limit = {location.var:travel_time<61.5 }
+										if = { limit = {location.var:travel_time<61.0 }
+											add_character_modifier = { name = character_distance60_5}
+										}
+										else = { 
+											add_character_modifier = { name = character_distance61_0}
+										}
+									}
+									else = { 
+										if = { limit = {location.var:travel_time<62.0 }
+											add_character_modifier = { name = character_distance61_5}
+										}
+										else = { 
+											add_character_modifier = { name = character_distance62_0}
+										}
+									}
+								}
+							}
+						}
+					}
+					else = { 
+						if = { limit = {location.var:travel_time<68.5 }
+							if = { limit = {location.var:travel_time<65.5 }
+								if = { limit = {location.var:travel_time<64.0 }
+									if = { limit = {location.var:travel_time<63.0 }
+										add_character_modifier = { name = character_distance62_5}
+									}
+									else = { 
+										if = { limit = {location.var:travel_time<63.5 }
+											add_character_modifier = { name = character_distance63_0}
+										}
+										else = { 
+											add_character_modifier = { name = character_distance63_5}
+										}
+									}
+								}
+								else = { 
+									if = { limit = {location.var:travel_time<64.5 }
+										add_character_modifier = { name = character_distance64_0}
+									}
+									else = { 
+										if = { limit = {location.var:travel_time<65.0 }
+											add_character_modifier = { name = character_distance64_5}
+										}
+										else = { 
+											add_character_modifier = { name = character_distance65_0}
+										}
+									}
+								}
+							}
+							else = { 
+								if = { limit = {location.var:travel_time<67.0 }
+									if = { limit = {location.var:travel_time<66.0 }
+										add_character_modifier = { name = character_distance65_5}
+									}
+									else = { 
+										if = { limit = {location.var:travel_time<66.5 }
+											add_character_modifier = { name = character_distance66_0}
+										}
+										else = { 
+											add_character_modifier = { name = character_distance66_5}
+										}
+									}
+								}
+								else = { 
+									if = { limit = {location.var:travel_time<67.5 }
+										add_character_modifier = { name = character_distance67_0}
+									}
+									else = { 
+										if = { limit = {location.var:travel_time<68.0 }
+											add_character_modifier = { name = character_distance67_5}
+										}
+										else = { 
+											add_character_modifier = { name = character_distance68_0}
+										}
+									}
+								}
+							}
+						}
+						else = { 
+							if = { limit = {location.var:travel_time<71.5 }
+								if = { limit = {location.var:travel_time<70.0 }
+									if = { limit = {location.var:travel_time<69.0 }
+										add_character_modifier = { name = character_distance68_5}
+									}
+									else = { 
+										if = { limit = {location.var:travel_time<69.5 }
+											add_character_modifier = { name = character_distance69_0}
+										}
+										else = { 
+											add_character_modifier = { name = character_distance69_5}
+										}
+									}
+								}
+								else = { 
+									if = { limit = {location.var:travel_time<70.5 }
+										add_character_modifier = { name = character_distance70_0}
+									}
+									else = { 
+										if = { limit = {location.var:travel_time<71.0 }
+											add_character_modifier = { name = character_distance70_5}
+										}
+										else = { 
+											add_character_modifier = { name = character_distance71_0}
+										}
+									}
+								}
+							}
+							else = { 
+								if = { limit = {location.var:travel_time<73.0 }
+									if = { limit = {location.var:travel_time<72.0 }
+										add_character_modifier = { name = character_distance71_5}
+									}
+									else = { 
+										if = { limit = {location.var:travel_time<72.5 }
+											add_character_modifier = { name = character_distance72_0}
+										}
+										else = { 
+											add_character_modifier = { name = character_distance72_5}
+										}
+									}
+								}
+								else = { 
+									if = { limit = {location.var:travel_time<74.0 }
+										if = { limit = {location.var:travel_time<73.5 }
+											add_character_modifier = { name = character_distance73_0}
+										}
+										else = { 
+											add_character_modifier = { name = character_distance73_5}
+										}
+									}
+									else = { 
+										if = { limit = {location.var:travel_time<74.5 }
+											add_character_modifier = { name = character_distance74_0}
+										}
+										else = { 
+											add_character_modifier = { name = character_distance74_5}
+										}
+									}
+								}
+							}
+						}
+					}
+				}
+				else = { 
+					if = { limit = {location.var:travel_time<87.5 }
+						if = { limit = {location.var:travel_time<81.0 }
+							if = { limit = {location.var:travel_time<78.0 }
+								if = { limit = {location.var:travel_time<76.5 }
+									if = { limit = {location.var:travel_time<75.5 }
+										add_character_modifier = { name = character_distance75_0}
+									}
+									else = { 
+										if = { limit = {location.var:travel_time<76.0 }
+											add_character_modifier = { name = character_distance75_5}
+										}
+										else = { 
+											add_character_modifier = { name = character_distance76_0}
+										}
+									}
+								}
+								else = { 
+									if = { limit = {location.var:travel_time<77.0 }
+										add_character_modifier = { name = character_distance76_5}
+									}
+									else = { 
+										if = { limit = {location.var:travel_time<77.5 }
+											add_character_modifier = { name = character_distance77_0}
+										}
+										else = { 
+											add_character_modifier = { name = character_distance77_5}
+										}
+									}
+								}
+							}
+							else = { 
+								if = { limit = {location.var:travel_time<79.5 }
+									if = { limit = {location.var:travel_time<78.5 }
+										add_character_modifier = { name = character_distance78_0}
+									}
+									else = { 
+										if = { limit = {location.var:travel_time<79.0 }
+											add_character_modifier = { name = character_distance78_5}
+										}
+										else = { 
+											add_character_modifier = { name = character_distance79_0}
+										}
+									}
+								}
+								else = { 
+									if = { limit = {location.var:travel_time<80.0 }
+										add_character_modifier = { name = character_distance79_5}
+									}
+									else = { 
+										if = { limit = {location.var:travel_time<80.5 }
+											add_character_modifier = { name = character_distance80_0}
+										}
+										else = { 
+											add_character_modifier = { name = character_distance80_5}
+										}
+									}
+								}
+							}
+						}
+						else = { 
+							if = { limit = {location.var:travel_time<84.0 }
+								if = { limit = {location.var:travel_time<82.5 }
+									if = { limit = {location.var:travel_time<81.5 }
+										add_character_modifier = { name = character_distance81_0}
+									}
+									else = { 
+										if = { limit = {location.var:travel_time<82.0 }
+											add_character_modifier = { name = character_distance81_5}
+										}
+										else = { 
+											add_character_modifier = { name = character_distance82_0}
+										}
+									}
+								}
+								else = { 
+									if = { limit = {location.var:travel_time<83.0 }
+										add_character_modifier = { name = character_distance82_5}
+									}
+									else = { 
+										if = { limit = {location.var:travel_time<83.5 }
+											add_character_modifier = { name = character_distance83_0}
+										}
+										else = { 
+											add_character_modifier = { name = character_distance83_5}
+										}
+									}
+								}
+							}
+							else = { 
+								if = { limit = {location.var:travel_time<85.5 }
+									if = { limit = {location.var:travel_time<84.5 }
+										add_character_modifier = { name = character_distance84_0}
+									}
+									else = { 
+										if = { limit = {location.var:travel_time<85.0 }
+											add_character_modifier = { name = character_distance84_5}
+										}
+										else = { 
+											add_character_modifier = { name = character_distance85_0}
+										}
+									}
+								}
+								else = { 
+									if = { limit = {location.var:travel_time<86.5 }
+										if = { limit = {location.var:travel_time<86.0 }
+											add_character_modifier = { name = character_distance85_5}
+										}
+										else = { 
+											add_character_modifier = { name = character_distance86_0}
+										}
+									}
+									else = { 
+										if = { limit = {location.var:travel_time<87.0 }
+											add_character_modifier = { name = character_distance86_5}
+										}
+										else = { 
+											add_character_modifier = { name = character_distance87_0}
+										}
+									}
+								}
+							}
+						}
+					}
+					else = { 
+						if = { limit = {location.var:travel_time<94.0 }
+							if = { limit = {location.var:travel_time<90.5 }
+								if = { limit = {location.var:travel_time<89.0 }
+									if = { limit = {location.var:travel_time<88.0 }
+										add_character_modifier = { name = character_distance87_5}
+									}
+									else = { 
+										if = { limit = {location.var:travel_time<88.5 }
+											add_character_modifier = { name = character_distance88_0}
+										}
+										else = { 
+											add_character_modifier = { name = character_distance88_5}
+										}
+									}
+								}
+								else = { 
+									if = { limit = {location.var:travel_time<89.5 }
+										add_character_modifier = { name = character_distance89_0}
+									}
+									else = { 
+										if = { limit = {location.var:travel_time<90.0 }
+											add_character_modifier = { name = character_distance89_5}
+										}
+										else = { 
+											add_character_modifier = { name = character_distance90_0}
+										}
+									}
+								}
+							}
+							else = { 
+								if = { limit = {location.var:travel_time<92.0 }
+									if = { limit = {location.var:travel_time<91.0 }
+										add_character_modifier = { name = character_distance90_5}
+									}
+									else = { 
+										if = { limit = {location.var:travel_time<91.5 }
+											add_character_modifier = { name = character_distance91_0}
+										}
+										else = { 
+											add_character_modifier = { name = character_distance91_5}
+										}
+									}
+								}
+								else = { 
+									if = { limit = {location.var:travel_time<93.0 }
+										if = { limit = {location.var:travel_time<92.5 }
+											add_character_modifier = { name = character_distance92_0}
+										}
+										else = { 
+											add_character_modifier = { name = character_distance92_5}
+										}
+									}
+									else = { 
+										if = { limit = {location.var:travel_time<93.5 }
+											add_character_modifier = { name = character_distance93_0}
+										}
+										else = { 
+											add_character_modifier = { name = character_distance93_5}
+										}
+									}
+								}
+							}
+						}
+						else = { 
+							if = { limit = {location.var:travel_time<97.0 }
+								if = { limit = {location.var:travel_time<95.5 }
+									if = { limit = {location.var:travel_time<94.5 }
+										add_character_modifier = { name = character_distance94_0}
+									}
+									else = { 
+										if = { limit = {location.var:travel_time<95.0 }
+											add_character_modifier = { name = character_distance94_5}
+										}
+										else = { 
+											add_character_modifier = { name = character_distance95_0}
+										}
+									}
+								}
+								else = { 
+									if = { limit = {location.var:travel_time<96.0 }
+										add_character_modifier = { name = character_distance95_5}
+									}
+									else = { 
+										if = { limit = {location.var:travel_time<96.5 }
+											add_character_modifier = { name = character_distance96_0}
+										}
+										else = { 
+											add_character_modifier = { name = character_distance96_5}
+										}
+									}
+								}
+							}
+							else = { 
+								if = { limit = {location.var:travel_time<98.5 }
+									if = { limit = {location.var:travel_time<97.5 }
+										add_character_modifier = { name = character_distance97_0}
+									}
+									else = { 
+										if = { limit = {location.var:travel_time<98.0 }
+											add_character_modifier = { name = character_distance97_5}
+										}
+										else = { 
+											add_character_modifier = { name = character_distance98_0}
+										}
+									}
+								}
+								else = { 
+									if = { limit = {location.var:travel_time<99.5 }
+										if = { limit = {location.var:travel_time<99.0 }
+											add_character_modifier = { name = character_distance98_5}
+										}
+										else = { 
+											add_character_modifier = { name = character_distance99_0}
+										}
+									}
+									else = { 
+										if = { limit = {location.var:travel_time<100.0 }
+											add_character_modifier = { name = character_distance99_5}
+										}
+										else = { 
+											add_character_modifier = { name = character_distance100_0}
+										}
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+        }
+    }
+}

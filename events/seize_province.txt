@@ -1,0 +1,198 @@
+namespace=seize_province
+
+seize_province.1 = {
+	type = province_event
+	hidden = yes
+	trigger = {
+		has_owner = yes
+		NOT = {owner = controller}
+		OR = {
+			AND = {
+				controller = {
+					is_subject = no
+					OR = { 
+						tag = EGY
+						tag = MAC
+						tag = TRE
+						tag = SEL
+						tag = PRY
+					}
+					NOT = { has_variable = epigoni } #No longer usable if you had the Epigoni event
+					has_variable = war_of_the_diadochs #Turns on after the intro event which explains what it does.
+				}
+				owner = {
+					OR = {
+						tag = EGY
+						tag = MAC
+						tag = TRE
+						tag = SEL
+						tag = PRY
+						is_subject_of = EGY
+						is_subject_of = MAC
+						is_subject_of = TRE
+						is_subject_of = SEL
+						is_subject_of = PRY
+					}
+				}
+			}
+			AND = {
+				has_variable = seized_from
+				OR = {
+					var:seized_from = controller
+					var:seized_from = {alliance_with = ROOT.controller}
+				}
+			}
+		}
+	}
+	
+	immediate = {
+		controller = {
+			save_scope_as = conqueror
+		}
+		owner = {
+			save_scope_as = conquered_from
+		}
+		
+		if = {
+			limit = {
+				state = {
+					any_state_province = {
+						OR = {
+							is_port = yes
+							any_neighbor_province = {
+								owner = scope:conqueror
+								controller = scope:conqueror
+							}
+						}
+					}
+					NOT = { 
+						any_state_province = { #If any province in the state is owned by "conquered_from" but controlled by a third party, 
+											   #or any province with a fort is controlled by "conquered_from"
+											   #or "conquered_from" has an army in the state, we don't flip the province
+							owner = scope:conquered_from
+							OR = {
+								NOT = {
+									OR = {
+										controller = scope:conqueror
+										controller = scope:conquered_from
+										AND = {
+											has_variable = seized_from
+											controller = var:seized_from
+											var:seized_from = {alliance_with = scope:conqueror}
+										}
+									}
+								}
+								AND = {
+									fort_level > 0
+									controller = scope:conquered_from
+								}
+								any_unit_in_province = {
+									unit_owner = { war_with = scope:conqueror }
+								}
+							}
+						}
+					}
+				}
+			}
+			state = {
+				every_state_province = {
+					if = {
+						limit = {
+							has_variable = seized_from
+							var:seized_from = {alliance_with = scope:conqueror}
+						}
+						set_conquered_by = var:seized_from
+						remove_variable = seized_from
+					}
+					else = {
+						set_conquered_by = scope:conqueror
+					}
+					add_claim = scope:conquered_from 
+					scope:conqueror = {add_war_exhaustion = -0.1}
+					if = {
+						limit = {
+							has_variable = seized_from 
+							var:seized_from = scope:conqueror
+						}
+						remove_variable = seized_from
+					}
+					else = {
+						set_variable = {
+							name = seized_from
+							value = scope:conquered_from
+						}
+					}
+				}
+			}
+		}
+	}
+}
+
+seize_province.2 = {
+	type = province_event
+	hidden = yes
+	trigger = {
+		has_owner = yes
+		owner = controller
+		AND = {
+			has_variable = seized_from
+			NOT = {
+				state = {
+					any_state_province = {
+						OR = {
+							is_port = yes
+							any_neighbor_province = {
+								owner = root.owner
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+	
+	immediate = {
+		scope:seized_from = {
+			save_scope_as = conqueror
+		}
+		owner = {
+			save_scope_as = conquered_from
+		}
+		
+		if = {
+			limit = {
+				state = {
+					NOT = { 
+						any_state_province = { #If any province in the state is owned by "conquered_from" but controlled by a third party, 
+											   #or any province with a fort is controlled by "conquered_from"
+											   #or "conquered_from" has an army in the state, we don't flip the province
+							owner = scope:conquered_from
+							OR = {
+								NOT = {
+									OR = {
+										controller = scope:conqueror
+										controller = scope:conquered_from
+									}
+								}
+								AND = {
+									fort_level > 0
+									controller = scope:conquered_from
+								}
+								any_unit_in_province = {
+									unit_owner = { war_with = scope:conqueror }
+								}
+							}
+						}
+					}
+				}
+			}
+			state = {
+				every_state_province = {
+					remove_variable = seized_from
+					set_conquered_by = scope:conqueror
+					scope:conqueror = {add_war_exhaustion = -0.1}
+				}
+			}
+		}
+	}
+}

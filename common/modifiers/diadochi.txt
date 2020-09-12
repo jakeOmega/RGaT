@@ -1,0 +1,4 @@
+diadochi = {
+	siege_ability = 0.7
+	war_exhaustion = -0.1
+}

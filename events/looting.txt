@@ -1,0 +1,134 @@
+namespace=looting
+
+looting.1 = {
+	type = province_event
+	hidden = yes
+	trigger = {
+		has_owner = yes
+		OR = {
+			NOT = {controller = owner}
+			owner = {civil_war_with = var:cached_owner}
+		}
+		NOT = {has_variable = recently_looted}
+		has_variable = province_wealth
+	}
+	
+	immediate = {
+		set_variable = {name=recently_looted days = 365}
+		set_variable = {name=disorder days = 1825}
+		set_variable = {
+			name = loot_amount
+			value = var:province_wealth
+		}
+		if = {
+			limit = {owner = {civil_war_with = var:cached_owner}}
+			change_variable = {
+				name = loot_amount
+				multiply = civil_war_loot_amount
+			}
+		}
+		else = {
+			change_variable = {
+				name = loot_amount
+				multiply = province_loot_amount
+			}
+		}
+		change_variable = {
+			name = province_wealth
+			subtract = var:loot_amount
+		}
+		if = {
+			limit = {any_unit_in_province = {has_commander = yes}}
+			set_variable = {
+				name = state_loot_gain
+				value = var:loot_amount
+			}
+			change_variable = {
+				name = state_loot_gain
+				multiply = state_wealth_gain
+			}
+			controller = {add_treasury = PREV.var:state_loot_gain}
+			set_variable = {
+				name = general_loot_gain
+				value = var:loot_amount
+			}
+			change_variable = {
+				name = general_loot_gain
+				multiply = general_wealth_gain
+			}
+			set_variable = {
+				name = army_count
+				value = 0
+			}
+			every_unit_in_province = {
+				limit = {has_commander = yes}
+				PREV = {
+					change_variable = {
+						name = army_count
+						add = 1
+					}
+				}
+			}
+			change_variable = {
+				name = general_loot_gain
+				divide = var:army_count
+			}
+			every_unit_in_province = {
+				limit = {has_commander = yes}
+				commander = {add_gold = PREV.var:general_loot_gain}
+			}
+			controller = {
+				save_scope_as = looter
+				set_variable = {
+					name = total_wealth
+					value = 0
+				}
+				every_owned_province = {
+					scope:looter = {
+						change_variable = {
+							name = total_wealth
+							add = PREV.var:province_wealth
+						}
+					}
+				}
+				every_owned_province = {
+					set_variable = {
+						name = soldier_loot
+						value = ROOT.var:loot_amount
+					}
+					change_variable = {
+						name = soldier_loot
+						multiply = provinces_wealth_gain
+					}
+					change_variable = {
+						name = soldier_loot
+						multiply = var:province_wealth
+					}
+					change_variable = {
+						name = soldier_loot
+						divide = PREV.var:total_wealth
+					}
+					change_variable = {
+						name = province_wealth
+						add = var:soldier_loot
+					}
+					if = {
+						limit = {is_capital = yes}
+						set_variable = {
+							name = capital_loot
+							value = ROOT.var:loot_amount
+						}
+						change_variable = {
+							name = capital_loot
+							multiply = capital_wealth_gain
+						}
+						change_variable = {
+							name = province_wealth
+							add = var:capital_loot
+						}
+					}
+				}
+			}
+		}
+	}
+}

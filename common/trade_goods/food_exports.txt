@@ -1,7 +1,7 @@
-﻿food_exports = { 
+﻿grain = { 
 	category = 1
 
-	gold = 0.2
+	gold = 0.05
 	
 	province = { 
 		local_monthly_food = 5
@@ -12,5 +12,4 @@
 	}
 	
 	color = hsv { 0.7 0.8 0.5 }	
-
 }

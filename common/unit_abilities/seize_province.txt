@@ -1,0 +1,85 @@
+﻿seize_province = {
+
+	duration = 0
+	enable = no
+	toggle = no
+	army_only = yes
+	
+	confirm = yes
+
+	allow = {		
+		has_commander = yes
+		is_army = yes
+		in_combat = no
+		is_exiled = no
+		unit_owner = {is_subject = no}
+		unit_location.controller = root.unit_owner
+		unit_location = {
+			state = {
+				any_state_province = {
+					OR = {
+						is_port = yes
+						any_neighbor_province = {
+							owner = root.unit_owner
+						}
+					}
+				}
+				NOT = { any_state_province = { controller = root.unit_location.owner } }
+			}
+		}
+	}
+	
+	
+	start_effect = {
+		if = {
+			limit = {
+				unit_location = {
+					state = {
+						any_state_province = {
+							owner = unit_location.owner
+							has_variable = seized_from
+							var:seized_from = unit_owner
+						}
+					}
+				}
+			}
+			unit_location = {
+				state = {
+					every_state_province = {
+						set_owned_by = root.unit_owner
+						remove_variable = seized_from
+					}
+				}
+			}
+			custom_tooltip = "Because we are seizing back our rightful land, we will not suffer a stability loss or any diplomatic penalties."
+		}
+		else = {
+			unit_location = {
+				state = {
+					every_state_province = {
+						set_variable = {
+							name = seized_from
+							value = owner
+						}
+						limit = {owner = root.unit_location.owner}
+						set_conquered_by = root.unit_owner
+					}
+				}
+			}
+			root.unit_owner = {add_stability = -5}
+			hidden_effect = {
+				every_country = {
+					limit = {
+						root.unit_location = {control_range = prev}
+						NOT = {alliance_with = root.unit_owner}
+					}
+					add_opinion = {
+						modifier = opinion_seized_province
+						target = root.unit_owner
+					}
+				}
+			}
+			custom_tooltip = "Every country in diplomatic range (except our allies) will lose 10 opinion of us."
+		}
+	}
+}

@@ -1,0 +1,1110 @@
+﻿
+state_loyalty0_0 = {
+	city_monthly_state_loyalty = -0.0
+	local_defensive = -1.0
+	local_pop_conversion_speed_modifier = -0.25
+	local_pop_assimilation_speed_modifier = -0.25
+}
+state_loyalty0_5 = {
+	city_monthly_state_loyalty = -0.01
+	local_defensive = -0.99
+	local_pop_conversion_speed_modifier = -0.2475
+	local_pop_assimilation_speed_modifier = -0.2475
+}
+state_loyalty1_0 = {
+	city_monthly_state_loyalty = -0.02
+	local_defensive = -0.98
+	local_pop_conversion_speed_modifier = -0.245
+	local_pop_assimilation_speed_modifier = -0.245
+}
+state_loyalty1_5 = {
+	city_monthly_state_loyalty = -0.03
+	local_defensive = -0.97
+	local_pop_conversion_speed_modifier = -0.2425
+	local_pop_assimilation_speed_modifier = -0.2425
+}
+state_loyalty2_0 = {
+	city_monthly_state_loyalty = -0.04
+	local_defensive = -0.96
+	local_pop_conversion_speed_modifier = -0.24
+	local_pop_assimilation_speed_modifier = -0.24
+}
+state_loyalty2_5 = {
+	city_monthly_state_loyalty = -0.05
+	local_defensive = -0.95
+	local_pop_conversion_speed_modifier = -0.2375
+	local_pop_assimilation_speed_modifier = -0.2375
+}
+state_loyalty3_0 = {
+	city_monthly_state_loyalty = -0.06
+	local_defensive = -0.94
+	local_pop_conversion_speed_modifier = -0.235
+	local_pop_assimilation_speed_modifier = -0.235
+}
+state_loyalty3_5 = {
+	city_monthly_state_loyalty = -0.07
+	local_defensive = -0.9299999999999999
+	local_pop_conversion_speed_modifier = -0.23249999999999998
+	local_pop_assimilation_speed_modifier = -0.23249999999999998
+}
+state_loyalty4_0 = {
+	city_monthly_state_loyalty = -0.08
+	local_defensive = -0.92
+	local_pop_conversion_speed_modifier = -0.23
+	local_pop_assimilation_speed_modifier = -0.23
+}
+state_loyalty4_5 = {
+	city_monthly_state_loyalty = -0.09
+	local_defensive = -0.91
+	local_pop_conversion_speed_modifier = -0.2275
+	local_pop_assimilation_speed_modifier = -0.2275
+}
+state_loyalty5_0 = {
+	city_monthly_state_loyalty = -0.1
+	local_defensive = -0.9
+	local_pop_conversion_speed_modifier = -0.225
+	local_pop_assimilation_speed_modifier = -0.225
+}
+state_loyalty5_5 = {
+	city_monthly_state_loyalty = -0.11
+	local_defensive = -0.89
+	local_pop_conversion_speed_modifier = -0.2225
+	local_pop_assimilation_speed_modifier = -0.2225
+}
+state_loyalty6_0 = {
+	city_monthly_state_loyalty = -0.12
+	local_defensive = -0.88
+	local_pop_conversion_speed_modifier = -0.22
+	local_pop_assimilation_speed_modifier = -0.22
+}
+state_loyalty6_5 = {
+	city_monthly_state_loyalty = -0.13
+	local_defensive = -0.87
+	local_pop_conversion_speed_modifier = -0.2175
+	local_pop_assimilation_speed_modifier = -0.2175
+}
+state_loyalty7_0 = {
+	city_monthly_state_loyalty = -0.14
+	local_defensive = -0.86
+	local_pop_conversion_speed_modifier = -0.215
+	local_pop_assimilation_speed_modifier = -0.215
+}
+state_loyalty7_5 = {
+	city_monthly_state_loyalty = -0.15
+	local_defensive = -0.85
+	local_pop_conversion_speed_modifier = -0.2125
+	local_pop_assimilation_speed_modifier = -0.2125
+}
+state_loyalty8_0 = {
+	city_monthly_state_loyalty = -0.16
+	local_defensive = -0.84
+	local_pop_conversion_speed_modifier = -0.21
+	local_pop_assimilation_speed_modifier = -0.21
+}
+state_loyalty8_5 = {
+	city_monthly_state_loyalty = -0.17
+	local_defensive = -0.83
+	local_pop_conversion_speed_modifier = -0.2075
+	local_pop_assimilation_speed_modifier = -0.2075
+}
+state_loyalty9_0 = {
+	city_monthly_state_loyalty = -0.18
+	local_defensive = -0.8200000000000001
+	local_pop_conversion_speed_modifier = -0.20500000000000002
+	local_pop_assimilation_speed_modifier = -0.20500000000000002
+}
+state_loyalty9_5 = {
+	city_monthly_state_loyalty = -0.19
+	local_defensive = -0.81
+	local_pop_conversion_speed_modifier = -0.2025
+	local_pop_assimilation_speed_modifier = -0.2025
+}
+state_loyalty10_0 = {
+	city_monthly_state_loyalty = -0.2
+	local_defensive = -0.8
+	local_pop_conversion_speed_modifier = -0.2
+	local_pop_assimilation_speed_modifier = -0.2
+}
+state_loyalty10_5 = {
+	city_monthly_state_loyalty = -0.21
+	local_defensive = -0.79
+	local_pop_conversion_speed_modifier = -0.1975
+	local_pop_assimilation_speed_modifier = -0.1975
+}
+state_loyalty11_0 = {
+	city_monthly_state_loyalty = -0.22
+	local_defensive = -0.78
+	local_pop_conversion_speed_modifier = -0.195
+	local_pop_assimilation_speed_modifier = -0.195
+}
+state_loyalty11_5 = {
+	city_monthly_state_loyalty = -0.23
+	local_defensive = -0.77
+	local_pop_conversion_speed_modifier = -0.1925
+	local_pop_assimilation_speed_modifier = -0.1925
+}
+state_loyalty12_0 = {
+	city_monthly_state_loyalty = -0.24
+	local_defensive = -0.76
+	local_pop_conversion_speed_modifier = -0.19
+	local_pop_assimilation_speed_modifier = -0.19
+}
+state_loyalty12_5 = {
+	city_monthly_state_loyalty = -0.25
+	local_defensive = -0.75
+	local_pop_conversion_speed_modifier = -0.1875
+	local_pop_assimilation_speed_modifier = -0.1875
+}
+state_loyalty13_0 = {
+	city_monthly_state_loyalty = -0.26
+	local_defensive = -0.74
+	local_pop_conversion_speed_modifier = -0.185
+	local_pop_assimilation_speed_modifier = -0.185
+}
+state_loyalty13_5 = {
+	city_monthly_state_loyalty = -0.27
+	local_defensive = -0.73
+	local_pop_conversion_speed_modifier = -0.1825
+	local_pop_assimilation_speed_modifier = -0.1825
+}
+state_loyalty14_0 = {
+	city_monthly_state_loyalty = -0.28
+	local_defensive = -0.72
+	local_pop_conversion_speed_modifier = -0.18
+	local_pop_assimilation_speed_modifier = -0.18
+}
+state_loyalty14_5 = {
+	city_monthly_state_loyalty = -0.29
+	local_defensive = -0.71
+	local_pop_conversion_speed_modifier = -0.1775
+	local_pop_assimilation_speed_modifier = -0.1775
+}
+state_loyalty15_0 = {
+	city_monthly_state_loyalty = -0.3
+	local_defensive = -0.7
+	local_pop_conversion_speed_modifier = -0.175
+	local_pop_assimilation_speed_modifier = -0.175
+}
+state_loyalty15_5 = {
+	city_monthly_state_loyalty = -0.31
+	local_defensive = -0.69
+	local_pop_conversion_speed_modifier = -0.1725
+	local_pop_assimilation_speed_modifier = -0.1725
+}
+state_loyalty16_0 = {
+	city_monthly_state_loyalty = -0.32
+	local_defensive = -0.6799999999999999
+	local_pop_conversion_speed_modifier = -0.16999999999999998
+	local_pop_assimilation_speed_modifier = -0.16999999999999998
+}
+state_loyalty16_5 = {
+	city_monthly_state_loyalty = -0.33
+	local_defensive = -0.6699999999999999
+	local_pop_conversion_speed_modifier = -0.16749999999999998
+	local_pop_assimilation_speed_modifier = -0.16749999999999998
+}
+state_loyalty17_0 = {
+	city_monthly_state_loyalty = -0.34
+	local_defensive = -0.6599999999999999
+	local_pop_conversion_speed_modifier = -0.16499999999999998
+	local_pop_assimilation_speed_modifier = -0.16499999999999998
+}
+state_loyalty17_5 = {
+	city_monthly_state_loyalty = -0.35000000000000003
+	local_defensive = -0.6499999999999999
+	local_pop_conversion_speed_modifier = -0.16249999999999998
+	local_pop_assimilation_speed_modifier = -0.16249999999999998
+}
+state_loyalty18_0 = {
+	city_monthly_state_loyalty = -0.36
+	local_defensive = -0.64
+	local_pop_conversion_speed_modifier = -0.16
+	local_pop_assimilation_speed_modifier = -0.16
+}
+state_loyalty18_5 = {
+	city_monthly_state_loyalty = -0.37
+	local_defensive = -0.63
+	local_pop_conversion_speed_modifier = -0.1575
+	local_pop_assimilation_speed_modifier = -0.1575
+}
+state_loyalty19_0 = {
+	city_monthly_state_loyalty = -0.38
+	local_defensive = -0.62
+	local_pop_conversion_speed_modifier = -0.155
+	local_pop_assimilation_speed_modifier = -0.155
+}
+state_loyalty19_5 = {
+	city_monthly_state_loyalty = -0.39
+	local_defensive = -0.61
+	local_pop_conversion_speed_modifier = -0.1525
+	local_pop_assimilation_speed_modifier = -0.1525
+}
+state_loyalty20_0 = {
+	city_monthly_state_loyalty = -0.4
+	local_defensive = -0.6
+	local_pop_conversion_speed_modifier = -0.15
+	local_pop_assimilation_speed_modifier = -0.15
+}
+state_loyalty20_5 = {
+	city_monthly_state_loyalty = -0.41000000000000003
+	local_defensive = -0.59
+	local_pop_conversion_speed_modifier = -0.1475
+	local_pop_assimilation_speed_modifier = -0.1475
+}
+state_loyalty21_0 = {
+	city_monthly_state_loyalty = -0.42
+	local_defensive = -0.5800000000000001
+	local_pop_conversion_speed_modifier = -0.14500000000000002
+	local_pop_assimilation_speed_modifier = -0.14500000000000002
+}
+state_loyalty21_5 = {
+	city_monthly_state_loyalty = -0.43
+	local_defensive = -0.5700000000000001
+	local_pop_conversion_speed_modifier = -0.14250000000000002
+	local_pop_assimilation_speed_modifier = -0.14250000000000002
+}
+state_loyalty22_0 = {
+	city_monthly_state_loyalty = -0.44
+	local_defensive = -0.56
+	local_pop_conversion_speed_modifier = -0.14
+	local_pop_assimilation_speed_modifier = -0.14
+}
+state_loyalty22_5 = {
+	city_monthly_state_loyalty = -0.45
+	local_defensive = -0.55
+	local_pop_conversion_speed_modifier = -0.1375
+	local_pop_assimilation_speed_modifier = -0.1375
+}
+state_loyalty23_0 = {
+	city_monthly_state_loyalty = -0.46
+	local_defensive = -0.54
+	local_pop_conversion_speed_modifier = -0.135
+	local_pop_assimilation_speed_modifier = -0.135
+}
+state_loyalty23_5 = {
+	city_monthly_state_loyalty = -0.47000000000000003
+	local_defensive = -0.53
+	local_pop_conversion_speed_modifier = -0.1325
+	local_pop_assimilation_speed_modifier = -0.1325
+}
+state_loyalty24_0 = {
+	city_monthly_state_loyalty = -0.48
+	local_defensive = -0.52
+	local_pop_conversion_speed_modifier = -0.13
+	local_pop_assimilation_speed_modifier = -0.13
+}
+state_loyalty24_5 = {
+	city_monthly_state_loyalty = -0.49
+	local_defensive = -0.51
+	local_pop_conversion_speed_modifier = -0.1275
+	local_pop_assimilation_speed_modifier = -0.1275
+}
+state_loyalty25_0 = {
+	city_monthly_state_loyalty = -0.5
+	local_defensive = -0.5
+	local_pop_conversion_speed_modifier = -0.125
+	local_pop_assimilation_speed_modifier = -0.125
+}
+state_loyalty25_5 = {
+	city_monthly_state_loyalty = -0.51
+	local_defensive = -0.49
+	local_pop_conversion_speed_modifier = -0.1225
+	local_pop_assimilation_speed_modifier = -0.1225
+}
+state_loyalty26_0 = {
+	city_monthly_state_loyalty = -0.52
+	local_defensive = -0.48
+	local_pop_conversion_speed_modifier = -0.12
+	local_pop_assimilation_speed_modifier = -0.12
+}
+state_loyalty26_5 = {
+	city_monthly_state_loyalty = -0.53
+	local_defensive = -0.47
+	local_pop_conversion_speed_modifier = -0.1175
+	local_pop_assimilation_speed_modifier = -0.1175
+}
+state_loyalty27_0 = {
+	city_monthly_state_loyalty = -0.54
+	local_defensive = -0.45999999999999996
+	local_pop_conversion_speed_modifier = -0.11499999999999999
+	local_pop_assimilation_speed_modifier = -0.11499999999999999
+}
+state_loyalty27_5 = {
+	city_monthly_state_loyalty = -0.55
+	local_defensive = -0.44999999999999996
+	local_pop_conversion_speed_modifier = -0.11249999999999999
+	local_pop_assimilation_speed_modifier = -0.11249999999999999
+}
+state_loyalty28_0 = {
+	city_monthly_state_loyalty = -0.56
+	local_defensive = -0.43999999999999995
+	local_pop_conversion_speed_modifier = -0.10999999999999999
+	local_pop_assimilation_speed_modifier = -0.10999999999999999
+}
+state_loyalty28_5 = {
+	city_monthly_state_loyalty = -0.5700000000000001
+	local_defensive = -0.42999999999999994
+	local_pop_conversion_speed_modifier = -0.10749999999999998
+	local_pop_assimilation_speed_modifier = -0.10749999999999998
+}
+state_loyalty29_0 = {
+	city_monthly_state_loyalty = -0.58
+	local_defensive = -0.42000000000000004
+	local_pop_conversion_speed_modifier = -0.10500000000000001
+	local_pop_assimilation_speed_modifier = -0.10500000000000001
+}
+state_loyalty29_5 = {
+	city_monthly_state_loyalty = -0.59
+	local_defensive = -0.41000000000000003
+	local_pop_conversion_speed_modifier = -0.10250000000000001
+	local_pop_assimilation_speed_modifier = -0.10250000000000001
+}
+state_loyalty30_0 = {
+	city_monthly_state_loyalty = -0.6
+	local_defensive = -0.4
+	local_pop_conversion_speed_modifier = -0.1
+	local_pop_assimilation_speed_modifier = -0.1
+}
+state_loyalty30_5 = {
+	city_monthly_state_loyalty = -0.61
+	local_defensive = -0.39
+	local_pop_conversion_speed_modifier = -0.0975
+	local_pop_assimilation_speed_modifier = -0.0975
+}
+state_loyalty31_0 = {
+	city_monthly_state_loyalty = -0.62
+	local_defensive = -0.38
+	local_pop_conversion_speed_modifier = -0.095
+	local_pop_assimilation_speed_modifier = -0.095
+}
+state_loyalty31_5 = {
+	city_monthly_state_loyalty = -0.63
+	local_defensive = -0.37
+	local_pop_conversion_speed_modifier = -0.0925
+	local_pop_assimilation_speed_modifier = -0.0925
+}
+state_loyalty32_0 = {
+	city_monthly_state_loyalty = -0.64
+	local_defensive = -0.36
+	local_pop_conversion_speed_modifier = -0.09
+	local_pop_assimilation_speed_modifier = -0.09
+}
+state_loyalty32_5 = {
+	city_monthly_state_loyalty = -0.65
+	local_defensive = -0.35
+	local_pop_conversion_speed_modifier = -0.0875
+	local_pop_assimilation_speed_modifier = -0.0875
+}
+state_loyalty33_0 = {
+	city_monthly_state_loyalty = -0.66
+	local_defensive = -0.33999999999999997
+	local_pop_conversion_speed_modifier = -0.08499999999999999
+	local_pop_assimilation_speed_modifier = -0.08499999999999999
+}
+state_loyalty33_5 = {
+	city_monthly_state_loyalty = -0.67
+	local_defensive = -0.32999999999999996
+	local_pop_conversion_speed_modifier = -0.08249999999999999
+	local_pop_assimilation_speed_modifier = -0.08249999999999999
+}
+state_loyalty34_0 = {
+	city_monthly_state_loyalty = -0.68
+	local_defensive = -0.31999999999999995
+	local_pop_conversion_speed_modifier = -0.07999999999999999
+	local_pop_assimilation_speed_modifier = -0.07999999999999999
+}
+state_loyalty34_5 = {
+	city_monthly_state_loyalty = -0.6900000000000001
+	local_defensive = -0.30999999999999994
+	local_pop_conversion_speed_modifier = -0.07749999999999999
+	local_pop_assimilation_speed_modifier = -0.07749999999999999
+}
+state_loyalty35_0 = {
+	city_monthly_state_loyalty = -0.7000000000000001
+	local_defensive = -0.29999999999999993
+	local_pop_conversion_speed_modifier = -0.07499999999999998
+	local_pop_assimilation_speed_modifier = -0.07499999999999998
+}
+state_loyalty35_5 = {
+	city_monthly_state_loyalty = -0.71
+	local_defensive = -0.29000000000000004
+	local_pop_conversion_speed_modifier = -0.07250000000000001
+	local_pop_assimilation_speed_modifier = -0.07250000000000001
+}
+state_loyalty36_0 = {
+	city_monthly_state_loyalty = -0.72
+	local_defensive = -0.28
+	local_pop_conversion_speed_modifier = -0.07
+	local_pop_assimilation_speed_modifier = -0.07
+}
+state_loyalty36_5 = {
+	city_monthly_state_loyalty = -0.73
+	local_defensive = -0.27
+	local_pop_conversion_speed_modifier = -0.0675
+	local_pop_assimilation_speed_modifier = -0.0675
+}
+state_loyalty37_0 = {
+	city_monthly_state_loyalty = -0.74
+	local_defensive = -0.26
+	local_pop_conversion_speed_modifier = -0.065
+	local_pop_assimilation_speed_modifier = -0.065
+}
+state_loyalty37_5 = {
+	city_monthly_state_loyalty = -0.75
+	local_defensive = -0.25
+	local_pop_conversion_speed_modifier = -0.0625
+	local_pop_assimilation_speed_modifier = -0.0625
+}
+state_loyalty38_0 = {
+	city_monthly_state_loyalty = -0.76
+	local_defensive = -0.24
+	local_pop_conversion_speed_modifier = -0.06
+	local_pop_assimilation_speed_modifier = -0.06
+}
+state_loyalty38_5 = {
+	city_monthly_state_loyalty = -0.77
+	local_defensive = -0.22999999999999998
+	local_pop_conversion_speed_modifier = -0.057499999999999996
+	local_pop_assimilation_speed_modifier = -0.057499999999999996
+}
+state_loyalty39_0 = {
+	city_monthly_state_loyalty = -0.78
+	local_defensive = -0.21999999999999997
+	local_pop_conversion_speed_modifier = -0.05499999999999999
+	local_pop_assimilation_speed_modifier = -0.05499999999999999
+}
+state_loyalty39_5 = {
+	city_monthly_state_loyalty = -0.79
+	local_defensive = -0.20999999999999996
+	local_pop_conversion_speed_modifier = -0.05249999999999999
+	local_pop_assimilation_speed_modifier = -0.05249999999999999
+}
+state_loyalty40_0 = {
+	city_monthly_state_loyalty = -0.8
+	local_defensive = -0.19999999999999996
+	local_pop_conversion_speed_modifier = -0.04999999999999999
+	local_pop_assimilation_speed_modifier = -0.04999999999999999
+}
+state_loyalty40_5 = {
+	city_monthly_state_loyalty = -0.81
+	local_defensive = -0.18999999999999995
+	local_pop_conversion_speed_modifier = -0.04749999999999999
+	local_pop_assimilation_speed_modifier = -0.04749999999999999
+}
+state_loyalty41_0 = {
+	city_monthly_state_loyalty = -0.8200000000000001
+	local_defensive = -0.17999999999999994
+	local_pop_conversion_speed_modifier = -0.044999999999999984
+	local_pop_assimilation_speed_modifier = -0.044999999999999984
+}
+state_loyalty41_5 = {
+	city_monthly_state_loyalty = -0.8300000000000001
+	local_defensive = -0.16999999999999993
+	local_pop_conversion_speed_modifier = -0.04249999999999998
+	local_pop_assimilation_speed_modifier = -0.04249999999999998
+}
+state_loyalty42_0 = {
+	city_monthly_state_loyalty = -0.84
+	local_defensive = -0.16000000000000003
+	local_pop_conversion_speed_modifier = -0.04000000000000001
+	local_pop_assimilation_speed_modifier = -0.04000000000000001
+}
+state_loyalty42_5 = {
+	city_monthly_state_loyalty = -0.85
+	local_defensive = -0.15000000000000002
+	local_pop_conversion_speed_modifier = -0.037500000000000006
+	local_pop_assimilation_speed_modifier = -0.037500000000000006
+}
+state_loyalty43_0 = {
+	city_monthly_state_loyalty = -0.86
+	local_defensive = -0.14
+	local_pop_conversion_speed_modifier = -0.035
+	local_pop_assimilation_speed_modifier = -0.035
+}
+state_loyalty43_5 = {
+	city_monthly_state_loyalty = -0.87
+	local_defensive = -0.13
+	local_pop_conversion_speed_modifier = -0.0325
+	local_pop_assimilation_speed_modifier = -0.0325
+}
+state_loyalty44_0 = {
+	city_monthly_state_loyalty = -0.88
+	local_defensive = -0.12
+	local_pop_conversion_speed_modifier = -0.03
+	local_pop_assimilation_speed_modifier = -0.03
+}
+state_loyalty44_5 = {
+	city_monthly_state_loyalty = -0.89
+	local_defensive = -0.10999999999999999
+	local_pop_conversion_speed_modifier = -0.027499999999999997
+	local_pop_assimilation_speed_modifier = -0.027499999999999997
+}
+state_loyalty45_0 = {
+	city_monthly_state_loyalty = -0.9
+	local_defensive = -0.09999999999999998
+	local_pop_conversion_speed_modifier = -0.024999999999999994
+	local_pop_assimilation_speed_modifier = -0.024999999999999994
+}
+state_loyalty45_5 = {
+	city_monthly_state_loyalty = -0.91
+	local_defensive = -0.08999999999999997
+	local_pop_conversion_speed_modifier = -0.022499999999999992
+	local_pop_assimilation_speed_modifier = -0.022499999999999992
+}
+state_loyalty46_0 = {
+	city_monthly_state_loyalty = -0.92
+	local_defensive = -0.07999999999999996
+	local_pop_conversion_speed_modifier = -0.01999999999999999
+	local_pop_assimilation_speed_modifier = -0.01999999999999999
+}
+state_loyalty46_5 = {
+	city_monthly_state_loyalty = -0.93
+	local_defensive = -0.06999999999999995
+	local_pop_conversion_speed_modifier = -0.017499999999999988
+	local_pop_assimilation_speed_modifier = -0.017499999999999988
+}
+state_loyalty47_0 = {
+	city_monthly_state_loyalty = -0.9400000000000001
+	local_defensive = -0.05999999999999994
+	local_pop_conversion_speed_modifier = -0.014999999999999986
+	local_pop_assimilation_speed_modifier = -0.014999999999999986
+}
+state_loyalty47_5 = {
+	city_monthly_state_loyalty = -0.9500000000000001
+	local_defensive = -0.04999999999999993
+	local_pop_conversion_speed_modifier = -0.012499999999999983
+	local_pop_assimilation_speed_modifier = -0.012499999999999983
+}
+state_loyalty48_0 = {
+	city_monthly_state_loyalty = -0.96
+	local_defensive = -0.040000000000000036
+	local_pop_conversion_speed_modifier = -0.010000000000000009
+	local_pop_assimilation_speed_modifier = -0.010000000000000009
+}
+state_loyalty48_5 = {
+	city_monthly_state_loyalty = -0.97
+	local_defensive = -0.030000000000000027
+	local_pop_conversion_speed_modifier = -0.007500000000000007
+	local_pop_assimilation_speed_modifier = -0.007500000000000007
+}
+state_loyalty49_0 = {
+	city_monthly_state_loyalty = -0.98
+	local_defensive = -0.020000000000000018
+	local_pop_conversion_speed_modifier = -0.0050000000000000044
+	local_pop_assimilation_speed_modifier = -0.0050000000000000044
+}
+state_loyalty49_5 = {
+	city_monthly_state_loyalty = -0.99
+	local_defensive = -0.010000000000000009
+	local_pop_conversion_speed_modifier = -0.0025000000000000022
+	local_pop_assimilation_speed_modifier = -0.0025000000000000022
+}
+state_loyalty50_0 = {
+	city_monthly_state_loyalty = -1.0
+	local_pop_conversion_speed_modifier = 0.0
+	local_pop_assimilation_speed_modifier = 0.0
+}
+state_loyalty50_5 = {
+	city_monthly_state_loyalty = -1.01
+	local_pop_conversion_speed_modifier = 0.0025000000000000022
+	local_pop_assimilation_speed_modifier = 0.0025000000000000022
+}
+state_loyalty51_0 = {
+	city_monthly_state_loyalty = -1.02
+	local_pop_conversion_speed_modifier = 0.0050000000000000044
+	local_pop_assimilation_speed_modifier = 0.0050000000000000044
+}
+state_loyalty51_5 = {
+	city_monthly_state_loyalty = -1.03
+	local_pop_conversion_speed_modifier = 0.007500000000000007
+	local_pop_assimilation_speed_modifier = 0.007500000000000007
+}
+state_loyalty52_0 = {
+	city_monthly_state_loyalty = -1.04
+	local_pop_conversion_speed_modifier = 0.010000000000000009
+	local_pop_assimilation_speed_modifier = 0.010000000000000009
+}
+state_loyalty52_5 = {
+	city_monthly_state_loyalty = -1.05
+	local_pop_conversion_speed_modifier = 0.012500000000000011
+	local_pop_assimilation_speed_modifier = 0.012500000000000011
+}
+state_loyalty53_0 = {
+	city_monthly_state_loyalty = -1.06
+	local_pop_conversion_speed_modifier = 0.015000000000000013
+	local_pop_assimilation_speed_modifier = 0.015000000000000013
+}
+state_loyalty53_5 = {
+	city_monthly_state_loyalty = -1.07
+	local_pop_conversion_speed_modifier = 0.017500000000000016
+	local_pop_assimilation_speed_modifier = 0.017500000000000016
+}
+state_loyalty54_0 = {
+	city_monthly_state_loyalty = -1.08
+	local_pop_conversion_speed_modifier = 0.020000000000000018
+	local_pop_assimilation_speed_modifier = 0.020000000000000018
+}
+state_loyalty54_5 = {
+	city_monthly_state_loyalty = -1.09
+	local_pop_conversion_speed_modifier = 0.02250000000000002
+	local_pop_assimilation_speed_modifier = 0.02250000000000002
+}
+state_loyalty55_0 = {
+	city_monthly_state_loyalty = -1.1
+	local_pop_conversion_speed_modifier = 0.025000000000000022
+	local_pop_assimilation_speed_modifier = 0.025000000000000022
+}
+state_loyalty55_5 = {
+	city_monthly_state_loyalty = -1.11
+	local_pop_conversion_speed_modifier = 0.027500000000000024
+	local_pop_assimilation_speed_modifier = 0.027500000000000024
+}
+state_loyalty56_0 = {
+	city_monthly_state_loyalty = -1.12
+	local_pop_conversion_speed_modifier = 0.030000000000000027
+	local_pop_assimilation_speed_modifier = 0.030000000000000027
+}
+state_loyalty56_5 = {
+	city_monthly_state_loyalty = -1.1300000000000001
+	local_pop_conversion_speed_modifier = 0.03250000000000003
+	local_pop_assimilation_speed_modifier = 0.03250000000000003
+}
+state_loyalty57_0 = {
+	city_monthly_state_loyalty = -1.1400000000000001
+	local_pop_conversion_speed_modifier = 0.03500000000000003
+	local_pop_assimilation_speed_modifier = 0.03500000000000003
+}
+state_loyalty57_5 = {
+	city_monthly_state_loyalty = -1.1500000000000001
+	local_pop_conversion_speed_modifier = 0.03750000000000003
+	local_pop_assimilation_speed_modifier = 0.03750000000000003
+}
+state_loyalty58_0 = {
+	city_monthly_state_loyalty = -1.16
+	local_pop_conversion_speed_modifier = 0.03999999999999998
+	local_pop_assimilation_speed_modifier = 0.03999999999999998
+}
+state_loyalty58_5 = {
+	city_monthly_state_loyalty = -1.17
+	local_pop_conversion_speed_modifier = 0.04249999999999998
+	local_pop_assimilation_speed_modifier = 0.04249999999999998
+}
+state_loyalty59_0 = {
+	city_monthly_state_loyalty = -1.18
+	local_pop_conversion_speed_modifier = 0.044999999999999984
+	local_pop_assimilation_speed_modifier = 0.044999999999999984
+}
+state_loyalty59_5 = {
+	city_monthly_state_loyalty = -1.19
+	local_pop_conversion_speed_modifier = 0.04749999999999999
+	local_pop_assimilation_speed_modifier = 0.04749999999999999
+}
+state_loyalty60_0 = {
+	city_monthly_state_loyalty = -1.2
+	local_pop_conversion_speed_modifier = 0.04999999999999999
+	local_pop_assimilation_speed_modifier = 0.04999999999999999
+}
+state_loyalty60_5 = {
+	city_monthly_state_loyalty = -1.21
+	local_pop_conversion_speed_modifier = 0.05249999999999999
+	local_pop_assimilation_speed_modifier = 0.05249999999999999
+}
+state_loyalty61_0 = {
+	city_monthly_state_loyalty = -1.22
+	local_pop_conversion_speed_modifier = 0.05499999999999999
+	local_pop_assimilation_speed_modifier = 0.05499999999999999
+}
+state_loyalty61_5 = {
+	city_monthly_state_loyalty = -1.23
+	local_pop_conversion_speed_modifier = 0.057499999999999996
+	local_pop_assimilation_speed_modifier = 0.057499999999999996
+}
+state_loyalty62_0 = {
+	city_monthly_state_loyalty = -1.24
+	local_pop_conversion_speed_modifier = 0.06
+	local_pop_assimilation_speed_modifier = 0.06
+}
+state_loyalty62_5 = {
+	city_monthly_state_loyalty = -1.25
+	local_pop_conversion_speed_modifier = 0.0625
+	local_pop_assimilation_speed_modifier = 0.0625
+}
+state_loyalty63_0 = {
+	city_monthly_state_loyalty = -1.26
+	local_pop_conversion_speed_modifier = 0.065
+	local_pop_assimilation_speed_modifier = 0.065
+}
+state_loyalty63_5 = {
+	city_monthly_state_loyalty = -1.27
+	local_pop_conversion_speed_modifier = 0.0675
+	local_pop_assimilation_speed_modifier = 0.0675
+}
+state_loyalty64_0 = {
+	city_monthly_state_loyalty = -1.28
+	local_pop_conversion_speed_modifier = 0.07
+	local_pop_assimilation_speed_modifier = 0.07
+}
+state_loyalty64_5 = {
+	city_monthly_state_loyalty = -1.29
+	local_pop_conversion_speed_modifier = 0.07250000000000001
+	local_pop_assimilation_speed_modifier = 0.07250000000000001
+}
+state_loyalty65_0 = {
+	city_monthly_state_loyalty = -1.3
+	local_pop_conversion_speed_modifier = 0.07500000000000001
+	local_pop_assimilation_speed_modifier = 0.07500000000000001
+}
+state_loyalty65_5 = {
+	city_monthly_state_loyalty = -1.31
+	local_pop_conversion_speed_modifier = 0.07750000000000001
+	local_pop_assimilation_speed_modifier = 0.07750000000000001
+}
+state_loyalty66_0 = {
+	city_monthly_state_loyalty = -1.32
+	local_pop_conversion_speed_modifier = 0.08000000000000002
+	local_pop_assimilation_speed_modifier = 0.08000000000000002
+}
+state_loyalty66_5 = {
+	city_monthly_state_loyalty = -1.33
+	local_pop_conversion_speed_modifier = 0.08250000000000002
+	local_pop_assimilation_speed_modifier = 0.08250000000000002
+}
+state_loyalty67_0 = {
+	city_monthly_state_loyalty = -1.34
+	local_pop_conversion_speed_modifier = 0.08500000000000002
+	local_pop_assimilation_speed_modifier = 0.08500000000000002
+}
+state_loyalty67_5 = {
+	city_monthly_state_loyalty = -1.35
+	local_pop_conversion_speed_modifier = 0.08750000000000002
+	local_pop_assimilation_speed_modifier = 0.08750000000000002
+}
+state_loyalty68_0 = {
+	city_monthly_state_loyalty = -1.36
+	local_pop_conversion_speed_modifier = 0.09000000000000002
+	local_pop_assimilation_speed_modifier = 0.09000000000000002
+}
+state_loyalty68_5 = {
+	city_monthly_state_loyalty = -1.37
+	local_pop_conversion_speed_modifier = 0.09250000000000003
+	local_pop_assimilation_speed_modifier = 0.09250000000000003
+}
+state_loyalty69_0 = {
+	city_monthly_state_loyalty = -1.3800000000000001
+	local_pop_conversion_speed_modifier = 0.09500000000000003
+	local_pop_assimilation_speed_modifier = 0.09500000000000003
+}
+state_loyalty69_5 = {
+	city_monthly_state_loyalty = -1.3900000000000001
+	local_pop_conversion_speed_modifier = 0.09750000000000003
+	local_pop_assimilation_speed_modifier = 0.09750000000000003
+}
+state_loyalty70_0 = {
+	city_monthly_state_loyalty = -1.4000000000000001
+	local_pop_conversion_speed_modifier = 0.10000000000000003
+	local_pop_assimilation_speed_modifier = 0.10000000000000003
+}
+state_loyalty70_5 = {
+	city_monthly_state_loyalty = -1.41
+	local_pop_conversion_speed_modifier = 0.10249999999999998
+	local_pop_assimilation_speed_modifier = 0.10249999999999998
+}
+state_loyalty71_0 = {
+	city_monthly_state_loyalty = -1.42
+	local_pop_conversion_speed_modifier = 0.10499999999999998
+	local_pop_assimilation_speed_modifier = 0.10499999999999998
+}
+state_loyalty71_5 = {
+	city_monthly_state_loyalty = -1.43
+	local_pop_conversion_speed_modifier = 0.10749999999999998
+	local_pop_assimilation_speed_modifier = 0.10749999999999998
+}
+state_loyalty72_0 = {
+	city_monthly_state_loyalty = -1.44
+	local_pop_conversion_speed_modifier = 0.10999999999999999
+	local_pop_assimilation_speed_modifier = 0.10999999999999999
+}
+state_loyalty72_5 = {
+	city_monthly_state_loyalty = -1.45
+	local_pop_conversion_speed_modifier = 0.11249999999999999
+	local_pop_assimilation_speed_modifier = 0.11249999999999999
+}
+state_loyalty73_0 = {
+	city_monthly_state_loyalty = -1.46
+	local_pop_conversion_speed_modifier = 0.11499999999999999
+	local_pop_assimilation_speed_modifier = 0.11499999999999999
+}
+state_loyalty73_5 = {
+	city_monthly_state_loyalty = -1.47
+	local_pop_conversion_speed_modifier = 0.1175
+	local_pop_assimilation_speed_modifier = 0.1175
+}
+state_loyalty74_0 = {
+	city_monthly_state_loyalty = -1.48
+	local_pop_conversion_speed_modifier = 0.12
+	local_pop_assimilation_speed_modifier = 0.12
+}
+state_loyalty74_5 = {
+	city_monthly_state_loyalty = -1.49
+	local_pop_conversion_speed_modifier = 0.1225
+	local_pop_assimilation_speed_modifier = 0.1225
+}
+state_loyalty75_0 = {
+	city_monthly_state_loyalty = -1.5
+	local_pop_conversion_speed_modifier = 0.125
+	local_pop_assimilation_speed_modifier = 0.125
+}
+state_loyalty75_5 = {
+	city_monthly_state_loyalty = -1.51
+	local_pop_conversion_speed_modifier = 0.1275
+	local_pop_assimilation_speed_modifier = 0.1275
+}
+state_loyalty76_0 = {
+	city_monthly_state_loyalty = -1.52
+	local_pop_conversion_speed_modifier = 0.13
+	local_pop_assimilation_speed_modifier = 0.13
+}
+state_loyalty76_5 = {
+	city_monthly_state_loyalty = -1.53
+	local_pop_conversion_speed_modifier = 0.1325
+	local_pop_assimilation_speed_modifier = 0.1325
+}
+state_loyalty77_0 = {
+	city_monthly_state_loyalty = -1.54
+	local_pop_conversion_speed_modifier = 0.135
+	local_pop_assimilation_speed_modifier = 0.135
+}
+state_loyalty77_5 = {
+	city_monthly_state_loyalty = -1.55
+	local_pop_conversion_speed_modifier = 0.1375
+	local_pop_assimilation_speed_modifier = 0.1375
+}
+state_loyalty78_0 = {
+	city_monthly_state_loyalty = -1.56
+	local_pop_conversion_speed_modifier = 0.14
+	local_pop_assimilation_speed_modifier = 0.14
+}
+state_loyalty78_5 = {
+	city_monthly_state_loyalty = -1.57
+	local_pop_conversion_speed_modifier = 0.14250000000000002
+	local_pop_assimilation_speed_modifier = 0.14250000000000002
+}
+state_loyalty79_0 = {
+	city_monthly_state_loyalty = -1.58
+	local_pop_conversion_speed_modifier = 0.14500000000000002
+	local_pop_assimilation_speed_modifier = 0.14500000000000002
+}
+state_loyalty79_5 = {
+	city_monthly_state_loyalty = -1.59
+	local_pop_conversion_speed_modifier = 0.14750000000000002
+	local_pop_assimilation_speed_modifier = 0.14750000000000002
+}
+state_loyalty80_0 = {
+	city_monthly_state_loyalty = -1.6
+	local_pop_conversion_speed_modifier = 0.15000000000000002
+	local_pop_assimilation_speed_modifier = 0.15000000000000002
+}
+state_loyalty80_5 = {
+	city_monthly_state_loyalty = -1.61
+	local_pop_conversion_speed_modifier = 0.15250000000000002
+	local_pop_assimilation_speed_modifier = 0.15250000000000002
+}
+state_loyalty81_0 = {
+	city_monthly_state_loyalty = -1.62
+	local_pop_conversion_speed_modifier = 0.15500000000000003
+	local_pop_assimilation_speed_modifier = 0.15500000000000003
+}
+state_loyalty81_5 = {
+	city_monthly_state_loyalty = -1.6300000000000001
+	local_pop_conversion_speed_modifier = 0.15750000000000003
+	local_pop_assimilation_speed_modifier = 0.15750000000000003
+}
+state_loyalty82_0 = {
+	city_monthly_state_loyalty = -1.6400000000000001
+	local_pop_conversion_speed_modifier = 0.16000000000000003
+	local_pop_assimilation_speed_modifier = 0.16000000000000003
+}
+state_loyalty82_5 = {
+	city_monthly_state_loyalty = -1.6500000000000001
+	local_pop_conversion_speed_modifier = 0.16250000000000003
+	local_pop_assimilation_speed_modifier = 0.16250000000000003
+}
+state_loyalty83_0 = {
+	city_monthly_state_loyalty = -1.6600000000000001
+	local_pop_conversion_speed_modifier = 0.16500000000000004
+	local_pop_assimilation_speed_modifier = 0.16500000000000004
+}
+state_loyalty83_5 = {
+	city_monthly_state_loyalty = -1.67
+	local_pop_conversion_speed_modifier = 0.16749999999999998
+	local_pop_assimilation_speed_modifier = 0.16749999999999998
+}
+state_loyalty84_0 = {
+	city_monthly_state_loyalty = -1.68
+	local_pop_conversion_speed_modifier = 0.16999999999999998
+	local_pop_assimilation_speed_modifier = 0.16999999999999998
+}
+state_loyalty84_5 = {
+	city_monthly_state_loyalty = -1.69
+	local_pop_conversion_speed_modifier = 0.1725
+	local_pop_assimilation_speed_modifier = 0.1725
+}
+state_loyalty85_0 = {
+	city_monthly_state_loyalty = -1.7
+	local_pop_conversion_speed_modifier = 0.175
+	local_pop_assimilation_speed_modifier = 0.175
+}
+state_loyalty85_5 = {
+	city_monthly_state_loyalty = -1.71
+	local_pop_conversion_speed_modifier = 0.1775
+	local_pop_assimilation_speed_modifier = 0.1775
+}
+state_loyalty86_0 = {
+	city_monthly_state_loyalty = -1.72
+	local_pop_conversion_speed_modifier = 0.18
+	local_pop_assimilation_speed_modifier = 0.18
+}
+state_loyalty86_5 = {
+	city_monthly_state_loyalty = -1.73
+	local_pop_conversion_speed_modifier = 0.1825
+	local_pop_assimilation_speed_modifier = 0.1825
+}
+state_loyalty87_0 = {
+	city_monthly_state_loyalty = -1.74
+	local_pop_conversion_speed_modifier = 0.185
+	local_pop_assimilation_speed_modifier = 0.185
+}
+state_loyalty87_5 = {
+	city_monthly_state_loyalty = -1.75
+	local_pop_conversion_speed_modifier = 0.1875
+	local_pop_assimilation_speed_modifier = 0.1875
+}
+state_loyalty88_0 = {
+	city_monthly_state_loyalty = -1.76
+	local_pop_conversion_speed_modifier = 0.19
+	local_pop_assimilation_speed_modifier = 0.19
+}
+state_loyalty88_5 = {
+	city_monthly_state_loyalty = -1.77
+	local_pop_conversion_speed_modifier = 0.1925
+	local_pop_assimilation_speed_modifier = 0.1925
+}
+state_loyalty89_0 = {
+	city_monthly_state_loyalty = -1.78
+	local_pop_conversion_speed_modifier = 0.195
+	local_pop_assimilation_speed_modifier = 0.195
+}
+state_loyalty89_5 = {
+	city_monthly_state_loyalty = -1.79
+	local_pop_conversion_speed_modifier = 0.1975
+	local_pop_assimilation_speed_modifier = 0.1975
+}
+state_loyalty90_0 = {
+	city_monthly_state_loyalty = -1.8
+	local_pop_conversion_speed_modifier = 0.2
+	local_pop_assimilation_speed_modifier = 0.2
+}
+state_loyalty90_5 = {
+	city_monthly_state_loyalty = -1.81
+	local_pop_conversion_speed_modifier = 0.2025
+	local_pop_assimilation_speed_modifier = 0.2025
+}
+state_loyalty91_0 = {
+	city_monthly_state_loyalty = -1.82
+	local_pop_conversion_speed_modifier = 0.20500000000000002
+	local_pop_assimilation_speed_modifier = 0.20500000000000002
+}
+state_loyalty91_5 = {
+	city_monthly_state_loyalty = -1.83
+	local_pop_conversion_speed_modifier = 0.20750000000000002
+	local_pop_assimilation_speed_modifier = 0.20750000000000002
+}
+state_loyalty92_0 = {
+	city_monthly_state_loyalty = -1.84
+	local_pop_conversion_speed_modifier = 0.21000000000000002
+	local_pop_assimilation_speed_modifier = 0.21000000000000002
+}
+state_loyalty92_5 = {
+	city_monthly_state_loyalty = -1.85
+	local_pop_conversion_speed_modifier = 0.21250000000000002
+	local_pop_assimilation_speed_modifier = 0.21250000000000002
+}
+state_loyalty93_0 = {
+	city_monthly_state_loyalty = -1.86
+	local_pop_conversion_speed_modifier = 0.21500000000000002
+	local_pop_assimilation_speed_modifier = 0.21500000000000002
+}
+state_loyalty93_5 = {
+	city_monthly_state_loyalty = -1.87
+	local_pop_conversion_speed_modifier = 0.21750000000000003
+	local_pop_assimilation_speed_modifier = 0.21750000000000003
+}
+state_loyalty94_0 = {
+	city_monthly_state_loyalty = -1.8800000000000001
+	local_pop_conversion_speed_modifier = 0.22000000000000003
+	local_pop_assimilation_speed_modifier = 0.22000000000000003
+}
+state_loyalty94_5 = {
+	city_monthly_state_loyalty = -1.8900000000000001
+	local_pop_conversion_speed_modifier = 0.22250000000000003
+	local_pop_assimilation_speed_modifier = 0.22250000000000003
+}
+state_loyalty95_0 = {
+	city_monthly_state_loyalty = -1.9000000000000001
+	local_pop_conversion_speed_modifier = 0.22500000000000003
+	local_pop_assimilation_speed_modifier = 0.22500000000000003
+}
+state_loyalty95_5 = {
+	city_monthly_state_loyalty = -1.9100000000000001
+	local_pop_conversion_speed_modifier = 0.22750000000000004
+	local_pop_assimilation_speed_modifier = 0.22750000000000004
+}
+state_loyalty96_0 = {
+	city_monthly_state_loyalty = -1.92
+	local_pop_conversion_speed_modifier = 0.22999999999999998
+	local_pop_assimilation_speed_modifier = 0.22999999999999998
+}
+state_loyalty96_5 = {
+	city_monthly_state_loyalty = -1.93
+	local_pop_conversion_speed_modifier = 0.23249999999999998
+	local_pop_assimilation_speed_modifier = 0.23249999999999998
+}
+state_loyalty97_0 = {
+	city_monthly_state_loyalty = -1.94
+	local_pop_conversion_speed_modifier = 0.235
+	local_pop_assimilation_speed_modifier = 0.235
+}
+state_loyalty97_5 = {
+	city_monthly_state_loyalty = -1.95
+	local_pop_conversion_speed_modifier = 0.2375
+	local_pop_assimilation_speed_modifier = 0.2375
+}
+state_loyalty98_0 = {
+	city_monthly_state_loyalty = -1.96
+	local_pop_conversion_speed_modifier = 0.24
+	local_pop_assimilation_speed_modifier = 0.24
+}
+state_loyalty98_5 = {
+	city_monthly_state_loyalty = -1.97
+	local_pop_conversion_speed_modifier = 0.2425
+	local_pop_assimilation_speed_modifier = 0.2425
+}
+state_loyalty99_0 = {
+	city_monthly_state_loyalty = -1.98
+	local_pop_conversion_speed_modifier = 0.245
+	local_pop_assimilation_speed_modifier = 0.245
+}
+state_loyalty99_5 = {
+	city_monthly_state_loyalty = -1.99
+	local_pop_conversion_speed_modifier = 0.2475
+	local_pop_assimilation_speed_modifier = 0.2475
+}
+state_loyalty100_0 = {
+	city_monthly_state_loyalty = -2.0
+	local_pop_conversion_speed_modifier = 0.25
+	local_pop_assimilation_speed_modifier = 0.25
+}
+recent_conquest_loyalty = {
+	local_unrest = -1000
+	minimum_unrest = -1000
+}

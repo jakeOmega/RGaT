@@ -1,16 +1,20 @@
-﻿civilization_factor = {
-	value = 1.1
-	subtract = {
-		value = 1.1
-		divide = {
-			value = 10
-			multiply = {
-				value = root.civilization_value
-				divide = 100
-			}
-			add = 1
-		}
+﻿effective_travel_time = {
+	value = var:travel_time
+}
+
+per_capita_wealth = {
+	value = var:province_wealth
+	divide = total_population
+}
+
+wealth_factor = {
+	value = per_capita_wealth
+	multiply = 1.5
+	divide = {
+		value = 20
+		add = per_capita_wealth
 	}
+	add = 0.5
 }
 
 additional_travel_time_sval = {
@@ -51,16 +55,6 @@ additional_travel_time_sval = {
 		limit = { has_road_towards = prev }
 		multiply = 0.5
 	}
-	multiply = overextension_factor
-
-}
-
-overextension_factor = {
-	value = 1
-	add = {
-		value = scope:country.has_aggressive_expansion
-		divide = 50
-	}
 }
 
 migration_attraction = {
@@ -88,11 +82,11 @@ high_pop_food_production = {
 low_pop_food_production = {
 	if = {
 		limit = { terrain = farmland }
-		value = 0.5
+		value = 0.4
 	}
 	else_if = {
 		limit = { terrain = plains }
-		value = 0.4
+		value = 0.35
 	}
 	else_if = {
 		limit = { terrain = mountain }
@@ -100,7 +94,7 @@ low_pop_food_production = {
 	}
 	else_if = {
 		limit = { terrain = hills }
-		value = 0.35
+		value = 0.3
 	}
 	else_if = {
 		limit = { AND = {terrain = desert has_minor_river = no is_adjacent_to_major_river = no} }
@@ -143,61 +137,61 @@ low_pop_food_production = {
 		}
 		add = 0.05
 	}
+	if = {
+		limit = {
+			has_variable = fertile_flag
+		}
+		add = 0.1
+	}
 	subtract = high_pop_food_production
-	multiply = civilization_factor
-	add = high_pop_food_production
+	multiply = wealth_factor
 	multiply = crop_yield_modifier
+	add = high_pop_food_production
 }
 
 crop_yield_modifier = {
 	value = 1
 	if = {
-		limit = { var:current_yield_status < -2.5 }
-		multiply = 0.2001
-	}
-	else_if = {
-		limit = { var:current_yield_status < -1.5 }
-		multiply = 0.5001
-	}
-	else_if = {
-		limit = { var:current_yield_status < -0.5 }
-		multiply = 0.9001
-	}
-	else_if = {
-		limit = { var:current_yield_status < 0.5 }
-		multiply = 1.0001
-	}
-	else_if = {
-		limit = { var:current_yield_status < 1.5 }
-		multiply = 1.1001
-	}
-	else_if = {
-		limit = { var:current_yield_status < 2.5 }
-		multiply = 1.25001
-	}
-	else = {
-		multiply = 1.5001
+		limit = {has_variable = current_yield_status}
+		if = {
+			limit = { var:current_yield_status < -2.5 }
+			multiply = 0.5001
+		}
+		else_if = {
+			limit = { var:current_yield_status < -1.5 }
+			multiply = 0.7501
+		}
+		else_if = {
+			limit = { var:current_yield_status < -0.5 }
+			multiply = 0.9001
+		}
+		else_if = {
+			limit = { var:current_yield_status < 0.5 }
+			multiply = 1.0001
+		}
+		else_if = {
+			limit = { var:current_yield_status < 1.5 }
+			multiply = 1.1001
+		}
+		else_if = {
+			limit = { var:current_yield_status < 2.5 }
+			multiply = 1.25001
+		}
+		else = {
+			multiply = 1.5001
+		}
 	}
 }
 
 marginal_food_production = {
-	value = effective_population
+	value = farming_population
     multiply = -1
     multiply = {
 		value = low_pop_food_production
 		subtract = high_pop_food_production
 	}
-    divide = effective_population_cap
+    divide = farming_population_cap
 	add = low_pop_food_production
-	if = {
-		limit = {
-			OR = {
-				has_province_rank = city_metropolis
-				AND = {has_province_rank = city total_population > max_food_producers_city}
-			}
-		}
-		multiply = 0
-	}
 }
 
 carrying_cap_factor = {
@@ -217,7 +211,7 @@ carrying_cap_factor = {
 growth_rate = {
 	value = root.total_population
 	multiply = carrying_cap_factor
-	multiply = 0.3
+	multiply = 0.36
 }
 
 annual_growth_rate = {
@@ -231,7 +225,7 @@ max_food_producers_city = {
 	value = 15
 }
 
-effective_population = {
+farming_population = {
 	value = 3
 	add = owner.manpower_percentage
 	divide = 4
@@ -239,21 +233,31 @@ effective_population = {
 		value = num_of_freemen
 		add = num_of_tribesmen
 		add = num_of_citizen
+		if = {
+			limit = {has_building = rural_industry}
+			subtract = 2
+		}
+		min = 0
 	}
-	if = {
-		limit = { NOR = {has_building = slave_mine_building has_building = basic_settlement_infratructure_building} }
-		add = num_of_slaves
+	add = {
+		value = num_of_slaves
+		if = {
+			limit = {has_building = slave_mine_building}
+			subtract = 2
+		}
 	}
 	
 	if = {
-		limit = { 
-			NOT = {has_province_rank = settlement}
-		}
+		limit = {has_province_rank = city}
 		max = max_food_producers_city
+	}
+	else_if = {
+		limit = {has_province_rank = city_metropolis}
+		multiply = 0
 	}
 }
 
-effective_population_cap = {
+farming_population_cap = {
 	value = root.population_cap
 	if = {
 		limit = {
@@ -273,20 +277,13 @@ effective_population_cap = {
 }
 
 surplus_produced = {
-	value = marginal_food_production
-	add = {
-		value = low_pop_food_production
-		subtract = marginal_food_production
-		multiply = 0.5
-	}
-    multiply = effective_population
-	if = {
-		limit = { has_province_rank = city_metropolis }
-		multiply = 0
-	}
+	value = low_pop_food_production
+	add = marginal_food_production
+	multiply = 0.5
+    multiply = farming_population
 }
 
-deity_global_monthly_food_modifier_svalue = 0.01
+deity_global_monthly_food_modifier_svalue = 0.001
 deity_global_food_capacity_svalue = 15
 add_prominent_character_veterans = {
 	value = 0
@@ -498,4 +495,337 @@ gold_from_holding = {
 		}
 	}
 	multiply = 12
+	min = 0
 }
+
+overextension_per_pop_sval = {
+	value = 0
+	if = {
+		limit = {has_law = tax_farmers_all}
+		add = 0.1
+	}
+	else_if = {
+		limit = {has_law = tax_farmers_high}
+		add = 0.15
+	}
+	else_if = {
+		limit = {has_law = tax_farmers_medium}
+		add = 0.2
+	}
+	else_if = {
+		limit = {has_law = tax_farmers_low}
+		add = 0.3
+	}
+	else_if = {
+		limit = {has_law = tax_farmers_none}
+		add = 0.4
+	}
+}
+
+admin_demand = {
+	value = country_population
+	multiply = overextension_per_pop_sval
+}
+
+overextension_change = {
+	value = admin_demand
+	divide = var:admin_capacity
+	subtract = 1
+	multiply = 100
+	subtract = has_aggressive_expansion
+	divide = 60
+}
+
+food_wealth_change = {
+	value = surplus_produced
+	subtract = {
+		value = 0.2
+		multiply = farming_population
+	}
+	multiply = 0.25
+}
+
+trade_good_wealth_change = {
+	if = {
+		limit = {trade_goods = grain}
+		value = 0
+	}
+	else = {
+		value = num_goods_produced
+	}
+	multiply = 0.25
+}
+
+urban_wealth_change = {
+	if = {
+		limit = { has_province_rank = settlement }
+		value = 0
+	}
+	else = {
+		value = total_population
+	}
+	if = {
+		limit = { has_province_rank = city }
+		subtract = max_food_producers_city
+	}
+	subtract = {
+		value = num_of_town_hall_building
+		multiply = 2
+	}
+	min = 0
+	multiply = {
+		value = 0.05 #0.05 per pop per year - growth of 5 gold/pop/century
+		add = {
+			value = per_capita_wealth
+			divide = {
+				value = 1
+				add = {
+					value = per_capita_wealth
+					divide = {	#this is roughly the per_capita wealth at which urban economic growth goes from exponential to linear
+						value = civilization_value
+						multiply = 0.5
+					}
+				}
+			}
+			multiply = 0.06 #about 5% per year growth above decay (at civ value = 40) if there is no taxes, if we're way below the soft per_capita_wealth cap
+		}
+		divide = 12
+	}
+}
+
+taxes_change = {
+	value = province_wealth_change
+	owner = {
+		if = {
+			limit = {has_law = income_taxes_0}
+			multiply = 0
+		}
+		else_if = {
+			limit = {has_law = income_taxes_10}
+			multiply = 0.1
+		}
+		else_if = {
+			limit = {has_law = income_taxes_20}
+			multiply = 0.2
+		}
+		else_if = {
+			limit = {has_law = income_taxes_30}
+			multiply = 0.3
+		}
+		else_if = {
+			limit = {has_law = income_taxes_40}
+			multiply = 0.4
+		}
+		else_if = {
+			limit = {has_law = income_taxes_50}
+			multiply = 0.5
+		}
+		else_if = {
+			limit = {has_law = income_taxes_60}
+			multiply = 0.6
+		}
+		else = {
+			multiply = 0
+		}
+		min = 0
+		add = {
+			value = ROOT.var:province_wealth
+			if = {
+				limit = {has_law = wealth_taxes_0}
+				multiply = 0
+			}
+			else_if = {
+				limit = {has_law = wealth_taxes_0_5}
+				multiply = 0.005
+			}
+			else_if = {
+				limit = {has_law = wealth_taxes_1}
+				multiply = 0.01
+			}
+			else_if = {
+				limit = {has_law = wealth_taxes_1_5}
+				multiply = 0.015
+			}
+			else_if = {
+				limit = {has_law = wealth_taxes_2}
+				multiply = 0.02
+			}
+			else_if = {
+				limit = {has_law = wealth_taxes_2_5}
+				multiply = 0.025
+			}
+			else_if = {
+				limit = {has_law = wealth_taxes_3}
+				multiply = 0.03
+			}
+			else = {
+				multiply = 0
+			}
+			divide = 12
+		}
+		add = {
+			value = ROOT.total_population
+			if = {
+				limit = {has_law = poll_taxes_0}
+				multiply = 0
+			}
+			else_if = {
+				limit = {has_law = poll_taxes_0_05}
+				multiply = 0.05
+			}
+			else_if = {
+				limit = {has_law = poll_taxes_0_1}
+				multiply = 0.1
+			}
+			else_if = {
+				limit = {has_law = poll_taxes_0_15}
+				multiply = 0.15
+			}
+			else_if = {
+				limit = {has_law = poll_taxes_0_2}
+				multiply = 0.2
+			}
+			else_if = {
+				limit = {has_law = poll_taxes_0_25}
+				multiply = 0.25
+			}
+			else_if = {
+				limit = {has_law = poll_taxes_0_3}
+				multiply = 0.3
+			}
+			else = {
+				multiply = 0
+			}
+			divide = 12
+		}
+	}
+	min = 0
+}
+
+tax_efficiency = {
+	value = 1
+	subtract = {
+		value = var:travel_time
+		divide = 100
+	}
+	if = {
+		limit = {owner = {has_law = tax_farmers_none}}
+		multiply = 1
+	}
+	else_if = {
+		limit = {owner = {has_law = tax_farmers_low}}
+		multiply = 0.9
+	}
+	else_if = {
+		limit = {owner = {has_law = tax_farmers_medium}}
+		multiply = 0.8
+	}
+	else_if = {
+		limit = {owner = {has_law = tax_farmers_high}}
+		multiply = 0.7
+	}
+	else_if = {
+		limit = {owner = {has_law = tax_farmers_all}}
+		multiply = 0.6
+	}
+	else = {
+		multiply = 0
+	}
+	min = 0
+}
+
+decay_change = {
+	value = var:province_wealth
+	multiply = {
+		value = 0
+		if = {
+			limit = {civilization_value < 10}
+			add = -0.10
+		}
+		else_if = {
+			limit = {civilization_value < 20}
+			add = -0.05
+		}
+		else_if = {
+			limit = {civilization_value < 30}
+			add = -0.03
+		}
+		else_if = {
+			limit = {civilization_value < 35}
+			add = -0.02
+		}
+		else_if = {
+			limit = {civilization_value < 40}
+			add = -0.01
+		}
+		else_if = {
+			limit = {civilization_value < 45}
+			add = -0.008
+		}
+		else_if = {
+			limit = {civilization_value < 50}
+			add = -0.0065
+		}
+		else = {
+			add = -0.005
+		}
+		if = {
+			limit = {has_variable = disorder}
+			add = -0.05
+		}
+		if = {
+			limit = {state = {has_state_food = 0}}
+			add = -0.1
+		}
+	}
+	divide = 12
+}
+
+neighbor_change = {
+	value = 0
+	every_neighbor_province = {
+		limit = {
+			has_variable = per_capita_wealth
+		}
+		add = {
+			value = var:per_capita_wealth
+			subtract = ROOT.var:per_capita_wealth
+			multiply = {
+				value = total_population
+				max = ROOT.total_population
+			}
+		}
+	}
+	multiply = 0.05
+	divide = 12
+}
+
+province_wealth_change = {
+	value = 0
+	add = decay_change
+	add = food_wealth_change
+	add = trade_good_wealth_change
+	add = urban_wealth_change
+	if = {
+		limit = {has_variable = per_capita_wealth}
+		add = neighbor_change
+	}
+	min = {
+		value = var:province_wealth
+		multiply = -1
+	}
+}
+
+troop_maintenance = {
+	value = PREV.var:troop_count
+	multiply = 100
+	divide = max_manpower
+	multiply = 0.25
+}
+
+province_loot_amount = 0.40
+civil_war_loot_amount = 0.20
+general_wealth_gain = 0.10
+state_wealth_gain = 0.25
+provinces_wealth_gain = 0.25
+capital_wealth_gain = 0.15

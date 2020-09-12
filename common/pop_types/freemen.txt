@@ -1,7 +1,6 @@
 ﻿freemen = {
 	outout_modifier = {
-		local_manpower = 0.001
-		tax_income = 0.011
+		local_manpower = 0.008
 	}
 	
 	count_modifier = {
@@ -14,7 +13,7 @@
 	
 	conquest_demote_chance = 25
 
-	base_happyness = -0.20
+	base_happyness = -0.30
 	
 	default_pop_right = yes
 

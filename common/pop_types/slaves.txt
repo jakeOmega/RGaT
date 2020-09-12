@@ -1,6 +1,5 @@
 ﻿slaves = {
 	outout_modifier = {
-		tax_income = 0.022
 	}
 	
 	count_modifier = {
@@ -11,11 +10,11 @@
 	is_slaves = yes
 	can_promote_to = freemen
 	demotes_to = slaves	#doesnt demote really
-	political_weight = 0.35
+	political_weight = 0.05
 	
 	conquest_demote_chance = 0
 	
-	base_happyness = -0.3
+	base_happyness = -0.5
 	
 	block_colonization = yes
 	

@@ -1,0 +1,11 @@
+integrated_culture_modifier = {
+	culture_citizen_output = -10000000
+	culture_freemen_output = -10000000
+	culture_tribesmen_output = -10000000
+}
+
+unintegrated_culture_modifier = {
+	culture_citizen_output = -1000000
+	culture_freemen_output = -1000000
+	culture_tribesmen_output = -1000000
+}

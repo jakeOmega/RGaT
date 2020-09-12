@@ -1,0 +1,167 @@
+﻿tax_farmers = {
+	potential = {
+		always = yes
+	}
+	
+	tax_farmers_none = {
+		allow = {
+		}
+		global_unrest = -1
+	}
+	
+	tax_farmers_low = {
+		allow = {
+		}
+		global_unrest = -0.5
+	}
+	
+	tax_farmers_medium = {
+		allow = {
+		}
+	}
+	
+	tax_farmers_high = {
+		allow = {
+		}
+		global_unrest = 0.5
+	}
+	
+	tax_farmers_all = {
+		allow = {
+		}
+		global_unrest = 1
+	}
+}
+
+wealth_taxes = {
+	potential = {
+		always = yes
+	}
+	
+	wealth_taxes_0 = {
+		allow = {
+		}
+		global_unrest = -0.5
+	}
+	
+	wealth_taxes_0_5 = {
+		allow = {
+		}
+	}
+	
+	wealth_taxes_1 = {
+		allow = {
+		}
+		global_unrest = 0.5
+	}
+	
+	wealth_taxes_1_5 = {
+		allow = {
+		}
+		global_unrest = 1
+	}
+	
+	wealth_taxes_2 = {
+		allow = {
+		}
+		global_unrest = 1.5
+	}
+	
+	wealth_taxes_2_5 = {
+		allow = {
+		}
+		global_unrest = 2
+	}
+	wealth_taxes_3 = {
+		allow = {
+		}
+		global_unrest = 2.5
+	}
+}
+
+income_taxes = { #taxes on production
+	potential = {
+		always = yes
+	}
+	
+	income_taxes_0 = {
+		allow = {
+		}
+		global_unrest = -0.5
+	}
+	
+	income_taxes_10 = {
+		allow = {
+		}
+	}
+	
+	income_taxes_20 = {
+		allow = {
+		}
+		global_unrest = 0.5
+	}
+	
+	income_taxes_30 = {
+		allow = {
+		}
+		global_unrest = 1
+	}
+	
+	income_taxes_40 = {
+		allow = {
+		}
+		global_unrest = 1.5
+	}
+	
+	income_taxes_50 = {
+		allow = {
+		}
+		global_unrest = 2
+	}
+	income_taxes_60 = {
+		allow = {
+		}
+		global_unrest = 2.5
+	}
+}
+
+poll_taxes = {
+	potential = {
+		always = yes
+	}
+	
+	poll_taxes_0 = {
+		allow = {
+		}
+		global_unrest = -0.5
+	}
+	poll_taxes_0_05 = {
+		allow = {
+		}
+	}
+	poll_taxes_0_1 = {
+		allow = {
+		}
+		global_unrest = 0.5
+	}
+	poll_taxes_0_15 = {
+		allow = {
+		}
+		global_unrest = 1
+	}
+	poll_taxes_0_2 = {
+		allow = {
+		}
+		global_unrest = 1.5
+	}
+	poll_taxes_0_25 = {
+		allow = {
+		}
+		global_unrest = 2
+	}
+	poll_taxes_0_3 = {
+		allow = {
+		}
+		global_unrest = 2.5
+	}
+}

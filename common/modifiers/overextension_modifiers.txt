@@ -1,0 +1,3004 @@
+﻿
+overextension_changen5_0 = {
+	agressive_expansion_monthly_change = -5.0
+}
+overextension_changen4_99 = {
+	agressive_expansion_monthly_change = -4.99
+}
+overextension_changen4_98 = {
+	agressive_expansion_monthly_change = -4.98
+}
+overextension_changen4_97 = {
+	agressive_expansion_monthly_change = -4.97
+}
+overextension_changen4_96 = {
+	agressive_expansion_monthly_change = -4.96
+}
+overextension_changen4_95 = {
+	agressive_expansion_monthly_change = -4.95
+}
+overextension_changen4_94 = {
+	agressive_expansion_monthly_change = -4.94
+}
+overextension_changen4_93 = {
+	agressive_expansion_monthly_change = -4.93
+}
+overextension_changen4_92 = {
+	agressive_expansion_monthly_change = -4.92
+}
+overextension_changen4_91 = {
+	agressive_expansion_monthly_change = -4.91
+}
+overextension_changen4_9 = {
+	agressive_expansion_monthly_change = -4.9
+}
+overextension_changen4_89 = {
+	agressive_expansion_monthly_change = -4.89
+}
+overextension_changen4_88 = {
+	agressive_expansion_monthly_change = -4.88
+}
+overextension_changen4_87 = {
+	agressive_expansion_monthly_change = -4.87
+}
+overextension_changen4_86 = {
+	agressive_expansion_monthly_change = -4.86
+}
+overextension_changen4_85 = {
+	agressive_expansion_monthly_change = -4.85
+}
+overextension_changen4_84 = {
+	agressive_expansion_monthly_change = -4.84
+}
+overextension_changen4_83 = {
+	agressive_expansion_monthly_change = -4.83
+}
+overextension_changen4_82 = {
+	agressive_expansion_monthly_change = -4.82
+}
+overextension_changen4_81 = {
+	agressive_expansion_monthly_change = -4.81
+}
+overextension_changen4_8 = {
+	agressive_expansion_monthly_change = -4.8
+}
+overextension_changen4_79 = {
+	agressive_expansion_monthly_change = -4.79
+}
+overextension_changen4_78 = {
+	agressive_expansion_monthly_change = -4.78
+}
+overextension_changen4_77 = {
+	agressive_expansion_monthly_change = -4.77
+}
+overextension_changen4_76 = {
+	agressive_expansion_monthly_change = -4.76
+}
+overextension_changen4_75 = {
+	agressive_expansion_monthly_change = -4.75
+}
+overextension_changen4_74 = {
+	agressive_expansion_monthly_change = -4.74
+}
+overextension_changen4_73 = {
+	agressive_expansion_monthly_change = -4.73
+}
+overextension_changen4_72 = {
+	agressive_expansion_monthly_change = -4.72
+}
+overextension_changen4_71 = {
+	agressive_expansion_monthly_change = -4.71
+}
+overextension_changen4_7 = {
+	agressive_expansion_monthly_change = -4.7
+}
+overextension_changen4_69 = {
+	agressive_expansion_monthly_change = -4.69
+}
+overextension_changen4_68 = {
+	agressive_expansion_monthly_change = -4.68
+}
+overextension_changen4_67 = {
+	agressive_expansion_monthly_change = -4.67
+}
+overextension_changen4_66 = {
+	agressive_expansion_monthly_change = -4.66
+}
+overextension_changen4_65 = {
+	agressive_expansion_monthly_change = -4.65
+}
+overextension_changen4_64 = {
+	agressive_expansion_monthly_change = -4.64
+}
+overextension_changen4_63 = {
+	agressive_expansion_monthly_change = -4.63
+}
+overextension_changen4_62 = {
+	agressive_expansion_monthly_change = -4.62
+}
+overextension_changen4_61 = {
+	agressive_expansion_monthly_change = -4.61
+}
+overextension_changen4_60 = {
+	agressive_expansion_monthly_change = -4.6
+}
+overextension_changen4_59 = {
+	agressive_expansion_monthly_change = -4.59
+}
+overextension_changen4_58 = {
+	agressive_expansion_monthly_change = -4.58
+}
+overextension_changen4_57 = {
+	agressive_expansion_monthly_change = -4.57
+}
+overextension_changen4_56 = {
+	agressive_expansion_monthly_change = -4.56
+}
+overextension_changen4_55 = {
+	agressive_expansion_monthly_change = -4.55
+}
+overextension_changen4_54 = {
+	agressive_expansion_monthly_change = -4.54
+}
+overextension_changen4_53 = {
+	agressive_expansion_monthly_change = -4.53
+}
+overextension_changen4_52 = {
+	agressive_expansion_monthly_change = -4.52
+}
+overextension_changen4_51 = {
+	agressive_expansion_monthly_change = -4.51
+}
+overextension_changen4_5 = {
+	agressive_expansion_monthly_change = -4.5
+}
+overextension_changen4_49 = {
+	agressive_expansion_monthly_change = -4.49
+}
+overextension_changen4_48 = {
+	agressive_expansion_monthly_change = -4.48
+}
+overextension_changen4_47 = {
+	agressive_expansion_monthly_change = -4.47
+}
+overextension_changen4_46 = {
+	agressive_expansion_monthly_change = -4.46
+}
+overextension_changen4_45 = {
+	agressive_expansion_monthly_change = -4.45
+}
+overextension_changen4_44 = {
+	agressive_expansion_monthly_change = -4.44
+}
+overextension_changen4_43 = {
+	agressive_expansion_monthly_change = -4.43
+}
+overextension_changen4_42 = {
+	agressive_expansion_monthly_change = -4.42
+}
+overextension_changen4_41 = {
+	agressive_expansion_monthly_change = -4.41
+}
+overextension_changen4_4 = {
+	agressive_expansion_monthly_change = -4.4
+}
+overextension_changen4_39 = {
+	agressive_expansion_monthly_change = -4.39
+}
+overextension_changen4_38 = {
+	agressive_expansion_monthly_change = -4.38
+}
+overextension_changen4_37 = {
+	agressive_expansion_monthly_change = -4.37
+}
+overextension_changen4_36 = {
+	agressive_expansion_monthly_change = -4.36
+}
+overextension_changen4_35 = {
+	agressive_expansion_monthly_change = -4.35
+}
+overextension_changen4_34 = {
+	agressive_expansion_monthly_change = -4.34
+}
+overextension_changen4_33 = {
+	agressive_expansion_monthly_change = -4.33
+}
+overextension_changen4_32 = {
+	agressive_expansion_monthly_change = -4.32
+}
+overextension_changen4_31 = {
+	agressive_expansion_monthly_change = -4.31
+}
+overextension_changen4_3 = {
+	agressive_expansion_monthly_change = -4.3
+}
+overextension_changen4_29 = {
+	agressive_expansion_monthly_change = -4.29
+}
+overextension_changen4_28 = {
+	agressive_expansion_monthly_change = -4.28
+}
+overextension_changen4_27 = {
+	agressive_expansion_monthly_change = -4.27
+}
+overextension_changen4_26 = {
+	agressive_expansion_monthly_change = -4.26
+}
+overextension_changen4_25 = {
+	agressive_expansion_monthly_change = -4.25
+}
+overextension_changen4_24 = {
+	agressive_expansion_monthly_change = -4.24
+}
+overextension_changen4_23 = {
+	agressive_expansion_monthly_change = -4.23
+}
+overextension_changen4_22 = {
+	agressive_expansion_monthly_change = -4.22
+}
+overextension_changen4_21 = {
+	agressive_expansion_monthly_change = -4.21
+}
+overextension_changen4_2 = {
+	agressive_expansion_monthly_change = -4.2
+}
+overextension_changen4_19 = {
+	agressive_expansion_monthly_change = -4.19
+}
+overextension_changen4_18 = {
+	agressive_expansion_monthly_change = -4.18
+}
+overextension_changen4_17 = {
+	agressive_expansion_monthly_change = -4.17
+}
+overextension_changen4_16 = {
+	agressive_expansion_monthly_change = -4.16
+}
+overextension_changen4_15 = {
+	agressive_expansion_monthly_change = -4.15
+}
+overextension_changen4_14 = {
+	agressive_expansion_monthly_change = -4.14
+}
+overextension_changen4_13 = {
+	agressive_expansion_monthly_change = -4.13
+}
+overextension_changen4_12 = {
+	agressive_expansion_monthly_change = -4.12
+}
+overextension_changen4_11 = {
+	agressive_expansion_monthly_change = -4.11
+}
+overextension_changen4_1 = {
+	agressive_expansion_monthly_change = -4.1
+}
+overextension_changen4_09 = {
+	agressive_expansion_monthly_change = -4.09
+}
+overextension_changen4_08 = {
+	agressive_expansion_monthly_change = -4.08
+}
+overextension_changen4_07 = {
+	agressive_expansion_monthly_change = -4.07
+}
+overextension_changen4_06 = {
+	agressive_expansion_monthly_change = -4.06
+}
+overextension_changen4_05 = {
+	agressive_expansion_monthly_change = -4.05
+}
+overextension_changen4_04 = {
+	agressive_expansion_monthly_change = -4.04
+}
+overextension_changen4_03 = {
+	agressive_expansion_monthly_change = -4.03
+}
+overextension_changen4_02 = {
+	agressive_expansion_monthly_change = -4.02
+}
+overextension_changen4_01 = {
+	agressive_expansion_monthly_change = -4.01
+}
+overextension_changen4_0 = {
+	agressive_expansion_monthly_change = -4.0
+}
+overextension_changen3_99 = {
+	agressive_expansion_monthly_change = -3.99
+}
+overextension_changen3_98 = {
+	agressive_expansion_monthly_change = -3.98
+}
+overextension_changen3_97 = {
+	agressive_expansion_monthly_change = -3.97
+}
+overextension_changen3_96 = {
+	agressive_expansion_monthly_change = -3.96
+}
+overextension_changen3_95 = {
+	agressive_expansion_monthly_change = -3.95
+}
+overextension_changen3_94 = {
+	agressive_expansion_monthly_change = -3.94
+}
+overextension_changen3_93 = {
+	agressive_expansion_monthly_change = -3.93
+}
+overextension_changen3_92 = {
+	agressive_expansion_monthly_change = -3.92
+}
+overextension_changen3_91 = {
+	agressive_expansion_monthly_change = -3.91
+}
+overextension_changen3_9 = {
+	agressive_expansion_monthly_change = -3.9
+}
+overextension_changen3_89 = {
+	agressive_expansion_monthly_change = -3.89
+}
+overextension_changen3_88 = {
+	agressive_expansion_monthly_change = -3.88
+}
+overextension_changen3_87 = {
+	agressive_expansion_monthly_change = -3.87
+}
+overextension_changen3_86 = {
+	agressive_expansion_monthly_change = -3.86
+}
+overextension_changen3_85 = {
+	agressive_expansion_monthly_change = -3.85
+}
+overextension_changen3_84 = {
+	agressive_expansion_monthly_change = -3.84
+}
+overextension_changen3_83 = {
+	agressive_expansion_monthly_change = -3.83
+}
+overextension_changen3_82 = {
+	agressive_expansion_monthly_change = -3.82
+}
+overextension_changen3_81 = {
+	agressive_expansion_monthly_change = -3.81
+}
+overextension_changen3_80 = {
+	agressive_expansion_monthly_change = -3.8
+}
+overextension_changen3_79 = {
+	agressive_expansion_monthly_change = -3.79
+}
+overextension_changen3_78 = {
+	agressive_expansion_monthly_change = -3.78
+}
+overextension_changen3_77 = {
+	agressive_expansion_monthly_change = -3.77
+}
+overextension_changen3_76 = {
+	agressive_expansion_monthly_change = -3.76
+}
+overextension_changen3_75 = {
+	agressive_expansion_monthly_change = -3.75
+}
+overextension_changen3_74 = {
+	agressive_expansion_monthly_change = -3.74
+}
+overextension_changen3_73 = {
+	agressive_expansion_monthly_change = -3.73
+}
+overextension_changen3_72 = {
+	agressive_expansion_monthly_change = -3.72
+}
+overextension_changen3_71 = {
+	agressive_expansion_monthly_change = -3.71
+}
+overextension_changen3_7 = {
+	agressive_expansion_monthly_change = -3.7
+}
+overextension_changen3_69 = {
+	agressive_expansion_monthly_change = -3.69
+}
+overextension_changen3_68 = {
+	agressive_expansion_monthly_change = -3.68
+}
+overextension_changen3_67 = {
+	agressive_expansion_monthly_change = -3.67
+}
+overextension_changen3_66 = {
+	agressive_expansion_monthly_change = -3.66
+}
+overextension_changen3_65 = {
+	agressive_expansion_monthly_change = -3.65
+}
+overextension_changen3_64 = {
+	agressive_expansion_monthly_change = -3.64
+}
+overextension_changen3_63 = {
+	agressive_expansion_monthly_change = -3.63
+}
+overextension_changen3_62 = {
+	agressive_expansion_monthly_change = -3.62
+}
+overextension_changen3_61 = {
+	agressive_expansion_monthly_change = -3.61
+}
+overextension_changen3_6 = {
+	agressive_expansion_monthly_change = -3.6
+}
+overextension_changen3_59 = {
+	agressive_expansion_monthly_change = -3.59
+}
+overextension_changen3_58 = {
+	agressive_expansion_monthly_change = -3.58
+}
+overextension_changen3_57 = {
+	agressive_expansion_monthly_change = -3.57
+}
+overextension_changen3_56 = {
+	agressive_expansion_monthly_change = -3.56
+}
+overextension_changen3_55 = {
+	agressive_expansion_monthly_change = -3.55
+}
+overextension_changen3_54 = {
+	agressive_expansion_monthly_change = -3.54
+}
+overextension_changen3_53 = {
+	agressive_expansion_monthly_change = -3.53
+}
+overextension_changen3_52 = {
+	agressive_expansion_monthly_change = -3.52
+}
+overextension_changen3_51 = {
+	agressive_expansion_monthly_change = -3.51
+}
+overextension_changen3_5 = {
+	agressive_expansion_monthly_change = -3.5
+}
+overextension_changen3_49 = {
+	agressive_expansion_monthly_change = -3.49
+}
+overextension_changen3_48 = {
+	agressive_expansion_monthly_change = -3.48
+}
+overextension_changen3_47 = {
+	agressive_expansion_monthly_change = -3.47
+}
+overextension_changen3_46 = {
+	agressive_expansion_monthly_change = -3.46
+}
+overextension_changen3_45 = {
+	agressive_expansion_monthly_change = -3.45
+}
+overextension_changen3_44 = {
+	agressive_expansion_monthly_change = -3.44
+}
+overextension_changen3_43 = {
+	agressive_expansion_monthly_change = -3.43
+}
+overextension_changen3_42 = {
+	agressive_expansion_monthly_change = -3.42
+}
+overextension_changen3_41 = {
+	agressive_expansion_monthly_change = -3.41
+}
+overextension_changen3_4 = {
+	agressive_expansion_monthly_change = -3.4
+}
+overextension_changen3_39 = {
+	agressive_expansion_monthly_change = -3.39
+}
+overextension_changen3_38 = {
+	agressive_expansion_monthly_change = -3.38
+}
+overextension_changen3_37 = {
+	agressive_expansion_monthly_change = -3.37
+}
+overextension_changen3_36 = {
+	agressive_expansion_monthly_change = -3.36
+}
+overextension_changen3_35 = {
+	agressive_expansion_monthly_change = -3.35
+}
+overextension_changen3_34 = {
+	agressive_expansion_monthly_change = -3.34
+}
+overextension_changen3_33 = {
+	agressive_expansion_monthly_change = -3.33
+}
+overextension_changen3_32 = {
+	agressive_expansion_monthly_change = -3.32
+}
+overextension_changen3_31 = {
+	agressive_expansion_monthly_change = -3.31
+}
+overextension_changen3_30 = {
+	agressive_expansion_monthly_change = -3.3
+}
+overextension_changen3_29 = {
+	agressive_expansion_monthly_change = -3.29
+}
+overextension_changen3_28 = {
+	agressive_expansion_monthly_change = -3.28
+}
+overextension_changen3_27 = {
+	agressive_expansion_monthly_change = -3.27
+}
+overextension_changen3_26 = {
+	agressive_expansion_monthly_change = -3.26
+}
+overextension_changen3_25 = {
+	agressive_expansion_monthly_change = -3.25
+}
+overextension_changen3_24 = {
+	agressive_expansion_monthly_change = -3.24
+}
+overextension_changen3_23 = {
+	agressive_expansion_monthly_change = -3.23
+}
+overextension_changen3_22 = {
+	agressive_expansion_monthly_change = -3.22
+}
+overextension_changen3_21 = {
+	agressive_expansion_monthly_change = -3.21
+}
+overextension_changen3_2 = {
+	agressive_expansion_monthly_change = -3.2
+}
+overextension_changen3_19 = {
+	agressive_expansion_monthly_change = -3.19
+}
+overextension_changen3_18 = {
+	agressive_expansion_monthly_change = -3.18
+}
+overextension_changen3_17 = {
+	agressive_expansion_monthly_change = -3.17
+}
+overextension_changen3_16 = {
+	agressive_expansion_monthly_change = -3.16
+}
+overextension_changen3_15 = {
+	agressive_expansion_monthly_change = -3.15
+}
+overextension_changen3_14 = {
+	agressive_expansion_monthly_change = -3.14
+}
+overextension_changen3_13 = {
+	agressive_expansion_monthly_change = -3.13
+}
+overextension_changen3_12 = {
+	agressive_expansion_monthly_change = -3.12
+}
+overextension_changen3_11 = {
+	agressive_expansion_monthly_change = -3.11
+}
+overextension_changen3_1 = {
+	agressive_expansion_monthly_change = -3.1
+}
+overextension_changen3_09 = {
+	agressive_expansion_monthly_change = -3.09
+}
+overextension_changen3_08 = {
+	agressive_expansion_monthly_change = -3.08
+}
+overextension_changen3_07 = {
+	agressive_expansion_monthly_change = -3.07
+}
+overextension_changen3_06 = {
+	agressive_expansion_monthly_change = -3.06
+}
+overextension_changen3_05 = {
+	agressive_expansion_monthly_change = -3.05
+}
+overextension_changen3_04 = {
+	agressive_expansion_monthly_change = -3.04
+}
+overextension_changen3_03 = {
+	agressive_expansion_monthly_change = -3.03
+}
+overextension_changen3_02 = {
+	agressive_expansion_monthly_change = -3.02
+}
+overextension_changen3_01 = {
+	agressive_expansion_monthly_change = -3.01
+}
+overextension_changen3_0 = {
+	agressive_expansion_monthly_change = -3.0
+}
+overextension_changen2_99 = {
+	agressive_expansion_monthly_change = -2.99
+}
+overextension_changen2_98 = {
+	agressive_expansion_monthly_change = -2.98
+}
+overextension_changen2_97 = {
+	agressive_expansion_monthly_change = -2.97
+}
+overextension_changen2_96 = {
+	agressive_expansion_monthly_change = -2.96
+}
+overextension_changen2_95 = {
+	agressive_expansion_monthly_change = -2.95
+}
+overextension_changen2_94 = {
+	agressive_expansion_monthly_change = -2.94
+}
+overextension_changen2_93 = {
+	agressive_expansion_monthly_change = -2.93
+}
+overextension_changen2_92 = {
+	agressive_expansion_monthly_change = -2.92
+}
+overextension_changen2_91 = {
+	agressive_expansion_monthly_change = -2.91
+}
+overextension_changen2_9 = {
+	agressive_expansion_monthly_change = -2.9
+}
+overextension_changen2_89 = {
+	agressive_expansion_monthly_change = -2.89
+}
+overextension_changen2_88 = {
+	agressive_expansion_monthly_change = -2.88
+}
+overextension_changen2_87 = {
+	agressive_expansion_monthly_change = -2.87
+}
+overextension_changen2_86 = {
+	agressive_expansion_monthly_change = -2.86
+}
+overextension_changen2_85 = {
+	agressive_expansion_monthly_change = -2.85
+}
+overextension_changen2_84 = {
+	agressive_expansion_monthly_change = -2.84
+}
+overextension_changen2_83 = {
+	agressive_expansion_monthly_change = -2.83
+}
+overextension_changen2_82 = {
+	agressive_expansion_monthly_change = -2.82
+}
+overextension_changen2_81 = {
+	agressive_expansion_monthly_change = -2.81
+}
+overextension_changen2_80 = {
+	agressive_expansion_monthly_change = -2.8
+}
+overextension_changen2_79 = {
+	agressive_expansion_monthly_change = -2.79
+}
+overextension_changen2_78 = {
+	agressive_expansion_monthly_change = -2.78
+}
+overextension_changen2_77 = {
+	agressive_expansion_monthly_change = -2.77
+}
+overextension_changen2_76 = {
+	agressive_expansion_monthly_change = -2.76
+}
+overextension_changen2_75 = {
+	agressive_expansion_monthly_change = -2.75
+}
+overextension_changen2_74 = {
+	agressive_expansion_monthly_change = -2.74
+}
+overextension_changen2_73 = {
+	agressive_expansion_monthly_change = -2.73
+}
+overextension_changen2_72 = {
+	agressive_expansion_monthly_change = -2.72
+}
+overextension_changen2_71 = {
+	agressive_expansion_monthly_change = -2.71
+}
+overextension_changen2_7 = {
+	agressive_expansion_monthly_change = -2.7
+}
+overextension_changen2_69 = {
+	agressive_expansion_monthly_change = -2.69
+}
+overextension_changen2_68 = {
+	agressive_expansion_monthly_change = -2.68
+}
+overextension_changen2_67 = {
+	agressive_expansion_monthly_change = -2.67
+}
+overextension_changen2_66 = {
+	agressive_expansion_monthly_change = -2.66
+}
+overextension_changen2_65 = {
+	agressive_expansion_monthly_change = -2.65
+}
+overextension_changen2_64 = {
+	agressive_expansion_monthly_change = -2.64
+}
+overextension_changen2_63 = {
+	agressive_expansion_monthly_change = -2.63
+}
+overextension_changen2_62 = {
+	agressive_expansion_monthly_change = -2.62
+}
+overextension_changen2_61 = {
+	agressive_expansion_monthly_change = -2.61
+}
+overextension_changen2_6 = {
+	agressive_expansion_monthly_change = -2.6
+}
+overextension_changen2_59 = {
+	agressive_expansion_monthly_change = -2.59
+}
+overextension_changen2_58 = {
+	agressive_expansion_monthly_change = -2.58
+}
+overextension_changen2_57 = {
+	agressive_expansion_monthly_change = -2.57
+}
+overextension_changen2_56 = {
+	agressive_expansion_monthly_change = -2.56
+}
+overextension_changen2_55 = {
+	agressive_expansion_monthly_change = -2.55
+}
+overextension_changen2_54 = {
+	agressive_expansion_monthly_change = -2.54
+}
+overextension_changen2_53 = {
+	agressive_expansion_monthly_change = -2.53
+}
+overextension_changen2_52 = {
+	agressive_expansion_monthly_change = -2.52
+}
+overextension_changen2_51 = {
+	agressive_expansion_monthly_change = -2.51
+}
+overextension_changen2_5 = {
+	agressive_expansion_monthly_change = -2.5
+}
+overextension_changen2_49 = {
+	agressive_expansion_monthly_change = -2.49
+}
+overextension_changen2_48 = {
+	agressive_expansion_monthly_change = -2.48
+}
+overextension_changen2_47 = {
+	agressive_expansion_monthly_change = -2.47
+}
+overextension_changen2_46 = {
+	agressive_expansion_monthly_change = -2.46
+}
+overextension_changen2_45 = {
+	agressive_expansion_monthly_change = -2.45
+}
+overextension_changen2_44 = {
+	agressive_expansion_monthly_change = -2.44
+}
+overextension_changen2_43 = {
+	agressive_expansion_monthly_change = -2.43
+}
+overextension_changen2_42 = {
+	agressive_expansion_monthly_change = -2.42
+}
+overextension_changen2_41 = {
+	agressive_expansion_monthly_change = -2.41
+}
+overextension_changen2_4 = {
+	agressive_expansion_monthly_change = -2.4
+}
+overextension_changen2_39 = {
+	agressive_expansion_monthly_change = -2.39
+}
+overextension_changen2_38 = {
+	agressive_expansion_monthly_change = -2.38
+}
+overextension_changen2_37 = {
+	agressive_expansion_monthly_change = -2.37
+}
+overextension_changen2_36 = {
+	agressive_expansion_monthly_change = -2.36
+}
+overextension_changen2_35 = {
+	agressive_expansion_monthly_change = -2.35
+}
+overextension_changen2_34 = {
+	agressive_expansion_monthly_change = -2.34
+}
+overextension_changen2_33 = {
+	agressive_expansion_monthly_change = -2.33
+}
+overextension_changen2_32 = {
+	agressive_expansion_monthly_change = -2.32
+}
+overextension_changen2_31 = {
+	agressive_expansion_monthly_change = -2.31
+}
+overextension_changen2_30 = {
+	agressive_expansion_monthly_change = -2.3
+}
+overextension_changen2_29 = {
+	agressive_expansion_monthly_change = -2.29
+}
+overextension_changen2_28 = {
+	agressive_expansion_monthly_change = -2.28
+}
+overextension_changen2_27 = {
+	agressive_expansion_monthly_change = -2.27
+}
+overextension_changen2_26 = {
+	agressive_expansion_monthly_change = -2.26
+}
+overextension_changen2_25 = {
+	agressive_expansion_monthly_change = -2.25
+}
+overextension_changen2_24 = {
+	agressive_expansion_monthly_change = -2.24
+}
+overextension_changen2_23 = {
+	agressive_expansion_monthly_change = -2.23
+}
+overextension_changen2_22 = {
+	agressive_expansion_monthly_change = -2.22
+}
+overextension_changen2_21 = {
+	agressive_expansion_monthly_change = -2.21
+}
+overextension_changen2_2 = {
+	agressive_expansion_monthly_change = -2.2
+}
+overextension_changen2_19 = {
+	agressive_expansion_monthly_change = -2.19
+}
+overextension_changen2_18 = {
+	agressive_expansion_monthly_change = -2.18
+}
+overextension_changen2_17 = {
+	agressive_expansion_monthly_change = -2.17
+}
+overextension_changen2_16 = {
+	agressive_expansion_monthly_change = -2.16
+}
+overextension_changen2_15 = {
+	agressive_expansion_monthly_change = -2.15
+}
+overextension_changen2_14 = {
+	agressive_expansion_monthly_change = -2.14
+}
+overextension_changen2_13 = {
+	agressive_expansion_monthly_change = -2.13
+}
+overextension_changen2_12 = {
+	agressive_expansion_monthly_change = -2.12
+}
+overextension_changen2_11 = {
+	agressive_expansion_monthly_change = -2.11
+}
+overextension_changen2_1 = {
+	agressive_expansion_monthly_change = -2.1
+}
+overextension_changen2_09 = {
+	agressive_expansion_monthly_change = -2.09
+}
+overextension_changen2_08 = {
+	agressive_expansion_monthly_change = -2.08
+}
+overextension_changen2_07 = {
+	agressive_expansion_monthly_change = -2.07
+}
+overextension_changen2_06 = {
+	agressive_expansion_monthly_change = -2.06
+}
+overextension_changen2_05 = {
+	agressive_expansion_monthly_change = -2.05
+}
+overextension_changen2_04 = {
+	agressive_expansion_monthly_change = -2.04
+}
+overextension_changen2_03 = {
+	agressive_expansion_monthly_change = -2.03
+}
+overextension_changen2_02 = {
+	agressive_expansion_monthly_change = -2.02
+}
+overextension_changen2_01 = {
+	agressive_expansion_monthly_change = -2.01
+}
+overextension_changen2_0 = {
+	agressive_expansion_monthly_change = -2.0
+}
+overextension_changen1_99 = {
+	agressive_expansion_monthly_change = -1.99
+}
+overextension_changen1_98 = {
+	agressive_expansion_monthly_change = -1.98
+}
+overextension_changen1_97 = {
+	agressive_expansion_monthly_change = -1.97
+}
+overextension_changen1_96 = {
+	agressive_expansion_monthly_change = -1.96
+}
+overextension_changen1_95 = {
+	agressive_expansion_monthly_change = -1.95
+}
+overextension_changen1_94 = {
+	agressive_expansion_monthly_change = -1.94
+}
+overextension_changen1_93 = {
+	agressive_expansion_monthly_change = -1.93
+}
+overextension_changen1_92 = {
+	agressive_expansion_monthly_change = -1.92
+}
+overextension_changen1_91 = {
+	agressive_expansion_monthly_change = -1.91
+}
+overextension_changen1_90 = {
+	agressive_expansion_monthly_change = -1.9
+}
+overextension_changen1_89 = {
+	agressive_expansion_monthly_change = -1.89
+}
+overextension_changen1_88 = {
+	agressive_expansion_monthly_change = -1.88
+}
+overextension_changen1_87 = {
+	agressive_expansion_monthly_change = -1.87
+}
+overextension_changen1_86 = {
+	agressive_expansion_monthly_change = -1.86
+}
+overextension_changen1_85 = {
+	agressive_expansion_monthly_change = -1.85
+}
+overextension_changen1_84 = {
+	agressive_expansion_monthly_change = -1.84
+}
+overextension_changen1_83 = {
+	agressive_expansion_monthly_change = -1.83
+}
+overextension_changen1_82 = {
+	agressive_expansion_monthly_change = -1.82
+}
+overextension_changen1_81 = {
+	agressive_expansion_monthly_change = -1.81
+}
+overextension_changen1_8 = {
+	agressive_expansion_monthly_change = -1.8
+}
+overextension_changen1_79 = {
+	agressive_expansion_monthly_change = -1.79
+}
+overextension_changen1_78 = {
+	agressive_expansion_monthly_change = -1.78
+}
+overextension_changen1_77 = {
+	agressive_expansion_monthly_change = -1.77
+}
+overextension_changen1_76 = {
+	agressive_expansion_monthly_change = -1.76
+}
+overextension_changen1_75 = {
+	agressive_expansion_monthly_change = -1.75
+}
+overextension_changen1_74 = {
+	agressive_expansion_monthly_change = -1.74
+}
+overextension_changen1_73 = {
+	agressive_expansion_monthly_change = -1.73
+}
+overextension_changen1_72 = {
+	agressive_expansion_monthly_change = -1.72
+}
+overextension_changen1_71 = {
+	agressive_expansion_monthly_change = -1.71
+}
+overextension_changen1_7 = {
+	agressive_expansion_monthly_change = -1.7
+}
+overextension_changen1_69 = {
+	agressive_expansion_monthly_change = -1.69
+}
+overextension_changen1_68 = {
+	agressive_expansion_monthly_change = -1.68
+}
+overextension_changen1_67 = {
+	agressive_expansion_monthly_change = -1.67
+}
+overextension_changen1_66 = {
+	agressive_expansion_monthly_change = -1.66
+}
+overextension_changen1_65 = {
+	agressive_expansion_monthly_change = -1.65
+}
+overextension_changen1_64 = {
+	agressive_expansion_monthly_change = -1.64
+}
+overextension_changen1_63 = {
+	agressive_expansion_monthly_change = -1.63
+}
+overextension_changen1_62 = {
+	agressive_expansion_monthly_change = -1.62
+}
+overextension_changen1_61 = {
+	agressive_expansion_monthly_change = -1.61
+}
+overextension_changen1_6 = {
+	agressive_expansion_monthly_change = -1.6
+}
+overextension_changen1_59 = {
+	agressive_expansion_monthly_change = -1.59
+}
+overextension_changen1_58 = {
+	agressive_expansion_monthly_change = -1.58
+}
+overextension_changen1_57 = {
+	agressive_expansion_monthly_change = -1.57
+}
+overextension_changen1_56 = {
+	agressive_expansion_monthly_change = -1.56
+}
+overextension_changen1_55 = {
+	agressive_expansion_monthly_change = -1.55
+}
+overextension_changen1_54 = {
+	agressive_expansion_monthly_change = -1.54
+}
+overextension_changen1_53 = {
+	agressive_expansion_monthly_change = -1.53
+}
+overextension_changen1_52 = {
+	agressive_expansion_monthly_change = -1.52
+}
+overextension_changen1_51 = {
+	agressive_expansion_monthly_change = -1.51
+}
+overextension_changen1_5 = {
+	agressive_expansion_monthly_change = -1.5
+}
+overextension_changen1_49 = {
+	agressive_expansion_monthly_change = -1.49
+}
+overextension_changen1_48 = {
+	agressive_expansion_monthly_change = -1.48
+}
+overextension_changen1_47 = {
+	agressive_expansion_monthly_change = -1.47
+}
+overextension_changen1_46 = {
+	agressive_expansion_monthly_change = -1.46
+}
+overextension_changen1_45 = {
+	agressive_expansion_monthly_change = -1.45
+}
+overextension_changen1_44 = {
+	agressive_expansion_monthly_change = -1.44
+}
+overextension_changen1_43 = {
+	agressive_expansion_monthly_change = -1.43
+}
+overextension_changen1_42 = {
+	agressive_expansion_monthly_change = -1.42
+}
+overextension_changen1_41 = {
+	agressive_expansion_monthly_change = -1.41
+}
+overextension_changen1_40 = {
+	agressive_expansion_monthly_change = -1.4
+}
+overextension_changen1_39 = {
+	agressive_expansion_monthly_change = -1.39
+}
+overextension_changen1_38 = {
+	agressive_expansion_monthly_change = -1.38
+}
+overextension_changen1_37 = {
+	agressive_expansion_monthly_change = -1.37
+}
+overextension_changen1_36 = {
+	agressive_expansion_monthly_change = -1.36
+}
+overextension_changen1_35 = {
+	agressive_expansion_monthly_change = -1.35
+}
+overextension_changen1_34 = {
+	agressive_expansion_monthly_change = -1.34
+}
+overextension_changen1_33 = {
+	agressive_expansion_monthly_change = -1.33
+}
+overextension_changen1_32 = {
+	agressive_expansion_monthly_change = -1.32
+}
+overextension_changen1_31 = {
+	agressive_expansion_monthly_change = -1.31
+}
+overextension_changen1_3 = {
+	agressive_expansion_monthly_change = -1.3
+}
+overextension_changen1_29 = {
+	agressive_expansion_monthly_change = -1.29
+}
+overextension_changen1_28 = {
+	agressive_expansion_monthly_change = -1.28
+}
+overextension_changen1_27 = {
+	agressive_expansion_monthly_change = -1.27
+}
+overextension_changen1_26 = {
+	agressive_expansion_monthly_change = -1.26
+}
+overextension_changen1_25 = {
+	agressive_expansion_monthly_change = -1.25
+}
+overextension_changen1_24 = {
+	agressive_expansion_monthly_change = -1.24
+}
+overextension_changen1_23 = {
+	agressive_expansion_monthly_change = -1.23
+}
+overextension_changen1_22 = {
+	agressive_expansion_monthly_change = -1.22
+}
+overextension_changen1_21 = {
+	agressive_expansion_monthly_change = -1.21
+}
+overextension_changen1_2 = {
+	agressive_expansion_monthly_change = -1.2
+}
+overextension_changen1_19 = {
+	agressive_expansion_monthly_change = -1.19
+}
+overextension_changen1_18 = {
+	agressive_expansion_monthly_change = -1.18
+}
+overextension_changen1_17 = {
+	agressive_expansion_monthly_change = -1.17
+}
+overextension_changen1_16 = {
+	agressive_expansion_monthly_change = -1.16
+}
+overextension_changen1_15 = {
+	agressive_expansion_monthly_change = -1.15
+}
+overextension_changen1_14 = {
+	agressive_expansion_monthly_change = -1.14
+}
+overextension_changen1_13 = {
+	agressive_expansion_monthly_change = -1.13
+}
+overextension_changen1_12 = {
+	agressive_expansion_monthly_change = -1.12
+}
+overextension_changen1_11 = {
+	agressive_expansion_monthly_change = -1.11
+}
+overextension_changen1_1 = {
+	agressive_expansion_monthly_change = -1.1
+}
+overextension_changen1_09 = {
+	agressive_expansion_monthly_change = -1.09
+}
+overextension_changen1_08 = {
+	agressive_expansion_monthly_change = -1.08
+}
+overextension_changen1_07 = {
+	agressive_expansion_monthly_change = -1.07
+}
+overextension_changen1_06 = {
+	agressive_expansion_monthly_change = -1.06
+}
+overextension_changen1_05 = {
+	agressive_expansion_monthly_change = -1.05
+}
+overextension_changen1_04 = {
+	agressive_expansion_monthly_change = -1.04
+}
+overextension_changen1_03 = {
+	agressive_expansion_monthly_change = -1.03
+}
+overextension_changen1_02 = {
+	agressive_expansion_monthly_change = -1.02
+}
+overextension_changen1_01 = {
+	agressive_expansion_monthly_change = -1.01
+}
+overextension_changen1_0 = {
+	agressive_expansion_monthly_change = -1.0
+}
+overextension_changen0_99 = {
+	agressive_expansion_monthly_change = -0.99
+}
+overextension_changen0_98 = {
+	agressive_expansion_monthly_change = -0.98
+}
+overextension_changen0_97 = {
+	agressive_expansion_monthly_change = -0.97
+}
+overextension_changen0_96 = {
+	agressive_expansion_monthly_change = -0.96
+}
+overextension_changen0_95 = {
+	agressive_expansion_monthly_change = -0.95
+}
+overextension_changen0_94 = {
+	agressive_expansion_monthly_change = -0.94
+}
+overextension_changen0_93 = {
+	agressive_expansion_monthly_change = -0.93
+}
+overextension_changen0_92 = {
+	agressive_expansion_monthly_change = -0.92
+}
+overextension_changen0_91 = {
+	agressive_expansion_monthly_change = -0.91
+}
+overextension_changen0_9 = {
+	agressive_expansion_monthly_change = -0.9
+}
+overextension_changen0_89 = {
+	agressive_expansion_monthly_change = -0.89
+}
+overextension_changen0_88 = {
+	agressive_expansion_monthly_change = -0.88
+}
+overextension_changen0_87 = {
+	agressive_expansion_monthly_change = -0.87
+}
+overextension_changen0_86 = {
+	agressive_expansion_monthly_change = -0.86
+}
+overextension_changen0_85 = {
+	agressive_expansion_monthly_change = -0.85
+}
+overextension_changen0_84 = {
+	agressive_expansion_monthly_change = -0.84
+}
+overextension_changen0_83 = {
+	agressive_expansion_monthly_change = -0.83
+}
+overextension_changen0_82 = {
+	agressive_expansion_monthly_change = -0.82
+}
+overextension_changen0_81 = {
+	agressive_expansion_monthly_change = -0.81
+}
+overextension_changen0_8 = {
+	agressive_expansion_monthly_change = -0.8
+}
+overextension_changen0_79 = {
+	agressive_expansion_monthly_change = -0.79
+}
+overextension_changen0_78 = {
+	agressive_expansion_monthly_change = -0.78
+}
+overextension_changen0_77 = {
+	agressive_expansion_monthly_change = -0.77
+}
+overextension_changen0_76 = {
+	agressive_expansion_monthly_change = -0.76
+}
+overextension_changen0_75 = {
+	agressive_expansion_monthly_change = -0.75
+}
+overextension_changen0_74 = {
+	agressive_expansion_monthly_change = -0.74
+}
+overextension_changen0_73 = {
+	agressive_expansion_monthly_change = -0.73
+}
+overextension_changen0_72 = {
+	agressive_expansion_monthly_change = -0.72
+}
+overextension_changen0_71 = {
+	agressive_expansion_monthly_change = -0.71
+}
+overextension_changen0_70 = {
+	agressive_expansion_monthly_change = -0.7
+}
+overextension_changen0_69 = {
+	agressive_expansion_monthly_change = -0.69
+}
+overextension_changen0_68 = {
+	agressive_expansion_monthly_change = -0.68
+}
+overextension_changen0_67 = {
+	agressive_expansion_monthly_change = -0.67
+}
+overextension_changen0_66 = {
+	agressive_expansion_monthly_change = -0.66
+}
+overextension_changen0_65 = {
+	agressive_expansion_monthly_change = -0.65
+}
+overextension_changen0_64 = {
+	agressive_expansion_monthly_change = -0.64
+}
+overextension_changen0_63 = {
+	agressive_expansion_monthly_change = -0.63
+}
+overextension_changen0_62 = {
+	agressive_expansion_monthly_change = -0.62
+}
+overextension_changen0_61 = {
+	agressive_expansion_monthly_change = -0.61
+}
+overextension_changen0_6 = {
+	agressive_expansion_monthly_change = -0.6
+}
+overextension_changen0_59 = {
+	agressive_expansion_monthly_change = -0.59
+}
+overextension_changen0_58 = {
+	agressive_expansion_monthly_change = -0.58
+}
+overextension_changen0_57 = {
+	agressive_expansion_monthly_change = -0.57
+}
+overextension_changen0_56 = {
+	agressive_expansion_monthly_change = -0.56
+}
+overextension_changen0_55 = {
+	agressive_expansion_monthly_change = -0.55
+}
+overextension_changen0_54 = {
+	agressive_expansion_monthly_change = -0.54
+}
+overextension_changen0_53 = {
+	agressive_expansion_monthly_change = -0.53
+}
+overextension_changen0_52 = {
+	agressive_expansion_monthly_change = -0.52
+}
+overextension_changen0_51 = {
+	agressive_expansion_monthly_change = -0.51
+}
+overextension_changen0_5 = {
+	agressive_expansion_monthly_change = -0.5
+}
+overextension_changen0_49 = {
+	agressive_expansion_monthly_change = -0.49
+}
+overextension_changen0_48 = {
+	agressive_expansion_monthly_change = -0.48
+}
+overextension_changen0_47 = {
+	agressive_expansion_monthly_change = -0.47
+}
+overextension_changen0_46 = {
+	agressive_expansion_monthly_change = -0.46
+}
+overextension_changen0_45 = {
+	agressive_expansion_monthly_change = -0.45
+}
+overextension_changen0_44 = {
+	agressive_expansion_monthly_change = -0.44
+}
+overextension_changen0_43 = {
+	agressive_expansion_monthly_change = -0.43
+}
+overextension_changen0_42 = {
+	agressive_expansion_monthly_change = -0.42
+}
+overextension_changen0_41 = {
+	agressive_expansion_monthly_change = -0.41
+}
+overextension_changen0_4 = {
+	agressive_expansion_monthly_change = -0.4
+}
+overextension_changen0_39 = {
+	agressive_expansion_monthly_change = -0.39
+}
+overextension_changen0_38 = {
+	agressive_expansion_monthly_change = -0.38
+}
+overextension_changen0_37 = {
+	agressive_expansion_monthly_change = -0.37
+}
+overextension_changen0_36 = {
+	agressive_expansion_monthly_change = -0.36
+}
+overextension_changen0_35 = {
+	agressive_expansion_monthly_change = -0.35
+}
+overextension_changen0_34 = {
+	agressive_expansion_monthly_change = -0.34
+}
+overextension_changen0_33 = {
+	agressive_expansion_monthly_change = -0.33
+}
+overextension_changen0_32 = {
+	agressive_expansion_monthly_change = -0.32
+}
+overextension_changen0_31 = {
+	agressive_expansion_monthly_change = -0.31
+}
+overextension_changen0_3 = {
+	agressive_expansion_monthly_change = -0.3
+}
+overextension_changen0_29 = {
+	agressive_expansion_monthly_change = -0.29
+}
+overextension_changen0_28 = {
+	agressive_expansion_monthly_change = -0.28
+}
+overextension_changen0_27 = {
+	agressive_expansion_monthly_change = -0.27
+}
+overextension_changen0_26 = {
+	agressive_expansion_monthly_change = -0.26
+}
+overextension_changen0_25 = {
+	agressive_expansion_monthly_change = -0.25
+}
+overextension_changen0_24 = {
+	agressive_expansion_monthly_change = -0.24
+}
+overextension_changen0_23 = {
+	agressive_expansion_monthly_change = -0.23
+}
+overextension_changen0_22 = {
+	agressive_expansion_monthly_change = -0.22
+}
+overextension_changen0_21 = {
+	agressive_expansion_monthly_change = -0.21
+}
+overextension_changen0_2 = {
+	agressive_expansion_monthly_change = -0.2
+}
+overextension_changen0_19 = {
+	agressive_expansion_monthly_change = -0.19
+}
+overextension_changen0_18 = {
+	agressive_expansion_monthly_change = -0.18
+}
+overextension_changen0_17 = {
+	agressive_expansion_monthly_change = -0.17
+}
+overextension_changen0_16 = {
+	agressive_expansion_monthly_change = -0.16
+}
+overextension_changen0_15 = {
+	agressive_expansion_monthly_change = -0.15
+}
+overextension_changen0_14 = {
+	agressive_expansion_monthly_change = -0.14
+}
+overextension_changen0_13 = {
+	agressive_expansion_monthly_change = -0.13
+}
+overextension_changen0_12 = {
+	agressive_expansion_monthly_change = -0.12
+}
+overextension_changen0_11 = {
+	agressive_expansion_monthly_change = -0.11
+}
+overextension_changen0_1 = {
+	agressive_expansion_monthly_change = -0.1
+}
+overextension_changen0_09 = {
+	agressive_expansion_monthly_change = -0.09
+}
+overextension_changen0_08 = {
+	agressive_expansion_monthly_change = -0.08
+}
+overextension_changen0_07 = {
+	agressive_expansion_monthly_change = -0.07
+}
+overextension_changen0_06 = {
+	agressive_expansion_monthly_change = -0.06
+}
+overextension_changen0_05 = {
+	agressive_expansion_monthly_change = -0.05
+}
+overextension_changen0_04 = {
+	agressive_expansion_monthly_change = -0.04
+}
+overextension_changen0_03 = {
+	agressive_expansion_monthly_change = -0.03
+}
+overextension_changen0_02 = {
+	agressive_expansion_monthly_change = -0.02
+}
+overextension_changen0_01 = {
+	agressive_expansion_monthly_change = -0.01
+}
+overextension_change0_0 = {
+	agressive_expansion_monthly_change = 0.0
+}
+overextension_change0_01 = {
+	agressive_expansion_monthly_change = 0.01
+}
+overextension_change0_02 = {
+	agressive_expansion_monthly_change = 0.02
+}
+overextension_change0_03 = {
+	agressive_expansion_monthly_change = 0.03
+}
+overextension_change0_04 = {
+	agressive_expansion_monthly_change = 0.04
+}
+overextension_change0_05 = {
+	agressive_expansion_monthly_change = 0.05
+}
+overextension_change0_06 = {
+	agressive_expansion_monthly_change = 0.06
+}
+overextension_change0_07 = {
+	agressive_expansion_monthly_change = 0.07
+}
+overextension_change0_08 = {
+	agressive_expansion_monthly_change = 0.08
+}
+overextension_change0_09 = {
+	agressive_expansion_monthly_change = 0.09
+}
+overextension_change0_1 = {
+	agressive_expansion_monthly_change = 0.1
+}
+overextension_change0_11 = {
+	agressive_expansion_monthly_change = 0.11
+}
+overextension_change0_12 = {
+	agressive_expansion_monthly_change = 0.12
+}
+overextension_change0_13 = {
+	agressive_expansion_monthly_change = 0.13
+}
+overextension_change0_14 = {
+	agressive_expansion_monthly_change = 0.14
+}
+overextension_change0_15 = {
+	agressive_expansion_monthly_change = 0.15
+}
+overextension_change0_16 = {
+	agressive_expansion_monthly_change = 0.16
+}
+overextension_change0_17 = {
+	agressive_expansion_monthly_change = 0.17
+}
+overextension_change0_18 = {
+	agressive_expansion_monthly_change = 0.18
+}
+overextension_change0_19 = {
+	agressive_expansion_monthly_change = 0.19
+}
+overextension_change0_2 = {
+	agressive_expansion_monthly_change = 0.2
+}
+overextension_change0_21 = {
+	agressive_expansion_monthly_change = 0.21
+}
+overextension_change0_22 = {
+	agressive_expansion_monthly_change = 0.22
+}
+overextension_change0_23 = {
+	agressive_expansion_monthly_change = 0.23
+}
+overextension_change0_24 = {
+	agressive_expansion_monthly_change = 0.24
+}
+overextension_change0_25 = {
+	agressive_expansion_monthly_change = 0.25
+}
+overextension_change0_26 = {
+	agressive_expansion_monthly_change = 0.26
+}
+overextension_change0_27 = {
+	agressive_expansion_monthly_change = 0.27
+}
+overextension_change0_28 = {
+	agressive_expansion_monthly_change = 0.28
+}
+overextension_change0_29 = {
+	agressive_expansion_monthly_change = 0.29
+}
+overextension_change0_3 = {
+	agressive_expansion_monthly_change = 0.3
+}
+overextension_change0_31 = {
+	agressive_expansion_monthly_change = 0.31
+}
+overextension_change0_32 = {
+	agressive_expansion_monthly_change = 0.32
+}
+overextension_change0_33 = {
+	agressive_expansion_monthly_change = 0.33
+}
+overextension_change0_34 = {
+	agressive_expansion_monthly_change = 0.34
+}
+overextension_change0_350 = {
+	agressive_expansion_monthly_change = 0.35
+}
+overextension_change0_36 = {
+	agressive_expansion_monthly_change = 0.36
+}
+overextension_change0_37 = {
+	agressive_expansion_monthly_change = 0.37
+}
+overextension_change0_38 = {
+	agressive_expansion_monthly_change = 0.38
+}
+overextension_change0_39 = {
+	agressive_expansion_monthly_change = 0.39
+}
+overextension_change0_4 = {
+	agressive_expansion_monthly_change = 0.4
+}
+overextension_change0_410 = {
+	agressive_expansion_monthly_change = 0.41
+}
+overextension_change0_42 = {
+	agressive_expansion_monthly_change = 0.42
+}
+overextension_change0_43 = {
+	agressive_expansion_monthly_change = 0.43
+}
+overextension_change0_44 = {
+	agressive_expansion_monthly_change = 0.44
+}
+overextension_change0_45 = {
+	agressive_expansion_monthly_change = 0.45
+}
+overextension_change0_46 = {
+	agressive_expansion_monthly_change = 0.46
+}
+overextension_change0_470 = {
+	agressive_expansion_monthly_change = 0.47
+}
+overextension_change0_48 = {
+	agressive_expansion_monthly_change = 0.48
+}
+overextension_change0_49 = {
+	agressive_expansion_monthly_change = 0.49
+}
+overextension_change0_5 = {
+	agressive_expansion_monthly_change = 0.5
+}
+overextension_change0_51 = {
+	agressive_expansion_monthly_change = 0.51
+}
+overextension_change0_52 = {
+	agressive_expansion_monthly_change = 0.52
+}
+overextension_change0_53 = {
+	agressive_expansion_monthly_change = 0.53
+}
+overextension_change0_54 = {
+	agressive_expansion_monthly_change = 0.54
+}
+overextension_change0_55 = {
+	agressive_expansion_monthly_change = 0.55
+}
+overextension_change0_56 = {
+	agressive_expansion_monthly_change = 0.56
+}
+overextension_change0_570 = {
+	agressive_expansion_monthly_change = 0.57
+}
+overextension_change0_58 = {
+	agressive_expansion_monthly_change = 0.58
+}
+overextension_change0_59 = {
+	agressive_expansion_monthly_change = 0.59
+}
+overextension_change0_6 = {
+	agressive_expansion_monthly_change = 0.6
+}
+overextension_change0_61 = {
+	agressive_expansion_monthly_change = 0.61
+}
+overextension_change0_62 = {
+	agressive_expansion_monthly_change = 0.62
+}
+overextension_change0_63 = {
+	agressive_expansion_monthly_change = 0.63
+}
+overextension_change0_64 = {
+	agressive_expansion_monthly_change = 0.64
+}
+overextension_change0_65 = {
+	agressive_expansion_monthly_change = 0.65
+}
+overextension_change0_66 = {
+	agressive_expansion_monthly_change = 0.66
+}
+overextension_change0_67 = {
+	agressive_expansion_monthly_change = 0.67
+}
+overextension_change0_68 = {
+	agressive_expansion_monthly_change = 0.68
+}
+overextension_change0_690 = {
+	agressive_expansion_monthly_change = 0.69
+}
+overextension_change0_700 = {
+	agressive_expansion_monthly_change = 0.7
+}
+overextension_change0_71 = {
+	agressive_expansion_monthly_change = 0.71
+}
+overextension_change0_72 = {
+	agressive_expansion_monthly_change = 0.72
+}
+overextension_change0_73 = {
+	agressive_expansion_monthly_change = 0.73
+}
+overextension_change0_74 = {
+	agressive_expansion_monthly_change = 0.74
+}
+overextension_change0_75 = {
+	agressive_expansion_monthly_change = 0.75
+}
+overextension_change0_76 = {
+	agressive_expansion_monthly_change = 0.76
+}
+overextension_change0_77 = {
+	agressive_expansion_monthly_change = 0.77
+}
+overextension_change0_78 = {
+	agressive_expansion_monthly_change = 0.78
+}
+overextension_change0_79 = {
+	agressive_expansion_monthly_change = 0.79
+}
+overextension_change0_8 = {
+	agressive_expansion_monthly_change = 0.8
+}
+overextension_change0_81 = {
+	agressive_expansion_monthly_change = 0.81
+}
+overextension_change0_820 = {
+	agressive_expansion_monthly_change = 0.82
+}
+overextension_change0_830 = {
+	agressive_expansion_monthly_change = 0.83
+}
+overextension_change0_84 = {
+	agressive_expansion_monthly_change = 0.84
+}
+overextension_change0_85 = {
+	agressive_expansion_monthly_change = 0.85
+}
+overextension_change0_86 = {
+	agressive_expansion_monthly_change = 0.86
+}
+overextension_change0_87 = {
+	agressive_expansion_monthly_change = 0.87
+}
+overextension_change0_88 = {
+	agressive_expansion_monthly_change = 0.88
+}
+overextension_change0_89 = {
+	agressive_expansion_monthly_change = 0.89
+}
+overextension_change0_9 = {
+	agressive_expansion_monthly_change = 0.9
+}
+overextension_change0_91 = {
+	agressive_expansion_monthly_change = 0.91
+}
+overextension_change0_92 = {
+	agressive_expansion_monthly_change = 0.92
+}
+overextension_change0_93 = {
+	agressive_expansion_monthly_change = 0.93
+}
+overextension_change0_940 = {
+	agressive_expansion_monthly_change = 0.94
+}
+overextension_change0_950 = {
+	agressive_expansion_monthly_change = 0.95
+}
+overextension_change0_96 = {
+	agressive_expansion_monthly_change = 0.96
+}
+overextension_change0_97 = {
+	agressive_expansion_monthly_change = 0.97
+}
+overextension_change0_98 = {
+	agressive_expansion_monthly_change = 0.98
+}
+overextension_change0_99 = {
+	agressive_expansion_monthly_change = 0.99
+}
+overextension_change1_0 = {
+	agressive_expansion_monthly_change = 1.0
+}
+overextension_change1_01 = {
+	agressive_expansion_monthly_change = 1.01
+}
+overextension_change1_02 = {
+	agressive_expansion_monthly_change = 1.02
+}
+overextension_change1_03 = {
+	agressive_expansion_monthly_change = 1.03
+}
+overextension_change1_04 = {
+	agressive_expansion_monthly_change = 1.04
+}
+overextension_change1_05 = {
+	agressive_expansion_monthly_change = 1.05
+}
+overextension_change1_06 = {
+	agressive_expansion_monthly_change = 1.06
+}
+overextension_change1_07 = {
+	agressive_expansion_monthly_change = 1.07
+}
+overextension_change1_08 = {
+	agressive_expansion_monthly_change = 1.08
+}
+overextension_change1_09 = {
+	agressive_expansion_monthly_change = 1.09
+}
+overextension_change1_1 = {
+	agressive_expansion_monthly_change = 1.1
+}
+overextension_change1_11 = {
+	agressive_expansion_monthly_change = 1.11
+}
+overextension_change1_12 = {
+	agressive_expansion_monthly_change = 1.12
+}
+overextension_change1_130 = {
+	agressive_expansion_monthly_change = 1.13
+}
+overextension_change1_140 = {
+	agressive_expansion_monthly_change = 1.14
+}
+overextension_change1_150 = {
+	agressive_expansion_monthly_change = 1.15
+}
+overextension_change1_16 = {
+	agressive_expansion_monthly_change = 1.16
+}
+overextension_change1_17 = {
+	agressive_expansion_monthly_change = 1.17
+}
+overextension_change1_18 = {
+	agressive_expansion_monthly_change = 1.18
+}
+overextension_change1_19 = {
+	agressive_expansion_monthly_change = 1.19
+}
+overextension_change1_2 = {
+	agressive_expansion_monthly_change = 1.2
+}
+overextension_change1_21 = {
+	agressive_expansion_monthly_change = 1.21
+}
+overextension_change1_22 = {
+	agressive_expansion_monthly_change = 1.22
+}
+overextension_change1_23 = {
+	agressive_expansion_monthly_change = 1.23
+}
+overextension_change1_24 = {
+	agressive_expansion_monthly_change = 1.24
+}
+overextension_change1_25 = {
+	agressive_expansion_monthly_change = 1.25
+}
+overextension_change1_26 = {
+	agressive_expansion_monthly_change = 1.26
+}
+overextension_change1_27 = {
+	agressive_expansion_monthly_change = 1.27
+}
+overextension_change1_28 = {
+	agressive_expansion_monthly_change = 1.28
+}
+overextension_change1_29 = {
+	agressive_expansion_monthly_change = 1.29
+}
+overextension_change1_3 = {
+	agressive_expansion_monthly_change = 1.3
+}
+overextension_change1_31 = {
+	agressive_expansion_monthly_change = 1.31
+}
+overextension_change1_32 = {
+	agressive_expansion_monthly_change = 1.32
+}
+overextension_change1_33 = {
+	agressive_expansion_monthly_change = 1.33
+}
+overextension_change1_34 = {
+	agressive_expansion_monthly_change = 1.34
+}
+overextension_change1_35 = {
+	agressive_expansion_monthly_change = 1.35
+}
+overextension_change1_36 = {
+	agressive_expansion_monthly_change = 1.36
+}
+overextension_change1_37 = {
+	agressive_expansion_monthly_change = 1.37
+}
+overextension_change1_380 = {
+	agressive_expansion_monthly_change = 1.38
+}
+overextension_change1_390 = {
+	agressive_expansion_monthly_change = 1.39
+}
+overextension_change1_400 = {
+	agressive_expansion_monthly_change = 1.4
+}
+overextension_change1_41 = {
+	agressive_expansion_monthly_change = 1.41
+}
+overextension_change1_42 = {
+	agressive_expansion_monthly_change = 1.42
+}
+overextension_change1_43 = {
+	agressive_expansion_monthly_change = 1.43
+}
+overextension_change1_44 = {
+	agressive_expansion_monthly_change = 1.44
+}
+overextension_change1_45 = {
+	agressive_expansion_monthly_change = 1.45
+}
+overextension_change1_46 = {
+	agressive_expansion_monthly_change = 1.46
+}
+overextension_change1_47 = {
+	agressive_expansion_monthly_change = 1.47
+}
+overextension_change1_48 = {
+	agressive_expansion_monthly_change = 1.48
+}
+overextension_change1_49 = {
+	agressive_expansion_monthly_change = 1.49
+}
+overextension_change1_5 = {
+	agressive_expansion_monthly_change = 1.5
+}
+overextension_change1_51 = {
+	agressive_expansion_monthly_change = 1.51
+}
+overextension_change1_52 = {
+	agressive_expansion_monthly_change = 1.52
+}
+overextension_change1_53 = {
+	agressive_expansion_monthly_change = 1.53
+}
+overextension_change1_54 = {
+	agressive_expansion_monthly_change = 1.54
+}
+overextension_change1_55 = {
+	agressive_expansion_monthly_change = 1.55
+}
+overextension_change1_56 = {
+	agressive_expansion_monthly_change = 1.56
+}
+overextension_change1_57 = {
+	agressive_expansion_monthly_change = 1.57
+}
+overextension_change1_58 = {
+	agressive_expansion_monthly_change = 1.58
+}
+overextension_change1_59 = {
+	agressive_expansion_monthly_change = 1.59
+}
+overextension_change1_6 = {
+	agressive_expansion_monthly_change = 1.6
+}
+overextension_change1_61 = {
+	agressive_expansion_monthly_change = 1.61
+}
+overextension_change1_62 = {
+	agressive_expansion_monthly_change = 1.62
+}
+overextension_change1_630 = {
+	agressive_expansion_monthly_change = 1.63
+}
+overextension_change1_640 = {
+	agressive_expansion_monthly_change = 1.64
+}
+overextension_change1_650 = {
+	agressive_expansion_monthly_change = 1.65
+}
+overextension_change1_660 = {
+	agressive_expansion_monthly_change = 1.66
+}
+overextension_change1_67 = {
+	agressive_expansion_monthly_change = 1.67
+}
+overextension_change1_68 = {
+	agressive_expansion_monthly_change = 1.68
+}
+overextension_change1_69 = {
+	agressive_expansion_monthly_change = 1.69
+}
+overextension_change1_7 = {
+	agressive_expansion_monthly_change = 1.7
+}
+overextension_change1_71 = {
+	agressive_expansion_monthly_change = 1.71
+}
+overextension_change1_72 = {
+	agressive_expansion_monthly_change = 1.72
+}
+overextension_change1_73 = {
+	agressive_expansion_monthly_change = 1.73
+}
+overextension_change1_74 = {
+	agressive_expansion_monthly_change = 1.74
+}
+overextension_change1_75 = {
+	agressive_expansion_monthly_change = 1.75
+}
+overextension_change1_76 = {
+	agressive_expansion_monthly_change = 1.76
+}
+overextension_change1_77 = {
+	agressive_expansion_monthly_change = 1.77
+}
+overextension_change1_78 = {
+	agressive_expansion_monthly_change = 1.78
+}
+overextension_change1_79 = {
+	agressive_expansion_monthly_change = 1.79
+}
+overextension_change1_8 = {
+	agressive_expansion_monthly_change = 1.8
+}
+overextension_change1_81 = {
+	agressive_expansion_monthly_change = 1.81
+}
+overextension_change1_82 = {
+	agressive_expansion_monthly_change = 1.82
+}
+overextension_change1_83 = {
+	agressive_expansion_monthly_change = 1.83
+}
+overextension_change1_84 = {
+	agressive_expansion_monthly_change = 1.84
+}
+overextension_change1_85 = {
+	agressive_expansion_monthly_change = 1.85
+}
+overextension_change1_86 = {
+	agressive_expansion_monthly_change = 1.86
+}
+overextension_change1_87 = {
+	agressive_expansion_monthly_change = 1.87
+}
+overextension_change1_880 = {
+	agressive_expansion_monthly_change = 1.88
+}
+overextension_change1_890 = {
+	agressive_expansion_monthly_change = 1.89
+}
+overextension_change1_900 = {
+	agressive_expansion_monthly_change = 1.9
+}
+overextension_change1_910 = {
+	agressive_expansion_monthly_change = 1.91
+}
+overextension_change1_92 = {
+	agressive_expansion_monthly_change = 1.92
+}
+overextension_change1_93 = {
+	agressive_expansion_monthly_change = 1.93
+}
+overextension_change1_94 = {
+	agressive_expansion_monthly_change = 1.94
+}
+overextension_change1_95 = {
+	agressive_expansion_monthly_change = 1.95
+}
+overextension_change1_96 = {
+	agressive_expansion_monthly_change = 1.96
+}
+overextension_change1_97 = {
+	agressive_expansion_monthly_change = 1.97
+}
+overextension_change1_98 = {
+	agressive_expansion_monthly_change = 1.98
+}
+overextension_change1_99 = {
+	agressive_expansion_monthly_change = 1.99
+}
+overextension_change2_0 = {
+	agressive_expansion_monthly_change = 2.0
+}
+overextension_change2_010 = {
+	agressive_expansion_monthly_change = 2.01
+}
+overextension_change2_02 = {
+	agressive_expansion_monthly_change = 2.02
+}
+overextension_change2_030 = {
+	agressive_expansion_monthly_change = 2.03
+}
+overextension_change2_04 = {
+	agressive_expansion_monthly_change = 2.04
+}
+overextension_change2_05 = {
+	agressive_expansion_monthly_change = 2.05
+}
+overextension_change2_06 = {
+	agressive_expansion_monthly_change = 2.06
+}
+overextension_change2_07 = {
+	agressive_expansion_monthly_change = 2.07
+}
+overextension_change2_08 = {
+	agressive_expansion_monthly_change = 2.08
+}
+overextension_change2_09 = {
+	agressive_expansion_monthly_change = 2.09
+}
+overextension_change2_1 = {
+	agressive_expansion_monthly_change = 2.1
+}
+overextension_change2_11 = {
+	agressive_expansion_monthly_change = 2.11
+}
+overextension_change2_12 = {
+	agressive_expansion_monthly_change = 2.12
+}
+overextension_change2_13 = {
+	agressive_expansion_monthly_change = 2.13
+}
+overextension_change2_14 = {
+	agressive_expansion_monthly_change = 2.14
+}
+overextension_change2_15 = {
+	agressive_expansion_monthly_change = 2.15
+}
+overextension_change2_16 = {
+	agressive_expansion_monthly_change = 2.16
+}
+overextension_change2_17 = {
+	agressive_expansion_monthly_change = 2.17
+}
+overextension_change2_18 = {
+	agressive_expansion_monthly_change = 2.18
+}
+overextension_change2_19 = {
+	agressive_expansion_monthly_change = 2.19
+}
+overextension_change2_2 = {
+	agressive_expansion_monthly_change = 2.2
+}
+overextension_change2_21 = {
+	agressive_expansion_monthly_change = 2.21
+}
+overextension_change2_22 = {
+	agressive_expansion_monthly_change = 2.22
+}
+overextension_change2_23 = {
+	agressive_expansion_monthly_change = 2.23
+}
+overextension_change2_24 = {
+	agressive_expansion_monthly_change = 2.24
+}
+overextension_change2_25 = {
+	agressive_expansion_monthly_change = 2.25
+}
+overextension_change2_260 = {
+	agressive_expansion_monthly_change = 2.26
+}
+overextension_change2_27 = {
+	agressive_expansion_monthly_change = 2.27
+}
+overextension_change2_280 = {
+	agressive_expansion_monthly_change = 2.28
+}
+overextension_change2_29 = {
+	agressive_expansion_monthly_change = 2.29
+}
+overextension_change2_300 = {
+	agressive_expansion_monthly_change = 2.3
+}
+overextension_change2_31 = {
+	agressive_expansion_monthly_change = 2.31
+}
+overextension_change2_32 = {
+	agressive_expansion_monthly_change = 2.32
+}
+overextension_change2_33 = {
+	agressive_expansion_monthly_change = 2.33
+}
+overextension_change2_34 = {
+	agressive_expansion_monthly_change = 2.34
+}
+overextension_change2_35 = {
+	agressive_expansion_monthly_change = 2.35
+}
+overextension_change2_36 = {
+	agressive_expansion_monthly_change = 2.36
+}
+overextension_change2_37 = {
+	agressive_expansion_monthly_change = 2.37
+}
+overextension_change2_38 = {
+	agressive_expansion_monthly_change = 2.38
+}
+overextension_change2_39 = {
+	agressive_expansion_monthly_change = 2.39
+}
+overextension_change2_4 = {
+	agressive_expansion_monthly_change = 2.4
+}
+overextension_change2_41 = {
+	agressive_expansion_monthly_change = 2.41
+}
+overextension_change2_42 = {
+	agressive_expansion_monthly_change = 2.42
+}
+overextension_change2_43 = {
+	agressive_expansion_monthly_change = 2.43
+}
+overextension_change2_44 = {
+	agressive_expansion_monthly_change = 2.44
+}
+overextension_change2_45 = {
+	agressive_expansion_monthly_change = 2.45
+}
+overextension_change2_46 = {
+	agressive_expansion_monthly_change = 2.46
+}
+overextension_change2_47 = {
+	agressive_expansion_monthly_change = 2.47
+}
+overextension_change2_48 = {
+	agressive_expansion_monthly_change = 2.48
+}
+overextension_change2_49 = {
+	agressive_expansion_monthly_change = 2.49
+}
+overextension_change2_5 = {
+	agressive_expansion_monthly_change = 2.5
+}
+overextension_change2_510 = {
+	agressive_expansion_monthly_change = 2.51
+}
+overextension_change2_52 = {
+	agressive_expansion_monthly_change = 2.52
+}
+overextension_change2_530 = {
+	agressive_expansion_monthly_change = 2.53
+}
+overextension_change2_54 = {
+	agressive_expansion_monthly_change = 2.54
+}
+overextension_change2_550 = {
+	agressive_expansion_monthly_change = 2.55
+}
+overextension_change2_56 = {
+	agressive_expansion_monthly_change = 2.56
+}
+overextension_change2_57 = {
+	agressive_expansion_monthly_change = 2.57
+}
+overextension_change2_58 = {
+	agressive_expansion_monthly_change = 2.58
+}
+overextension_change2_59 = {
+	agressive_expansion_monthly_change = 2.59
+}
+overextension_change2_6 = {
+	agressive_expansion_monthly_change = 2.6
+}
+overextension_change2_61 = {
+	agressive_expansion_monthly_change = 2.61
+}
+overextension_change2_62 = {
+	agressive_expansion_monthly_change = 2.62
+}
+overextension_change2_63 = {
+	agressive_expansion_monthly_change = 2.63
+}
+overextension_change2_64 = {
+	agressive_expansion_monthly_change = 2.64
+}
+overextension_change2_65 = {
+	agressive_expansion_monthly_change = 2.65
+}
+overextension_change2_66 = {
+	agressive_expansion_monthly_change = 2.66
+}
+overextension_change2_67 = {
+	agressive_expansion_monthly_change = 2.67
+}
+overextension_change2_68 = {
+	agressive_expansion_monthly_change = 2.68
+}
+overextension_change2_69 = {
+	agressive_expansion_monthly_change = 2.69
+}
+overextension_change2_7 = {
+	agressive_expansion_monthly_change = 2.7
+}
+overextension_change2_71 = {
+	agressive_expansion_monthly_change = 2.71
+}
+overextension_change2_72 = {
+	agressive_expansion_monthly_change = 2.72
+}
+overextension_change2_73 = {
+	agressive_expansion_monthly_change = 2.73
+}
+overextension_change2_74 = {
+	agressive_expansion_monthly_change = 2.74
+}
+overextension_change2_75 = {
+	agressive_expansion_monthly_change = 2.75
+}
+overextension_change2_760 = {
+	agressive_expansion_monthly_change = 2.76
+}
+overextension_change2_77 = {
+	agressive_expansion_monthly_change = 2.77
+}
+overextension_change2_780 = {
+	agressive_expansion_monthly_change = 2.78
+}
+overextension_change2_79 = {
+	agressive_expansion_monthly_change = 2.79
+}
+overextension_change2_800 = {
+	agressive_expansion_monthly_change = 2.8
+}
+overextension_change2_81 = {
+	agressive_expansion_monthly_change = 2.81
+}
+overextension_change2_82 = {
+	agressive_expansion_monthly_change = 2.82
+}
+overextension_change2_83 = {
+	agressive_expansion_monthly_change = 2.83
+}
+overextension_change2_84 = {
+	agressive_expansion_monthly_change = 2.84
+}
+overextension_change2_85 = {
+	agressive_expansion_monthly_change = 2.85
+}
+overextension_change2_86 = {
+	agressive_expansion_monthly_change = 2.86
+}
+overextension_change2_87 = {
+	agressive_expansion_monthly_change = 2.87
+}
+overextension_change2_88 = {
+	agressive_expansion_monthly_change = 2.88
+}
+overextension_change2_89 = {
+	agressive_expansion_monthly_change = 2.89
+}
+overextension_change2_9 = {
+	agressive_expansion_monthly_change = 2.9
+}
+overextension_change2_91 = {
+	agressive_expansion_monthly_change = 2.91
+}
+overextension_change2_92 = {
+	agressive_expansion_monthly_change = 2.92
+}
+overextension_change2_93 = {
+	agressive_expansion_monthly_change = 2.93
+}
+overextension_change2_94 = {
+	agressive_expansion_monthly_change = 2.94
+}
+overextension_change2_95 = {
+	agressive_expansion_monthly_change = 2.95
+}
+overextension_change2_96 = {
+	agressive_expansion_monthly_change = 2.96
+}
+overextension_change2_97 = {
+	agressive_expansion_monthly_change = 2.97
+}
+overextension_change2_98 = {
+	agressive_expansion_monthly_change = 2.98
+}
+overextension_change2_99 = {
+	agressive_expansion_monthly_change = 2.99
+}
+overextension_change3_0 = {
+	agressive_expansion_monthly_change = 3.0
+}
+overextension_change3_010 = {
+	agressive_expansion_monthly_change = 3.01
+}
+overextension_change3_02 = {
+	agressive_expansion_monthly_change = 3.02
+}
+overextension_change3_030 = {
+	agressive_expansion_monthly_change = 3.03
+}
+overextension_change3_04 = {
+	agressive_expansion_monthly_change = 3.04
+}
+overextension_change3_050 = {
+	agressive_expansion_monthly_change = 3.05
+}
+overextension_change3_06 = {
+	agressive_expansion_monthly_change = 3.06
+}
+overextension_change3_070 = {
+	agressive_expansion_monthly_change = 3.07
+}
+overextension_change3_08 = {
+	agressive_expansion_monthly_change = 3.08
+}
+overextension_change3_09 = {
+	agressive_expansion_monthly_change = 3.09
+}
+overextension_change3_1 = {
+	agressive_expansion_monthly_change = 3.1
+}
+overextension_change3_11 = {
+	agressive_expansion_monthly_change = 3.11
+}
+overextension_change3_12 = {
+	agressive_expansion_monthly_change = 3.12
+}
+overextension_change3_13 = {
+	agressive_expansion_monthly_change = 3.13
+}
+overextension_change3_14 = {
+	agressive_expansion_monthly_change = 3.14
+}
+overextension_change3_15 = {
+	agressive_expansion_monthly_change = 3.15
+}
+overextension_change3_16 = {
+	agressive_expansion_monthly_change = 3.16
+}
+overextension_change3_17 = {
+	agressive_expansion_monthly_change = 3.17
+}
+overextension_change3_18 = {
+	agressive_expansion_monthly_change = 3.18
+}
+overextension_change3_19 = {
+	agressive_expansion_monthly_change = 3.19
+}
+overextension_change3_2 = {
+	agressive_expansion_monthly_change = 3.2
+}
+overextension_change3_21 = {
+	agressive_expansion_monthly_change = 3.21
+}
+overextension_change3_22 = {
+	agressive_expansion_monthly_change = 3.22
+}
+overextension_change3_23 = {
+	agressive_expansion_monthly_change = 3.23
+}
+overextension_change3_24 = {
+	agressive_expansion_monthly_change = 3.24
+}
+overextension_change3_25 = {
+	agressive_expansion_monthly_change = 3.25
+}
+overextension_change3_260 = {
+	agressive_expansion_monthly_change = 3.26
+}
+overextension_change3_27 = {
+	agressive_expansion_monthly_change = 3.27
+}
+overextension_change3_280 = {
+	agressive_expansion_monthly_change = 3.28
+}
+overextension_change3_29 = {
+	agressive_expansion_monthly_change = 3.29
+}
+overextension_change3_300 = {
+	agressive_expansion_monthly_change = 3.3
+}
+overextension_change3_31 = {
+	agressive_expansion_monthly_change = 3.31
+}
+overextension_change3_320 = {
+	agressive_expansion_monthly_change = 3.32
+}
+overextension_change3_33 = {
+	agressive_expansion_monthly_change = 3.33
+}
+overextension_change3_34 = {
+	agressive_expansion_monthly_change = 3.34
+}
+overextension_change3_35 = {
+	agressive_expansion_monthly_change = 3.35
+}
+overextension_change3_36 = {
+	agressive_expansion_monthly_change = 3.36
+}
+overextension_change3_37 = {
+	agressive_expansion_monthly_change = 3.37
+}
+overextension_change3_38 = {
+	agressive_expansion_monthly_change = 3.38
+}
+overextension_change3_39 = {
+	agressive_expansion_monthly_change = 3.39
+}
+overextension_change3_4 = {
+	agressive_expansion_monthly_change = 3.4
+}
+overextension_change3_41 = {
+	agressive_expansion_monthly_change = 3.41
+}
+overextension_change3_42 = {
+	agressive_expansion_monthly_change = 3.42
+}
+overextension_change3_43 = {
+	agressive_expansion_monthly_change = 3.43
+}
+overextension_change3_44 = {
+	agressive_expansion_monthly_change = 3.44
+}
+overextension_change3_45 = {
+	agressive_expansion_monthly_change = 3.45
+}
+overextension_change3_46 = {
+	agressive_expansion_monthly_change = 3.46
+}
+overextension_change3_47 = {
+	agressive_expansion_monthly_change = 3.47
+}
+overextension_change3_48 = {
+	agressive_expansion_monthly_change = 3.48
+}
+overextension_change3_49 = {
+	agressive_expansion_monthly_change = 3.49
+}
+overextension_change3_5 = {
+	agressive_expansion_monthly_change = 3.5
+}
+overextension_change3_510 = {
+	agressive_expansion_monthly_change = 3.51
+}
+overextension_change3_52 = {
+	agressive_expansion_monthly_change = 3.52
+}
+overextension_change3_530 = {
+	agressive_expansion_monthly_change = 3.53
+}
+overextension_change3_54 = {
+	agressive_expansion_monthly_change = 3.54
+}
+overextension_change3_550 = {
+	agressive_expansion_monthly_change = 3.55
+}
+overextension_change3_56 = {
+	agressive_expansion_monthly_change = 3.56
+}
+overextension_change3_570 = {
+	agressive_expansion_monthly_change = 3.57
+}
+overextension_change3_58 = {
+	agressive_expansion_monthly_change = 3.58
+}
+overextension_change3_59 = {
+	agressive_expansion_monthly_change = 3.59
+}
+overextension_change3_6 = {
+	agressive_expansion_monthly_change = 3.6
+}
+overextension_change3_61 = {
+	agressive_expansion_monthly_change = 3.61
+}
+overextension_change3_62 = {
+	agressive_expansion_monthly_change = 3.62
+}
+overextension_change3_63 = {
+	agressive_expansion_monthly_change = 3.63
+}
+overextension_change3_64 = {
+	agressive_expansion_monthly_change = 3.64
+}
+overextension_change3_65 = {
+	agressive_expansion_monthly_change = 3.65
+}
+overextension_change3_66 = {
+	agressive_expansion_monthly_change = 3.66
+}
+overextension_change3_67 = {
+	agressive_expansion_monthly_change = 3.67
+}
+overextension_change3_68 = {
+	agressive_expansion_monthly_change = 3.68
+}
+overextension_change3_69 = {
+	agressive_expansion_monthly_change = 3.69
+}
+overextension_change3_7 = {
+	agressive_expansion_monthly_change = 3.7
+}
+overextension_change3_71 = {
+	agressive_expansion_monthly_change = 3.71
+}
+overextension_change3_72 = {
+	agressive_expansion_monthly_change = 3.72
+}
+overextension_change3_73 = {
+	agressive_expansion_monthly_change = 3.73
+}
+overextension_change3_74 = {
+	agressive_expansion_monthly_change = 3.74
+}
+overextension_change3_75 = {
+	agressive_expansion_monthly_change = 3.75
+}
+overextension_change3_760 = {
+	agressive_expansion_monthly_change = 3.76
+}
+overextension_change3_77 = {
+	agressive_expansion_monthly_change = 3.77
+}
+overextension_change3_780 = {
+	agressive_expansion_monthly_change = 3.78
+}
+overextension_change3_79 = {
+	agressive_expansion_monthly_change = 3.79
+}
+overextension_change3_800 = {
+	agressive_expansion_monthly_change = 3.8
+}
+overextension_change3_81 = {
+	agressive_expansion_monthly_change = 3.81
+}
+overextension_change3_820 = {
+	agressive_expansion_monthly_change = 3.82
+}
+overextension_change3_83 = {
+	agressive_expansion_monthly_change = 3.83
+}
+overextension_change3_84 = {
+	agressive_expansion_monthly_change = 3.84
+}
+overextension_change3_85 = {
+	agressive_expansion_monthly_change = 3.85
+}
+overextension_change3_86 = {
+	agressive_expansion_monthly_change = 3.86
+}
+overextension_change3_87 = {
+	agressive_expansion_monthly_change = 3.87
+}
+overextension_change3_88 = {
+	agressive_expansion_monthly_change = 3.88
+}
+overextension_change3_89 = {
+	agressive_expansion_monthly_change = 3.89
+}
+overextension_change3_9 = {
+	agressive_expansion_monthly_change = 3.9
+}
+overextension_change3_91 = {
+	agressive_expansion_monthly_change = 3.91
+}
+overextension_change3_92 = {
+	agressive_expansion_monthly_change = 3.92
+}
+overextension_change3_93 = {
+	agressive_expansion_monthly_change = 3.93
+}
+overextension_change3_94 = {
+	agressive_expansion_monthly_change = 3.94
+}
+overextension_change3_95 = {
+	agressive_expansion_monthly_change = 3.95
+}
+overextension_change3_96 = {
+	agressive_expansion_monthly_change = 3.96
+}
+overextension_change3_97 = {
+	agressive_expansion_monthly_change = 3.97
+}
+overextension_change3_98 = {
+	agressive_expansion_monthly_change = 3.98
+}
+overextension_change3_99 = {
+	agressive_expansion_monthly_change = 3.99
+}
+overextension_change4_0 = {
+	agressive_expansion_monthly_change = 4.0
+}
+overextension_change4_01 = {
+	agressive_expansion_monthly_change = 4.01
+}
+overextension_change4_020 = {
+	agressive_expansion_monthly_change = 4.02
+}
+overextension_change4_03 = {
+	agressive_expansion_monthly_change = 4.03
+}
+overextension_change4_04 = {
+	agressive_expansion_monthly_change = 4.04
+}
+overextension_change4_05 = {
+	agressive_expansion_monthly_change = 4.05
+}
+overextension_change4_060 = {
+	agressive_expansion_monthly_change = 4.06
+}
+overextension_change4_07 = {
+	agressive_expansion_monthly_change = 4.07
+}
+overextension_change4_08 = {
+	agressive_expansion_monthly_change = 4.08
+}
+overextension_change4_09 = {
+	agressive_expansion_monthly_change = 4.09
+}
+overextension_change4_1 = {
+	agressive_expansion_monthly_change = 4.1
+}
+overextension_change4_11 = {
+	agressive_expansion_monthly_change = 4.11
+}
+overextension_change4_12 = {
+	agressive_expansion_monthly_change = 4.12
+}
+overextension_change4_13 = {
+	agressive_expansion_monthly_change = 4.13
+}
+overextension_change4_14 = {
+	agressive_expansion_monthly_change = 4.14
+}
+overextension_change4_15 = {
+	agressive_expansion_monthly_change = 4.15
+}
+overextension_change4_16 = {
+	agressive_expansion_monthly_change = 4.16
+}
+overextension_change4_17 = {
+	agressive_expansion_monthly_change = 4.17
+}
+overextension_change4_18 = {
+	agressive_expansion_monthly_change = 4.18
+}
+overextension_change4_19 = {
+	agressive_expansion_monthly_change = 4.19
+}
+overextension_change4_2 = {
+	agressive_expansion_monthly_change = 4.2
+}
+overextension_change4_21 = {
+	agressive_expansion_monthly_change = 4.21
+}
+overextension_change4_22 = {
+	agressive_expansion_monthly_change = 4.22
+}
+overextension_change4_23 = {
+	agressive_expansion_monthly_change = 4.23
+}
+overextension_change4_24 = {
+	agressive_expansion_monthly_change = 4.24
+}
+overextension_change4_25 = {
+	agressive_expansion_monthly_change = 4.25
+}
+overextension_change4_26 = {
+	agressive_expansion_monthly_change = 4.26
+}
+overextension_change4_270 = {
+	agressive_expansion_monthly_change = 4.27
+}
+overextension_change4_28 = {
+	agressive_expansion_monthly_change = 4.28
+}
+overextension_change4_29 = {
+	agressive_expansion_monthly_change = 4.29
+}
+overextension_change4_3 = {
+	agressive_expansion_monthly_change = 4.3
+}
+overextension_change4_310 = {
+	agressive_expansion_monthly_change = 4.31
+}
+overextension_change4_32 = {
+	agressive_expansion_monthly_change = 4.32
+}
+overextension_change4_33 = {
+	agressive_expansion_monthly_change = 4.33
+}
+overextension_change4_34 = {
+	agressive_expansion_monthly_change = 4.34
+}
+overextension_change4_350 = {
+	agressive_expansion_monthly_change = 4.35
+}
+overextension_change4_36 = {
+	agressive_expansion_monthly_change = 4.36
+}
+overextension_change4_37 = {
+	agressive_expansion_monthly_change = 4.37
+}
+overextension_change4_38 = {
+	agressive_expansion_monthly_change = 4.38
+}
+overextension_change4_39 = {
+	agressive_expansion_monthly_change = 4.39
+}
+overextension_change4_4 = {
+	agressive_expansion_monthly_change = 4.4
+}
+overextension_change4_41 = {
+	agressive_expansion_monthly_change = 4.41
+}
+overextension_change4_42 = {
+	agressive_expansion_monthly_change = 4.42
+}
+overextension_change4_43 = {
+	agressive_expansion_monthly_change = 4.43
+}
+overextension_change4_44 = {
+	agressive_expansion_monthly_change = 4.44
+}
+overextension_change4_45 = {
+	agressive_expansion_monthly_change = 4.45
+}
+overextension_change4_46 = {
+	agressive_expansion_monthly_change = 4.46
+}
+overextension_change4_47 = {
+	agressive_expansion_monthly_change = 4.47
+}
+overextension_change4_48 = {
+	agressive_expansion_monthly_change = 4.48
+}
+overextension_change4_49 = {
+	agressive_expansion_monthly_change = 4.49
+}
+overextension_change4_5 = {
+	agressive_expansion_monthly_change = 4.5
+}
+overextension_change4_51 = {
+	agressive_expansion_monthly_change = 4.51
+}
+overextension_change4_520 = {
+	agressive_expansion_monthly_change = 4.52
+}
+overextension_change4_53 = {
+	agressive_expansion_monthly_change = 4.53
+}
+overextension_change4_54 = {
+	agressive_expansion_monthly_change = 4.54
+}
+overextension_change4_55 = {
+	agressive_expansion_monthly_change = 4.55
+}
+overextension_change4_560 = {
+	agressive_expansion_monthly_change = 4.56
+}
+overextension_change4_57 = {
+	agressive_expansion_monthly_change = 4.57
+}
+overextension_change4_58 = {
+	agressive_expansion_monthly_change = 4.58
+}
+overextension_change4_59 = {
+	agressive_expansion_monthly_change = 4.59
+}
+overextension_change4_600 = {
+	agressive_expansion_monthly_change = 4.6
+}
+overextension_change4_61 = {
+	agressive_expansion_monthly_change = 4.61
+}
+overextension_change4_62 = {
+	agressive_expansion_monthly_change = 4.62
+}
+overextension_change4_63 = {
+	agressive_expansion_monthly_change = 4.63
+}
+overextension_change4_64 = {
+	agressive_expansion_monthly_change = 4.64
+}
+overextension_change4_65 = {
+	agressive_expansion_monthly_change = 4.65
+}
+overextension_change4_66 = {
+	agressive_expansion_monthly_change = 4.66
+}
+overextension_change4_67 = {
+	agressive_expansion_monthly_change = 4.67
+}
+overextension_change4_68 = {
+	agressive_expansion_monthly_change = 4.68
+}
+overextension_change4_69 = {
+	agressive_expansion_monthly_change = 4.69
+}
+overextension_change4_7 = {
+	agressive_expansion_monthly_change = 4.7
+}
+overextension_change4_71 = {
+	agressive_expansion_monthly_change = 4.71
+}
+overextension_change4_72 = {
+	agressive_expansion_monthly_change = 4.72
+}
+overextension_change4_73 = {
+	agressive_expansion_monthly_change = 4.73
+}
+overextension_change4_74 = {
+	agressive_expansion_monthly_change = 4.74
+}
+overextension_change4_75 = {
+	agressive_expansion_monthly_change = 4.75
+}
+overextension_change4_76 = {
+	agressive_expansion_monthly_change = 4.76
+}
+overextension_change4_770 = {
+	agressive_expansion_monthly_change = 4.77
+}
+overextension_change4_78 = {
+	agressive_expansion_monthly_change = 4.78
+}
+overextension_change4_79 = {
+	agressive_expansion_monthly_change = 4.79
+}
+overextension_change4_8 = {
+	agressive_expansion_monthly_change = 4.8
+}
+overextension_change4_810 = {
+	agressive_expansion_monthly_change = 4.81
+}
+overextension_change4_82 = {
+	agressive_expansion_monthly_change = 4.82
+}
+overextension_change4_83 = {
+	agressive_expansion_monthly_change = 4.83
+}
+overextension_change4_84 = {
+	agressive_expansion_monthly_change = 4.84
+}
+overextension_change4_850 = {
+	agressive_expansion_monthly_change = 4.85
+}
+overextension_change4_86 = {
+	agressive_expansion_monthly_change = 4.86
+}
+overextension_change4_87 = {
+	agressive_expansion_monthly_change = 4.87
+}
+overextension_change4_88 = {
+	agressive_expansion_monthly_change = 4.88
+}
+overextension_change4_89 = {
+	agressive_expansion_monthly_change = 4.89
+}
+overextension_change4_9 = {
+	agressive_expansion_monthly_change = 4.9
+}
+overextension_change4_91 = {
+	agressive_expansion_monthly_change = 4.91
+}
+overextension_change4_92 = {
+	agressive_expansion_monthly_change = 4.92
+}
+overextension_change4_93 = {
+	agressive_expansion_monthly_change = 4.93
+}
+overextension_change4_94 = {
+	agressive_expansion_monthly_change = 4.94
+}
+overextension_change4_95 = {
+	agressive_expansion_monthly_change = 4.95
+}
+overextension_change4_96 = {
+	agressive_expansion_monthly_change = 4.96
+}
+overextension_change4_97 = {
+	agressive_expansion_monthly_change = 4.97
+}
+overextension_change4_98 = {
+	agressive_expansion_monthly_change = 4.98
+}
+overextension_change4_99 = {
+	agressive_expansion_monthly_change = 4.99
+}
+overextension_change5_0 = {
+	agressive_expansion_monthly_change = 5.0
+}

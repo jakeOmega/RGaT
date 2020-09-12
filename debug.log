@@ -1,0 +1,868 @@
+[04:33:30][pdx_task.cpp:531]:  Creating 11 (11) task threads
+[04:33:30][pdx_paths.cpp:58]: Could not find "paths_checksummed.settings". No paths will be checksummed.
+[04:33:30][pdx_localize.cpp:831]: LocalizeInit
+[04:33:30][contextowner.cpp:563]: Universe: steam
+[04:33:30][gfx_dx11_master_context.cpp:117]: Adapter 0: NVIDIA GeForce RTX 2080 Ti (11048.00 MB)
+[04:33:30][gfx_dx11_master_context.cpp:117]: Adapter 1: Microsoft Basic Render Driver (0.00 MB)
+[04:33:30][gfx_dx11_master_context.cpp:117]: Adapter 2: Microsoft Basic Render Driver (0.00 MB)
+[04:33:31][gfx_dx11_master_context.cpp:117]: Selected adapter: NVIDIA GeForce RTX 2080 Ti (11048.00 MB)
+[04:33:31][gfx_dx11_master_context.cpp:237]: VendorId: 4318
+[04:33:31][gfx_dx11_master_context.cpp:238]: DeviceId: 7687
+[04:33:31][gfx_dx11_master_context.cpp:239]: SubSysId: 312742110
+[04:33:31][gfx_dx11_master_context.cpp:240]: Revision: 161
+[04:33:31][pdx_matchmaking.cpp:63]: Matchmaking Interface: Nakama
+[04:33:31][contextowner.cpp:642]: Initializing Gui Editor: 0.000667
+[04:33:31][pdx_pops_wrapper.cpp:548]: [POPS Wrapper] Attempting to login to POPS with auth token (state: Offline)
+[04:33:31][pdx_pops_login.cpp:659]: [POPS Login] Waiting for logging in
+[04:33:33][pdx_pops_wrapper.cpp:856]: [POPS Wrapper] Login result: LoggedIn (message: (null)). Running 3 callbacks
+[04:33:33][pdx_nakama_wrapper.cpp:214]: [PDX NAKAMA] Obtained the following user id: 8ead45aa-0d95-4292-85d9-974c021c7a47 and session token 7cb6cd39-56fa-4d15-9765-a66a8a1c7d43
+[04:33:33][pdx_pops_login.cpp:679]: [POPS Login] Login Succeeded
+[04:33:33][pdx_pops_login.cpp:672]: [POPS Login]: Waited for 1.985629 seconds, result: LoggedIn 
+[04:33:33][jomini_game_setup.cpp:126]: DLC:
+*
+Epirus Flavor Pack|dlc/dlc002_preorder/dlc002.dlc
+*
+Hellenistic World Flavor Pack|dlc/dlc001_dde/dlc001.dlc
+*
+Magna Graecia|dlc/dlc006_greek_pack/dlc006.dlc
+*
+The Punic Wars|dlc/dlc005_punic_pack/dlc005.dlc
+*
+Wallpapers + Artbook|dlc/dlc003_art/dlc003.dlc
+Mod:
+1.5 Better UI|mod/ugc_1845165876.mod
+Diadochen [Remake]|mod/ugc_2131854793.mod
+Gladio Et Sale|mod/ugc_1737185536.mod
+Greater Earth Map|mod/ugc_2136668247.mod
+More Marriages|mod/ugc_2081883526.mod
+Realistic Growth|mod/ugc_2200081489.mod
+Realistic growth and travel|mod/Realistic_Growth.mod
+Skill Traits|mod/ugc_2109996375.mod
+Super secret early access mod|mod/superSecret.mod
+The Bronze Age|mod/ugc_1797024425.mod
+The Five Schools|mod/ugc_2181950920.mod
+UI Crash fix on provincial modifiers|mod/ugc_2195369840.mod
+
+[04:33:33][virtualfilesystem_physfs.cpp:756]: Mounted Data: G:\SteamLibrary\steamapps\common\ImperatorRome\game\dlc\dlc003_art
+[04:33:33][virtualfilesystem_physfs.cpp:756]: Mounted Data: G:\SteamLibrary\steamapps\common\ImperatorRome\game\dlc\dlc005_punic_pack
+[04:33:33][virtualfilesystem_physfs.cpp:756]: Mounted Data: G:\SteamLibrary\steamapps\common\ImperatorRome\game\dlc\dlc006_greek_pack
+[04:33:33][virtualfilesystem_physfs.cpp:756]: Mounted Data: G:\SteamLibrary\steamapps\common\ImperatorRome\game\dlc\dlc001_dde
+[04:33:33][virtualfilesystem_physfs.cpp:756]: Mounted Data: G:\SteamLibrary\steamapps\common\ImperatorRome\game\dlc\dlc002_preorder
+[04:33:33][virtualfilesystem_physfs.cpp:756]: Mounted Data: F:\Libraries\Documents\Paradox Interactive\Imperator\mod\Realistic_Growth
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'gfx/models'(.asset, (null), -1)
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'sound'(.audio2, (null), -1)
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'fonts'(.font, (null), -1)
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'gui'(.gui, (null), -1)
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'fonts'(.font, (null), -1) in 0.001 seconds
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'sound'(.audio2, (null), -1) in 0.001 seconds
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'gui'(.gui, (null), -1) in 0.005 seconds
+[04:33:33][jomini_game_setup.cpp:149]: Starting checksum calculation
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'gfx/loadingscreens'(.dds, (null), 0)
+[04:33:33][jomini_game_setup.cpp:35]: Feeding into checksum: BLOCK_MP_AND_IRONMAN
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'gfx/interfac'(.dds, (null), 0)
+[04:33:33][jomini_game_setup.cpp:43]: Feeding game version into checksum: 1.5.2
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'common/script_values'(.txt, (null), 0)
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'common/scripted_effects'(.txt, (null), 0)
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'common/scripted_triggers'(.txt, (null), 0)
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'common/scripted_modifiers'(.txt, (null), 0)
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'common/scripted_lists'(.txt, (null), 0)
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'common/scripted_guis'(.txt, (null), 0)
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'common/scripted_rules'(.txt, (null), 0)
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'common/customizable_localization'(.txt, (null), 0)
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'common/modifier_icons'(.txt, (null), 0)
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'common/named_colors'(.txt, (null), 0)
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'common/coat_of_arms/coat_of_arms'(.txt, (null), 0)
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'common/coat_of_arms/template_lists'(.txt, (null), 0)
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'common/scriptvalues'(.txt, (null), 0)
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'common/scripted_effects'(.txt, (null), 0) in 0.000 seconds
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'common/scripted_lists'(.txt, (null), 0) in 0.000 seconds
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'common/script_values'(.txt, (null), 0) in 0.000 seconds
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'tests'(.txt, (null), -1)
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'common/scripted_modifiers'(.txt, (null), 0) in 0.000 seconds
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'common/scripted_rules'(.txt, (null), 0) in 0.000 seconds
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'gfx/loadingscreens'(.dds, (null), 0) in 0.000 seconds
+[04:33:33][modifier_icon_database.cpp:72]: CModifierIconDatabase::PreEnumerate() Start
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'gfx/interfac'(.dds, (null), 0) in 0.000 seconds
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'common/scripted_triggers'(.txt, (null), 0) in 0.000 seconds
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'events'(.txt, (null), -1)
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'common/scripted_guis'(.txt, (null), 0) in 0.000 seconds
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'common/modifier_icons'(.txt, (null), 0) in 0.000 seconds
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'common/customizable_localization'(.txt, (null), 0) in 0.000 seconds
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'common/coat_of_arms/coat_of_arms'(.txt, (null), 0) in 0.000 seconds
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'common/named_colors'(.txt, (null), 0) in 0.000 seconds
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'common/scriptvalues'(.txt, (null), 0) in 0.000 seconds
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'common/event_pictures'(.txt, (null), -1)
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'common/coat_of_arms/template_lists'(.txt, (null), 0) in 0.000 seconds
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'tests'(.txt, (null), -1) in 0.000 seconds
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'common/on_action'(.txt, (null), -1)
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'common/modifiers'(.txt, (null), 0)
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'common/effect_localization'(.txt, (null), 0)
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'common/terrain_types'(.txt, (null), 0)
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'common/genes'(.txt, (null), 0)
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'common/ethnicities'(.txt, (null), 0)
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'common/event_pictures'(.txt, (null), -1) in 0.000 seconds
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'common/inventions'(.txt, (null), 0)
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'common/traits'(.txt, (null), 0)
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'common/ideas'(.txt, (null), 0)
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'common/prices'(.txt, (null), 0)
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'common/deity_categories'(.txt, (null), -1)
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'missions'(.txt, (null), -1)
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'decisions'(.txt, (null), -1)
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'culture_decisions'(.txt, (null), -1)
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'tutorial'(.txt, (null), 0)
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'common/units'(.txt, (null), 0)
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'common/modifiers'(.txt, (null), 0) in 0.000 seconds
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'common/terrain_types'(.txt, (null), 0) in 0.000 seconds
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'common/effect_localization'(.txt, (null), 0) in 0.000 seconds
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'common/pop_types'(.txt, (null), 0)
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'common/on_action'(.txt, (null), -1) in 0.000 seconds
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'common/genes'(.txt, (null), 0) in 0.000 seconds
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'common/ethnicities'(.txt, (null), 0) in 0.000 seconds
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'common/inventions'(.txt, (null), 0) in 0.000 seconds
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'common/ideas'(.txt, (null), 0) in 0.000 seconds
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'common/traits'(.txt, (null), 0) in 0.000 seconds
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'common/deity_categories'(.txt, (null), -1) in 0.000 seconds
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'common/prices'(.txt, (null), 0) in 0.000 seconds
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'missions'(.txt, (null), -1) in 0.000 seconds
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'common/game_concepts'(.txt, (null), 0)
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'common/trade_goods'(.txt, (null), 0)
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'common/buildings'(.txt, (null), 0)
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'common/governments'(.txt, (null), 0)
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'common/cultures'(.txt, (null), 0)
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'culture_decisions'(.txt, (null), -1) in 0.000 seconds
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'tutorial'(.txt, (null), 0) in 0.000 seconds
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'common/game_concepts'(.txt, (null), 0) in 0.000 seconds
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'common/units'(.txt, (null), 0) in 0.000 seconds
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'common/pop_types'(.txt, (null), 0) in 0.000 seconds
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'common/religions'(.txt, (null), 0)
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'common/technology_tables'(.txt, (null), 0)
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'common/province_names'(.txt, (null), 0)
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'common/offices'(.txt, (null), 0)
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'common/titles'(.txt, (null), 0)
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'common/deathreasons'(.txt, (null), 0)
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'common/character_interactions'(.txt, (null), 0)
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'common/governments'(.txt, (null), 0) in 0.000 seconds
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'common/cultures'(.txt, (null), 0) in 0.000 seconds
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'common/military_traditions'(.txt, (null), 0)
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'common/unit_abilities'(.txt, (null), 0)
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'common/ai_diplochance'(.txt, (null), 0)
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'common/ai_objectives'(.txt, (null), 0)
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'common/ai_plan_goals'(.txt, (null), 0)
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'common/ai_budget_categories'(.txt, (null), 0)
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'common/buildings'(.txt, (null), 0) in 0.000 seconds
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'decisions'(.txt, (null), -1) in 0.001 seconds
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'common/ai_budget'(.txt, (null), 0)
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'common/combat_tactics'(.txt, (null), 0)
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'common/flag_colors'(.txt, (null), 0)
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'common/opinions'(.txt, (null), 0)
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'common/offices'(.txt, (null), 0) in 0.000 seconds
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'common/province_names'(.txt, (null), 0) in 0.000 seconds
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'common/technology_tables'(.txt, (null), 0) in 0.000 seconds
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'common/religions'(.txt, (null), 0) in 0.000 seconds
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'common/deathreasons'(.txt, (null), 0) in 0.000 seconds
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'common/wargoals'(.txt, (null), 0)
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'common/economic_policies'(.txt, (null), 0)
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'common/diplomatic_stances'(.txt, (null), 0)
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'common/party_impact'(.txt, (null), 0)
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'common/titles'(.txt, (null), 0) in 0.000 seconds
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'common/trade_goods'(.txt, (null), 0) in 0.000 seconds
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'common/party_types'(.txt, (null), 0)
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'common/ai_diplochance'(.txt, (null), 0) in 0.000 seconds
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'common/character_interactions'(.txt, (null), 0) in 0.000 seconds
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'common/military_traditions'(.txt, (null), 0) in 0.000 seconds
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'common/party_changes'(.txt, (null), -1)
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'common/unit_abilities'(.txt, (null), 0) in 0.000 seconds
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'common/ai_objectives'(.txt, (null), 0) in 0.000 seconds
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'common/ai_plan_goals'(.txt, (null), 0) in 0.000 seconds
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'common/coat_of_arms/options'(.txt, (null), -1)
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'common/ai_budget_categories'(.txt, (null), 0) in 0.000 seconds
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'common/ai_budget'(.txt, (null), 0) in 0.000 seconds
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'common/flag_colors'(.txt, (null), 0) in 0.000 seconds
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'common/combat_tactics'(.txt, (null), 0) in 0.000 seconds
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'events'(.txt, (null), -1) in 0.003 seconds
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'common/economic_policies'(.txt, (null), 0) in 0.000 seconds
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'common/laws'(.txt, (null), 0)
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'common/wargoals'(.txt, (null), 0) in 0.000 seconds
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'common/opinions'(.txt, (null), 0) in 0.000 seconds
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'common/party_types'(.txt, (null), 0) in 0.000 seconds
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'common/governor_policies'(.txt, (null), 0)
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'common/diplomatic_stances'(.txt, (null), 0) in 0.000 seconds
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'common/party_impact'(.txt, (null), 0) in 0.000 seconds
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'common/ambitions'(.txt, (null), 0)
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'common/party_changes'(.txt, (null), -1) in 0.000 seconds
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'common/coat_of_arms/options'(.txt, (null), -1) in 0.000 seconds
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'common/subject_types'(.txt, (null), 0)
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'common/laws'(.txt, (null), 0) in 0.000 seconds
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'common/scripted_tests'(.txt, (null), 0)
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'common/governor_policies'(.txt, (null), 0) in 0.000 seconds
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'setup/main'(.txt, (null), 0)
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'setup/post_character'(.txt, (null), 0)
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'common/ambitions'(.txt, (null), 0) in 0.000 seconds
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'setup/provinces'(.txt, (null), 0)
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'common/subject_types'(.txt, (null), 0) in 0.000 seconds
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'common/graphical_culture_types'(.txt, (null), 0)
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'common/console_groups'(.txt, (null), 0)
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'common/scripted_tests'(.txt, (null), 0) in 0.000 seconds
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'setup/main'(.txt, (null), 0) in 0.000 seconds
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'music'(.txt, (null), 0)
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'setup/post_character'(.txt, (null), 0) in 0.000 seconds
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'common/event_pictures'(.txt, (null), 0)
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'common/event_themes'(.txt, (null), 0)
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'common/graphical_culture_types'(.txt, (null), 0) in 0.000 seconds
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'setup/provinces'(.txt, (null), 0) in 0.000 seconds
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'common/console_groups'(.txt, (null), 0) in 0.000 seconds
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'gfx/flags'(.tga, (null), 0)
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'gfx/interface/macro_builder/config'(.txt, (null), 0)
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'gfx/portraits/accessories'(.txt, (null), 0)
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'gfx/portraits/environments'(.txt, (null), 0)
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'common/event_themes'(.txt, (null), 0) in 0.000 seconds
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'common/event_pictures'(.txt, (null), 0) in 0.000 seconds
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'gfx/portraits/portrait_modifiers'(.txt, (null), 0)
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'gfx/map/map_modes'(.txt, (null), 0)
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'gfx/map/city_data'(.txt, (null), 0)
+[04:33:33][virtualfilesystem.cpp:310]: Starting pre-enumerating 'common/achievements'(.txt, (null), 0)
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'gfx/flags'(.tga, (null), 0) in 0.000 seconds
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'gfx/portraits/accessories'(.txt, (null), 0) in 0.000 seconds
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'music'(.txt, (null), 0) in 0.000 seconds
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'gfx/interface/macro_builder/config'(.txt, (null), 0) in 0.000 seconds
+[04:33:33][pdx_localize.cpp:854]: LocalizeShutdown
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'gfx/portraits/environments'(.txt, (null), 0) in 0.000 seconds
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'gfx/portraits/portrait_modifiers'(.txt, (null), 0) in 0.000 seconds
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'common/achievements'(.txt, (null), 0) in 0.000 seconds
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'gfx/map/city_data'(.txt, (null), 0) in 0.000 seconds
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'gfx/map/map_modes'(.txt, (null), 0) in 0.000 seconds
+[04:33:33][pdx_localize.cpp:831]: LocalizeInit
+[04:33:33][modifier_icon_database.cpp:72]: CModifierIconDatabase::PreEnumerate() End
+[04:33:33][checksum.cpp:256]: Parsing from 0 to 1480
+[04:33:33][checksum.cpp:256]: Parsing from 1480 to 2961
+[04:33:33][virtualfilesystem.cpp:294]: Done enumerating 'gfx/models'(.asset, (null), -1) in 0.116 seconds
+[04:33:33][pdx_localize.cpp:351]: Key 'AGRESSIVE_EXPANSION_TT' defined in multiple files: 'localization/english/diplomacy_l_english.yml', 'localization/english/replace/overrides_l_english.yml'
+[04:33:33][pdx_localize.cpp:351]: Key 'MONTHLY_AE_CHANGE' defined in multiple files: 'localization/english/diplomacy_l_english.yml', 'localization/english/replace/overrides_l_english.yml'
+[04:33:33][pdx_localize.cpp:351]: Key 'NO_DECAY_IN_OFF_WAR' defined in multiple files: 'localization/english/diplomacy_l_english.yml', 'localization/english/replace/overrides_l_english.yml'
+[04:33:33][pdx_localize.cpp:351]: Key 'THREATEN_WAR_FLAVOR' defined in multiple files: 'localization/english/diplomacy_l_english.yml', 'localization/english/replace/overrides_l_english.yml'
+[04:33:33][pdx_localize.cpp:351]: Key 'ADD_AGGRESSIVE_EXPANSION_EFFECT_POSITIVE' defined in multiple files: 'localization/english/effects_l_english.yml', 'localization/english/replace/overrides_l_english.yml'
+[04:33:33][pdx_localize.cpp:351]: Key 'NO_AE_IN_REVOLT_WAR' defined in multiple files: 'localization/english/interface_l_english.yml', 'localization/english/replace/overrides_l_english.yml'
+[04:33:33][pdx_localize.cpp:351]: Key 'SORT_AE_TT' defined in multiple files: 'localization/english/interface_l_english.yml', 'localization/english/replace/overrides_l_english.yml'
+[04:33:33][pdx_localize.cpp:351]: Key 'high_aggressive_expansion' defined in multiple files: 'localization/english/modifiers_l_english.yml', 'localization/english/replace/overrides_l_english.yml'
+[04:33:33][pdx_localize.cpp:351]: Key 'aggressive_expansion' defined in multiple files: 'localization/english/modifiers_l_english.yml', 'localization/english/replace/overrides_l_english.yml'
+[04:33:33][pdx_localize.cpp:351]: Key 'MODIFIER_AGRESSIVE_EXPANSION_IMPACT' defined in multiple files: 'localization/english/modifiers_l_english.yml', 'localization/english/replace/overrides_l_english.yml'
+[04:33:33][pdx_localize.cpp:351]: Key 'MODIFIER_AGRESSIVE_EXPANSION_MONTHLY_CHANGE' defined in multiple files: 'localization/english/modifiers_l_english.yml', 'localization/english/replace/overrides_l_english.yml'
+[04:33:33][pdx_localize.cpp:351]: Key 'MODIFIER_AGRESSIVE_EXPANSION_MONTHLY_CHANGE_desc' defined in multiple files: 'localization/english/modifiers_l_english.yml', 'localization/english/replace/overrides_l_english.yml'
+[04:33:33][pdx_localize.cpp:351]: Key 'MODIFIER_AGRESSIVE_EXPANSION_MONTHLY_DECAY' defined in multiple files: 'localization/english/modifiers_l_english.yml', 'localization/english/replace/overrides_l_english.yml'
+[04:33:33][pdx_localize.cpp:351]: Key 'MODIFIER_AGRESSIVE_EXPANSION_MONTHLY_DECAY_desc' defined in multiple files: 'localization/english/modifiers_l_english.yml', 'localization/english/replace/overrides_l_english.yml'
+[04:33:33][pdx_localize.cpp:351]: Key 'OFFER_PEACE_SORT_BY_AE_TOOLTIP' defined in multiple files: 'localization/english/offer_peace_l_english.yml', 'localization/english/replace/overrides_l_english.yml'
+[04:33:33][pdx_localize.cpp:351]: Key 'OFFER_PEACE_TREATY_TOOLTIP' defined in multiple files: 'localization/english/offer_peace_l_english.yml', 'localization/english/replace/overrides_l_english.yml'
+[04:33:33][pdx_localize.cpp:351]: Key 'TOTAL_AE_TOOLTIP' defined in multiple files: 'localization/english/offer_peace_l_english.yml', 'localization/english/replace/overrides_l_english.yml'
+[04:33:33][pdx_localize.cpp:351]: Key 'AGRESSIVE_XPANSION' defined in multiple files: 'localization/english/opinions_l_english.yml', 'localization/english/replace/overrides_l_english.yml'
+[04:33:33][pdx_localize.cpp:351]: Key 'AGGRESSIVE_EXPANSION_NOT_TRIGGER' defined in multiple files: 'localization/english/triggers_l_english.yml', 'localization/english/replace/overrides_l_english.yml'
+[04:33:33][pdx_localize.cpp:351]: Key 'AGGRESSIVE_EXPANSION_TRIGGER' defined in multiple files: 'localization/english/triggers_l_english.yml', 'localization/english/replace/overrides_l_english.yml'
+[04:33:33][pdx_localize.cpp:351]: Key 'naval_raiding_ae_gain_tooltip' defined in multiple files: 'localization/english/unit_abilities_l_english.yml', 'localization/english/replace/overrides_l_english.yml'
+[04:33:33][pdx_localize.cpp:351]: Key 'naval_raiding_tooltip' defined in multiple files: 'localization/english/unit_abilities_l_english.yml', 'localization/english/replace/overrides_l_english.yml'
+[04:33:33][pdxassetutil.cpp:37]: ThreadedInitTextureLookup: gfx/models
+[04:33:33][pdx_nakama_wrapper.cpp:217]: [PDX NAKAMA] Authenticated successfully. Nakama User ID: ca42a276-bbea-4a9e-b614-4245dca7e8a4
+[04:33:33][pdxassetutil.cpp:45]: ThreadedInitTextureLookup found 3529 files
+[04:33:33][pdx_nakama_wrapper.cpp:595]: [PDX NAKAMA] Socket onStatusPresence.
+[04:33:33][pdx_nakama_wrapper.cpp:504]: [PDX NAKAMA] Socket onConnect.
+[04:33:34][gameapplication.cpp:179]: GameVersion:  (8bf5)
+[04:33:34][gameapplication.cpp:180]: exe :     d41d8cd98f00b204e9800998ecf8427e
+[04:33:34][gameapplication.cpp:181]: data:     e052061af6583d7af84248279c648bf5
+[04:33:34][gameapplication.cpp:182]: version:  0.0
+[04:33:34][gameapplication.cpp:183]: 
+[04:33:34][gameapplication.cpp:184]: VERSION:  1.5.2
+[04:33:34][gameapplication.cpp:185]: CHECKSUM: 29b07d9d9438c8e887094f01375bd14c
+[04:33:34][gameapplication.cpp:187]: verify:   0
+[04:33:34][pdx_font.cpp:86]: Loading fonts/Open_Sans/OpenSans-Regular.ttf
+[04:33:34][pdx_font.cpp:86]: Loading fonts/Open_Sans/OpenSans-Italic.ttf
+[04:33:34][pdx_font.cpp:86]: Loading fonts/Open_Sans/OpenSans-Bold.ttf
+[04:33:34][pdx_font.cpp:86]: Loading fonts/Open_Sans/OpenSans-BoldItalic.ttf
+[04:33:34][pdx_font.cpp:86]: Loading fonts/Open_Sans/OpenSans-ExtraBold.ttf
+[04:33:34][pdx_font.cpp:86]: Loading fonts/Open_Sans/OpenSans-ExtraBoldItalic.ttf
+[04:33:34][pdx_font.cpp:86]: Loading fonts/Roboto_Mono/RobotoMono-Regular.ttf
+[04:33:34][pdx_font.cpp:86]: Loading fonts/Roboto_Mono/RobotoMono-Bold.ttf
+[04:33:34][pdx_font.cpp:86]: Loading fonts/Roboto_Mono/RobotoMono-Italic.ttf
+[04:33:34][pdx_font.cpp:86]: Loading fonts/Roboto_Mono/RobotoMono-BoldItalic.ttf
+[04:33:34][pdx_font.cpp:86]: Loading fonts/OpenSans-Semibold.ttf
+[04:33:34][pdx_font.cpp:86]: Loading fonts/NotoSansCJKsc-Regular.otf
+[04:33:34][pdx_font.cpp:86]: Loading fonts/LusitanaCyr-Regular.ttf
+[04:33:34][pdx_font.cpp:86]: Loading fonts/OpenSans-Condensed-Bold.ttf
+[04:33:34][pdx_font.cpp:86]: Loading fonts/NotoSansCJKsc-Regular.otf
+[04:33:34][pdx_font.cpp:86]: Loading fonts/LusitanaCyr-Regular.ttf
+[04:33:34][pdx_font.cpp:86]: Loading fonts/lusitana_regular.ttf
+[04:33:34][pdx_font.cpp:86]: Loading fonts/NotoSansCJKsc-Regular.otf
+[04:33:34][pdx_font.cpp:86]: Loading fonts/LusitanaCyr-Regular.ttf
+[04:33:34][pdx_font.cpp:86]: Loading fonts/Lusitana-Bold.ttf
+[04:33:34][pdx_font.cpp:86]: Loading fonts/NotoSansCJKsc-Regular.otf
+[04:33:34][pdx_font.cpp:86]: Loading fonts/LusitanaCyr-Regular.ttf
+[04:33:34][jomini_social.cpp:18]: Created Jomini Social
+[04:33:38][pdx_font.cpp:86]: Loading fonts/Cinzel-Bold.ttf
+[04:33:38][pdx_font.cpp:86]: Loading fonts/NotoSansCJKsc-Regular.otf
+[04:33:38][pdx_font.cpp:86]: Loading fonts/LusitanaCyr-Regular.ttf
+[04:33:43][main.cpp:459]: Total startup duration: 12.834383 seconds
+[04:33:43][pdx_pops_wrapper.cpp:990]: [POPS Wrapper] OnAccountGetDetailsCallback: success 
+[04:33:43][pdx_pops_wrapper.cpp:962]: [POPS Wrapper] OnUpdateSocialProfileCallback: success 
+[04:33:43][pdx_pops_wrapper.cpp:973]: [POPS Wrapper] Retrieved profile for 8ead45aa-0d95-4292-85d9-974c021c7a47 (warlordJake)
+[04:33:43][player.cpp:143]: CJominiPlayers:::DeleteAllPlayers - #0 players
+[04:33:46][savegamehelper.cpp:175]: Warning: setup/main/00_default.txt is missing valid file magix, defaulting to TEXT.
+[04:33:46][savegamehelper.cpp:175]: Warning: setup/main/00_default.txt is missing valid file magix, defaulting to TEXT.
+[04:33:46][savegamehelper.cpp:175]: Warning: setup/main/deities/00_default.txt is missing valid file magix, defaulting to TEXT.
+[04:33:46][savegamehelper.cpp:175]: Warning: setup/main/deities/00_default.txt is missing valid file magix, defaulting to TEXT.
+[04:33:46][savegamehelper.cpp:175]: Warning: setup/main/deities/01_arabic.txt is missing valid file magix, defaulting to TEXT.
+[04:33:46][savegamehelper.cpp:175]: Warning: setup/main/deities/01_arabic.txt is missing valid file magix, defaulting to TEXT.
+[04:33:46][savegamehelper.cpp:175]: Warning: setup/main/deities/01_armazic.txt is missing valid file magix, defaulting to TEXT.
+[04:33:46][savegamehelper.cpp:175]: Warning: setup/main/deities/01_armazic.txt is missing valid file magix, defaulting to TEXT.
+[04:33:46][savegamehelper.cpp:175]: Warning: setup/main/deities/01_bon.txt is missing valid file magix, defaulting to TEXT.
+[04:33:46][savegamehelper.cpp:175]: Warning: setup/main/deities/01_bon.txt is missing valid file magix, defaulting to TEXT.
+[04:33:46][savegamehelper.cpp:175]: Warning: setup/main/deities/01_buddhism.txt is missing valid file magix, defaulting to TEXT.
+[04:33:46][savegamehelper.cpp:175]: Warning: setup/main/deities/01_buddhism.txt is missing valid file magix, defaulting to TEXT.
+[04:33:46][savegamehelper.cpp:175]: Warning: setup/main/deities/01_canaanite.txt is missing valid file magix, defaulting to TEXT.
+[04:33:46][savegamehelper.cpp:175]: Warning: setup/main/deities/01_canaanite.txt is missing valid file magix, defaulting to TEXT.
+[04:33:46][savegamehelper.cpp:175]: Warning: setup/main/deities/01_chaldean.txt is missing valid file magix, defaulting to TEXT.
+[04:33:46][savegamehelper.cpp:175]: Warning: setup/main/deities/01_chaldean.txt is missing valid file magix, defaulting to TEXT.
+[04:33:46][savegamehelper.cpp:175]: Warning: setup/main/deities/01_cybelene.txt is missing valid file magix, defaulting to TEXT.
+[04:33:46][savegamehelper.cpp:175]: Warning: setup/main/deities/01_cybelene.txt is missing valid file magix, defaulting to TEXT.
+[04:33:46][savegamehelper.cpp:175]: Warning: setup/main/deities/01_druidic.txt is missing valid file magix, defaulting to TEXT.
+[04:33:46][savegamehelper.cpp:175]: Warning: setup/main/deities/01_druidic.txt is missing valid file magix, defaulting to TEXT.
+[04:33:46][savegamehelper.cpp:175]: Warning: setup/main/deities/01_hellenic.txt is missing valid file magix, defaulting to TEXT.
+[04:33:46][savegamehelper.cpp:175]: Warning: setup/main/deities/01_hellenic.txt is missing valid file magix, defaulting to TEXT.
+[04:33:46][savegamehelper.cpp:175]: Warning: setup/main/deities/01_hellenic_cretan.txt is missing valid file magix, defaulting to TEXT.
+[04:33:46][savegamehelper.cpp:175]: Warning: setup/main/deities/01_hellenic_cretan.txt is missing valid file magix, defaulting to TEXT.
+[04:33:46][savegamehelper.cpp:175]: Warning: setup/main/deities/01_hellenic_etruscan.txt is missing valid file magix, defaulting to TEXT.
+[04:33:46][savegamehelper.cpp:175]: Warning: setup/main/deities/01_hellenic_etruscan.txt is missing valid file magix, defaulting to TEXT.
+[04:33:46][savegamehelper.cpp:175]: Warning: setup/main/deities/01_hellenic_roman.txt is missing valid file magix, defaulting to TEXT.
+[04:33:46][savegamehelper.cpp:175]: Warning: setup/main/deities/01_hellenic_roman.txt is missing valid file magix, defaulting to TEXT.
+[04:33:46][savegamehelper.cpp:175]: Warning: setup/main/deities/01_heptadic.txt is missing valid file magix, defaulting to TEXT.
+[04:33:46][savegamehelper.cpp:175]: Warning: setup/main/deities/01_heptadic.txt is missing valid file magix, defaulting to TEXT.
+[04:33:46][savegamehelper.cpp:175]: Warning: setup/main/deities/01_hinduism.txt is missing valid file magix, defaulting to TEXT.
+[04:33:46][savegamehelper.cpp:175]: Warning: setup/main/deities/01_hinduism.txt is missing valid file magix, defaulting to TEXT.
+[04:33:46][savegamehelper.cpp:175]: Warning: setup/main/deities/01_iberic.txt is missing valid file magix, defaulting to TEXT.
+[04:33:46][savegamehelper.cpp:175]: Warning: setup/main/deities/01_iberic.txt is missing valid file magix, defaulting to TEXT.
+[04:33:46][savegamehelper.cpp:175]: Warning: setup/main/deities/01_jain.txt is missing valid file magix, defaulting to TEXT.
+[04:33:46][savegamehelper.cpp:175]: Warning: setup/main/deities/01_jain.txt is missing valid file magix, defaulting to TEXT.
+[04:33:46][savegamehelper.cpp:175]: Warning: setup/main/deities/01_judaism.txt is missing valid file magix, defaulting to TEXT.
+[04:33:46][savegamehelper.cpp:175]: Warning: setup/main/deities/01_judaism.txt is missing valid file magix, defaulting to TEXT.
+[04:33:46][savegamehelper.cpp:175]: Warning: setup/main/deities/01_kemetic.txt is missing valid file magix, defaulting to TEXT.
+[04:33:46][savegamehelper.cpp:175]: Warning: setup/main/deities/01_kemetic.txt is missing valid file magix, defaulting to TEXT.
+[04:33:46][savegamehelper.cpp:175]: Warning: setup/main/deities/01_khaldic.txt is missing valid file magix, defaulting to TEXT.
+[04:33:46][savegamehelper.cpp:175]: Warning: setup/main/deities/01_khaldic.txt is missing valid file magix, defaulting to TEXT.
+[04:33:46][savegamehelper.cpp:175]: Warning: setup/main/deities/01_matrist.txt is missing valid file magix, defaulting to TEXT.
+[04:33:46][savegamehelper.cpp:175]: Warning: setup/main/deities/01_matrist.txt is missing valid file magix, defaulting to TEXT.
+[04:33:46][savegamehelper.cpp:175]: Warning: setup/main/deities/01_megalithic.txt is missing valid file magix, defaulting to TEXT.
+[04:33:46][savegamehelper.cpp:175]: Warning: setup/main/deities/01_megalithic.txt is missing valid file magix, defaulting to TEXT.
+[04:33:46][savegamehelper.cpp:175]: Warning: setup/main/deities/01_ritualist.txt is missing valid file magix, defaulting to TEXT.
+[04:33:46][savegamehelper.cpp:175]: Warning: setup/main/deities/01_ritualist.txt is missing valid file magix, defaulting to TEXT.
+[04:33:46][savegamehelper.cpp:175]: Warning: setup/main/deities/01_tuistic.txt is missing valid file magix, defaulting to TEXT.
+[04:33:46][savegamehelper.cpp:175]: Warning: setup/main/deities/01_tuistic.txt is missing valid file magix, defaulting to TEXT.
+[04:33:46][savegamehelper.cpp:175]: Warning: setup/main/deities/01_zalmoxian.txt is missing valid file magix, defaulting to TEXT.
+[04:33:46][savegamehelper.cpp:175]: Warning: setup/main/deities/01_zalmoxian.txt is missing valid file magix, defaulting to TEXT.
+[04:33:46][savegamehelper.cpp:175]: Warning: setup/main/deities/01_zoroastrianism.txt is missing valid file magix, defaulting to TEXT.
+[04:33:46][savegamehelper.cpp:175]: Warning: setup/main/deities/01_zoroastrianism.txt is missing valid file magix, defaulting to TEXT.
+[04:33:46][savegamehelper.cpp:175]: Warning: setup/main/deities/02_prescripted_deified_characters.txt is missing valid file magix, defaulting to TEXT.
+[04:33:46][savegamehelper.cpp:175]: Warning: setup/main/deities/02_prescripted_deified_characters.txt is missing valid file magix, defaulting to TEXT.
+[04:33:46][savegamehelper.cpp:175]: Warning: setup/post_character/00_default.txt is missing valid file magix, defaulting to TEXT.
+[04:33:46][savegamehelper.cpp:175]: Warning: setup/post_character/00_default.txt is missing valid file magix, defaulting to TEXT.
+[04:33:46][gamestate.cpp:1277]: Updating cached data...
+[04:33:47][gamestate.cpp:1308]: Updating cached data done
+[04:33:54][gamestate.cpp:1277]: Updating cached data...
+[04:33:55][gamestate.cpp:1308]: Updating cached data done
+[04:33:55][pdx_gui_animation.cpp:880]: Callbacks[0] barbarian_province_window
+[04:33:55][pdx_gui_animation.cpp:880]: Callbacks[1] province_window
+[04:33:55][pdx_gui_animation.cpp:886]: RunAndClearCallbacks finished
+[04:33:57][pdx_gui_animation.cpp:880]: Callbacks[0] ingame_pausemenu
+[04:33:57][pdx_gui_animation.cpp:880]: Callbacks[1] culture_view
+[04:33:57][pdx_gui_animation.cpp:880]: Callbacks[2] select_pop_type_right_window
+[04:33:57][pdx_gui_animation.cpp:880]: Callbacks[3] culture_decisions_window
+[04:33:57][pdx_gui_animation.cpp:886]: RunAndClearCallbacks finished
+[04:33:57][pdx_gui_animation.cpp:880]: Callbacks[0] outliner
+[04:33:57][pdx_gui_animation.cpp:880]: Callbacks[1] culture_view
+[04:33:57][pdx_gui_animation.cpp:880]: Callbacks[2] ingame_pausemenu
+[04:33:57][pdx_gui_animation.cpp:886]: RunAndClearCallbacks finished
+[04:34:23][pdx_gui_animation.cpp:880]: Callbacks[0] outliner
+[04:34:23][pdx_gui_animation.cpp:886]: RunAndClearCallbacks finished
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Alalia - Pagaesaeus Sinus
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Alalia - Qapara
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Alalia - Tridentium
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Garen - Pontus Euxinus
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Garen - Uryennik
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Garen - Torikos
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Garen - Irmana
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Garen - Dauaba
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Garen - Tyras
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Garen - Konae
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Uryennik - Konae
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Uryennik - Tyras
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Uryennik - Garen
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Uryennik - Dauaba
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Styra - Pagaesaeus Sinus
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Styra - Incero
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Styra - Bylazora
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Kaunos - Soatra
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Kaunos - Pagaesaeus Sinus
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Kaunos - Karissa
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Kaunos - Pontus Euxinus
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Kaunos - Halmyris
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Kaunos - Chythroi
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Chythroi - Soatra
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Chythroi - Zimara
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Chythroi - Pagaesaeus Sinus
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Chythroi - Pylai Amanikai
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Chythroi - Kaunos
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Soatra - Zimara
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Soatra - Chythroi
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Soatra - Kaunos
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Soatra - Karissa
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Karissa - Pontus Euxinus
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Karissa - Soatra
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Karissa - Kaunos
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Karissa - Zimara
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Karissa - Torikos
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Karissa - Halmyris
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Zimara - Chythroi
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Zimara - Soatra
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Zimara - Rhabaine
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Zimara - Karissa
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Zimara - Ioustiniane
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Rhabaine - Ioustiniane
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Rhabaine - Pylai Amanikai
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Rhabaine - Zimara
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Rhabaine - Sabatika
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Rhabaine - Sigria
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Sabatika - Euphrates
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Sabatika - Nemerah
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Sabatika - Pyktis
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Sabatika - Sinus Persicus
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Sabatika - Sarapis
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Sabatika - Rhabaine
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Sabatika - Sigria
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Sabatika - Pylai Amanikai
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Sarapis - Sinus Persicus
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Sarapis - Sinus Gangeticus
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Sarapis - Mhrta
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Sarapis - Sabatika
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Sarapis - Bitaxa
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Sarapis - Pyktis
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Sarapis - Mehsana
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Sarapis - Ganges
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Pyktis - Sabatika
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Pyktis - Sinus Persicus
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Pyktis - Sarapis
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Pyktis - Bitaxa
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Pyktis - Sigria
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Pyktis - Euphrates
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Sigria - Pyktis
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Sigria - Mura
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Sigria - Ioustiniane
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Sigria - Rhabaine
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Sigria - Sabatika
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Sigria - Irmana
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Bezda - Bitaxa
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Bezda - Aspakora
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Bezda - Rucya
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Bezda - Arcum
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Bezda - Mura
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Bitaxa - Mura
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Bitaxa - Bezda
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Bitaxa - Sarapis
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Bitaxa - Pyktis
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Mura - Sigria
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Mura - Bitaxa
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Mura - Bezda
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Mura - Dauaba
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Pylai Amanikai - Rhabaine
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Pylai Amanikai - Chythroi
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Pylai Amanikai - Pagaesaeus Sinus
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Pylai Amanikai - Raphon
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Pylai Amanikai - Sabatika
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Raphon - Tamiathis
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Raphon - Nemerah
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Raphon - Sinus Arabicus
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Raphon - Pagaesaeus Sinus
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Raphon - Pylai Amanikai
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Konae - Tyras
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Konae - Uryennik
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Konae - Manoia
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Konae - Garen
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Konae - Pontus Euxinus
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Konae - Halmyris
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Konae - Tiriscum
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Nemerah - Mhrta
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Nemerah - Raphon
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Nemerah - Sinus Arabicus
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Nemerah - Sabatika
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Mhrta - Nemerah
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Mhrta - Sinus Arabicus
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Mhrta - Sinus Gangeticus
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Mhrta - Sabaste
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Mhrta - Sarapis
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Aspakora - Bezda
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Aspakora - Rucya
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Aspakora - Mehsana
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Aspakora - Mehdawal
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Mehsana - Ganges
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Mehsana - Sarapis
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Mehsana - Aspakora
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Mehsana - Gujjar
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Mehsana - Sinus Gangeticus
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Mehsana - Melghat
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Gujjar - Melghat
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Gujjar - Mehsana
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Gujjar - Mehdawal
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Gujjar - Amrakuta
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Mehdawal - Aspakora
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Mehdawal - Rucya
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Mehdawal - Gujjar
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Mehdawal - Damak
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Mehdawal - Ganges
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Mehdawal - Naksho
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Damak - Mehdawal
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Damak - Ganges
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Damak - Naksho
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Damak - Amrakuta
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Damak - Sinus Gangeticus
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Amrakuta - Sinus Gangeticus
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Amrakuta - Damak
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Amrakuta - Pravarapura
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Amrakuta - Gujjar
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Amrakuta - Melghat
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Pravarapura - Sinus Gangeticus
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Pravarapura - Akkilur
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Pravarapura - Amrakuta
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Pravarapura - Melghat
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Melghat - Amrakuta
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Melghat - Sinus Gangeticus
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Melghat - Mehsana
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Melghat - Gujjar
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Melghat - Akkilur
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Melghat - Pravarapura
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Akkilur - Sinus Gangeticus
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Akkilur - Melghat
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Akkilur - Pravarapura
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Naksho - Damak
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Naksho - Rucya
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Naksho - Mehdawal
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Rucya - Arcum
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Rucya - Bezda
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Rucya - Aspakora
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Rucya - Mehdawal
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Rucya - Naksho
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Arcum - Bezda
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Arcum - Rucya
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Arcum - Dauaba
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Dauaba - Irmana
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Dauaba - Garen
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Dauaba - Uryennik
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Dauaba - Arcum
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Dauaba - Mura
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Karnasa - Pagaesaeus Sinus
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Karnasa - Pisida
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Karnasa - Tamiathis
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Sabaste - Sinus Gangeticus
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Sabaste - Sinus Arabicus
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Sabaste - Mhrta
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Sabaste - Mandish
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Sabaste - Anak
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Bocouriqua - Mare Septentrionalis
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Bocouriqua - Flumen Anas
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Bocouriqua - Sattalicia
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Bocouriqua - Pintia
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Bocouriqua - Tuci
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Susidata - Mare Septentrionalis
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Susidata - Albis
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Susidata - Eunixia
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Susidata - Oceanus Sarmaticus
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Susidata - Asciburgia
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Susidata - Turonia
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Susidata - Rhenus
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Susidata - Ausava
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Susidata - Chrononia
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Matavo - Pagaesaeus Sinus
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Matavo - Tridentium
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Matavo - Sermanicomago
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Matavo - Magetobria
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Matavo - Sequana
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Matavo - Innaba
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Matavo - Dentum
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Pintia - Dentum
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Pintia - Mare Septentrionalis
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Pintia - Bocouriqua
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Pintia - Tuci
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Lugii - Lutudarium
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Lugii - Mare Septentrionalis
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Simitthus - Pagaesaeus Sinus
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Simitthus - Pisida
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Simitthus - Zaakna
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Anak - Sabaste
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Anak - Mandish
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Mandish - Anak
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Mandish - Sinus Arabicus
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Mandish - Sabaste
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Mandish - Tamiathis
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Tamiathis - Canal of the Pharaohs
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Tamiathis - Pagaesaeus Sinus
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Tamiathis - Karnasa
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Tamiathis - Raphon
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Tamiathis - Mandish
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Tamiathis - Sinus Arabicus
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Collata - Incero
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Collata - Asciburgia
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Collata - Chrononia
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Collata - Manoia
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Collata - Dure
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Collata - Innaba
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Collata - Tiriscum
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Halmyris - Tiriscum
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Halmyris - Bylazora
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Halmyris - Pontus Euxinus
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Halmyris - Kaunos
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Halmyris - Pagaesaeus Sinus
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Halmyris - Karissa
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Halmyris - Tyras
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Halmyris - Konae
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Tiriscum - Tyras
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Tiriscum - Dure
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Tiriscum - Halmyris
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Tiriscum - Manoia
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Tiriscum - Konae
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Tiriscum - Bylazora
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Tiriscum - Collata
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Dure - Manoia
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Dure - Tiriscum
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Dure - Collata
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Torikos - Irmana
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Torikos - Pontus Euxinus
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Torikos - Ioustiniane
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Torikos - Karissa
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Torikos - Garen
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Irmana - Ioustiniane
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Irmana - Torikos
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Irmana - Sigria
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Irmana - Garen
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Irmana - Dauaba
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Ioustiniane - Torikos
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Ioustiniane - Zimara
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Ioustiniane - Rhabaine
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Ioustiniane - Sigria
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Ioustiniane - Irmana
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Asciburgia - Turonia
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Asciburgia - Innaba
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Asciburgia - Susidata
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Asciburgia - Chrononia
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Asciburgia - Collata
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Incero - Tridentium
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Incero - Collata
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Incero - Innaba
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Incero - Pagaesaeus Sinus
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Incero - Bylazora
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Incero - Styra
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Qapara - Alalia
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Qapara - Pagaesaeus Sinus
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Ausava - Mare Septentrionalis
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Ausava - Susidata
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Ausava - Rhenus
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Ausava - Magetobria
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Ausava - Turonia
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Ausava - Sequana
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Ausava - Conbaristum
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Manoia - Konae
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Manoia - Tiriscum
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Manoia - Dure
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Manoia - Chrononia
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Manoia - Collata
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Chrononia - Susidata
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Chrononia - Oceanus Sarmaticus
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Chrononia - Asciburgia
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Chrononia - Manoia
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Chrononia - Collata
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Bylazora - Pagaesaeus Sinus
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Bylazora - Echedoros
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Bylazora - Incero
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Bylazora - Halmyris
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Bylazora - Tiriscum
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Bylazora - Styra
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Magetobria - Sermanicomago
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Magetobria - Conbaristum
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Magetobria - Matavo
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Magetobria - Innaba
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Magetobria - Turonia
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Magetobria - Ausava
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Magetobria - Sequana
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Turonia - Magetobria
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Turonia - Ausava
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Turonia - Innaba
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Turonia - Asciburgia
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Turonia - Susidata
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Turonia - Rhenus
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Tuci - Pagaesaeus Sinus
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Tuci - Dentum
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Tuci - Sattalicia
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Tuci - Bocouriqua
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Tuci - Pintia
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Conbaristum - Mare Septentrionalis
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Conbaristum - Sequana
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Conbaristum - Sermanicomago
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Conbaristum - Ausava
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Conbaristum - Magetobria
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Zaakna - Mare Septentrionalis
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Zaakna - Pagaesaeus Sinus
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Zaakna - Sattalicia
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Zaakna - Simitthus
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Sermanicomago - Mare Septentrionalis
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Sermanicomago - Sequana
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Sermanicomago - Dentum
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Sermanicomago - Matavo
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Sermanicomago - Magetobria
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Sermanicomago - Conbaristum
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Dentum - Pagaesaeus Sinus
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Dentum - Matavo
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Dentum - Tuci
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Dentum - Sermanicomago
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Dentum - Mare Septentrionalis
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Dentum - Pintia
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Lutudarium - Mare Septentrionalis
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Lutudarium - Lugii
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Tridentium - Incero
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Tridentium - Innaba
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Tridentium - Alalia
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Tridentium - Pagaesaeus Sinus
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Tridentium - Matavo
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Pisida - Pagaesaeus Sinus
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Pisida - Simitthus
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Pisida - Karnasa
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Innaba - Matavo
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Innaba - Tridentium
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Innaba - Incero
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Innaba - Collata
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Innaba - Asciburgia
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Innaba - Magetobria
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Innaba - Turonia
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Sattalicia - Pagaesaeus Sinus
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Sattalicia - Mare Septentrionalis
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Sattalicia - Flumen Anas
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Sattalicia - Zaakna
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Sattalicia - Tuci
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Sattalicia - Bocouriqua
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Eunixia - Susidata
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Eunixia - Oceanus Sarmaticus
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Eunixia - Mare Septentrionalis
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Mare Septentrionalis - Lugii
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Mare Septentrionalis - Lutudarium
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Mare Septentrionalis - Eunixia
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Mare Septentrionalis - Oceanus Sarmaticus
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Mare Septentrionalis - Ausava
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Mare Septentrionalis - Susidata
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Mare Septentrionalis - Rhenus
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Mare Septentrionalis - Albis
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Mare Septentrionalis - Conbaristum
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Mare Septentrionalis - Sequana
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Mare Septentrionalis - Bocouriqua
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Mare Septentrionalis - Sattalicia
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Mare Septentrionalis - Flumen Anas
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Mare Septentrionalis - Pintia
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Mare Septentrionalis - Zaakna
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Mare Septentrionalis - Pagaesaeus Sinus
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Mare Septentrionalis - Dentum
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Mare Septentrionalis - Sermanicomago
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Oceanus Sarmaticus - Eunixia
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Oceanus Sarmaticus - Mare Septentrionalis
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Oceanus Sarmaticus - Susidata
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Oceanus Sarmaticus - Chrononia
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Pagaesaeus Sinus - Karnasa
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Pagaesaeus Sinus - Tamiathis
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Pagaesaeus Sinus - Styra
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Pagaesaeus Sinus - Canal of the Pharaohs
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Pagaesaeus Sinus - Kaunos
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Pagaesaeus Sinus - Halmyris
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Pagaesaeus Sinus - Pontus Euxinus
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Pagaesaeus Sinus - Bylazora
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Pagaesaeus Sinus - Echedoros
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Pagaesaeus Sinus - Chythroi
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Pagaesaeus Sinus - Raphon
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Pagaesaeus Sinus - Pylai Amanikai
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Pagaesaeus Sinus - Alalia
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Pagaesaeus Sinus - Tridentium
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Pagaesaeus Sinus - Qapara
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Pagaesaeus Sinus - Incero
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Pagaesaeus Sinus - Pisida
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Pagaesaeus Sinus - Matavo
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Pagaesaeus Sinus - Tuci
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Pagaesaeus Sinus - Simitthus
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Pagaesaeus Sinus - Sequana
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Pagaesaeus Sinus - Dentum
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Pagaesaeus Sinus - Sattalicia
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Pagaesaeus Sinus - Zaakna
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Pagaesaeus Sinus - Mare Septentrionalis
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Pontus Euxinus - Karissa
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Pontus Euxinus - Torikos
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Pontus Euxinus - Halmyris
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Pontus Euxinus - Konae
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Pontus Euxinus - Tyras
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Pontus Euxinus - Garen
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Pontus Euxinus - Kaunos
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Pontus Euxinus - Pagaesaeus Sinus
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Sinus Persicus - Pyktis
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Sinus Persicus - Sarapis
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Sinus Persicus - Sabatika
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Sinus Persicus - Euphrates
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Sinus Persicus - Sinus Gangeticus
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Sinus Arabicus - Nemerah
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Sinus Arabicus - Mandish
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Sinus Arabicus - Sabaste
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Sinus Arabicus - Mhrta
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Sinus Arabicus - Sinus Gangeticus
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Sinus Arabicus - Tamiathis
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Sinus Arabicus - Canal of the Pharaohs
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Sinus Arabicus - Raphon
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Sinus Gangeticus - Sabaste
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Sinus Gangeticus - Mhrta
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Sinus Gangeticus - Sinus Arabicus
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Sinus Gangeticus - Sarapis
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Sinus Gangeticus - Sinus Persicus
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Sinus Gangeticus - Mehsana
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Sinus Gangeticus - Melghat
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Sinus Gangeticus - Akkilur
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Sinus Gangeticus - Pravarapura
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Sinus Gangeticus - Amrakuta
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Sinus Gangeticus - Damak
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Sinus Gangeticus - Ganges
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Canal of the Pharaohs - Tamiathis
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Canal of the Pharaohs - Pagaesaeus Sinus
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Canal of the Pharaohs - Sinus Arabicus
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Euphrates - Sabatika
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Euphrates - Sinus Persicus
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Euphrates - Pyktis
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Ganges - Mehsana
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Ganges - Sarapis
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Ganges - Sinus Gangeticus
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Ganges - Damak
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Ganges - Mehdawal
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Rhenus - Susidata
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Rhenus - Mare Septentrionalis
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Rhenus - Ausava
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Rhenus - Turonia
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Echedoros - Bylazora
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Echedoros - Pagaesaeus Sinus
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Flumen Anas - Sattalicia
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Flumen Anas - Mare Septentrionalis
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Flumen Anas - Bocouriqua
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Sequana - Sermanicomago
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Sequana - Mare Septentrionalis
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Sequana - Conbaristum
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Sequana - Ausava
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Sequana - Magetobria
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Sequana - Matavo
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Sequana - Pagaesaeus Sinus
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Albis - Susidata
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Albis - Mare Septentrionalis
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Tyras - Pontus Euxinus
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Tyras - Konae
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Tyras - Garen
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Tyras - Uryennik
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Tyras - Halmyris
+[04:34:31][jomini_effect_impl.cpp:513]:  file: events/crop_yields.txt line: 300: Region neighbors - Tyras - Tiriscum
+[04:34:32][pdx_gui_animation.cpp:880]: Callbacks[0] 
+[04:34:32][pdx_gui_animation.cpp:886]: RunAndClearCallbacks finished
+[04:34:35][application.cpp:530]: Quit: Quit event from os
+[04:34:35][pdx_net_nakama.cpp:200]: Shutdown 
+[04:34:35][pdx_net_nakama.cpp:412]: Full Disconnect
+[04:34:35][pdx_net_nakama.cpp:623]: CNakamaNetContext::FinishDisconnect()
+[04:34:35][pdx_localize.cpp:854]: LocalizeShutdown
+[04:34:35][player.cpp:143]: CJominiPlayers:::DeleteAllPlayers - #1 players

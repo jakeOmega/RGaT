@@ -1,0 +1,604 @@
+﻿
+character_distance0_0 = {
+	monthly_corruption = 0.0
+}
+character_distance0_5 = {
+	monthly_corruption = 0.00125
+}
+character_distance1_0 = {
+	monthly_corruption = 0.0025
+}
+character_distance1_5 = {
+	monthly_corruption = 0.00375
+}
+character_distance2_0 = {
+	monthly_corruption = 0.005
+}
+character_distance2_5 = {
+	monthly_corruption = 0.00625
+}
+character_distance3_0 = {
+	monthly_corruption = 0.0075
+}
+character_distance3_5 = {
+	monthly_corruption = 0.00875
+}
+character_distance4_0 = {
+	monthly_corruption = 0.01
+}
+character_distance4_5 = {
+	monthly_corruption = 0.01125
+}
+character_distance5_0 = {
+	monthly_corruption = 0.0125
+}
+character_distance5_5 = {
+	monthly_corruption = 0.01375
+}
+character_distance6_0 = {
+	monthly_corruption = 0.015
+}
+character_distance6_5 = {
+	monthly_corruption = 0.01625
+}
+character_distance7_0 = {
+	monthly_corruption = 0.0175
+}
+character_distance7_5 = {
+	monthly_corruption = 0.01875
+}
+character_distance8_0 = {
+	monthly_corruption = 0.02
+}
+character_distance8_5 = {
+	monthly_corruption = 0.02125
+}
+character_distance9_0 = {
+	monthly_corruption = 0.0225
+}
+character_distance9_5 = {
+	monthly_corruption = 0.02375
+}
+character_distance10_0 = {
+	monthly_corruption = 0.025
+}
+character_distance10_5 = {
+	monthly_corruption = 0.02625
+}
+character_distance11_0 = {
+	monthly_corruption = 0.0275
+}
+character_distance11_5 = {
+	monthly_corruption = 0.02875
+}
+character_distance12_0 = {
+	monthly_corruption = 0.03
+}
+character_distance12_5 = {
+	monthly_corruption = 0.03125
+}
+character_distance13_0 = {
+	monthly_corruption = 0.0325
+}
+character_distance13_5 = {
+	monthly_corruption = 0.03375
+}
+character_distance14_0 = {
+	monthly_corruption = 0.035
+}
+character_distance14_5 = {
+	monthly_corruption = 0.03625
+}
+character_distance15_0 = {
+	monthly_corruption = 0.0375
+}
+character_distance15_5 = {
+	monthly_corruption = 0.03875
+}
+character_distance16_0 = {
+	monthly_corruption = 0.04
+}
+character_distance16_5 = {
+	monthly_corruption = 0.04125
+}
+character_distance17_0 = {
+	monthly_corruption = 0.0425
+}
+character_distance17_5 = {
+	monthly_corruption = 0.043750000000000004
+}
+character_distance18_0 = {
+	monthly_corruption = 0.045
+}
+character_distance18_5 = {
+	monthly_corruption = 0.04625
+}
+character_distance19_0 = {
+	monthly_corruption = 0.0475
+}
+character_distance19_5 = {
+	monthly_corruption = 0.04875
+}
+character_distance20_0 = {
+	monthly_corruption = 0.05
+}
+character_distance20_5 = {
+	monthly_corruption = 0.051250000000000004
+}
+character_distance21_0 = {
+	monthly_corruption = 0.0525
+}
+character_distance21_5 = {
+	monthly_corruption = 0.05375
+}
+character_distance22_0 = {
+	monthly_corruption = 0.055
+}
+character_distance22_5 = {
+	monthly_corruption = 0.05625
+}
+character_distance23_0 = {
+	monthly_corruption = 0.0575
+}
+character_distance23_5 = {
+	monthly_corruption = 0.058750000000000004
+}
+character_distance24_0 = {
+	monthly_corruption = 0.06
+}
+character_distance24_5 = {
+	monthly_corruption = 0.06125
+}
+character_distance25_0 = {
+	monthly_corruption = 0.0625
+}
+character_distance25_5 = {
+	monthly_corruption = 0.06375
+}
+character_distance26_0 = {
+	monthly_corruption = 0.065
+}
+character_distance26_5 = {
+	monthly_corruption = 0.06625
+}
+character_distance27_0 = {
+	monthly_corruption = 0.0675
+}
+character_distance27_5 = {
+	monthly_corruption = 0.06875
+}
+character_distance28_0 = {
+	monthly_corruption = 0.07
+}
+character_distance28_5 = {
+	monthly_corruption = 0.07125000000000001
+}
+character_distance29_0 = {
+	monthly_corruption = 0.0725
+}
+character_distance29_5 = {
+	monthly_corruption = 0.07375
+}
+character_distance30_0 = {
+	monthly_corruption = 0.075
+}
+character_distance30_5 = {
+	monthly_corruption = 0.07625
+}
+character_distance31_0 = {
+	monthly_corruption = 0.0775
+}
+character_distance31_5 = {
+	monthly_corruption = 0.07875
+}
+character_distance32_0 = {
+	monthly_corruption = 0.08
+}
+character_distance32_5 = {
+	monthly_corruption = 0.08125
+}
+character_distance33_0 = {
+	monthly_corruption = 0.0825
+}
+character_distance33_5 = {
+	monthly_corruption = 0.08375
+}
+character_distance34_0 = {
+	monthly_corruption = 0.085
+}
+character_distance34_5 = {
+	monthly_corruption = 0.08625000000000001
+}
+character_distance35_0 = {
+	monthly_corruption = 0.08750000000000001
+}
+character_distance35_5 = {
+	monthly_corruption = 0.08875
+}
+character_distance36_0 = {
+	monthly_corruption = 0.09
+}
+character_distance36_5 = {
+	monthly_corruption = 0.09125
+}
+character_distance37_0 = {
+	monthly_corruption = 0.0925
+}
+character_distance37_5 = {
+	monthly_corruption = 0.09375
+}
+character_distance38_0 = {
+	monthly_corruption = 0.095
+}
+character_distance38_5 = {
+	monthly_corruption = 0.09625
+}
+character_distance39_0 = {
+	monthly_corruption = 0.0975
+}
+character_distance39_5 = {
+	monthly_corruption = 0.09875
+}
+character_distance40_0 = {
+	monthly_corruption = 0.1
+}
+character_distance40_5 = {
+	monthly_corruption = 0.10125
+}
+character_distance41_0 = {
+	monthly_corruption = 0.10250000000000001
+}
+character_distance41_5 = {
+	monthly_corruption = 0.10375000000000001
+}
+character_distance42_0 = {
+	monthly_corruption = 0.105
+}
+character_distance42_5 = {
+	monthly_corruption = 0.10625
+}
+character_distance43_0 = {
+	monthly_corruption = 0.1075
+}
+character_distance43_5 = {
+	monthly_corruption = 0.10875
+}
+character_distance44_0 = {
+	monthly_corruption = 0.11
+}
+character_distance44_5 = {
+	monthly_corruption = 0.11125
+}
+character_distance45_0 = {
+	monthly_corruption = 0.1125
+}
+character_distance45_5 = {
+	monthly_corruption = 0.11375
+}
+character_distance46_0 = {
+	monthly_corruption = 0.115
+}
+character_distance46_5 = {
+	monthly_corruption = 0.11625
+}
+character_distance47_0 = {
+	monthly_corruption = 0.11750000000000001
+}
+character_distance47_5 = {
+	monthly_corruption = 0.11875000000000001
+}
+character_distance48_0 = {
+	monthly_corruption = 0.12
+}
+character_distance48_5 = {
+	monthly_corruption = 0.12125
+}
+character_distance49_0 = {
+	monthly_corruption = 0.1225
+}
+character_distance49_5 = {
+	monthly_corruption = 0.12375
+}
+character_distance50_0 = {
+	monthly_corruption = 0.125
+}
+character_distance50_5 = {
+	monthly_corruption = 0.12625
+}
+character_distance51_0 = {
+	monthly_corruption = 0.1275
+}
+character_distance51_5 = {
+	monthly_corruption = 0.12875
+}
+character_distance52_0 = {
+	monthly_corruption = 0.13
+}
+character_distance52_5 = {
+	monthly_corruption = 0.13125
+}
+character_distance53_0 = {
+	monthly_corruption = 0.1325
+}
+character_distance53_5 = {
+	monthly_corruption = 0.13375
+}
+character_distance54_0 = {
+	monthly_corruption = 0.135
+}
+character_distance54_5 = {
+	monthly_corruption = 0.13625
+}
+character_distance55_0 = {
+	monthly_corruption = 0.1375
+}
+character_distance55_5 = {
+	monthly_corruption = 0.13875
+}
+character_distance56_0 = {
+	monthly_corruption = 0.14
+}
+character_distance56_5 = {
+	monthly_corruption = 0.14125000000000001
+}
+character_distance57_0 = {
+	monthly_corruption = 0.14250000000000002
+}
+character_distance57_5 = {
+	monthly_corruption = 0.14375000000000002
+}
+character_distance58_0 = {
+	monthly_corruption = 0.145
+}
+character_distance58_5 = {
+	monthly_corruption = 0.14625
+}
+character_distance59_0 = {
+	monthly_corruption = 0.1475
+}
+character_distance59_5 = {
+	monthly_corruption = 0.14875
+}
+character_distance60_0 = {
+	monthly_corruption = 0.15
+}
+character_distance60_5 = {
+	monthly_corruption = 0.15125
+}
+character_distance61_0 = {
+	monthly_corruption = 0.1525
+}
+character_distance61_5 = {
+	monthly_corruption = 0.15375
+}
+character_distance62_0 = {
+	monthly_corruption = 0.155
+}
+character_distance62_5 = {
+	monthly_corruption = 0.15625
+}
+character_distance63_0 = {
+	monthly_corruption = 0.1575
+}
+character_distance63_5 = {
+	monthly_corruption = 0.15875
+}
+character_distance64_0 = {
+	monthly_corruption = 0.16
+}
+character_distance64_5 = {
+	monthly_corruption = 0.16125
+}
+character_distance65_0 = {
+	monthly_corruption = 0.1625
+}
+character_distance65_5 = {
+	monthly_corruption = 0.16375
+}
+character_distance66_0 = {
+	monthly_corruption = 0.165
+}
+character_distance66_5 = {
+	monthly_corruption = 0.16625
+}
+character_distance67_0 = {
+	monthly_corruption = 0.1675
+}
+character_distance67_5 = {
+	monthly_corruption = 0.16875
+}
+character_distance68_0 = {
+	monthly_corruption = 0.17
+}
+character_distance68_5 = {
+	monthly_corruption = 0.17125
+}
+character_distance69_0 = {
+	monthly_corruption = 0.17250000000000001
+}
+character_distance69_5 = {
+	monthly_corruption = 0.17375000000000002
+}
+character_distance70_0 = {
+	monthly_corruption = 0.17500000000000002
+}
+character_distance70_5 = {
+	monthly_corruption = 0.17625
+}
+character_distance71_0 = {
+	monthly_corruption = 0.1775
+}
+character_distance71_5 = {
+	monthly_corruption = 0.17875
+}
+character_distance72_0 = {
+	monthly_corruption = 0.18
+}
+character_distance72_5 = {
+	monthly_corruption = 0.18125
+}
+character_distance73_0 = {
+	monthly_corruption = 0.1825
+}
+character_distance73_5 = {
+	monthly_corruption = 0.18375
+}
+character_distance74_0 = {
+	monthly_corruption = 0.185
+}
+character_distance74_5 = {
+	monthly_corruption = 0.18625
+}
+character_distance75_0 = {
+	monthly_corruption = 0.1875
+}
+character_distance75_5 = {
+	monthly_corruption = 0.18875
+}
+character_distance76_0 = {
+	monthly_corruption = 0.19
+}
+character_distance76_5 = {
+	monthly_corruption = 0.19125
+}
+character_distance77_0 = {
+	monthly_corruption = 0.1925
+}
+character_distance77_5 = {
+	monthly_corruption = 0.19375
+}
+character_distance78_0 = {
+	monthly_corruption = 0.195
+}
+character_distance78_5 = {
+	monthly_corruption = 0.19625
+}
+character_distance79_0 = {
+	monthly_corruption = 0.1975
+}
+character_distance79_5 = {
+	monthly_corruption = 0.19875
+}
+character_distance80_0 = {
+	monthly_corruption = 0.2
+}
+character_distance80_5 = {
+	monthly_corruption = 0.20125
+}
+character_distance81_0 = {
+	monthly_corruption = 0.2025
+}
+character_distance81_5 = {
+	monthly_corruption = 0.20375000000000001
+}
+character_distance82_0 = {
+	monthly_corruption = 0.20500000000000002
+}
+character_distance82_5 = {
+	monthly_corruption = 0.20625000000000002
+}
+character_distance83_0 = {
+	monthly_corruption = 0.20750000000000002
+}
+character_distance83_5 = {
+	monthly_corruption = 0.20875
+}
+character_distance84_0 = {
+	monthly_corruption = 0.21
+}
+character_distance84_5 = {
+	monthly_corruption = 0.21125
+}
+character_distance85_0 = {
+	monthly_corruption = 0.2125
+}
+character_distance85_5 = {
+	monthly_corruption = 0.21375
+}
+character_distance86_0 = {
+	monthly_corruption = 0.215
+}
+character_distance86_5 = {
+	monthly_corruption = 0.21625
+}
+character_distance87_0 = {
+	monthly_corruption = 0.2175
+}
+character_distance87_5 = {
+	monthly_corruption = 0.21875
+}
+character_distance88_0 = {
+	monthly_corruption = 0.22
+}
+character_distance88_5 = {
+	monthly_corruption = 0.22125
+}
+character_distance89_0 = {
+	monthly_corruption = 0.2225
+}
+character_distance89_5 = {
+	monthly_corruption = 0.22375
+}
+character_distance90_0 = {
+	monthly_corruption = 0.225
+}
+character_distance90_5 = {
+	monthly_corruption = 0.22625
+}
+character_distance91_0 = {
+	monthly_corruption = 0.2275
+}
+character_distance91_5 = {
+	monthly_corruption = 0.22875
+}
+character_distance92_0 = {
+	monthly_corruption = 0.23
+}
+character_distance92_5 = {
+	monthly_corruption = 0.23125
+}
+character_distance93_0 = {
+	monthly_corruption = 0.2325
+}
+character_distance93_5 = {
+	monthly_corruption = 0.23375
+}
+character_distance94_0 = {
+	monthly_corruption = 0.23500000000000001
+}
+character_distance94_5 = {
+	monthly_corruption = 0.23625000000000002
+}
+character_distance95_0 = {
+	monthly_corruption = 0.23750000000000002
+}
+character_distance95_5 = {
+	monthly_corruption = 0.23875000000000002
+}
+character_distance96_0 = {
+	monthly_corruption = 0.24
+}
+character_distance96_5 = {
+	monthly_corruption = 0.24125
+}
+character_distance97_0 = {
+	monthly_corruption = 0.2425
+}
+character_distance97_5 = {
+	monthly_corruption = 0.24375
+}
+character_distance98_0 = {
+	monthly_corruption = 0.245
+}
+character_distance98_5 = {
+	monthly_corruption = 0.24625
+}
+character_distance99_0 = {
+	monthly_corruption = 0.2475
+}
+character_distance99_5 = {
+	monthly_corruption = 0.24875
+}
+character_distance100_0 = {
+	monthly_corruption = 0.25
+}

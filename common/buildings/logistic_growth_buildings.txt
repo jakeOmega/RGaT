@@ -1,7 +1,6 @@
 ﻿### Settlement Buildings
 
 latifundia_building = { #Slave Estate
-	local_slaves_output = 0.3
 	local_population_capacity_modifier = 0.2
 	
 	potential = {
@@ -18,31 +17,122 @@ latifundia_building = { #Slave Estate
 	
 	chance = {
 		modifier = {
-			add = 1
+			add = 10
 		}
 	}
 	
 }
 
-food_export_infrastructure = {
+barracks_building = {
+	local_freemen_desired_pop_ratio = 0.15
+	local_freemen_happyness = happiness_large_svalue
+	local_manpower_modifier = 0.2
+
+	cost = 120
+	time = 180
+	
+	potential = {
+		has_city_status = no
+	}
+	
+	modification_display = {
+		0 = value_manpower
+		1 = local_freemen_happyness
+	}
+
+	chance = {
+		modifier = {
+			add = 
+			{
+				value = fort_level
+				multiply = {
+					value = 10
+				}
+			}
+		}
+	}
+}
+
+slave_mine_building = { #Mine
+	base_resources = 2
+	local_slaves_desired_pop_ratio = 0.25
+
+	potential = {
+		has_city_status = no
+	}
+	
+	allow = {
+		has_minable_trade_good_trigger = yes 
+	}
+	
+	cost = 120
+	time = 730
+	
+	modification_display = {
+		0 = base_resources
+	}
+	
+	chance = {
+		modifier = {
+			add = 1
+		}
+		modifier = {
+			state = {state_monthly_food_income > 5}
+			add = 30
+		}
+	}
+}
+
+rural_industry = {
+	base_resources = 2
+	local_freemen_desired_pop_ratio = 0.25
+
+	potential = {
+		has_city_status = no
+	}
+	
+	allow = {
+		has_minable_trade_good_trigger = no 
+	}
+	
+	cost = 120
+	time = 730
+	
+	modification_display = {
+		0 = base_resources
+	}
+	
+	chance = {
+		modifier = {
+			add = 1
+		}
+		modifier = {
+			state = {state_monthly_food_income > 5}
+			add = 30
+		}
+	}
+}
+
+basic_settlement_infratructure_building = { #Food export
 	local_food_capacity = 25
 	local_monthly_food = -10
 	base_resources = 2
+	local_base_trade_routes = 0.2
 	
 	potential = {
-		always = yes
+		NOT = {has_building = town_hall_building}
 	}
 
 	cost = 120
 	time = 730
 	
 	modification_display = {
-		0 = local_population_capacity
+		0 = local_base_trade_routes
 	}
 	
 	chance = {
 		modifier = {
-			add = 5
+			add = 1
 		}
 		modifier = {
 			state = {state_monthly_food_income > 5}
@@ -63,63 +153,6 @@ food_export_infrastructure = {
 		modifier = {
 			state = {state_monthly_food_income > 25}
 			add = 10
-		}
-	}
-	
-}
-
-slave_mine_building = { #Mine
-	local_goods_from_slaves = -10
-	local_population_capacity_modifier = 0.2
-
-	potential = {
-		has_city_status = no
-	}
-	
-	allow = {
-		has_minable_trade_good_trigger = yes 
-	}
-	
-	cost = 120
-	time = 730
-	
-	modification_display = {
-		0 = local_goods_from_slaves
-		1 = local_population_capacity
-	}
-	
-	chance = {
-		modifier = {
-			has_minable_trade_good_trigger = yes
-			add = 15
-		}
-	}
-	
-}
-
-basic_settlement_infratructure_building = { #Farming Settlement
-	local_goods_from_slaves = -10
-	local_population_capacity_modifier = 0.2
-	potential = {
-		has_city_status = no
-	}
-	
-	allow = {
-		has_food_trade_good_trigger = yes
-	}
-	
-	cost = 120
-	time = 730
-	
-	modification_display = {
-		0 = local_goods_from_slaves
-		1 = local_population_capacity_modifier
-	}
-	
-	chance = {
-		modifier = {
-			has_food_trade_good_trigger = yes
-			add = 15
 		}
 	}
 	
@@ -168,7 +201,7 @@ hill_fort = { #Tribal Settlement
 
 local_forum_building = { #Provincial Legation
 	local_migration_speed_modifier = 3
-	local_citizen_desired_pop_ratio = 0.1
+	local_citizen_desired_pop_ratio = 0.25
 	
 	potential = {
 		has_city_status = no
@@ -183,7 +216,7 @@ local_forum_building = { #Provincial Legation
 	}
 }
 population_building = { #Granary
-	local_food_capacity = 50
+	local_food_capacity = 200
 
 	cost = 50
 	time = 180
@@ -195,5 +228,26 @@ population_building = { #Granary
 	modification_display = {
 		0 = local_food_capacity
 	}
+}
 
+town_hall_building = {
+	base_resources = 1
+
+	cost = 120
+	time = 730
+
+	potential = {
+		has_city_status = yes
+		NOT = {has_building = basic_settlement_infratructure_building}
+	}
+	
+	modification_display = {
+		0 = base_resources
+	}
+	
+	chance = {
+		modifier = {
+			add = 10
+		}
+	}
 }
