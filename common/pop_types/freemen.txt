@@ -1,6 +1,6 @@
 ﻿freemen = {
 	outout_modifier = {
-		local_manpower = 0.008
+		local_manpower = 0.002
 	}
 	
 	count_modifier = {

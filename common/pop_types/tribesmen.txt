@@ -1,6 +1,6 @@
 ﻿tribesmen = {
 	outout_modifier = {
-		local_manpower = 0.012
+		local_manpower = 0.004
 	}
 	count_modifier = {
 		pop_food_consumption = -0.2

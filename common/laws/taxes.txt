@@ -165,3 +165,21 @@ poll_taxes = {
 		global_unrest = 2.5
 	}
 }
+
+government_structure = {
+	potential = {
+		is_tribal = no
+	}
+	
+	city_state_law = {
+	}
+	
+	league_law = {
+	}
+	
+	nation_law = {
+	}
+	
+	empire_law = {
+	}
+}

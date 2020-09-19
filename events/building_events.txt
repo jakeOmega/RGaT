@@ -1,0 +1,332 @@
+﻿namespace=building_events
+
+building_events.1 = {
+	type = province_event
+	hidden = yes
+	
+	trigger = { 
+		OR = { 
+			AND = {
+				has_building = basic_settlement_infratructure_building 
+				NOT = {has_variable = food_export_flag}
+			}
+			AND = {
+				has_variable = food_export_flag
+				NOT = { has_building = basic_settlement_infratructure_building }
+			}
+		}
+	}
+		
+	
+	immediate = {
+		if = {
+			limit = {
+				AND = {
+					has_building = basic_settlement_infratructure_building 
+					NOT = {has_variable = food_export_flag}
+				}
+			}
+			switch = {
+				trigger = trade_goods
+				grain           = { set_variable = {name = old_trade_good value = 1 }}
+				salt            = { set_variable = {name = old_trade_good value = 2 }}
+				iron            = { set_variable = {name = old_trade_good value = 3 }}
+				horses          = { set_variable = {name = old_trade_good value = 4 }}
+				wine            = { set_variable = {name = old_trade_good value = 5 }}
+				wood            = { set_variable = {name = old_trade_good value = 6 }}
+				amber           = { set_variable = {name = old_trade_good value = 7 }}
+				stone           = { set_variable = {name = old_trade_good value = 8 }}
+				fish            = { set_variable = {name = old_trade_good value = 9 }}
+				spices          = { set_variable = {name = old_trade_good value = 10 }}
+				elephants       = { set_variable = {name = old_trade_good value = 11 }}
+				papyrus         = { set_variable = {name = old_trade_good value = 12 }}
+				cloth           = { set_variable = {name = old_trade_good value = 13 }}
+				wild_game       = { set_variable = {name = old_trade_good value = 14 }}
+				precious_metals = { set_variable = {name = old_trade_good value = 15 }}
+				steppe_horses   = { set_variable = {name = old_trade_good value = 16 }}
+				cattle          = { set_variable = {name = old_trade_good value = 17 }}
+				earthware       = { set_variable = {name = old_trade_good value = 18 }}
+				dye             = { set_variable = {name = old_trade_good value = 19 }}
+				fur             = { set_variable = {name = old_trade_good value = 20 }}
+				olive           = { set_variable = {name = old_trade_good value = 21 }}
+				leather         = { set_variable = {name = old_trade_good value = 22 }}
+				base_metals     = { set_variable = {name = old_trade_good value = 23 }}
+				woad            = { set_variable = {name = old_trade_good value = 24 }}
+				marble          = { set_variable = {name = old_trade_good value = 25 }}
+				honey           = { set_variable = {name = old_trade_good value = 26 }}
+				incense         = { set_variable = {name = old_trade_good value = 27 }}
+				hemp            = { set_variable = {name = old_trade_good value = 28 }}
+				vegetables      = { set_variable = {name = old_trade_good value = 29 }}
+				gems            = { set_variable = {name = old_trade_good value = 30 }}
+				camel           = { set_variable = {name = old_trade_good value = 31 }}
+				glass           = { set_variable = {name = old_trade_good value = 32 }}
+				silk            = { set_variable = {name = old_trade_good value = 33 }}
+				dates           = { set_variable = {name = old_trade_good value = 34 }}
+			}
+			set_trade_goods = grain
+			set_variable = {name = food_export_flag}
+		}
+		else = {
+			remove_variable = food_export_flag
+			switch = {
+				trigger = var:old_trade_good
+				1  = {set_trade_goods = grain}
+				2  = {set_trade_goods = salt}
+				3  = {set_trade_goods = iron}
+				4  = {set_trade_goods = horses}
+				5  = {set_trade_goods = wine}
+				6  = {set_trade_goods = wood}
+				7  = {set_trade_goods = amber}
+				8  = {set_trade_goods = stone}
+				9  = {set_trade_goods = fish}
+				10 = {set_trade_goods = spices}
+				11 = {set_trade_goods = elephants}
+				12 = {set_trade_goods = papyrus}
+				13 = {set_trade_goods = cloth}
+				14 = {set_trade_goods = wild_game}
+				15 = {set_trade_goods = precious_metals}
+				16 = {set_trade_goods = steppe_horses}
+				17 = {set_trade_goods = cattle}
+				18 = {set_trade_goods = earthware}
+				19 = {set_trade_goods = dye}
+				20 = {set_trade_goods = fur}
+				21 = {set_trade_goods = olive}
+				22 = {set_trade_goods = leather}
+				23 = {set_trade_goods = base_metals}
+				24 = {set_trade_goods = woad}
+				25 = {set_trade_goods = marble}
+				26 = {set_trade_goods = honey}
+				27 = {set_trade_goods = incense}
+				28 = {set_trade_goods = hemp}
+				29 = {set_trade_goods = vegetables}
+				30 = {set_trade_goods = gems}
+				31 = {set_trade_goods = camel}
+				32 = {set_trade_goods = glass}
+				33 = {set_trade_goods = silk}
+				34 = {set_trade_goods = dates}
+			}
+			remove_variable = old_trade_good
+		}
+	}
+}
+
+
+building_events.2 = {
+	type = country_event
+	hidden = yes
+	
+	trigger = { tag = ROM }
+	
+	immediate = {
+		every_province = {
+			trigger_event = {id = building_events.3}
+		}
+	}
+}
+
+building_events.3 = {
+	type = province_event
+	hidden = yes
+	
+	trigger = { 
+		has_owner = yes
+		OR = {
+			trade_goods = grain
+			trade_goods = fish
+			trade_goods = cattle
+			trade_goods = vegetables
+		}
+	}
+		
+	
+	immediate = {
+		random_list = {
+			1 = { set_trade_goods = earthware }
+			1 = { set_trade_goods = papyrus }
+			1 = { set_trade_goods = cloth }
+			1 = { set_trade_goods = glass }
+			1 = { set_trade_goods = leather }
+		}
+		set_variable = fertile_flag
+#		if = { 
+#			limit = {has_province_rank = settlement}
+#			remove_building_level = latifundia_building
+#			remove_building_level = slave_mine_building
+#			remove_building_level = hill_fort
+#			remove_building_level = local_forum_building
+#			remove_building_level = barracks_building
+#		}
+#		
+#		add_building_level = basic_settlement_infratructure_building
+#		trigger_event = {id = building_events.1 }
+	}
+}
+
+building_events.4 = {
+	type = province_event
+	hidden = yes
+	
+	trigger = {
+		has_owner = yes
+		state = {state_monthly_food_income > 5}
+		has_variable = province_wealth
+		var:province_wealth > 120
+		free_building_slots > 0
+	}
+	
+	immediate = {
+		if = {
+			limit = {has_province_rank = settlement}
+			random_list = {
+				16 = {
+					add_building_level = basic_settlement_infratructure_building
+					change_variable = {
+						name = province_wealth
+						subtract = 60
+					}
+				}
+				24 = {
+					if = {
+						limit = {has_minable_trade_good_trigger = yes}
+						add_building_level = slave_mine_building
+					}
+					else = {
+						add_building_level = rural_industry
+					}
+					change_variable = {
+						name = province_wealth
+						subtract = 60
+					}
+				}
+				60 = {}
+			}
+		}
+		else = {
+			if = {
+				limit = {has_building = town_hall_building}
+				random_list = {
+					5 = {
+						add_building_level = town_hall_building
+						change_variable = {
+							name = province_wealth
+							subtract = 60
+						}
+					}
+					95 = {}
+				}
+			}
+			else_if = {
+				limit = {has_building = basic_settlement_infratructure_building}
+				random_list = {
+					5 = {
+						add_building_level = basic_settlement_infratructure_building
+						change_variable = {
+							name = province_wealth
+							subtract = 60
+						}
+					}
+					95 = {}
+				}
+			}
+			else = {
+				random_list = {
+					2 = {
+						add_building_level = basic_settlement_infratructure_building
+						change_variable = {
+							name = province_wealth
+							subtract = 60
+						}
+					}
+					3 = {
+						add_building_level = town_hall_building
+						change_variable = {
+							name = province_wealth
+							subtract = 60
+						}
+					}
+					95 = {}
+				}
+			}
+		}
+	}
+}
+
+building_events.5 = {
+	type = province_event
+	hidden = yes
+	
+	trigger = { 
+		has_building = foundry_building
+		has_variable = province_infrastructure
+	}
+	
+	immediate = {
+		change_variable = {
+			name = province_infrastructure
+			add = investment_amount
+		}
+		
+		while = {
+			limit = {has_building = foundry_building}
+			remove_building_level = foundry_building
+		}
+	}
+}
+
+building_events.6 = {
+	type = province_event
+	hidden = yes
+	
+	trigger = {
+		has_building = basic_settlement_infratructure_building
+		state = {state_monthly_food_income < 0}
+		owner = {is_ai = yes}
+	}
+	
+	immediate = {
+		random_list = {
+			10 = {
+				if = {
+					limit = {has_variable = disabled_food_exports}
+					change_variable = {
+						name = disabled_food_exports
+						add = 1
+					}
+				}
+				else = {
+					set_variable = {
+						name = disabled_food_exports
+						value = 1
+					}
+				}
+				remove_building_level = basic_settlement_infratructure_building
+			}
+			90 = {}
+		}
+	}
+}
+
+building_events.7 = {
+	type = province_event
+	hidden = yes
+	
+	trigger = {
+		has_variable = disabled_food_exports
+		var:disabled_food_exports > 0
+		state = {state_monthly_food_income > 0}
+		owner = {is_ai = yes}
+	}
+	
+	immediate = {
+		random_list = {
+			10 = {
+				change_variable = {
+					name = disabled_food_exports
+					subtract = 1
+				}
+				add_building_level = basic_settlement_infratructure_building
+			}
+			90 = {}
+		}
+	}
+}

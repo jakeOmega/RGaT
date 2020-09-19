@@ -4,7 +4,11 @@ overextension.1 = {
 	type = country_event
 	hidden = yes
 	
-	immediate = {      
+	immediate = {     
+        set_variable = {
+            name = admin_demand
+            value = admin_demand
+        }
         set_variable = {
             name = admin_capacity
             value = 100
@@ -26,7 +30,7 @@ overextension.1 = {
                             ROOT = {
                                 change_variable = {
                                     name = admin_capacity
-                                    add = 5
+                                    add = 10
                                 }
                             }
                         }
@@ -35,7 +39,7 @@ overextension.1 = {
                             ROOT = {
                                 change_variable = {
                                     name = admin_capacity
-                                    add = 1
+                                    add = 2
                                 }
                             }
                         }

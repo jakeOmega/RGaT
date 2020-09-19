@@ -30,20 +30,20 @@ cultural_events.1 = {
 					NOT = {culture.culture_group = ROOT.culture_group}
 					is_integrated = no
 				}
-				add_country_culture_modifier = {
-					name = unintegrated_culture_modifier 
-					duration = -1
-				}
+				#add_country_culture_modifier = {
+				#	name = unintegrated_culture_modifier 
+				#	duration = -1
+				#}
 			}
 			else_if = {
 				limit = {
 					NOT = {culture.culture_group = ROOT.culture_group}
 					is_integrated = yes
 				}
-				add_country_culture_modifier = {
-					name = integrated_culture_modifier 
-					duration = -1
-				}
+				#add_country_culture_modifier = {
+				#	name = integrated_culture_modifier 
+				#	duration = -1
+				#}
 			}
 		}
 	}

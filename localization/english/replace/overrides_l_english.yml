@@ -24,3 +24,4 @@ naval_raiding_tooltip:2 "This navy can raid up to #Y [SCOPE.ScriptValue('naval_r
 town_hall_building:0 "Urban Industry"
 basic_settlement_infratructure_building:0 "Food Export Infrastructure"
 grain:0 "Food Exports"
+foundry_building:0 "Local Investment"

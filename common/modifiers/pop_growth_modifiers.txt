@@ -2129,6 +2129,234 @@ pop_growth24_8 = {
 pop_growth24_90 = {
 	local_population_growth = 24.90
 }
+pop_growth25_0 = {
+	local_population_growth = 25.0
+}
+pop_growth26 = {
+	local_population_growth = 26
+}
+pop_growth27 = {
+	local_population_growth = 27
+}
+pop_growth28 = {
+	local_population_growth = 28
+}
+pop_growth29 = {
+	local_population_growth = 29
+}
+pop_growth30 = {
+	local_population_growth = 30
+}
+pop_growth31 = {
+	local_population_growth = 31
+}
+pop_growth32 = {
+	local_population_growth = 32
+}
+pop_growth33 = {
+	local_population_growth = 33
+}
+pop_growth34 = {
+	local_population_growth = 34
+}
+pop_growth35 = {
+	local_population_growth = 35
+}
+pop_growth36 = {
+	local_population_growth = 36
+}
+pop_growth37 = {
+	local_population_growth = 37
+}
+pop_growth38 = {
+	local_population_growth = 38
+}
+pop_growth39 = {
+	local_population_growth = 39
+}
+pop_growth40 = {
+	local_population_growth = 40
+}
+pop_growth41 = {
+	local_population_growth = 41
+}
+pop_growth42 = {
+	local_population_growth = 42
+}
+pop_growth43 = {
+	local_population_growth = 43
+}
+pop_growth44 = {
+	local_population_growth = 44
+}
+pop_growth45 = {
+	local_population_growth = 45
+}
+pop_growth46 = {
+	local_population_growth = 46
+}
+pop_growth47 = {
+	local_population_growth = 47
+}
+pop_growth48 = {
+	local_population_growth = 48
+}
+pop_growth49 = {
+	local_population_growth = 49
+}
+pop_growth50 = {
+	local_population_growth = 50
+}
+pop_growth51 = {
+	local_population_growth = 51
+}
+pop_growth52 = {
+	local_population_growth = 52
+}
+pop_growth53 = {
+	local_population_growth = 53
+}
+pop_growth54 = {
+	local_population_growth = 54
+}
+pop_growth55 = {
+	local_population_growth = 55
+}
+pop_growth56 = {
+	local_population_growth = 56
+}
+pop_growth57 = {
+	local_population_growth = 57
+}
+pop_growth58 = {
+	local_population_growth = 58
+}
+pop_growth59 = {
+	local_population_growth = 59
+}
+pop_growth60 = {
+	local_population_growth = 60
+}
+pop_growth61 = {
+	local_population_growth = 61
+}
+pop_growth62 = {
+	local_population_growth = 62
+}
+pop_growth63 = {
+	local_population_growth = 63
+}
+pop_growth64 = {
+	local_population_growth = 64
+}
+pop_growth65 = {
+	local_population_growth = 65
+}
+pop_growth66 = {
+	local_population_growth = 66
+}
+pop_growth67 = {
+	local_population_growth = 67
+}
+pop_growth68 = {
+	local_population_growth = 68
+}
+pop_growth69 = {
+	local_population_growth = 69
+}
+pop_growth70 = {
+	local_population_growth = 70
+}
+pop_growth71 = {
+	local_population_growth = 71
+}
+pop_growth72 = {
+	local_population_growth = 72
+}
+pop_growth73 = {
+	local_population_growth = 73
+}
+pop_growth74 = {
+	local_population_growth = 74
+}
+pop_growth75 = {
+	local_population_growth = 75
+}
+pop_growth76 = {
+	local_population_growth = 76
+}
+pop_growth77 = {
+	local_population_growth = 77
+}
+pop_growth78 = {
+	local_population_growth = 78
+}
+pop_growth79 = {
+	local_population_growth = 79
+}
+pop_growth80 = {
+	local_population_growth = 80
+}
+pop_growth81 = {
+	local_population_growth = 81
+}
+pop_growth82 = {
+	local_population_growth = 82
+}
+pop_growth83 = {
+	local_population_growth = 83
+}
+pop_growth84 = {
+	local_population_growth = 84
+}
+pop_growth85 = {
+	local_population_growth = 85
+}
+pop_growth86 = {
+	local_population_growth = 86
+}
+pop_growth87 = {
+	local_population_growth = 87
+}
+pop_growth88 = {
+	local_population_growth = 88
+}
+pop_growth89 = {
+	local_population_growth = 89
+}
+pop_growth90 = {
+	local_population_growth = 90
+}
+pop_growth91 = {
+	local_population_growth = 91
+}
+pop_growth92 = {
+	local_population_growth = 92
+}
+pop_growth93 = {
+	local_population_growth = 93
+}
+pop_growth94 = {
+	local_population_growth = 94
+}
+pop_growth95 = {
+	local_population_growth = 95
+}
+pop_growth96 = {
+	local_population_growth = 96
+}
+pop_growth97 = {
+	local_population_growth = 97
+}
+pop_growth98 = {
+	local_population_growth = 98
+}
+pop_growth99 = {
+	local_population_growth = 99
+}
+pop_growth100 = {
+	local_population_growth = 100
+}
 surplus_produced0_0 = {
 	local_monthly_food = 0.0
 }
@@ -7832,6 +8060,606 @@ surplus_produced99_9 = {
 surplus_produced100_0 = {
 	local_monthly_food = 100.0
 }
+migration_attractionn100_ = {
+	local_migration_attraction = -100.
+}
+migration_attractionn99_7 = {
+	local_migration_attraction = -99.7
+}
+migration_attractionn99_5 = {
+	local_migration_attraction = -99.5
+}
+migration_attractionn99_2 = {
+	local_migration_attraction = -99.2
+}
+migration_attractionn99_0 = {
+	local_migration_attraction = -99.0
+}
+migration_attractionn98_7 = {
+	local_migration_attraction = -98.7
+}
+migration_attractionn98_5 = {
+	local_migration_attraction = -98.5
+}
+migration_attractionn98_2 = {
+	local_migration_attraction = -98.2
+}
+migration_attractionn98_0 = {
+	local_migration_attraction = -98.0
+}
+migration_attractionn97_7 = {
+	local_migration_attraction = -97.7
+}
+migration_attractionn97_5 = {
+	local_migration_attraction = -97.5
+}
+migration_attractionn97_2 = {
+	local_migration_attraction = -97.2
+}
+migration_attractionn97_0 = {
+	local_migration_attraction = -97.0
+}
+migration_attractionn96_7 = {
+	local_migration_attraction = -96.7
+}
+migration_attractionn96_5 = {
+	local_migration_attraction = -96.5
+}
+migration_attractionn96_2 = {
+	local_migration_attraction = -96.2
+}
+migration_attractionn96_0 = {
+	local_migration_attraction = -96.0
+}
+migration_attractionn95_7 = {
+	local_migration_attraction = -95.7
+}
+migration_attractionn95_5 = {
+	local_migration_attraction = -95.5
+}
+migration_attractionn95_2 = {
+	local_migration_attraction = -95.2
+}
+migration_attractionn95_0 = {
+	local_migration_attraction = -95.0
+}
+migration_attractionn94_7 = {
+	local_migration_attraction = -94.7
+}
+migration_attractionn94_5 = {
+	local_migration_attraction = -94.5
+}
+migration_attractionn94_2 = {
+	local_migration_attraction = -94.2
+}
+migration_attractionn94_0 = {
+	local_migration_attraction = -94.0
+}
+migration_attractionn93_7 = {
+	local_migration_attraction = -93.7
+}
+migration_attractionn93_5 = {
+	local_migration_attraction = -93.5
+}
+migration_attractionn93_2 = {
+	local_migration_attraction = -93.2
+}
+migration_attractionn93_0 = {
+	local_migration_attraction = -93.0
+}
+migration_attractionn92_7 = {
+	local_migration_attraction = -92.7
+}
+migration_attractionn92_5 = {
+	local_migration_attraction = -92.5
+}
+migration_attractionn92_2 = {
+	local_migration_attraction = -92.2
+}
+migration_attractionn92_0 = {
+	local_migration_attraction = -92.0
+}
+migration_attractionn91_7 = {
+	local_migration_attraction = -91.7
+}
+migration_attractionn91_5 = {
+	local_migration_attraction = -91.5
+}
+migration_attractionn91_2 = {
+	local_migration_attraction = -91.2
+}
+migration_attractionn91_0 = {
+	local_migration_attraction = -91.0
+}
+migration_attractionn90_7 = {
+	local_migration_attraction = -90.7
+}
+migration_attractionn90_5 = {
+	local_migration_attraction = -90.5
+}
+migration_attractionn90_2 = {
+	local_migration_attraction = -90.2
+}
+migration_attractionn90_0 = {
+	local_migration_attraction = -90.0
+}
+migration_attractionn89_7 = {
+	local_migration_attraction = -89.7
+}
+migration_attractionn89_5 = {
+	local_migration_attraction = -89.5
+}
+migration_attractionn89_2 = {
+	local_migration_attraction = -89.2
+}
+migration_attractionn89_0 = {
+	local_migration_attraction = -89.0
+}
+migration_attractionn88_7 = {
+	local_migration_attraction = -88.7
+}
+migration_attractionn88_5 = {
+	local_migration_attraction = -88.5
+}
+migration_attractionn88_2 = {
+	local_migration_attraction = -88.2
+}
+migration_attractionn88_0 = {
+	local_migration_attraction = -88.0
+}
+migration_attractionn87_7 = {
+	local_migration_attraction = -87.7
+}
+migration_attractionn87_5 = {
+	local_migration_attraction = -87.5
+}
+migration_attractionn87_2 = {
+	local_migration_attraction = -87.2
+}
+migration_attractionn87_0 = {
+	local_migration_attraction = -87.0
+}
+migration_attractionn86_7 = {
+	local_migration_attraction = -86.7
+}
+migration_attractionn86_5 = {
+	local_migration_attraction = -86.5
+}
+migration_attractionn86_2 = {
+	local_migration_attraction = -86.2
+}
+migration_attractionn86_0 = {
+	local_migration_attraction = -86.0
+}
+migration_attractionn85_7 = {
+	local_migration_attraction = -85.7
+}
+migration_attractionn85_5 = {
+	local_migration_attraction = -85.5
+}
+migration_attractionn85_2 = {
+	local_migration_attraction = -85.2
+}
+migration_attractionn85_0 = {
+	local_migration_attraction = -85.0
+}
+migration_attractionn84_7 = {
+	local_migration_attraction = -84.7
+}
+migration_attractionn84_5 = {
+	local_migration_attraction = -84.5
+}
+migration_attractionn84_2 = {
+	local_migration_attraction = -84.2
+}
+migration_attractionn84_0 = {
+	local_migration_attraction = -84.0
+}
+migration_attractionn83_7 = {
+	local_migration_attraction = -83.7
+}
+migration_attractionn83_5 = {
+	local_migration_attraction = -83.5
+}
+migration_attractionn83_2 = {
+	local_migration_attraction = -83.2
+}
+migration_attractionn83_0 = {
+	local_migration_attraction = -83.0
+}
+migration_attractionn82_7 = {
+	local_migration_attraction = -82.7
+}
+migration_attractionn82_5 = {
+	local_migration_attraction = -82.5
+}
+migration_attractionn82_2 = {
+	local_migration_attraction = -82.2
+}
+migration_attractionn82_0 = {
+	local_migration_attraction = -82.0
+}
+migration_attractionn81_7 = {
+	local_migration_attraction = -81.7
+}
+migration_attractionn81_5 = {
+	local_migration_attraction = -81.5
+}
+migration_attractionn81_2 = {
+	local_migration_attraction = -81.2
+}
+migration_attractionn81_0 = {
+	local_migration_attraction = -81.0
+}
+migration_attractionn80_7 = {
+	local_migration_attraction = -80.7
+}
+migration_attractionn80_5 = {
+	local_migration_attraction = -80.5
+}
+migration_attractionn80_2 = {
+	local_migration_attraction = -80.2
+}
+migration_attractionn80_0 = {
+	local_migration_attraction = -80.0
+}
+migration_attractionn79_7 = {
+	local_migration_attraction = -79.7
+}
+migration_attractionn79_5 = {
+	local_migration_attraction = -79.5
+}
+migration_attractionn79_2 = {
+	local_migration_attraction = -79.2
+}
+migration_attractionn79_0 = {
+	local_migration_attraction = -79.0
+}
+migration_attractionn78_7 = {
+	local_migration_attraction = -78.7
+}
+migration_attractionn78_5 = {
+	local_migration_attraction = -78.5
+}
+migration_attractionn78_2 = {
+	local_migration_attraction = -78.2
+}
+migration_attractionn78_0 = {
+	local_migration_attraction = -78.0
+}
+migration_attractionn77_7 = {
+	local_migration_attraction = -77.7
+}
+migration_attractionn77_5 = {
+	local_migration_attraction = -77.5
+}
+migration_attractionn77_2 = {
+	local_migration_attraction = -77.2
+}
+migration_attractionn77_0 = {
+	local_migration_attraction = -77.0
+}
+migration_attractionn76_7 = {
+	local_migration_attraction = -76.7
+}
+migration_attractionn76_5 = {
+	local_migration_attraction = -76.5
+}
+migration_attractionn76_2 = {
+	local_migration_attraction = -76.2
+}
+migration_attractionn76_0 = {
+	local_migration_attraction = -76.0
+}
+migration_attractionn75_7 = {
+	local_migration_attraction = -75.7
+}
+migration_attractionn75_5 = {
+	local_migration_attraction = -75.5
+}
+migration_attractionn75_2 = {
+	local_migration_attraction = -75.2
+}
+migration_attractionn75_0 = {
+	local_migration_attraction = -75.0
+}
+migration_attractionn74_7 = {
+	local_migration_attraction = -74.7
+}
+migration_attractionn74_5 = {
+	local_migration_attraction = -74.5
+}
+migration_attractionn74_2 = {
+	local_migration_attraction = -74.2
+}
+migration_attractionn74_0 = {
+	local_migration_attraction = -74.0
+}
+migration_attractionn73_7 = {
+	local_migration_attraction = -73.7
+}
+migration_attractionn73_5 = {
+	local_migration_attraction = -73.5
+}
+migration_attractionn73_2 = {
+	local_migration_attraction = -73.2
+}
+migration_attractionn73_0 = {
+	local_migration_attraction = -73.0
+}
+migration_attractionn72_7 = {
+	local_migration_attraction = -72.7
+}
+migration_attractionn72_5 = {
+	local_migration_attraction = -72.5
+}
+migration_attractionn72_2 = {
+	local_migration_attraction = -72.2
+}
+migration_attractionn72_0 = {
+	local_migration_attraction = -72.0
+}
+migration_attractionn71_7 = {
+	local_migration_attraction = -71.7
+}
+migration_attractionn71_5 = {
+	local_migration_attraction = -71.5
+}
+migration_attractionn71_2 = {
+	local_migration_attraction = -71.2
+}
+migration_attractionn71_0 = {
+	local_migration_attraction = -71.0
+}
+migration_attractionn70_7 = {
+	local_migration_attraction = -70.7
+}
+migration_attractionn70_5 = {
+	local_migration_attraction = -70.5
+}
+migration_attractionn70_2 = {
+	local_migration_attraction = -70.2
+}
+migration_attractionn70_0 = {
+	local_migration_attraction = -70.0
+}
+migration_attractionn69_7 = {
+	local_migration_attraction = -69.7
+}
+migration_attractionn69_5 = {
+	local_migration_attraction = -69.5
+}
+migration_attractionn69_2 = {
+	local_migration_attraction = -69.2
+}
+migration_attractionn69_0 = {
+	local_migration_attraction = -69.0
+}
+migration_attractionn68_7 = {
+	local_migration_attraction = -68.7
+}
+migration_attractionn68_5 = {
+	local_migration_attraction = -68.5
+}
+migration_attractionn68_2 = {
+	local_migration_attraction = -68.2
+}
+migration_attractionn68_0 = {
+	local_migration_attraction = -68.0
+}
+migration_attractionn67_7 = {
+	local_migration_attraction = -67.7
+}
+migration_attractionn67_5 = {
+	local_migration_attraction = -67.5
+}
+migration_attractionn67_2 = {
+	local_migration_attraction = -67.2
+}
+migration_attractionn67_0 = {
+	local_migration_attraction = -67.0
+}
+migration_attractionn66_7 = {
+	local_migration_attraction = -66.7
+}
+migration_attractionn66_5 = {
+	local_migration_attraction = -66.5
+}
+migration_attractionn66_2 = {
+	local_migration_attraction = -66.2
+}
+migration_attractionn66_0 = {
+	local_migration_attraction = -66.0
+}
+migration_attractionn65_7 = {
+	local_migration_attraction = -65.7
+}
+migration_attractionn65_5 = {
+	local_migration_attraction = -65.5
+}
+migration_attractionn65_2 = {
+	local_migration_attraction = -65.2
+}
+migration_attractionn65_0 = {
+	local_migration_attraction = -65.0
+}
+migration_attractionn64_7 = {
+	local_migration_attraction = -64.7
+}
+migration_attractionn64_5 = {
+	local_migration_attraction = -64.5
+}
+migration_attractionn64_2 = {
+	local_migration_attraction = -64.2
+}
+migration_attractionn64_0 = {
+	local_migration_attraction = -64.0
+}
+migration_attractionn63_7 = {
+	local_migration_attraction = -63.7
+}
+migration_attractionn63_5 = {
+	local_migration_attraction = -63.5
+}
+migration_attractionn63_2 = {
+	local_migration_attraction = -63.2
+}
+migration_attractionn63_0 = {
+	local_migration_attraction = -63.0
+}
+migration_attractionn62_7 = {
+	local_migration_attraction = -62.7
+}
+migration_attractionn62_5 = {
+	local_migration_attraction = -62.5
+}
+migration_attractionn62_2 = {
+	local_migration_attraction = -62.2
+}
+migration_attractionn62_0 = {
+	local_migration_attraction = -62.0
+}
+migration_attractionn61_7 = {
+	local_migration_attraction = -61.7
+}
+migration_attractionn61_5 = {
+	local_migration_attraction = -61.5
+}
+migration_attractionn61_2 = {
+	local_migration_attraction = -61.2
+}
+migration_attractionn61_0 = {
+	local_migration_attraction = -61.0
+}
+migration_attractionn60_7 = {
+	local_migration_attraction = -60.7
+}
+migration_attractionn60_5 = {
+	local_migration_attraction = -60.5
+}
+migration_attractionn60_2 = {
+	local_migration_attraction = -60.2
+}
+migration_attractionn60_0 = {
+	local_migration_attraction = -60.0
+}
+migration_attractionn59_7 = {
+	local_migration_attraction = -59.7
+}
+migration_attractionn59_5 = {
+	local_migration_attraction = -59.5
+}
+migration_attractionn59_2 = {
+	local_migration_attraction = -59.2
+}
+migration_attractionn59_0 = {
+	local_migration_attraction = -59.0
+}
+migration_attractionn58_7 = {
+	local_migration_attraction = -58.7
+}
+migration_attractionn58_5 = {
+	local_migration_attraction = -58.5
+}
+migration_attractionn58_2 = {
+	local_migration_attraction = -58.2
+}
+migration_attractionn58_0 = {
+	local_migration_attraction = -58.0
+}
+migration_attractionn57_7 = {
+	local_migration_attraction = -57.7
+}
+migration_attractionn57_5 = {
+	local_migration_attraction = -57.5
+}
+migration_attractionn57_2 = {
+	local_migration_attraction = -57.2
+}
+migration_attractionn57_0 = {
+	local_migration_attraction = -57.0
+}
+migration_attractionn56_7 = {
+	local_migration_attraction = -56.7
+}
+migration_attractionn56_5 = {
+	local_migration_attraction = -56.5
+}
+migration_attractionn56_2 = {
+	local_migration_attraction = -56.2
+}
+migration_attractionn56_0 = {
+	local_migration_attraction = -56.0
+}
+migration_attractionn55_7 = {
+	local_migration_attraction = -55.7
+}
+migration_attractionn55_5 = {
+	local_migration_attraction = -55.5
+}
+migration_attractionn55_2 = {
+	local_migration_attraction = -55.2
+}
+migration_attractionn55_0 = {
+	local_migration_attraction = -55.0
+}
+migration_attractionn54_7 = {
+	local_migration_attraction = -54.7
+}
+migration_attractionn54_5 = {
+	local_migration_attraction = -54.5
+}
+migration_attractionn54_2 = {
+	local_migration_attraction = -54.2
+}
+migration_attractionn54_0 = {
+	local_migration_attraction = -54.0
+}
+migration_attractionn53_7 = {
+	local_migration_attraction = -53.7
+}
+migration_attractionn53_5 = {
+	local_migration_attraction = -53.5
+}
+migration_attractionn53_2 = {
+	local_migration_attraction = -53.2
+}
+migration_attractionn53_0 = {
+	local_migration_attraction = -53.0
+}
+migration_attractionn52_7 = {
+	local_migration_attraction = -52.7
+}
+migration_attractionn52_5 = {
+	local_migration_attraction = -52.5
+}
+migration_attractionn52_2 = {
+	local_migration_attraction = -52.2
+}
+migration_attractionn52_0 = {
+	local_migration_attraction = -52.0
+}
+migration_attractionn51_7 = {
+	local_migration_attraction = -51.7
+}
+migration_attractionn51_5 = {
+	local_migration_attraction = -51.5
+}
+migration_attractionn51_2 = {
+	local_migration_attraction = -51.2
+}
+migration_attractionn51_0 = {
+	local_migration_attraction = -51.0
+}
+migration_attractionn50_7 = {
+	local_migration_attraction = -50.7
+}
+migration_attractionn50_5 = {
+	local_migration_attraction = -50.5
+}
+migration_attractionn50_2 = {
+	local_migration_attraction = -50.2
+}
 migration_attractionn50_0 = {
 	local_migration_attraction = -50.0
 }
@@ -9034,4 +9862,604 @@ migration_attraction49_75 = {
 }
 migration_attraction50_0 = {
 	local_migration_attraction = 50.0
+}
+migration_attraction50_25 = {
+	local_migration_attraction = 50.25
+}
+migration_attraction50_5 = {
+	local_migration_attraction = 50.5
+}
+migration_attraction50_75 = {
+	local_migration_attraction = 50.75
+}
+migration_attraction51_0 = {
+	local_migration_attraction = 51.0
+}
+migration_attraction51_25 = {
+	local_migration_attraction = 51.25
+}
+migration_attraction51_5 = {
+	local_migration_attraction = 51.5
+}
+migration_attraction51_75 = {
+	local_migration_attraction = 51.75
+}
+migration_attraction52_0 = {
+	local_migration_attraction = 52.0
+}
+migration_attraction52_25 = {
+	local_migration_attraction = 52.25
+}
+migration_attraction52_5 = {
+	local_migration_attraction = 52.5
+}
+migration_attraction52_75 = {
+	local_migration_attraction = 52.75
+}
+migration_attraction53_0 = {
+	local_migration_attraction = 53.0
+}
+migration_attraction53_25 = {
+	local_migration_attraction = 53.25
+}
+migration_attraction53_5 = {
+	local_migration_attraction = 53.5
+}
+migration_attraction53_75 = {
+	local_migration_attraction = 53.75
+}
+migration_attraction54_0 = {
+	local_migration_attraction = 54.0
+}
+migration_attraction54_25 = {
+	local_migration_attraction = 54.25
+}
+migration_attraction54_5 = {
+	local_migration_attraction = 54.5
+}
+migration_attraction54_75 = {
+	local_migration_attraction = 54.75
+}
+migration_attraction55_0 = {
+	local_migration_attraction = 55.0
+}
+migration_attraction55_25 = {
+	local_migration_attraction = 55.25
+}
+migration_attraction55_5 = {
+	local_migration_attraction = 55.5
+}
+migration_attraction55_75 = {
+	local_migration_attraction = 55.75
+}
+migration_attraction56_0 = {
+	local_migration_attraction = 56.0
+}
+migration_attraction56_25 = {
+	local_migration_attraction = 56.25
+}
+migration_attraction56_5 = {
+	local_migration_attraction = 56.5
+}
+migration_attraction56_75 = {
+	local_migration_attraction = 56.75
+}
+migration_attraction57_0 = {
+	local_migration_attraction = 57.0
+}
+migration_attraction57_25 = {
+	local_migration_attraction = 57.25
+}
+migration_attraction57_5 = {
+	local_migration_attraction = 57.5
+}
+migration_attraction57_75 = {
+	local_migration_attraction = 57.75
+}
+migration_attraction58_0 = {
+	local_migration_attraction = 58.0
+}
+migration_attraction58_25 = {
+	local_migration_attraction = 58.25
+}
+migration_attraction58_5 = {
+	local_migration_attraction = 58.5
+}
+migration_attraction58_75 = {
+	local_migration_attraction = 58.75
+}
+migration_attraction59_0 = {
+	local_migration_attraction = 59.0
+}
+migration_attraction59_25 = {
+	local_migration_attraction = 59.25
+}
+migration_attraction59_5 = {
+	local_migration_attraction = 59.5
+}
+migration_attraction59_75 = {
+	local_migration_attraction = 59.75
+}
+migration_attraction60_0 = {
+	local_migration_attraction = 60.0
+}
+migration_attraction60_25 = {
+	local_migration_attraction = 60.25
+}
+migration_attraction60_5 = {
+	local_migration_attraction = 60.5
+}
+migration_attraction60_75 = {
+	local_migration_attraction = 60.75
+}
+migration_attraction61_0 = {
+	local_migration_attraction = 61.0
+}
+migration_attraction61_25 = {
+	local_migration_attraction = 61.25
+}
+migration_attraction61_5 = {
+	local_migration_attraction = 61.5
+}
+migration_attraction61_75 = {
+	local_migration_attraction = 61.75
+}
+migration_attraction62_0 = {
+	local_migration_attraction = 62.0
+}
+migration_attraction62_25 = {
+	local_migration_attraction = 62.25
+}
+migration_attraction62_5 = {
+	local_migration_attraction = 62.5
+}
+migration_attraction62_75 = {
+	local_migration_attraction = 62.75
+}
+migration_attraction63_0 = {
+	local_migration_attraction = 63.0
+}
+migration_attraction63_25 = {
+	local_migration_attraction = 63.25
+}
+migration_attraction63_5 = {
+	local_migration_attraction = 63.5
+}
+migration_attraction63_75 = {
+	local_migration_attraction = 63.75
+}
+migration_attraction64_0 = {
+	local_migration_attraction = 64.0
+}
+migration_attraction64_25 = {
+	local_migration_attraction = 64.25
+}
+migration_attraction64_5 = {
+	local_migration_attraction = 64.5
+}
+migration_attraction64_75 = {
+	local_migration_attraction = 64.75
+}
+migration_attraction65_0 = {
+	local_migration_attraction = 65.0
+}
+migration_attraction65_25 = {
+	local_migration_attraction = 65.25
+}
+migration_attraction65_5 = {
+	local_migration_attraction = 65.5
+}
+migration_attraction65_75 = {
+	local_migration_attraction = 65.75
+}
+migration_attraction66_0 = {
+	local_migration_attraction = 66.0
+}
+migration_attraction66_25 = {
+	local_migration_attraction = 66.25
+}
+migration_attraction66_5 = {
+	local_migration_attraction = 66.5
+}
+migration_attraction66_75 = {
+	local_migration_attraction = 66.75
+}
+migration_attraction67_0 = {
+	local_migration_attraction = 67.0
+}
+migration_attraction67_25 = {
+	local_migration_attraction = 67.25
+}
+migration_attraction67_5 = {
+	local_migration_attraction = 67.5
+}
+migration_attraction67_75 = {
+	local_migration_attraction = 67.75
+}
+migration_attraction68_0 = {
+	local_migration_attraction = 68.0
+}
+migration_attraction68_25 = {
+	local_migration_attraction = 68.25
+}
+migration_attraction68_5 = {
+	local_migration_attraction = 68.5
+}
+migration_attraction68_75 = {
+	local_migration_attraction = 68.75
+}
+migration_attraction69_0 = {
+	local_migration_attraction = 69.0
+}
+migration_attraction69_25 = {
+	local_migration_attraction = 69.25
+}
+migration_attraction69_5 = {
+	local_migration_attraction = 69.5
+}
+migration_attraction69_75 = {
+	local_migration_attraction = 69.75
+}
+migration_attraction70_0 = {
+	local_migration_attraction = 70.0
+}
+migration_attraction70_25 = {
+	local_migration_attraction = 70.25
+}
+migration_attraction70_5 = {
+	local_migration_attraction = 70.5
+}
+migration_attraction70_75 = {
+	local_migration_attraction = 70.75
+}
+migration_attraction71_0 = {
+	local_migration_attraction = 71.0
+}
+migration_attraction71_25 = {
+	local_migration_attraction = 71.25
+}
+migration_attraction71_5 = {
+	local_migration_attraction = 71.5
+}
+migration_attraction71_75 = {
+	local_migration_attraction = 71.75
+}
+migration_attraction72_0 = {
+	local_migration_attraction = 72.0
+}
+migration_attraction72_25 = {
+	local_migration_attraction = 72.25
+}
+migration_attraction72_5 = {
+	local_migration_attraction = 72.5
+}
+migration_attraction72_75 = {
+	local_migration_attraction = 72.75
+}
+migration_attraction73_0 = {
+	local_migration_attraction = 73.0
+}
+migration_attraction73_25 = {
+	local_migration_attraction = 73.25
+}
+migration_attraction73_5 = {
+	local_migration_attraction = 73.5
+}
+migration_attraction73_75 = {
+	local_migration_attraction = 73.75
+}
+migration_attraction74_0 = {
+	local_migration_attraction = 74.0
+}
+migration_attraction74_25 = {
+	local_migration_attraction = 74.25
+}
+migration_attraction74_5 = {
+	local_migration_attraction = 74.5
+}
+migration_attraction74_75 = {
+	local_migration_attraction = 74.75
+}
+migration_attraction75_0 = {
+	local_migration_attraction = 75.0
+}
+migration_attraction75_25 = {
+	local_migration_attraction = 75.25
+}
+migration_attraction75_5 = {
+	local_migration_attraction = 75.5
+}
+migration_attraction75_75 = {
+	local_migration_attraction = 75.75
+}
+migration_attraction76_0 = {
+	local_migration_attraction = 76.0
+}
+migration_attraction76_25 = {
+	local_migration_attraction = 76.25
+}
+migration_attraction76_5 = {
+	local_migration_attraction = 76.5
+}
+migration_attraction76_75 = {
+	local_migration_attraction = 76.75
+}
+migration_attraction77_0 = {
+	local_migration_attraction = 77.0
+}
+migration_attraction77_25 = {
+	local_migration_attraction = 77.25
+}
+migration_attraction77_5 = {
+	local_migration_attraction = 77.5
+}
+migration_attraction77_75 = {
+	local_migration_attraction = 77.75
+}
+migration_attraction78_0 = {
+	local_migration_attraction = 78.0
+}
+migration_attraction78_25 = {
+	local_migration_attraction = 78.25
+}
+migration_attraction78_5 = {
+	local_migration_attraction = 78.5
+}
+migration_attraction78_75 = {
+	local_migration_attraction = 78.75
+}
+migration_attraction79_0 = {
+	local_migration_attraction = 79.0
+}
+migration_attraction79_25 = {
+	local_migration_attraction = 79.25
+}
+migration_attraction79_5 = {
+	local_migration_attraction = 79.5
+}
+migration_attraction79_75 = {
+	local_migration_attraction = 79.75
+}
+migration_attraction80_0 = {
+	local_migration_attraction = 80.0
+}
+migration_attraction80_25 = {
+	local_migration_attraction = 80.25
+}
+migration_attraction80_5 = {
+	local_migration_attraction = 80.5
+}
+migration_attraction80_75 = {
+	local_migration_attraction = 80.75
+}
+migration_attraction81_0 = {
+	local_migration_attraction = 81.0
+}
+migration_attraction81_25 = {
+	local_migration_attraction = 81.25
+}
+migration_attraction81_5 = {
+	local_migration_attraction = 81.5
+}
+migration_attraction81_75 = {
+	local_migration_attraction = 81.75
+}
+migration_attraction82_0 = {
+	local_migration_attraction = 82.0
+}
+migration_attraction82_25 = {
+	local_migration_attraction = 82.25
+}
+migration_attraction82_5 = {
+	local_migration_attraction = 82.5
+}
+migration_attraction82_75 = {
+	local_migration_attraction = 82.75
+}
+migration_attraction83_0 = {
+	local_migration_attraction = 83.0
+}
+migration_attraction83_25 = {
+	local_migration_attraction = 83.25
+}
+migration_attraction83_5 = {
+	local_migration_attraction = 83.5
+}
+migration_attraction83_75 = {
+	local_migration_attraction = 83.75
+}
+migration_attraction84_0 = {
+	local_migration_attraction = 84.0
+}
+migration_attraction84_25 = {
+	local_migration_attraction = 84.25
+}
+migration_attraction84_5 = {
+	local_migration_attraction = 84.5
+}
+migration_attraction84_75 = {
+	local_migration_attraction = 84.75
+}
+migration_attraction85_0 = {
+	local_migration_attraction = 85.0
+}
+migration_attraction85_25 = {
+	local_migration_attraction = 85.25
+}
+migration_attraction85_5 = {
+	local_migration_attraction = 85.5
+}
+migration_attraction85_75 = {
+	local_migration_attraction = 85.75
+}
+migration_attraction86_0 = {
+	local_migration_attraction = 86.0
+}
+migration_attraction86_25 = {
+	local_migration_attraction = 86.25
+}
+migration_attraction86_5 = {
+	local_migration_attraction = 86.5
+}
+migration_attraction86_75 = {
+	local_migration_attraction = 86.75
+}
+migration_attraction87_0 = {
+	local_migration_attraction = 87.0
+}
+migration_attraction87_25 = {
+	local_migration_attraction = 87.25
+}
+migration_attraction87_5 = {
+	local_migration_attraction = 87.5
+}
+migration_attraction87_75 = {
+	local_migration_attraction = 87.75
+}
+migration_attraction88_0 = {
+	local_migration_attraction = 88.0
+}
+migration_attraction88_25 = {
+	local_migration_attraction = 88.25
+}
+migration_attraction88_5 = {
+	local_migration_attraction = 88.5
+}
+migration_attraction88_75 = {
+	local_migration_attraction = 88.75
+}
+migration_attraction89_0 = {
+	local_migration_attraction = 89.0
+}
+migration_attraction89_25 = {
+	local_migration_attraction = 89.25
+}
+migration_attraction89_5 = {
+	local_migration_attraction = 89.5
+}
+migration_attraction89_75 = {
+	local_migration_attraction = 89.75
+}
+migration_attraction90_0 = {
+	local_migration_attraction = 90.0
+}
+migration_attraction90_25 = {
+	local_migration_attraction = 90.25
+}
+migration_attraction90_5 = {
+	local_migration_attraction = 90.5
+}
+migration_attraction90_75 = {
+	local_migration_attraction = 90.75
+}
+migration_attraction91_0 = {
+	local_migration_attraction = 91.0
+}
+migration_attraction91_25 = {
+	local_migration_attraction = 91.25
+}
+migration_attraction91_5 = {
+	local_migration_attraction = 91.5
+}
+migration_attraction91_75 = {
+	local_migration_attraction = 91.75
+}
+migration_attraction92_0 = {
+	local_migration_attraction = 92.0
+}
+migration_attraction92_25 = {
+	local_migration_attraction = 92.25
+}
+migration_attraction92_5 = {
+	local_migration_attraction = 92.5
+}
+migration_attraction92_75 = {
+	local_migration_attraction = 92.75
+}
+migration_attraction93_0 = {
+	local_migration_attraction = 93.0
+}
+migration_attraction93_25 = {
+	local_migration_attraction = 93.25
+}
+migration_attraction93_5 = {
+	local_migration_attraction = 93.5
+}
+migration_attraction93_75 = {
+	local_migration_attraction = 93.75
+}
+migration_attraction94_0 = {
+	local_migration_attraction = 94.0
+}
+migration_attraction94_25 = {
+	local_migration_attraction = 94.25
+}
+migration_attraction94_5 = {
+	local_migration_attraction = 94.5
+}
+migration_attraction94_75 = {
+	local_migration_attraction = 94.75
+}
+migration_attraction95_0 = {
+	local_migration_attraction = 95.0
+}
+migration_attraction95_25 = {
+	local_migration_attraction = 95.25
+}
+migration_attraction95_5 = {
+	local_migration_attraction = 95.5
+}
+migration_attraction95_75 = {
+	local_migration_attraction = 95.75
+}
+migration_attraction96_0 = {
+	local_migration_attraction = 96.0
+}
+migration_attraction96_25 = {
+	local_migration_attraction = 96.25
+}
+migration_attraction96_5 = {
+	local_migration_attraction = 96.5
+}
+migration_attraction96_75 = {
+	local_migration_attraction = 96.75
+}
+migration_attraction97_0 = {
+	local_migration_attraction = 97.0
+}
+migration_attraction97_25 = {
+	local_migration_attraction = 97.25
+}
+migration_attraction97_5 = {
+	local_migration_attraction = 97.5
+}
+migration_attraction97_75 = {
+	local_migration_attraction = 97.75
+}
+migration_attraction98_0 = {
+	local_migration_attraction = 98.0
+}
+migration_attraction98_25 = {
+	local_migration_attraction = 98.25
+}
+migration_attraction98_5 = {
+	local_migration_attraction = 98.5
+}
+migration_attraction98_75 = {
+	local_migration_attraction = 98.75
+}
+migration_attraction99_0 = {
+	local_migration_attraction = 99.0
+}
+migration_attraction99_25 = {
+	local_migration_attraction = 99.25
+}
+migration_attraction99_5 = {
+	local_migration_attraction = 99.5
+}
+migration_attraction99_75 = {
+	local_migration_attraction = 99.75
+}
+migration_attraction100_0 = {
+	local_migration_attraction = 100.0
 }

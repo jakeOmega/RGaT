@@ -1,28 +1,47 @@
-﻿### Settlement Buildings
+﻿############################
+# Military Buildings
+############################
+military_building = { #Training Camp
+	local_manpower_modifier = 0.1
 
-latifundia_building = { #Slave Estate
-	local_population_capacity_modifier = 0.2
+	cost = 50
+	time = 180
 	
 	potential = {
-		has_city_status = no
+		has_city_status = yes
 	}
 
-	cost = 120
-	time = 730
-	
 	modification_display = {
-		0 = value_income
-		1 = local_population_capacity
+		0 = value_manpower
 	}
 	
 	chance = {
 		modifier = {
-			add = 10
+			add = 
+			{
+				value = province_manpower_income
+				multiply = {
+					value = 30
+				}
+			}
 		}
 	}
-	
 }
 
+fortress_building = {
+	fort_level = 1
+	
+	cost = 100
+	time = 915
+	
+	
+	
+	modification_display = {
+		0 = fort_level
+	}
+#AI handles fort building in code. It's too complicated to script this
+}
+	
 barracks_building = {
 	local_freemen_desired_pop_ratio = 0.15
 	local_freemen_happyness = happiness_large_svalue
@@ -49,6 +68,371 @@ barracks_building = {
 					value = 10
 				}
 			}
+		}
+	}
+}
+
+foundry_building = { #Investment
+	cost = 100
+	time = 1
+	local_building_slot = 1
+	potential = {
+		always = yes
+	}
+	
+	modification_display = {
+		0 = local_start_experience
+		1 = local_output_modifier
+	}
+	
+	chance = {
+		modifier = {
+			OR = {
+				trade_goods = horses
+				trade_goods = elephants
+				trade_goods = iron
+				trade_goods = steppe_horses
+				trade_goods = camel
+			}
+			add = 1.5
+		}
+	}
+}
+
+##############################
+# Economical / Management
+##############################
+
+commerce_building = { #Market
+	local_base_trade_routes_modifier = 0.025 
+
+
+	cost = 50
+	time = 180
+	
+	potential = {
+		has_city_status = yes
+	}
+	
+	modification_display = {
+		0 = value_income
+	}
+	
+	chance = {
+		modifier = {
+			add = 
+			{
+				value = num_of_citizen
+				max = 14
+			}
+		}
+	}
+}
+
+town_hall_building = {
+	base_resources = 1
+
+	cost = 120
+	time = 730
+
+	potential = {
+		has_city_status = yes
+		NOT = {has_building = basic_settlement_infratructure_building}
+	}
+	
+	modification_display = {
+		0 = base_resources
+	}
+	
+	chance = {
+		modifier = {
+			add = 10
+		}
+	}
+}
+
+academy_building = { #Academy
+	local_research_points_modifier = 0.075
+	local_nobles_desired_pop_ratio = 0.01
+	cost = 50
+	time = 180
+	
+	potential = {
+		has_city_status = yes
+	}
+	
+	modification_display = {
+		0 = value_research
+		1 = local_pop_promotion_speed
+	}
+	
+	chance = {
+		modifier = {
+			add = 10
+			num_of_nobles > 7
+		}
+		modifier = {
+			add = 10
+			num_of_nobles > 14
+		}
+		modifier = {
+			add = 10
+			NOT = {
+				has_building = academy_building
+			}
+		}
+	}
+	
+}
+
+#################################
+# Population 
+################################
+
+library_building = { #Library
+	local_nobles_happyness = happiness_small_svalue
+	local_nobles_desired_pop_ratio  = 0.02
+	cost = 50
+	time = 180
+	
+	potential = {
+		has_city_status = yes
+	}
+	
+	modification_display = {
+		0 = local_nobles_happyness
+		1 = local_nobles_desired_pop_ratio
+	}
+	
+	chance = {
+		modifier = {
+			add = 25
+			is_capital = yes
+		}
+		modifier = {
+			add = {
+				value = -1
+			  multiply = num_of_nobles
+			}
+		}
+	}
+
+}
+
+court_building = { #Court of Law
+	local_citizen_happyness = happiness_small_svalue
+	local_citizen_desired_pop_ratio = 0.06
+	cost = 50
+	time = 180
+
+	potential = {
+		has_city_status = yes
+	}
+	
+	modification_display = {
+		0 = local_citizen_happyness
+		1 = local_citizen_desired_pop_ratio
+	}
+	
+	chance = {
+		modifier = {
+			add = 1
+			owner = {
+				is_tribal = no
+			}
+		}
+	}
+}
+
+forum_building = { #Forum
+	local_freemen_happyness = happiness_small_svalue
+	local_freemen_desired_pop_ratio = 0.06
+	local_migration_attraction = 10
+	
+	cost = 50
+	time = 180
+
+	potential = {
+		has_city_status = yes
+	}
+	
+	modification_display = {
+		0 = local_freemen_happyness
+		1 = local_freemen_desired_pop_ratio
+	}
+	
+	#Worthless if we're at population cap, more and more worthwhile the lower population we have
+	chance = {
+		modifier = {  
+			add = {
+				value = population_cap
+				divide = 2
+				subtract = total_population
+				divide = population_cap
+				multiply = 20
+				add = 10
+			}
+		}
+	}
+
+}
+
+population_building = { #Granary
+	local_food_capacity = 200
+
+	cost = 50
+	time = 180
+
+	potential = {
+		has_city_status = yes
+	}
+	
+	modification_display = {
+		0 = local_food_capacity
+	}
+
+}
+
+workshop_building = { #Mill
+	local_slaves_happyness = happiness_small_svalue
+	local_slaves_output = 0.03
+	local_slaves_desired_pop_ratio = 0.06
+	cost = 50
+	time = 180
+
+	potential = {
+		has_city_status = yes
+	}
+	
+	modification_display = {
+		0 = value_income
+		1 = local_slaves_happyness
+	}
+
+}
+
+temple_building = {
+	local_happiness_for_same_religion_modifier = 0.03
+	local_pop_conversion_speed = 1
+	cost = 50
+	time = 180
+
+	potential = {
+		has_city_status = yes
+	}
+	
+	modification_display = {
+		0 = local_happiness_for_same_religion_modifier
+		1 = local_pop_conversion_speed
+	}
+	
+	chance = {
+		modifier = {
+			add = 8
+			NOT = {dominant_province_religion = owner.religion}
+		}
+	}
+}
+
+theathre_building = { #Theater
+	local_happiness_for_same_culture_modifier = 0.03
+	local_pop_assimilation_speed = 1
+	
+	cost = 50
+	time = 180
+
+	potential = {
+		has_city_status = yes
+	}
+	
+	modification_display = {
+		0 = local_happiness_for_same_culture_modifier
+		1 = local_pop_assimilation_speed
+	}
+	
+	chance = {
+		modifier = {
+			NOT = { dominant_province_culture_group = owner.culture_group }
+			add = 8
+		}
+	}
+}
+
+aqueduct_building = { #Aqueduct
+	local_population_capacity = 4
+	cost = 50
+	time = 180
+
+	potential = {
+		has_city_status = yes
+	}
+	
+	allow = {
+		civilization_value  >= 30
+	}
+	
+	
+	modification_display = {
+		0 = local_population_capacity
+		1 = local_migration_attraction
+	}
+	
+	chance = {
+		modifier = {
+			total_population >= near_popcp_svalue 
+			add = 50
+		}
+	}
+	
+}
+
+rural_industry = {
+	base_resources = 2
+	local_freemen_desired_pop_ratio = 0.25
+
+	potential = {
+		has_city_status = no
+	}
+	
+	allow = {
+		has_minable_trade_good_trigger = no 
+	}
+	
+	cost = 120
+	time = 730
+	
+	modification_display = {
+		0 = base_resources
+	}
+	
+	chance = {
+		modifier = {
+			add = 1
+		}
+		modifier = {
+			state = {state_monthly_food_income > 5}
+			add = 30
+		}
+	}
+}
+
+latifundia_building = { #Slave Estate
+	local_population_capacity_modifier = 0.2
+	
+	potential = {
+		has_city_status = no
+	}
+
+	cost = 120
+	time = 730
+	
+	modification_display = {
+		0 = local_population_capacity
+	}
+	
+	chance = {
+		modifier = {
+			add = 10
 		}
 	}
 }
@@ -83,35 +467,6 @@ slave_mine_building = { #Mine
 	}
 }
 
-rural_industry = {
-	base_resources = 2
-	local_freemen_desired_pop_ratio = 0.25
-
-	potential = {
-		has_city_status = no
-	}
-	
-	allow = {
-		has_minable_trade_good_trigger = no 
-	}
-	
-	cost = 120
-	time = 730
-	
-	modification_display = {
-		0 = base_resources
-	}
-	
-	chance = {
-		modifier = {
-			add = 1
-		}
-		modifier = {
-			state = {state_monthly_food_income > 5}
-			add = 30
-		}
-	}
-}
 
 basic_settlement_infratructure_building = { #Food export
 	local_food_capacity = 25
@@ -213,41 +568,5 @@ local_forum_building = { #Provincial Legation
 	modification_display = {
 		0 = local_migration_speed_modifier
 		1 = local_citizen_desired_pop_ratio
-	}
-}
-population_building = { #Granary
-	local_food_capacity = 200
-
-	cost = 50
-	time = 180
-
-	potential = {
-		has_city_status = yes
-	}
-	
-	modification_display = {
-		0 = local_food_capacity
-	}
-}
-
-town_hall_building = {
-	base_resources = 1
-
-	cost = 120
-	time = 730
-
-	potential = {
-		has_city_status = yes
-		NOT = {has_building = basic_settlement_infratructure_building}
-	}
-	
-	modification_display = {
-		0 = base_resources
-	}
-	
-	chance = {
-		modifier = {
-			add = 10
-		}
 	}
 }

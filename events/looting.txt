@@ -37,6 +37,13 @@ looting.1 = {
 			name = province_wealth
 			subtract = var:loot_amount
 		}
+		change_variable = {
+			name = province_infrastructure
+			multiply = {
+				value = 1
+				subtract = looting_infrastructure_damage
+			}
+		}
 		if = {
 			limit = {any_unit_in_province = {has_commander = yes}}
 			set_variable = {

@@ -7,14 +7,92 @@ per_capita_wealth = {
 	divide = total_population
 }
 
+per_capita_infrastructure = {
+	value = var:province_infrastructure
+	divide = total_population
+}
+
 wealth_factor = {
-	value = per_capita_wealth
-	multiply = 1.5
-	divide = {
-		value = 20
-		add = per_capita_wealth
+	value = 0.1
+	multiply = per_capita_infrastructure
+	if = {
+		limit = {per_capita_infrastructure < 10}
 	}
-	add = 0.5
+	else_if = {
+		limit = {per_capita_infrastructure < 30}
+		divide = 2.0
+		add = 0.5
+	}
+	else_if = {
+		limit = {per_capita_infrastructure < 60}
+		divide = 3.0
+		add = 1
+	}
+	else_if = {
+		limit = {per_capita_infrastructure < 100}
+		divide = 4.0
+		add = 1.5
+	}
+	else_if = {
+		limit = {per_capita_infrastructure < 150}
+		divide = 5.0
+		add = 2
+	}
+	else_if = {
+		limit = {per_capita_infrastructure < 210}
+		divide = 6.0
+		add = 2.5
+	}
+	else_if = {
+		limit = {per_capita_infrastructure < 280}
+		divide = 7.0
+		add = 3
+	}
+	else_if = {
+		limit = {per_capita_infrastructure < 360}
+		divide = 8.0
+		add = 3.5
+	}
+	else_if = {
+		limit = {per_capita_infrastructure < 450}
+		divide = 9.0
+		add = 4
+	}
+	else_if = {
+		limit = {per_capita_infrastructure < 550}
+		divide = 10.0
+		add = 4.5
+	}
+	else_if = {
+		limit = {per_capita_infrastructure < 660}
+		divide = 11.0
+		add = 5
+	}
+	else_if = {
+		limit = {per_capita_infrastructure < 780}
+		divide = 12.0
+		add = 5.5
+	}
+	else_if = {
+		limit = {per_capita_infrastructure < 910}
+		divide = 13.0
+		add = 6.0
+	}
+	else_if = {
+		limit = {per_capita_infrastructure < 1050}
+		divide = 14.0
+		add = 6.5
+	}
+	else_if = {
+		limit = {per_capita_infrastructure < 1200}
+		divide = 15.0
+		add = 7.0
+	}
+	else = {
+		add = 10
+	}
+	multiply = 0.25
+	add = 0.25
 }
 
 additional_travel_time_sval = {
@@ -26,7 +104,7 @@ additional_travel_time_sval = {
 				terrain = farmland
 			}
 		}
-		add = 1
+		add = 1.5
 	}
 	else_if = {
 		limit = {
@@ -36,7 +114,7 @@ additional_travel_time_sval = {
 				terrain = desert
 			}
 		}
-		add = 2
+		add = 3
 	}
 	else_if = {
 		limit = {
@@ -46,10 +124,10 @@ additional_travel_time_sval = {
 				terrain = jungle
 			}
 		}
-		add = 5
+		add = 7.5
 	}
 	else = {
-		add = 5
+		add = 10
 	}
 	if = {
 		limit = { has_road_towards = prev }
@@ -64,12 +142,16 @@ migration_attraction = {
 		add = marginal_food_production
 		subtract = high_pop_food_production
 		multiply = 100
+		add = {
+			value = total_population
+			divide = 2
+		}
 	}
 	else = {
 		add = {
-			value = root.population_cap
-			subtract = root.total_population
-			multiply = 0.5
+			value = urban_wealth_change
+			divide = total_population
+			multiply = 100
 		}
 	}
 }
@@ -196,15 +278,23 @@ marginal_food_production = {
 
 carrying_cap_factor = {
 	value = root.total_population
-	if = {
-		limit = { root.total_population > 50 }
-		subtract = 50
-		multiply = 1.2
-		add = 50
-	}
-		
 	divide = root.population_cap
-	multiply = -1
+	if = {
+		limit = {has_province_rank = settlement}
+		multiply = -1
+	}
+	else = {
+		multiply = -1.3333333
+		multiply = {
+			value = 1
+			subtract = {
+				value = root.total_population
+				divide = root.population_cap
+				subtract = 1
+				divide = 2
+			}
+		}
+	}
 	add = 1
 }
 
@@ -522,9 +612,32 @@ overextension_per_pop_sval = {
 	}
 }
 
+overextension_by_state_type = {
+	if = {
+		limit = {has_law = city_state_law}
+		value = 2.0
+	}
+	else_if = {
+		limit = {has_law = league_law}
+		value = 1.5
+	}
+	else_if = {
+		limit = {has_law = nation_law}
+		value = 1.0
+	}
+	else_if = {
+		limit = {has_law = empire_law}
+		value = 0.75
+	}
+	else = {
+		value = 2
+	}
+}
+
 admin_demand = {
 	value = country_population
 	multiply = overextension_per_pop_sval
+	#multiply = overextension_by_state_type
 }
 
 overextension_change = {
@@ -542,7 +655,7 @@ food_wealth_change = {
 		value = 0.2
 		multiply = farming_population
 	}
-	multiply = 0.25
+	multiply = 0.5
 }
 
 trade_good_wealth_change = {
@@ -554,6 +667,7 @@ trade_good_wealth_change = {
 		value = num_goods_produced
 	}
 	multiply = 0.25
+	multiply = wealth_factor
 }
 
 urban_wealth_change = {
@@ -564,33 +678,18 @@ urban_wealth_change = {
 	else = {
 		value = total_population
 	}
-	if = {
-		limit = { has_province_rank = city }
-		subtract = max_food_producers_city
-	}
-	subtract = {
-		value = num_of_town_hall_building
-		multiply = 2
-	}
-	min = 0
-	multiply = {
-		value = 0.05 #0.05 per pop per year - growth of 5 gold/pop/century
-		add = {
-			value = per_capita_wealth
-			divide = {
-				value = 1
-				add = {
-					value = per_capita_wealth
-					divide = {	#this is roughly the per_capita wealth at which urban economic growth goes from exponential to linear
-						value = civilization_value
-						multiply = 0.5
-					}
-				}
-			}
-			multiply = 0.06 #about 5% per year growth above decay (at civ value = 40) if there is no taxes, if we're way below the soft per_capita_wealth cap
+	multiply = 0.25 #0.25 per pop per year - growth of 25 gold/pop/century without taxes
+	multiply = { #function that is approximately 0.1*per_capita_infrastructure at low per_capita_infrastructure and caps at 10 at high per_capita_infrastructure
+		value = 0.02
+		multiply = per_capita_infrastructure
+		divide = {
+			value = per_capita_infrastructure
+			divide = 500
+			add = 0.2
 		}
-		divide = 12
+		add = wealth_factor
 	}
+	divide = 12
 }
 
 taxes_change = {
@@ -708,39 +807,41 @@ tax_efficiency = {
 		value = var:travel_time
 		divide = 100
 	}
-	if = {
-		limit = {owner = {has_law = tax_farmers_none}}
-		multiply = 1
-	}
-	else_if = {
-		limit = {owner = {has_law = tax_farmers_low}}
-		multiply = 0.9
-	}
-	else_if = {
-		limit = {owner = {has_law = tax_farmers_medium}}
-		multiply = 0.8
-	}
-	else_if = {
-		limit = {owner = {has_law = tax_farmers_high}}
-		multiply = 0.7
-	}
-	else_if = {
-		limit = {owner = {has_law = tax_farmers_all}}
-		multiply = 0.6
-	}
-	else = {
-		multiply = 0
+	multiply = {
+		if = {
+			limit = {owner = {has_law = tax_farmers_none}}
+			value = 0.9
+		}
+		else_if = {
+			limit = {owner = {has_law = tax_farmers_low}}
+			value = 0.8
+		}
+		else_if = {
+			limit = {owner = {has_law = tax_farmers_medium}}
+			value = 0.7
+		}
+		else_if = {
+			limit = {owner = {has_law = tax_farmers_high}}
+			value = 0.6
+		}
+		else_if = {
+			limit = {owner = {has_law = tax_farmers_all}}
+			value = 0.5
+		}
+		else = {
+			value = 0
+		}
 	}
 	min = 0
 }
 
-decay_change = {
+wealth_decay_change = {
 	value = var:province_wealth
 	multiply = {
 		value = 0
 		if = {
 			limit = {civilization_value < 10}
-			add = -0.10
+			add = -0.08
 		}
 		else_if = {
 			limit = {civilization_value < 20}
@@ -764,10 +865,10 @@ decay_change = {
 		}
 		else_if = {
 			limit = {civilization_value < 50}
-			add = -0.0065
+			add = -0.005
 		}
 		else = {
-			add = -0.005
+			add = -0.003
 		}
 		if = {
 			limit = {has_variable = disorder}
@@ -776,6 +877,45 @@ decay_change = {
 		if = {
 			limit = {state = {has_state_food = 0}}
 			add = -0.1
+		}
+	}
+	divide = 12
+}
+
+infrastructure_decay_change = {
+	value = var:province_infrastructure
+	multiply = {
+		value = 0
+		if = {
+			limit = {civilization_value < 10}
+			add = -0.03
+		}
+		else_if = {
+			limit = {civilization_value < 20}
+			add = -0.02
+		}
+		else_if = {
+			limit = {civilization_value < 30}
+			add = -0.01
+		}
+		else_if = {
+			limit = {civilization_value < 35}
+			add = -0.008
+		}
+		else_if = {
+			limit = {civilization_value < 40}
+			add = -0.005
+		}
+		else_if = {
+			limit = {civilization_value < 45}
+			add = -0.003
+		}
+		else_if = {
+			limit = {civilization_value < 50}
+			add = -0.002
+		}
+		else = {
+			add = -0.001
 		}
 	}
 	divide = 12
@@ -796,16 +936,66 @@ neighbor_change = {
 			}
 		}
 	}
-	multiply = 0.05
+	multiply = 0.20
 	divide = 12
+}
+
+capital_wealth_extraction = {
+	if = {
+		limit = {has_variable = taxes_change}
+		value = var:taxes_change
+	}
+	else = {
+		value = 0
+	}
+	multiply = tax_efficiency
+	multiply = {
+		if = {
+			limit = {owner = {has_law = city_state_law}}
+			value = 0.5
+		}
+		else_if = {
+			limit = {owner = {has_law = league_law}}
+			value = 0.25
+		}
+		else_if = {
+			limit = {owner = {has_law = nation_law}}
+			value = 0.1
+		}
+		else_if = {
+			limit = {owner = {has_law = empire_law}}
+			value = 0.05
+		}
+		else = {
+			value = 0.25
+		}
+	}
+	min = 0
+}
+
+province_infrastrucure_investment = {
+	value = infrastructure_decay_change
+	multiply = -1
+	add = {
+		value = var:province_wealth
+		multiply = 0.02
+		divide = 12.0
+	}
+	max = {
+		value = var:province_wealth
+		multiply = 0.05
+		divide = 12.0
+	}
 }
 
 province_wealth_change = {
 	value = 0
-	add = decay_change
 	add = food_wealth_change
 	add = trade_good_wealth_change
 	add = urban_wealth_change
+	add = wealth_decay_change
+	subtract = capital_wealth_extraction
+	subtract = province_infrastrucure_investment
 	if = {
 		limit = {has_variable = per_capita_wealth}
 		add = neighbor_change
@@ -816,16 +1006,66 @@ province_wealth_change = {
 	}
 }
 
+province_infrastructure_change = {
+	value = infrastructure_decay_change
+	add = province_infrastrucure_investment
+}
+
 troop_maintenance = {
 	value = PREV.var:troop_count
 	multiply = 100
 	divide = max_manpower
 	multiply = 0.25
 }
-
-province_loot_amount = 0.40
+looting_infrastructure_damage = 0.05
+province_loot_amount = 0.75
 civil_war_loot_amount = 0.20
 general_wealth_gain = 0.10
 state_wealth_gain = 0.25
-provinces_wealth_gain = 0.25
-capital_wealth_gain = 0.15
+provinces_wealth_gain = {
+	if = {
+		limit = {owner = {has_law = city_state_law}}
+		value = 0.0
+	}
+	else_if = {
+		limit = {owner = {has_law = league_law}}
+		value = 0.20
+	}
+	else_if = {
+		limit = {owner = {has_law = nation_law}}
+		value = 0.30
+	}
+	else_if = {
+		limit = {owner = {has_law = empire_law}}
+		value = 0.40
+	}
+	else = {
+		value = 0.25
+	}
+}
+capital_wealth_gain = {
+	if = {
+		limit = {owner = {has_law = city_state_law}}
+		value = 0.4
+	}
+	else_if = {
+		limit = {owner = {has_law = league_law}}
+		value = 0.20
+	}
+	else_if = {
+		limit = {owner = {has_law = nation_law}}
+		value = 0.10
+	}
+	else_if = {
+		limit = {owner = {has_law = empire_law}}
+		value = 0.0
+	}
+	else = {
+		value = 0.15
+	}
+}
+
+investment_amount = {
+	value = num_of_foundry_building
+	multiply = 90
+}

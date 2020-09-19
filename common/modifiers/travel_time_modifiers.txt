@@ -1,604 +1,1006 @@
 ﻿
 travel_time0_0 = {
 	city_monthly_state_loyalty = 2.0
+	local_manpower_modifier = -0.0
+	local_commerce_value_modifier = -0.0
 }
 travel_time0_5 = {
 	city_monthly_state_loyalty = 1.99
+	local_manpower_modifier = -0.005
+	local_commerce_value_modifier = -0.005
 }
 travel_time1_0 = {
 	city_monthly_state_loyalty = 1.98
+	local_manpower_modifier = -0.01
+	local_commerce_value_modifier = -0.01
 }
 travel_time1_5 = {
 	city_monthly_state_loyalty = 1.97
+	local_manpower_modifier = -0.015
+	local_commerce_value_modifier = -0.015
 }
 travel_time2_0 = {
 	city_monthly_state_loyalty = 1.96
+	local_manpower_modifier = -0.02
+	local_commerce_value_modifier = -0.02
 }
 travel_time2_5 = {
 	city_monthly_state_loyalty = 1.95
+	local_manpower_modifier = -0.025
+	local_commerce_value_modifier = -0.025
 }
 travel_time3_0 = {
 	city_monthly_state_loyalty = 1.94
+	local_manpower_modifier = -0.03
+	local_commerce_value_modifier = -0.03
 }
 travel_time3_5 = {
 	city_monthly_state_loyalty = 1.93
+	local_manpower_modifier = -0.035
+	local_commerce_value_modifier = -0.035
 }
 travel_time4_0 = {
 	city_monthly_state_loyalty = 1.92
+	local_manpower_modifier = -0.04
+	local_commerce_value_modifier = -0.04
 }
 travel_time4_5 = {
 	city_monthly_state_loyalty = 1.91
+	local_manpower_modifier = -0.045
+	local_commerce_value_modifier = -0.045
 }
 travel_time5_0 = {
 	city_monthly_state_loyalty = 1.9
+	local_manpower_modifier = -0.05
+	local_commerce_value_modifier = -0.05
 }
 travel_time5_5 = {
 	city_monthly_state_loyalty = 1.89
+	local_manpower_modifier = -0.055
+	local_commerce_value_modifier = -0.055
 }
 travel_time6_0 = {
 	city_monthly_state_loyalty = 1.88
+	local_manpower_modifier = -0.06
+	local_commerce_value_modifier = -0.06
 }
 travel_time6_5 = {
 	city_monthly_state_loyalty = 1.87
+	local_manpower_modifier = -0.065
+	local_commerce_value_modifier = -0.065
 }
 travel_time7_0 = {
 	city_monthly_state_loyalty = 1.8599999999999999
+	local_manpower_modifier = -0.07
+	local_commerce_value_modifier = -0.07
 }
 travel_time7_5 = {
 	city_monthly_state_loyalty = 1.85
+	local_manpower_modifier = -0.075
+	local_commerce_value_modifier = -0.075
 }
 travel_time8_0 = {
 	city_monthly_state_loyalty = 1.84
+	local_manpower_modifier = -0.08
+	local_commerce_value_modifier = -0.08
 }
 travel_time8_5 = {
 	city_monthly_state_loyalty = 1.83
+	local_manpower_modifier = -0.085
+	local_commerce_value_modifier = -0.085
 }
 travel_time9_0 = {
 	city_monthly_state_loyalty = 1.82
+	local_manpower_modifier = -0.09
+	local_commerce_value_modifier = -0.09
 }
 travel_time9_5 = {
 	city_monthly_state_loyalty = 1.81
+	local_manpower_modifier = -0.095
+	local_commerce_value_modifier = -0.095
 }
 travel_time10_0 = {
 	city_monthly_state_loyalty = 1.8
+	local_manpower_modifier = -0.1
+	local_commerce_value_modifier = -0.1
 }
 travel_time10_5 = {
 	city_monthly_state_loyalty = 1.79
+	local_manpower_modifier = -0.105
+	local_commerce_value_modifier = -0.105
 }
 travel_time11_0 = {
 	city_monthly_state_loyalty = 1.78
+	local_manpower_modifier = -0.11
+	local_commerce_value_modifier = -0.11
 }
 travel_time11_5 = {
 	city_monthly_state_loyalty = 1.77
+	local_manpower_modifier = -0.115
+	local_commerce_value_modifier = -0.115
 }
 travel_time12_0 = {
 	city_monthly_state_loyalty = 1.76
+	local_manpower_modifier = -0.12
+	local_commerce_value_modifier = -0.12
 }
 travel_time12_5 = {
 	city_monthly_state_loyalty = 1.75
+	local_manpower_modifier = -0.125
+	local_commerce_value_modifier = -0.125
 }
 travel_time13_0 = {
 	city_monthly_state_loyalty = 1.74
+	local_manpower_modifier = -0.13
+	local_commerce_value_modifier = -0.13
 }
 travel_time13_5 = {
 	city_monthly_state_loyalty = 1.73
+	local_manpower_modifier = -0.135
+	local_commerce_value_modifier = -0.135
 }
 travel_time14_0 = {
 	city_monthly_state_loyalty = 1.72
+	local_manpower_modifier = -0.14
+	local_commerce_value_modifier = -0.14
 }
 travel_time14_5 = {
 	city_monthly_state_loyalty = 1.71
+	local_manpower_modifier = -0.145
+	local_commerce_value_modifier = -0.145
 }
 travel_time15_0 = {
 	city_monthly_state_loyalty = 1.7
+	local_manpower_modifier = -0.15
+	local_commerce_value_modifier = -0.15
 }
 travel_time15_5 = {
 	city_monthly_state_loyalty = 1.69
+	local_manpower_modifier = -0.155
+	local_commerce_value_modifier = -0.155
 }
 travel_time16_0 = {
 	city_monthly_state_loyalty = 1.68
+	local_manpower_modifier = -0.16
+	local_commerce_value_modifier = -0.16
 }
 travel_time16_5 = {
 	city_monthly_state_loyalty = 1.67
+	local_manpower_modifier = -0.165
+	local_commerce_value_modifier = -0.165
 }
 travel_time17_0 = {
 	city_monthly_state_loyalty = 1.66
+	local_manpower_modifier = -0.17
+	local_commerce_value_modifier = -0.17
 }
 travel_time17_5 = {
 	city_monthly_state_loyalty = 1.65
+	local_manpower_modifier = -0.175
+	local_commerce_value_modifier = -0.175
 }
 travel_time18_0 = {
 	city_monthly_state_loyalty = 1.6400000000000001
+	local_manpower_modifier = -0.18
+	local_commerce_value_modifier = -0.18
 }
 travel_time18_5 = {
 	city_monthly_state_loyalty = 1.63
+	local_manpower_modifier = -0.185
+	local_commerce_value_modifier = -0.185
 }
 travel_time19_0 = {
 	city_monthly_state_loyalty = 1.62
+	local_manpower_modifier = -0.19
+	local_commerce_value_modifier = -0.19
 }
 travel_time19_5 = {
 	city_monthly_state_loyalty = 1.6099999999999999
+	local_manpower_modifier = -0.195
+	local_commerce_value_modifier = -0.195
 }
 travel_time20_0 = {
 	city_monthly_state_loyalty = 1.6
+	local_manpower_modifier = -0.2
+	local_commerce_value_modifier = -0.2
 }
 travel_time20_5 = {
 	city_monthly_state_loyalty = 1.59
+	local_manpower_modifier = -0.205
+	local_commerce_value_modifier = -0.205
 }
 travel_time21_0 = {
 	city_monthly_state_loyalty = 1.58
+	local_manpower_modifier = -0.21
+	local_commerce_value_modifier = -0.21
 }
 travel_time21_5 = {
 	city_monthly_state_loyalty = 1.57
+	local_manpower_modifier = -0.215
+	local_commerce_value_modifier = -0.215
 }
 travel_time22_0 = {
 	city_monthly_state_loyalty = 1.56
+	local_manpower_modifier = -0.22
+	local_commerce_value_modifier = -0.22
 }
 travel_time22_5 = {
 	city_monthly_state_loyalty = 1.55
+	local_manpower_modifier = -0.225
+	local_commerce_value_modifier = -0.225
 }
 travel_time23_0 = {
 	city_monthly_state_loyalty = 1.54
+	local_manpower_modifier = -0.23
+	local_commerce_value_modifier = -0.23
 }
 travel_time23_5 = {
 	city_monthly_state_loyalty = 1.53
+	local_manpower_modifier = -0.235
+	local_commerce_value_modifier = -0.235
 }
 travel_time24_0 = {
 	city_monthly_state_loyalty = 1.52
+	local_manpower_modifier = -0.24
+	local_commerce_value_modifier = -0.24
 }
 travel_time24_5 = {
 	city_monthly_state_loyalty = 1.51
+	local_manpower_modifier = -0.245
+	local_commerce_value_modifier = -0.245
 }
 travel_time25_0 = {
 	city_monthly_state_loyalty = 1.5
+	local_manpower_modifier = -0.25
+	local_commerce_value_modifier = -0.25
 }
 travel_time25_5 = {
 	city_monthly_state_loyalty = 1.49
+	local_manpower_modifier = -0.255
+	local_commerce_value_modifier = -0.255
 }
 travel_time26_0 = {
 	city_monthly_state_loyalty = 1.48
+	local_manpower_modifier = -0.26
+	local_commerce_value_modifier = -0.26
 }
 travel_time26_5 = {
 	city_monthly_state_loyalty = 1.47
+	local_manpower_modifier = -0.265
+	local_commerce_value_modifier = -0.265
 }
 travel_time27_0 = {
 	city_monthly_state_loyalty = 1.46
+	local_manpower_modifier = -0.27
+	local_commerce_value_modifier = -0.27
 }
 travel_time27_5 = {
 	city_monthly_state_loyalty = 1.45
+	local_manpower_modifier = -0.275
+	local_commerce_value_modifier = -0.275
 }
 travel_time28_0 = {
 	city_monthly_state_loyalty = 1.44
+	local_manpower_modifier = -0.28
+	local_commerce_value_modifier = -0.28
 }
 travel_time28_5 = {
 	city_monthly_state_loyalty = 1.4300000000000002
+	local_manpower_modifier = -0.285
+	local_commerce_value_modifier = -0.285
 }
 travel_time29_0 = {
 	city_monthly_state_loyalty = 1.42
+	local_manpower_modifier = -0.29
+	local_commerce_value_modifier = -0.29
 }
 travel_time29_5 = {
 	city_monthly_state_loyalty = 1.4100000000000001
+	local_manpower_modifier = -0.295
+	local_commerce_value_modifier = -0.295
 }
 travel_time30_0 = {
 	city_monthly_state_loyalty = 1.4
+	local_manpower_modifier = -0.3
+	local_commerce_value_modifier = -0.3
 }
 travel_time30_5 = {
 	city_monthly_state_loyalty = 1.3900000000000001
+	local_manpower_modifier = -0.305
+	local_commerce_value_modifier = -0.305
 }
 travel_time31_0 = {
 	city_monthly_state_loyalty = 1.38
+	local_manpower_modifier = -0.31
+	local_commerce_value_modifier = -0.31
 }
 travel_time31_5 = {
 	city_monthly_state_loyalty = 1.37
+	local_manpower_modifier = -0.315
+	local_commerce_value_modifier = -0.315
 }
 travel_time32_0 = {
 	city_monthly_state_loyalty = 1.3599999999999999
+	local_manpower_modifier = -0.32
+	local_commerce_value_modifier = -0.32
 }
 travel_time32_5 = {
 	city_monthly_state_loyalty = 1.35
+	local_manpower_modifier = -0.325
+	local_commerce_value_modifier = -0.325
 }
 travel_time33_0 = {
 	city_monthly_state_loyalty = 1.3399999999999999
+	local_manpower_modifier = -0.33
+	local_commerce_value_modifier = -0.33
 }
 travel_time33_5 = {
 	city_monthly_state_loyalty = 1.33
+	local_manpower_modifier = -0.335
+	local_commerce_value_modifier = -0.335
 }
 travel_time34_0 = {
 	city_monthly_state_loyalty = 1.3199999999999998
+	local_manpower_modifier = -0.34
+	local_commerce_value_modifier = -0.34
 }
 travel_time34_5 = {
 	city_monthly_state_loyalty = 1.31
+	local_manpower_modifier = -0.345
+	local_commerce_value_modifier = -0.345
 }
 travel_time35_0 = {
 	city_monthly_state_loyalty = 1.3
+	local_manpower_modifier = -0.35
+	local_commerce_value_modifier = -0.35
 }
 travel_time35_5 = {
 	city_monthly_state_loyalty = 1.29
+	local_manpower_modifier = -0.355
+	local_commerce_value_modifier = -0.355
 }
 travel_time36_0 = {
 	city_monthly_state_loyalty = 1.28
+	local_manpower_modifier = -0.36
+	local_commerce_value_modifier = -0.36
 }
 travel_time36_5 = {
 	city_monthly_state_loyalty = 1.27
+	local_manpower_modifier = -0.365
+	local_commerce_value_modifier = -0.365
 }
 travel_time37_0 = {
 	city_monthly_state_loyalty = 1.26
+	local_manpower_modifier = -0.37
+	local_commerce_value_modifier = -0.37
 }
 travel_time37_5 = {
 	city_monthly_state_loyalty = 1.25
+	local_manpower_modifier = -0.375
+	local_commerce_value_modifier = -0.375
 }
 travel_time38_0 = {
 	city_monthly_state_loyalty = 1.24
+	local_manpower_modifier = -0.38
+	local_commerce_value_modifier = -0.38
 }
 travel_time38_5 = {
 	city_monthly_state_loyalty = 1.23
+	local_manpower_modifier = -0.385
+	local_commerce_value_modifier = -0.385
 }
 travel_time39_0 = {
 	city_monthly_state_loyalty = 1.22
+	local_manpower_modifier = -0.39
+	local_commerce_value_modifier = -0.39
 }
 travel_time39_5 = {
 	city_monthly_state_loyalty = 1.21
+	local_manpower_modifier = -0.395
+	local_commerce_value_modifier = -0.395
 }
 travel_time40_0 = {
 	city_monthly_state_loyalty = 1.2
+	local_manpower_modifier = -0.4
+	local_commerce_value_modifier = -0.4
 }
 travel_time40_5 = {
 	city_monthly_state_loyalty = 1.19
+	local_manpower_modifier = -0.405
+	local_commerce_value_modifier = -0.405
 }
 travel_time41_0 = {
 	city_monthly_state_loyalty = 1.1800000000000002
+	local_manpower_modifier = -0.41
+	local_commerce_value_modifier = -0.41
 }
 travel_time41_5 = {
 	city_monthly_state_loyalty = 1.17
+	local_manpower_modifier = -0.415
+	local_commerce_value_modifier = -0.415
 }
 travel_time42_0 = {
 	city_monthly_state_loyalty = 1.1600000000000001
+	local_manpower_modifier = -0.42
+	local_commerce_value_modifier = -0.42
 }
 travel_time42_5 = {
 	city_monthly_state_loyalty = 1.15
+	local_manpower_modifier = -0.425
+	local_commerce_value_modifier = -0.425
 }
 travel_time43_0 = {
 	city_monthly_state_loyalty = 1.1400000000000001
+	local_manpower_modifier = -0.43
+	local_commerce_value_modifier = -0.43
 }
 travel_time43_5 = {
 	city_monthly_state_loyalty = 1.13
+	local_manpower_modifier = -0.435
+	local_commerce_value_modifier = -0.435
 }
 travel_time44_0 = {
 	city_monthly_state_loyalty = 1.12
+	local_manpower_modifier = -0.44
+	local_commerce_value_modifier = -0.44
 }
 travel_time44_5 = {
 	city_monthly_state_loyalty = 1.1099999999999999
+	local_manpower_modifier = -0.445
+	local_commerce_value_modifier = -0.445
 }
 travel_time45_0 = {
 	city_monthly_state_loyalty = 1.1
+	local_manpower_modifier = -0.45
+	local_commerce_value_modifier = -0.45
 }
 travel_time45_5 = {
 	city_monthly_state_loyalty = 1.0899999999999999
+	local_manpower_modifier = -0.455
+	local_commerce_value_modifier = -0.455
 }
 travel_time46_0 = {
 	city_monthly_state_loyalty = 1.08
+	local_manpower_modifier = -0.46
+	local_commerce_value_modifier = -0.46
 }
 travel_time46_5 = {
 	city_monthly_state_loyalty = 1.0699999999999998
+	local_manpower_modifier = -0.465
+	local_commerce_value_modifier = -0.465
 }
 travel_time47_0 = {
 	city_monthly_state_loyalty = 1.06
+	local_manpower_modifier = -0.47
+	local_commerce_value_modifier = -0.47
 }
 travel_time47_5 = {
 	city_monthly_state_loyalty = 1.05
+	local_manpower_modifier = -0.475
+	local_commerce_value_modifier = -0.475
 }
 travel_time48_0 = {
 	city_monthly_state_loyalty = 1.04
+	local_manpower_modifier = -0.48
+	local_commerce_value_modifier = -0.48
 }
 travel_time48_5 = {
 	city_monthly_state_loyalty = 1.03
+	local_manpower_modifier = -0.485
+	local_commerce_value_modifier = -0.485
 }
 travel_time49_0 = {
 	city_monthly_state_loyalty = 1.02
+	local_manpower_modifier = -0.49
+	local_commerce_value_modifier = -0.49
 }
 travel_time49_5 = {
 	city_monthly_state_loyalty = 1.01
+	local_manpower_modifier = -0.495
+	local_commerce_value_modifier = -0.495
 }
 travel_time50_0 = {
 	city_monthly_state_loyalty = 1.0
+	local_manpower_modifier = -0.5
+	local_commerce_value_modifier = -0.5
 }
 travel_time50_5 = {
 	city_monthly_state_loyalty = 0.99
+	local_manpower_modifier = -0.505
+	local_commerce_value_modifier = -0.505
 }
 travel_time51_0 = {
 	city_monthly_state_loyalty = 0.98
+	local_manpower_modifier = -0.51
+	local_commerce_value_modifier = -0.51
 }
 travel_time51_5 = {
 	city_monthly_state_loyalty = 0.97
+	local_manpower_modifier = -0.515
+	local_commerce_value_modifier = -0.515
 }
 travel_time52_0 = {
 	city_monthly_state_loyalty = 0.96
+	local_manpower_modifier = -0.52
+	local_commerce_value_modifier = -0.52
 }
 travel_time52_5 = {
 	city_monthly_state_loyalty = 0.95
+	local_manpower_modifier = -0.525
+	local_commerce_value_modifier = -0.525
 }
 travel_time53_0 = {
 	city_monthly_state_loyalty = 0.94
+	local_manpower_modifier = -0.53
+	local_commerce_value_modifier = -0.53
 }
 travel_time53_5 = {
 	city_monthly_state_loyalty = 0.9299999999999999
+	local_manpower_modifier = -0.535
+	local_commerce_value_modifier = -0.535
 }
 travel_time54_0 = {
 	city_monthly_state_loyalty = 0.9199999999999999
+	local_manpower_modifier = -0.54
+	local_commerce_value_modifier = -0.54
 }
 travel_time54_5 = {
 	city_monthly_state_loyalty = 0.9099999999999999
+	local_manpower_modifier = -0.545
+	local_commerce_value_modifier = -0.545
 }
 travel_time55_0 = {
 	city_monthly_state_loyalty = 0.8999999999999999
+	local_manpower_modifier = -0.55
+	local_commerce_value_modifier = -0.55
 }
 travel_time55_5 = {
 	city_monthly_state_loyalty = 0.8899999999999999
+	local_manpower_modifier = -0.555
+	local_commerce_value_modifier = -0.555
 }
 travel_time56_0 = {
 	city_monthly_state_loyalty = 0.8799999999999999
+	local_manpower_modifier = -0.56
+	local_commerce_value_modifier = -0.56
 }
 travel_time56_5 = {
 	city_monthly_state_loyalty = 0.8700000000000001
+	local_manpower_modifier = -0.565
+	local_commerce_value_modifier = -0.565
 }
 travel_time57_0 = {
 	city_monthly_state_loyalty = 0.8600000000000001
+	local_manpower_modifier = -0.57
+	local_commerce_value_modifier = -0.57
 }
 travel_time57_5 = {
 	city_monthly_state_loyalty = 0.8500000000000001
+	local_manpower_modifier = -0.575
+	local_commerce_value_modifier = -0.575
 }
 travel_time58_0 = {
 	city_monthly_state_loyalty = 0.8400000000000001
+	local_manpower_modifier = -0.58
+	local_commerce_value_modifier = -0.58
 }
 travel_time58_5 = {
 	city_monthly_state_loyalty = 0.8300000000000001
+	local_manpower_modifier = -0.585
+	local_commerce_value_modifier = -0.585
 }
 travel_time59_0 = {
 	city_monthly_state_loyalty = 0.8200000000000001
+	local_manpower_modifier = -0.59
+	local_commerce_value_modifier = -0.59
 }
 travel_time59_5 = {
 	city_monthly_state_loyalty = 0.81
+	local_manpower_modifier = -0.595
+	local_commerce_value_modifier = -0.595
 }
 travel_time60_0 = {
 	city_monthly_state_loyalty = 0.8
+	local_manpower_modifier = -0.6
+	local_commerce_value_modifier = -0.6
 }
 travel_time60_5 = {
 	city_monthly_state_loyalty = 0.79
+	local_manpower_modifier = -0.605
+	local_commerce_value_modifier = -0.605
 }
 travel_time61_0 = {
 	city_monthly_state_loyalty = 0.78
+	local_manpower_modifier = -0.61
+	local_commerce_value_modifier = -0.61
 }
 travel_time61_5 = {
 	city_monthly_state_loyalty = 0.77
+	local_manpower_modifier = -0.615
+	local_commerce_value_modifier = -0.615
 }
 travel_time62_0 = {
 	city_monthly_state_loyalty = 0.76
+	local_manpower_modifier = -0.62
+	local_commerce_value_modifier = -0.62
 }
 travel_time62_5 = {
 	city_monthly_state_loyalty = 0.75
+	local_manpower_modifier = -0.625
+	local_commerce_value_modifier = -0.625
 }
 travel_time63_0 = {
 	city_monthly_state_loyalty = 0.74
+	local_manpower_modifier = -0.63
+	local_commerce_value_modifier = -0.63
 }
 travel_time63_5 = {
 	city_monthly_state_loyalty = 0.73
+	local_manpower_modifier = -0.635
+	local_commerce_value_modifier = -0.635
 }
 travel_time64_0 = {
 	city_monthly_state_loyalty = 0.72
+	local_manpower_modifier = -0.64
+	local_commerce_value_modifier = -0.64
 }
 travel_time64_5 = {
 	city_monthly_state_loyalty = 0.71
+	local_manpower_modifier = -0.645
+	local_commerce_value_modifier = -0.645
 }
 travel_time65_0 = {
 	city_monthly_state_loyalty = 0.7
+	local_manpower_modifier = -0.65
+	local_commerce_value_modifier = -0.65
 }
 travel_time65_5 = {
 	city_monthly_state_loyalty = 0.69
+	local_manpower_modifier = -0.655
+	local_commerce_value_modifier = -0.655
 }
 travel_time66_0 = {
 	city_monthly_state_loyalty = 0.6799999999999999
+	local_manpower_modifier = -0.66
+	local_commerce_value_modifier = -0.66
 }
 travel_time66_5 = {
 	city_monthly_state_loyalty = 0.6699999999999999
+	local_manpower_modifier = -0.665
+	local_commerce_value_modifier = -0.665
 }
 travel_time67_0 = {
 	city_monthly_state_loyalty = 0.6599999999999999
+	local_manpower_modifier = -0.67
+	local_commerce_value_modifier = -0.67
 }
 travel_time67_5 = {
 	city_monthly_state_loyalty = 0.6499999999999999
+	local_manpower_modifier = -0.675
+	local_commerce_value_modifier = -0.675
 }
 travel_time68_0 = {
 	city_monthly_state_loyalty = 0.6399999999999999
+	local_manpower_modifier = -0.68
+	local_commerce_value_modifier = -0.68
 }
 travel_time68_5 = {
 	city_monthly_state_loyalty = 0.6299999999999999
+	local_manpower_modifier = -0.685
+	local_commerce_value_modifier = -0.685
 }
 travel_time69_0 = {
 	city_monthly_state_loyalty = 0.6200000000000001
+	local_manpower_modifier = -0.69
+	local_commerce_value_modifier = -0.69
 }
 travel_time69_5 = {
 	city_monthly_state_loyalty = 0.6100000000000001
+	local_manpower_modifier = -0.695
+	local_commerce_value_modifier = -0.695
 }
 travel_time70_0 = {
 	city_monthly_state_loyalty = 0.6000000000000001
+	local_manpower_modifier = -0.7
+	local_commerce_value_modifier = -0.7
 }
 travel_time70_5 = {
 	city_monthly_state_loyalty = 0.5900000000000001
+	local_manpower_modifier = -0.705
+	local_commerce_value_modifier = -0.705
 }
 travel_time71_0 = {
 	city_monthly_state_loyalty = 0.5800000000000001
+	local_manpower_modifier = -0.71
+	local_commerce_value_modifier = -0.71
 }
 travel_time71_5 = {
 	city_monthly_state_loyalty = 0.5700000000000001
+	local_manpower_modifier = -0.715
+	local_commerce_value_modifier = -0.715
 }
 travel_time72_0 = {
 	city_monthly_state_loyalty = 0.56
+	local_manpower_modifier = -0.72
+	local_commerce_value_modifier = -0.72
 }
 travel_time72_5 = {
 	city_monthly_state_loyalty = 0.55
+	local_manpower_modifier = -0.725
+	local_commerce_value_modifier = -0.725
 }
 travel_time73_0 = {
 	city_monthly_state_loyalty = 0.54
+	local_manpower_modifier = -0.73
+	local_commerce_value_modifier = -0.73
 }
 travel_time73_5 = {
 	city_monthly_state_loyalty = 0.53
+	local_manpower_modifier = -0.735
+	local_commerce_value_modifier = -0.735
 }
 travel_time74_0 = {
 	city_monthly_state_loyalty = 0.52
+	local_manpower_modifier = -0.74
+	local_commerce_value_modifier = -0.74
 }
 travel_time74_5 = {
 	city_monthly_state_loyalty = 0.51
+	local_manpower_modifier = -0.745
+	local_commerce_value_modifier = -0.745
 }
 travel_time75_0 = {
 	city_monthly_state_loyalty = 0.5
+	local_manpower_modifier = -0.75
+	local_commerce_value_modifier = -0.75
 }
 travel_time75_5 = {
 	city_monthly_state_loyalty = 0.49
+	local_manpower_modifier = -0.755
+	local_commerce_value_modifier = -0.755
 }
 travel_time76_0 = {
 	city_monthly_state_loyalty = 0.48
+	local_manpower_modifier = -0.76
+	local_commerce_value_modifier = -0.76
 }
 travel_time76_5 = {
 	city_monthly_state_loyalty = 0.47
+	local_manpower_modifier = -0.765
+	local_commerce_value_modifier = -0.765
 }
 travel_time77_0 = {
 	city_monthly_state_loyalty = 0.45999999999999996
+	local_manpower_modifier = -0.77
+	local_commerce_value_modifier = -0.77
 }
 travel_time77_5 = {
 	city_monthly_state_loyalty = 0.44999999999999996
+	local_manpower_modifier = -0.775
+	local_commerce_value_modifier = -0.775
 }
 travel_time78_0 = {
 	city_monthly_state_loyalty = 0.43999999999999995
+	local_manpower_modifier = -0.78
+	local_commerce_value_modifier = -0.78
 }
 travel_time78_5 = {
 	city_monthly_state_loyalty = 0.42999999999999994
+	local_manpower_modifier = -0.785
+	local_commerce_value_modifier = -0.785
 }
 travel_time79_0 = {
 	city_monthly_state_loyalty = 0.41999999999999993
+	local_manpower_modifier = -0.79
+	local_commerce_value_modifier = -0.79
 }
 travel_time79_5 = {
 	city_monthly_state_loyalty = 0.4099999999999999
+	local_manpower_modifier = -0.795
+	local_commerce_value_modifier = -0.795
 }
 travel_time80_0 = {
 	city_monthly_state_loyalty = 0.3999999999999999
+	local_manpower_modifier = -0.8
+	local_commerce_value_modifier = -0.8
 }
 travel_time80_5 = {
 	city_monthly_state_loyalty = 0.3899999999999999
+	local_manpower_modifier = -0.805
+	local_commerce_value_modifier = -0.805
 }
 travel_time81_0 = {
 	city_monthly_state_loyalty = 0.3799999999999999
+	local_manpower_modifier = -0.81
+	local_commerce_value_modifier = -0.81
 }
 travel_time81_5 = {
 	city_monthly_state_loyalty = 0.3700000000000001
+	local_manpower_modifier = -0.815
+	local_commerce_value_modifier = -0.815
 }
 travel_time82_0 = {
 	city_monthly_state_loyalty = 0.3600000000000001
+	local_manpower_modifier = -0.82
+	local_commerce_value_modifier = -0.82
 }
 travel_time82_5 = {
 	city_monthly_state_loyalty = 0.3500000000000001
+	local_manpower_modifier = -0.825
+	local_commerce_value_modifier = -0.825
 }
 travel_time83_0 = {
 	city_monthly_state_loyalty = 0.3400000000000001
+	local_manpower_modifier = -0.83
+	local_commerce_value_modifier = -0.83
 }
 travel_time83_5 = {
 	city_monthly_state_loyalty = 0.33000000000000007
+	local_manpower_modifier = -0.835
+	local_commerce_value_modifier = -0.835
 }
 travel_time84_0 = {
 	city_monthly_state_loyalty = 0.32000000000000006
+	local_manpower_modifier = -0.84
+	local_commerce_value_modifier = -0.84
 }
 travel_time84_5 = {
 	city_monthly_state_loyalty = 0.31000000000000005
+	local_manpower_modifier = -0.845
+	local_commerce_value_modifier = -0.845
 }
 travel_time85_0 = {
 	city_monthly_state_loyalty = 0.30000000000000004
+	local_manpower_modifier = -0.85
+	local_commerce_value_modifier = -0.85
 }
 travel_time85_5 = {
 	city_monthly_state_loyalty = 0.29000000000000004
+	local_manpower_modifier = -0.855
+	local_commerce_value_modifier = -0.855
 }
 travel_time86_0 = {
 	city_monthly_state_loyalty = 0.28
+	local_manpower_modifier = -0.86
+	local_commerce_value_modifier = -0.86
 }
 travel_time86_5 = {
 	city_monthly_state_loyalty = 0.27
+	local_manpower_modifier = -0.865
+	local_commerce_value_modifier = -0.865
 }
 travel_time87_0 = {
 	city_monthly_state_loyalty = 0.26
+	local_manpower_modifier = -0.87
+	local_commerce_value_modifier = -0.87
 }
 travel_time87_5 = {
 	city_monthly_state_loyalty = 0.25
+	local_manpower_modifier = -0.875
+	local_commerce_value_modifier = -0.875
 }
 travel_time88_0 = {
 	city_monthly_state_loyalty = 0.24
+	local_manpower_modifier = -0.88
+	local_commerce_value_modifier = -0.88
 }
 travel_time88_5 = {
 	city_monthly_state_loyalty = 0.22999999999999998
+	local_manpower_modifier = -0.885
+	local_commerce_value_modifier = -0.885
 }
 travel_time89_0 = {
 	city_monthly_state_loyalty = 0.21999999999999997
+	local_manpower_modifier = -0.89
+	local_commerce_value_modifier = -0.89
 }
 travel_time89_5 = {
 	city_monthly_state_loyalty = 0.20999999999999996
+	local_manpower_modifier = -0.895
+	local_commerce_value_modifier = -0.895
 }
 travel_time90_0 = {
 	city_monthly_state_loyalty = 0.19999999999999996
+	local_manpower_modifier = -0.9
+	local_commerce_value_modifier = -0.9
 }
 travel_time90_5 = {
 	city_monthly_state_loyalty = 0.18999999999999995
+	local_manpower_modifier = -0.905
+	local_commerce_value_modifier = -0.905
 }
 travel_time91_0 = {
 	city_monthly_state_loyalty = 0.17999999999999994
+	local_manpower_modifier = -0.91
+	local_commerce_value_modifier = -0.91
 }
 travel_time91_5 = {
 	city_monthly_state_loyalty = 0.16999999999999993
+	local_manpower_modifier = -0.915
+	local_commerce_value_modifier = -0.915
 }
 travel_time92_0 = {
 	city_monthly_state_loyalty = 0.15999999999999992
+	local_manpower_modifier = -0.92
+	local_commerce_value_modifier = -0.92
 }
 travel_time92_5 = {
 	city_monthly_state_loyalty = 0.1499999999999999
+	local_manpower_modifier = -0.925
+	local_commerce_value_modifier = -0.925
 }
 travel_time93_0 = {
 	city_monthly_state_loyalty = 0.1399999999999999
+	local_manpower_modifier = -0.93
+	local_commerce_value_modifier = -0.93
 }
 travel_time93_5 = {
 	city_monthly_state_loyalty = 0.1299999999999999
+	local_manpower_modifier = -0.935
+	local_commerce_value_modifier = -0.935
 }
 travel_time94_0 = {
 	city_monthly_state_loyalty = 0.1200000000000001
+	local_manpower_modifier = -0.94
+	local_commerce_value_modifier = -0.94
 }
 travel_time94_5 = {
 	city_monthly_state_loyalty = 0.1100000000000001
+	local_manpower_modifier = -0.945
+	local_commerce_value_modifier = -0.945
 }
 travel_time95_0 = {
 	city_monthly_state_loyalty = 0.10000000000000009
+	local_manpower_modifier = -0.95
+	local_commerce_value_modifier = -0.95
 }
 travel_time95_5 = {
 	city_monthly_state_loyalty = 0.09000000000000008
+	local_manpower_modifier = -0.955
+	local_commerce_value_modifier = -0.955
 }
 travel_time96_0 = {
 	city_monthly_state_loyalty = 0.08000000000000007
+	local_manpower_modifier = -0.96
+	local_commerce_value_modifier = -0.96
 }
 travel_time96_5 = {
 	city_monthly_state_loyalty = 0.07000000000000006
+	local_manpower_modifier = -0.965
+	local_commerce_value_modifier = -0.965
 }
 travel_time97_0 = {
 	city_monthly_state_loyalty = 0.06000000000000005
+	local_manpower_modifier = -0.97
+	local_commerce_value_modifier = -0.97
 }
 travel_time97_5 = {
 	city_monthly_state_loyalty = 0.050000000000000044
+	local_manpower_modifier = -0.975
+	local_commerce_value_modifier = -0.975
 }
 travel_time98_0 = {
 	city_monthly_state_loyalty = 0.040000000000000036
+	local_manpower_modifier = -0.98
+	local_commerce_value_modifier = -0.98
 }
 travel_time98_5 = {
 	city_monthly_state_loyalty = 0.030000000000000027
+	local_manpower_modifier = -0.985
+	local_commerce_value_modifier = -0.985
 }
 travel_time99_0 = {
 	city_monthly_state_loyalty = 0.020000000000000018
+	local_manpower_modifier = -0.99
+	local_commerce_value_modifier = -0.99
 }
 travel_time99_5 = {
 	city_monthly_state_loyalty = 0.010000000000000009
+	local_manpower_modifier = -0.995
+	local_commerce_value_modifier = -0.995
 }
 travel_time100_0 = {
 	city_monthly_state_loyalty = 0.0
+	local_manpower_modifier = -1.0
+	local_commerce_value_modifier = -1.0
 }

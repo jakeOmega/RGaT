@@ -1,0 +1,13 @@
+city_state_capital = {
+	local_manpower_modifier = 3
+	local_population_capacity_modifier = 0.5
+}
+
+league_home_state = {
+	local_manpower_modifier = 1
+	local_population_capacity_modifier = 0.1
+}
+
+nation_primary_culture = {
+	local_manpower_modifier = 0.5
+}

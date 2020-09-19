@@ -9,7 +9,7 @@
 		custom_tooltip = "Province Details:
 Annual Growth Rate: [THIS.GetVariable('annual_growth_rate').GetValue|2]%/year
 Wealth Per Capita [THIS.GetVariable('per_capita_wealth').GetValue|2]
-Civilization wealth decay: [THIS.GetVariable('decay_change').GetValue|2]
+Infrastructure change: [THIS.GetVariable('infrastructure_change').GetValue|2] | [THIS.GetVariable('province_infrastructure').GetValue|2]
 First pop food production: [THIS.GetVariable('low_pop_food_production').GetValue|2]
 Marginal food production: [THIS.GetVariable('marginal_food_production').GetValue|2]
 Wealth food factor: [THIS.GetVariable('wealth_factor').GetValue|2]
