@@ -89,7 +89,8 @@ wealth_factor = {
 		add = 7.0
 	}
 	else = {
-		add = 10
+		multiply = 0
+		add = 15
 	}
 	multiply = 0.25
 	add = 0.25
@@ -687,7 +688,7 @@ urban_wealth_change = {
 			divide = 500
 			add = 0.2
 		}
-		add = wealth_factor
+		add = 0.01
 	}
 	divide = 12
 }
@@ -888,31 +889,31 @@ infrastructure_decay_change = {
 		value = 0
 		if = {
 			limit = {civilization_value < 10}
-			add = -0.03
+			add = -0.0045
 		}
 		else_if = {
 			limit = {civilization_value < 20}
-			add = -0.02
+			add = -0.004
 		}
 		else_if = {
 			limit = {civilization_value < 30}
-			add = -0.01
+			add = -0.0035
 		}
 		else_if = {
 			limit = {civilization_value < 35}
-			add = -0.008
-		}
-		else_if = {
-			limit = {civilization_value < 40}
-			add = -0.005
-		}
-		else_if = {
-			limit = {civilization_value < 45}
 			add = -0.003
 		}
 		else_if = {
-			limit = {civilization_value < 50}
+			limit = {civilization_value < 40}
+			add = -0.0025
+		}
+		else_if = {
+			limit = {civilization_value < 45}
 			add = -0.002
+		}
+		else_if = {
+			limit = {civilization_value < 50}
+			add = -0.0015
 		}
 		else = {
 			add = -0.001
@@ -973,19 +974,35 @@ capital_wealth_extraction = {
 	min = 0
 }
 
+normalized_wealth_change = {
+	value = var:province_wealth
+	subtract = var:last_province_wealth
+	divide = var:province_wealth
+	multiply = 12
+}
+
+extra_infra_investment = {
+	value = var:province_wealth
+	multiply = {
+		value = normalized_wealth_change
+		multiply = 0.25
+		add = 0.01
+	}
+	divide = 12
+}
+
+max_infra_investment = {
+	value = var:province_wealth
+	multiply = 0.25
+	divide = 12.0
+}
+
 province_infrastrucure_investment = {
 	value = infrastructure_decay_change
 	multiply = -1
-	add = {
-		value = var:province_wealth
-		multiply = 0.02
-		divide = 12.0
-	}
-	max = {
-		value = var:province_wealth
-		multiply = 0.05
-		divide = 12.0
-	}
+	add = extra_infra_investment
+	min = 0
+	max = max_infra_investment
 }
 
 province_wealth_change = {
@@ -1067,5 +1084,5 @@ capital_wealth_gain = {
 
 investment_amount = {
 	value = num_of_foundry_building
-	multiply = 90
+	multiply = 450
 }

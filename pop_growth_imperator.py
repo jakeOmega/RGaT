@@ -316,7 +316,7 @@ if run_wealth:
     for level in wealth_levels:
         level_name = level.replace('.', '_').replace('-','n')
         modifier = "province_wealth" + level_name + ' = {'
-        modifier += "\n\tlocal_migration_attraction = " + str(0.01 * float(level))
+        modifier += "\n\tlocal_migration_attraction = " + str(0.0025 * float(level))
         modifier += '\n}'
         modifier_output += '\n' + modifier  
         
@@ -363,6 +363,17 @@ province_wealth.1 = {
                 name = province_infrastructure
                 value = 0
             }
+        }
+        if = {
+            limit = {NOT = {has_variable = last_province_wealth}}
+            set_variable = {
+                name = last_province_wealth
+                value = 0
+            }
+        }
+        set_variable = {
+            name = cached_province_wealth
+            value = var:province_wealth
         }
         set_variable = {
             name = infrastructure_change
@@ -419,6 +430,10 @@ province_wealth.1 = {
                     add = ROOT.capital_wealth_extraction
                 }
             }
+        }
+        set_variable = {
+            name = last_province_wealth
+            value = var:cached_province_wealth
         }
     }
 }
@@ -507,7 +522,7 @@ province_wealth.3 = {
             }
             else = {
             '''
-    event_output += binary_search_output(list(map(str, range(100, -1, -1))), 4, 'map_mode', 'var:per_capita_wealth', 'set_trade_goods', pre_modifier = ' = ', post_modifier = '', mapping_func = lambda x: 50 - x * 0.5)
+    event_output += binary_search_output(list(map(str, range(100, -1, -1))), 4, 'map_mode', 'var:per_capita_wealth', 'set_trade_goods', pre_modifier = ' = ', post_modifier = '', mapping_func = lambda x: 80 - x * 0.8)
     event_output += '''    
             }    
         }

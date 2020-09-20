@@ -3,2764 +3,2764 @@ province_wealth0 = {
 	local_migration_attraction = 0.0
 }
 province_wealth1 = {
-	local_migration_attraction = 0.01
+	local_migration_attraction = 0.0025
 }
 province_wealth2 = {
-	local_migration_attraction = 0.02
+	local_migration_attraction = 0.005
 }
 province_wealth3 = {
-	local_migration_attraction = 0.03
+	local_migration_attraction = 0.0075
 }
 province_wealth4 = {
-	local_migration_attraction = 0.04
+	local_migration_attraction = 0.01
 }
 province_wealth5 = {
-	local_migration_attraction = 0.05
+	local_migration_attraction = 0.0125
 }
 province_wealth6 = {
-	local_migration_attraction = 0.06
+	local_migration_attraction = 0.015
 }
 province_wealth7 = {
-	local_migration_attraction = 0.07
+	local_migration_attraction = 0.0175
 }
 province_wealth8 = {
-	local_migration_attraction = 0.08
+	local_migration_attraction = 0.02
 }
 province_wealth9 = {
-	local_migration_attraction = 0.09
+	local_migration_attraction = 0.0225
 }
 province_wealth10 = {
-	local_migration_attraction = 0.1
+	local_migration_attraction = 0.025
 }
 province_wealth11 = {
-	local_migration_attraction = 0.11
+	local_migration_attraction = 0.0275
 }
 province_wealth12 = {
-	local_migration_attraction = 0.12
+	local_migration_attraction = 0.03
 }
 province_wealth13 = {
-	local_migration_attraction = 0.13
+	local_migration_attraction = 0.0325
 }
 province_wealth14 = {
-	local_migration_attraction = 0.14
+	local_migration_attraction = 0.035
 }
 province_wealth15 = {
-	local_migration_attraction = 0.15
+	local_migration_attraction = 0.0375
 }
 province_wealth16 = {
-	local_migration_attraction = 0.16
+	local_migration_attraction = 0.04
 }
 province_wealth17 = {
-	local_migration_attraction = 0.17
+	local_migration_attraction = 0.0425
 }
 province_wealth18 = {
-	local_migration_attraction = 0.18
+	local_migration_attraction = 0.045
 }
 province_wealth19 = {
-	local_migration_attraction = 0.19
+	local_migration_attraction = 0.0475
 }
 province_wealth20 = {
-	local_migration_attraction = 0.2
+	local_migration_attraction = 0.05
 }
 province_wealth21 = {
-	local_migration_attraction = 0.21
+	local_migration_attraction = 0.0525
 }
 province_wealth22 = {
-	local_migration_attraction = 0.22
+	local_migration_attraction = 0.055
 }
 province_wealth23 = {
-	local_migration_attraction = 0.23
+	local_migration_attraction = 0.0575
 }
 province_wealth24 = {
-	local_migration_attraction = 0.24
+	local_migration_attraction = 0.06
 }
 province_wealth25 = {
-	local_migration_attraction = 0.25
+	local_migration_attraction = 0.0625
 }
 province_wealth26 = {
-	local_migration_attraction = 0.26
+	local_migration_attraction = 0.065
 }
 province_wealth27 = {
-	local_migration_attraction = 0.27
+	local_migration_attraction = 0.0675
 }
 province_wealth28 = {
-	local_migration_attraction = 0.28
+	local_migration_attraction = 0.07
 }
 province_wealth29 = {
-	local_migration_attraction = 0.29
+	local_migration_attraction = 0.0725
 }
 province_wealth30 = {
-	local_migration_attraction = 0.3
+	local_migration_attraction = 0.075
 }
 province_wealth31 = {
-	local_migration_attraction = 0.31
+	local_migration_attraction = 0.0775
 }
 province_wealth32 = {
-	local_migration_attraction = 0.32
+	local_migration_attraction = 0.08
 }
 province_wealth33 = {
-	local_migration_attraction = 0.33
+	local_migration_attraction = 0.0825
 }
 province_wealth34 = {
-	local_migration_attraction = 0.34
+	local_migration_attraction = 0.085
 }
 province_wealth35 = {
-	local_migration_attraction = 0.35000000000000003
+	local_migration_attraction = 0.08750000000000001
 }
 province_wealth36 = {
-	local_migration_attraction = 0.36
+	local_migration_attraction = 0.09
 }
 province_wealth37 = {
-	local_migration_attraction = 0.37
+	local_migration_attraction = 0.0925
 }
 province_wealth38 = {
-	local_migration_attraction = 0.38
+	local_migration_attraction = 0.095
 }
 province_wealth39 = {
-	local_migration_attraction = 0.39
+	local_migration_attraction = 0.0975
 }
 province_wealth40 = {
-	local_migration_attraction = 0.4
+	local_migration_attraction = 0.1
 }
 province_wealth41 = {
-	local_migration_attraction = 0.41000000000000003
+	local_migration_attraction = 0.10250000000000001
 }
 province_wealth42 = {
-	local_migration_attraction = 0.42
+	local_migration_attraction = 0.105
 }
 province_wealth43 = {
-	local_migration_attraction = 0.43
+	local_migration_attraction = 0.1075
 }
 province_wealth44 = {
-	local_migration_attraction = 0.44
+	local_migration_attraction = 0.11
 }
 province_wealth45 = {
-	local_migration_attraction = 0.45
+	local_migration_attraction = 0.1125
 }
 province_wealth46 = {
-	local_migration_attraction = 0.46
+	local_migration_attraction = 0.115
 }
 province_wealth47 = {
-	local_migration_attraction = 0.47000000000000003
+	local_migration_attraction = 0.11750000000000001
 }
 province_wealth48 = {
-	local_migration_attraction = 0.48
+	local_migration_attraction = 0.12
 }
 province_wealth49 = {
-	local_migration_attraction = 0.49
+	local_migration_attraction = 0.1225
 }
 province_wealth50 = {
-	local_migration_attraction = 0.5
+	local_migration_attraction = 0.125
 }
 province_wealth51 = {
-	local_migration_attraction = 0.51
+	local_migration_attraction = 0.1275
 }
 province_wealth52 = {
-	local_migration_attraction = 0.52
+	local_migration_attraction = 0.13
 }
 province_wealth53 = {
-	local_migration_attraction = 0.53
+	local_migration_attraction = 0.1325
 }
 province_wealth54 = {
-	local_migration_attraction = 0.54
+	local_migration_attraction = 0.135
 }
 province_wealth55 = {
-	local_migration_attraction = 0.55
+	local_migration_attraction = 0.1375
 }
 province_wealth56 = {
-	local_migration_attraction = 0.56
+	local_migration_attraction = 0.14
 }
 province_wealth57 = {
-	local_migration_attraction = 0.5700000000000001
+	local_migration_attraction = 0.14250000000000002
 }
 province_wealth58 = {
-	local_migration_attraction = 0.58
+	local_migration_attraction = 0.145
 }
 province_wealth59 = {
-	local_migration_attraction = 0.59
+	local_migration_attraction = 0.1475
 }
 province_wealth60 = {
-	local_migration_attraction = 0.6
+	local_migration_attraction = 0.15
 }
 province_wealth61 = {
-	local_migration_attraction = 0.61
+	local_migration_attraction = 0.1525
 }
 province_wealth62 = {
-	local_migration_attraction = 0.62
+	local_migration_attraction = 0.155
 }
 province_wealth63 = {
-	local_migration_attraction = 0.63
+	local_migration_attraction = 0.1575
 }
 province_wealth64 = {
-	local_migration_attraction = 0.64
+	local_migration_attraction = 0.16
 }
 province_wealth65 = {
-	local_migration_attraction = 0.65
+	local_migration_attraction = 0.1625
 }
 province_wealth66 = {
-	local_migration_attraction = 0.66
+	local_migration_attraction = 0.165
 }
 province_wealth67 = {
-	local_migration_attraction = 0.67
+	local_migration_attraction = 0.1675
 }
 province_wealth68 = {
-	local_migration_attraction = 0.68
+	local_migration_attraction = 0.17
 }
 province_wealth69 = {
-	local_migration_attraction = 0.6900000000000001
+	local_migration_attraction = 0.17250000000000001
 }
 province_wealth70 = {
-	local_migration_attraction = 0.7000000000000001
+	local_migration_attraction = 0.17500000000000002
 }
 province_wealth71 = {
-	local_migration_attraction = 0.71
+	local_migration_attraction = 0.1775
 }
 province_wealth72 = {
-	local_migration_attraction = 0.72
+	local_migration_attraction = 0.18
 }
 province_wealth73 = {
-	local_migration_attraction = 0.73
+	local_migration_attraction = 0.1825
 }
 province_wealth74 = {
-	local_migration_attraction = 0.74
+	local_migration_attraction = 0.185
 }
 province_wealth75 = {
-	local_migration_attraction = 0.75
+	local_migration_attraction = 0.1875
 }
 province_wealth76 = {
-	local_migration_attraction = 0.76
+	local_migration_attraction = 0.19
 }
 province_wealth77 = {
-	local_migration_attraction = 0.77
+	local_migration_attraction = 0.1925
 }
 province_wealth78 = {
-	local_migration_attraction = 0.78
+	local_migration_attraction = 0.195
 }
 province_wealth79 = {
-	local_migration_attraction = 0.79
+	local_migration_attraction = 0.1975
 }
 province_wealth80 = {
-	local_migration_attraction = 0.8
+	local_migration_attraction = 0.2
 }
 province_wealth81 = {
-	local_migration_attraction = 0.81
+	local_migration_attraction = 0.2025
 }
 province_wealth82 = {
-	local_migration_attraction = 0.8200000000000001
+	local_migration_attraction = 0.20500000000000002
 }
 province_wealth83 = {
-	local_migration_attraction = 0.8300000000000001
+	local_migration_attraction = 0.20750000000000002
 }
 province_wealth84 = {
-	local_migration_attraction = 0.84
+	local_migration_attraction = 0.21
 }
 province_wealth85 = {
-	local_migration_attraction = 0.85
+	local_migration_attraction = 0.2125
 }
 province_wealth86 = {
-	local_migration_attraction = 0.86
+	local_migration_attraction = 0.215
 }
 province_wealth87 = {
-	local_migration_attraction = 0.87
+	local_migration_attraction = 0.2175
 }
 province_wealth88 = {
-	local_migration_attraction = 0.88
+	local_migration_attraction = 0.22
 }
 province_wealth89 = {
-	local_migration_attraction = 0.89
+	local_migration_attraction = 0.2225
 }
 province_wealth90 = {
-	local_migration_attraction = 0.9
+	local_migration_attraction = 0.225
 }
 province_wealth91 = {
-	local_migration_attraction = 0.91
+	local_migration_attraction = 0.2275
 }
 province_wealth92 = {
-	local_migration_attraction = 0.92
+	local_migration_attraction = 0.23
 }
 province_wealth93 = {
-	local_migration_attraction = 0.93
+	local_migration_attraction = 0.2325
 }
 province_wealth94 = {
-	local_migration_attraction = 0.9400000000000001
+	local_migration_attraction = 0.23500000000000001
 }
 province_wealth95 = {
-	local_migration_attraction = 0.9500000000000001
+	local_migration_attraction = 0.23750000000000002
 }
 province_wealth96 = {
-	local_migration_attraction = 0.96
+	local_migration_attraction = 0.24
 }
 province_wealth97 = {
-	local_migration_attraction = 0.97
+	local_migration_attraction = 0.2425
 }
 province_wealth98 = {
-	local_migration_attraction = 0.98
+	local_migration_attraction = 0.245
 }
 province_wealth99 = {
-	local_migration_attraction = 0.99
+	local_migration_attraction = 0.2475
 }
 province_wealth100 = {
-	local_migration_attraction = 1.0
+	local_migration_attraction = 0.25
 }
 province_wealth101 = {
-	local_migration_attraction = 1.01
+	local_migration_attraction = 0.2525
 }
 province_wealth102 = {
-	local_migration_attraction = 1.02
+	local_migration_attraction = 0.255
 }
 province_wealth103 = {
-	local_migration_attraction = 1.03
+	local_migration_attraction = 0.2575
 }
 province_wealth104 = {
-	local_migration_attraction = 1.04
+	local_migration_attraction = 0.26
 }
 province_wealth105 = {
-	local_migration_attraction = 1.05
+	local_migration_attraction = 0.2625
 }
 province_wealth106 = {
-	local_migration_attraction = 1.06
+	local_migration_attraction = 0.265
 }
 province_wealth107 = {
-	local_migration_attraction = 1.07
+	local_migration_attraction = 0.2675
 }
 province_wealth108 = {
-	local_migration_attraction = 1.08
+	local_migration_attraction = 0.27
 }
 province_wealth109 = {
-	local_migration_attraction = 1.09
+	local_migration_attraction = 0.2725
 }
 province_wealth110 = {
-	local_migration_attraction = 1.1
+	local_migration_attraction = 0.275
 }
 province_wealth111 = {
-	local_migration_attraction = 1.11
+	local_migration_attraction = 0.2775
 }
 province_wealth112 = {
-	local_migration_attraction = 1.12
+	local_migration_attraction = 0.28
 }
 province_wealth113 = {
-	local_migration_attraction = 1.1300000000000001
+	local_migration_attraction = 0.28250000000000003
 }
 province_wealth114 = {
-	local_migration_attraction = 1.1400000000000001
+	local_migration_attraction = 0.28500000000000003
 }
 province_wealth115 = {
-	local_migration_attraction = 1.1500000000000001
+	local_migration_attraction = 0.28750000000000003
 }
 province_wealth116 = {
-	local_migration_attraction = 1.16
+	local_migration_attraction = 0.29
 }
 province_wealth117 = {
-	local_migration_attraction = 1.17
+	local_migration_attraction = 0.2925
 }
 province_wealth118 = {
-	local_migration_attraction = 1.18
+	local_migration_attraction = 0.295
 }
 province_wealth119 = {
-	local_migration_attraction = 1.19
+	local_migration_attraction = 0.2975
 }
 province_wealth120 = {
-	local_migration_attraction = 1.2
+	local_migration_attraction = 0.3
 }
 province_wealth121 = {
-	local_migration_attraction = 1.21
+	local_migration_attraction = 0.3025
 }
 province_wealth122 = {
-	local_migration_attraction = 1.22
+	local_migration_attraction = 0.305
 }
 province_wealth123 = {
-	local_migration_attraction = 1.23
+	local_migration_attraction = 0.3075
 }
 province_wealth124 = {
-	local_migration_attraction = 1.24
+	local_migration_attraction = 0.31
 }
 province_wealth125 = {
-	local_migration_attraction = 1.25
+	local_migration_attraction = 0.3125
 }
 province_wealth126 = {
-	local_migration_attraction = 1.26
+	local_migration_attraction = 0.315
 }
 province_wealth127 = {
-	local_migration_attraction = 1.27
+	local_migration_attraction = 0.3175
 }
 province_wealth128 = {
-	local_migration_attraction = 1.28
+	local_migration_attraction = 0.32
 }
 province_wealth129 = {
-	local_migration_attraction = 1.29
+	local_migration_attraction = 0.3225
 }
 province_wealth130 = {
-	local_migration_attraction = 1.3
+	local_migration_attraction = 0.325
 }
 province_wealth131 = {
-	local_migration_attraction = 1.31
+	local_migration_attraction = 0.3275
 }
 province_wealth132 = {
-	local_migration_attraction = 1.32
+	local_migration_attraction = 0.33
 }
 province_wealth133 = {
-	local_migration_attraction = 1.33
+	local_migration_attraction = 0.3325
 }
 province_wealth134 = {
-	local_migration_attraction = 1.34
+	local_migration_attraction = 0.335
 }
 province_wealth135 = {
-	local_migration_attraction = 1.35
+	local_migration_attraction = 0.3375
 }
 province_wealth136 = {
-	local_migration_attraction = 1.36
+	local_migration_attraction = 0.34
 }
 province_wealth137 = {
-	local_migration_attraction = 1.37
+	local_migration_attraction = 0.3425
 }
 province_wealth138 = {
-	local_migration_attraction = 1.3800000000000001
+	local_migration_attraction = 0.34500000000000003
 }
 province_wealth139 = {
-	local_migration_attraction = 1.3900000000000001
+	local_migration_attraction = 0.34750000000000003
 }
 province_wealth140 = {
-	local_migration_attraction = 1.4000000000000001
+	local_migration_attraction = 0.35000000000000003
 }
 province_wealth141 = {
-	local_migration_attraction = 1.41
+	local_migration_attraction = 0.3525
 }
 province_wealth142 = {
-	local_migration_attraction = 1.42
+	local_migration_attraction = 0.355
 }
 province_wealth143 = {
-	local_migration_attraction = 1.43
+	local_migration_attraction = 0.3575
 }
 province_wealth144 = {
-	local_migration_attraction = 1.44
+	local_migration_attraction = 0.36
 }
 province_wealth145 = {
-	local_migration_attraction = 1.45
+	local_migration_attraction = 0.3625
 }
 province_wealth146 = {
-	local_migration_attraction = 1.46
+	local_migration_attraction = 0.365
 }
 province_wealth147 = {
-	local_migration_attraction = 1.47
+	local_migration_attraction = 0.3675
 }
 province_wealth148 = {
-	local_migration_attraction = 1.48
+	local_migration_attraction = 0.37
 }
 province_wealth149 = {
-	local_migration_attraction = 1.49
+	local_migration_attraction = 0.3725
 }
 province_wealth150 = {
-	local_migration_attraction = 1.5
+	local_migration_attraction = 0.375
 }
 province_wealth151 = {
-	local_migration_attraction = 1.51
+	local_migration_attraction = 0.3775
 }
 province_wealth152 = {
-	local_migration_attraction = 1.52
+	local_migration_attraction = 0.38
 }
 province_wealth153 = {
-	local_migration_attraction = 1.53
+	local_migration_attraction = 0.3825
 }
 province_wealth154 = {
-	local_migration_attraction = 1.54
+	local_migration_attraction = 0.385
 }
 province_wealth155 = {
-	local_migration_attraction = 1.55
+	local_migration_attraction = 0.3875
 }
 province_wealth156 = {
-	local_migration_attraction = 1.56
+	local_migration_attraction = 0.39
 }
 province_wealth157 = {
-	local_migration_attraction = 1.57
+	local_migration_attraction = 0.3925
 }
 province_wealth158 = {
-	local_migration_attraction = 1.58
+	local_migration_attraction = 0.395
 }
 province_wealth159 = {
-	local_migration_attraction = 1.59
+	local_migration_attraction = 0.3975
 }
 province_wealth160 = {
-	local_migration_attraction = 1.6
+	local_migration_attraction = 0.4
 }
 province_wealth161 = {
-	local_migration_attraction = 1.61
+	local_migration_attraction = 0.4025
 }
 province_wealth162 = {
-	local_migration_attraction = 1.62
+	local_migration_attraction = 0.405
 }
 province_wealth163 = {
-	local_migration_attraction = 1.6300000000000001
+	local_migration_attraction = 0.40750000000000003
 }
 province_wealth164 = {
-	local_migration_attraction = 1.6400000000000001
+	local_migration_attraction = 0.41000000000000003
 }
 province_wealth165 = {
-	local_migration_attraction = 1.6500000000000001
+	local_migration_attraction = 0.41250000000000003
 }
 province_wealth166 = {
-	local_migration_attraction = 1.6600000000000001
+	local_migration_attraction = 0.41500000000000004
 }
 province_wealth167 = {
-	local_migration_attraction = 1.67
+	local_migration_attraction = 0.4175
 }
 province_wealth168 = {
-	local_migration_attraction = 1.68
+	local_migration_attraction = 0.42
 }
 province_wealth169 = {
-	local_migration_attraction = 1.69
+	local_migration_attraction = 0.4225
 }
 province_wealth170 = {
-	local_migration_attraction = 1.7
+	local_migration_attraction = 0.425
 }
 province_wealth171 = {
-	local_migration_attraction = 1.71
+	local_migration_attraction = 0.4275
 }
 province_wealth172 = {
-	local_migration_attraction = 1.72
+	local_migration_attraction = 0.43
 }
 province_wealth173 = {
-	local_migration_attraction = 1.73
+	local_migration_attraction = 0.4325
 }
 province_wealth174 = {
-	local_migration_attraction = 1.74
+	local_migration_attraction = 0.435
 }
 province_wealth175 = {
-	local_migration_attraction = 1.75
+	local_migration_attraction = 0.4375
 }
 province_wealth176 = {
-	local_migration_attraction = 1.76
+	local_migration_attraction = 0.44
 }
 province_wealth177 = {
-	local_migration_attraction = 1.77
+	local_migration_attraction = 0.4425
 }
 province_wealth178 = {
-	local_migration_attraction = 1.78
+	local_migration_attraction = 0.445
 }
 province_wealth179 = {
-	local_migration_attraction = 1.79
+	local_migration_attraction = 0.4475
 }
 province_wealth180 = {
-	local_migration_attraction = 1.8
+	local_migration_attraction = 0.45
 }
 province_wealth181 = {
-	local_migration_attraction = 1.81
+	local_migration_attraction = 0.4525
 }
 province_wealth182 = {
-	local_migration_attraction = 1.82
+	local_migration_attraction = 0.455
 }
 province_wealth183 = {
-	local_migration_attraction = 1.83
+	local_migration_attraction = 0.4575
 }
 province_wealth184 = {
-	local_migration_attraction = 1.84
+	local_migration_attraction = 0.46
 }
 province_wealth185 = {
-	local_migration_attraction = 1.85
+	local_migration_attraction = 0.4625
 }
 province_wealth186 = {
-	local_migration_attraction = 1.86
+	local_migration_attraction = 0.465
 }
 province_wealth187 = {
-	local_migration_attraction = 1.87
+	local_migration_attraction = 0.4675
 }
 province_wealth188 = {
-	local_migration_attraction = 1.8800000000000001
+	local_migration_attraction = 0.47000000000000003
 }
 province_wealth189 = {
-	local_migration_attraction = 1.8900000000000001
+	local_migration_attraction = 0.47250000000000003
 }
 province_wealth190 = {
-	local_migration_attraction = 1.9000000000000001
+	local_migration_attraction = 0.47500000000000003
 }
 province_wealth191 = {
-	local_migration_attraction = 1.9100000000000001
+	local_migration_attraction = 0.47750000000000004
 }
 province_wealth192 = {
-	local_migration_attraction = 1.92
+	local_migration_attraction = 0.48
 }
 province_wealth193 = {
-	local_migration_attraction = 1.93
+	local_migration_attraction = 0.4825
 }
 province_wealth194 = {
-	local_migration_attraction = 1.94
+	local_migration_attraction = 0.485
 }
 province_wealth195 = {
-	local_migration_attraction = 1.95
+	local_migration_attraction = 0.4875
 }
 province_wealth196 = {
-	local_migration_attraction = 1.96
+	local_migration_attraction = 0.49
 }
 province_wealth197 = {
-	local_migration_attraction = 1.97
+	local_migration_attraction = 0.4925
 }
 province_wealth198 = {
-	local_migration_attraction = 1.98
+	local_migration_attraction = 0.495
 }
 province_wealth199 = {
-	local_migration_attraction = 1.99
+	local_migration_attraction = 0.4975
 }
 province_wealth200 = {
-	local_migration_attraction = 2.0
+	local_migration_attraction = 0.5
 }
 province_wealth210 = {
-	local_migration_attraction = 2.1
+	local_migration_attraction = 0.525
 }
 province_wealth220 = {
-	local_migration_attraction = 2.2
+	local_migration_attraction = 0.55
 }
 province_wealth230 = {
-	local_migration_attraction = 2.3000000000000003
+	local_migration_attraction = 0.5750000000000001
 }
 province_wealth240 = {
-	local_migration_attraction = 2.4
+	local_migration_attraction = 0.6
 }
 province_wealth250 = {
-	local_migration_attraction = 2.5
+	local_migration_attraction = 0.625
 }
 province_wealth260 = {
-	local_migration_attraction = 2.6
+	local_migration_attraction = 0.65
 }
 province_wealth270 = {
-	local_migration_attraction = 2.7
+	local_migration_attraction = 0.675
 }
 province_wealth280 = {
-	local_migration_attraction = 2.8000000000000003
+	local_migration_attraction = 0.7000000000000001
 }
 province_wealth290 = {
-	local_migration_attraction = 2.9
+	local_migration_attraction = 0.725
 }
 province_wealth300 = {
-	local_migration_attraction = 3.0
+	local_migration_attraction = 0.75
 }
 province_wealth310 = {
-	local_migration_attraction = 3.1
+	local_migration_attraction = 0.775
 }
 province_wealth320 = {
-	local_migration_attraction = 3.2
+	local_migration_attraction = 0.8
 }
 province_wealth330 = {
-	local_migration_attraction = 3.3000000000000003
+	local_migration_attraction = 0.8250000000000001
 }
 province_wealth340 = {
-	local_migration_attraction = 3.4
+	local_migration_attraction = 0.85
 }
 province_wealth350 = {
-	local_migration_attraction = 3.5
+	local_migration_attraction = 0.875
 }
 province_wealth360 = {
-	local_migration_attraction = 3.6
+	local_migration_attraction = 0.9
 }
 province_wealth370 = {
-	local_migration_attraction = 3.7
+	local_migration_attraction = 0.925
 }
 province_wealth380 = {
-	local_migration_attraction = 3.8000000000000003
+	local_migration_attraction = 0.9500000000000001
 }
 province_wealth390 = {
-	local_migration_attraction = 3.9
+	local_migration_attraction = 0.975
 }
 province_wealth400 = {
-	local_migration_attraction = 4.0
+	local_migration_attraction = 1.0
 }
 province_wealth410 = {
-	local_migration_attraction = 4.1
+	local_migration_attraction = 1.025
 }
 province_wealth420 = {
-	local_migration_attraction = 4.2
+	local_migration_attraction = 1.05
 }
 province_wealth430 = {
-	local_migration_attraction = 4.3
+	local_migration_attraction = 1.075
 }
 province_wealth440 = {
-	local_migration_attraction = 4.4
+	local_migration_attraction = 1.1
 }
 province_wealth450 = {
-	local_migration_attraction = 4.5
+	local_migration_attraction = 1.125
 }
 province_wealth460 = {
-	local_migration_attraction = 4.6000000000000005
+	local_migration_attraction = 1.1500000000000001
 }
 province_wealth470 = {
-	local_migration_attraction = 4.7
+	local_migration_attraction = 1.175
 }
 province_wealth480 = {
-	local_migration_attraction = 4.8
+	local_migration_attraction = 1.2
 }
 province_wealth490 = {
-	local_migration_attraction = 4.9
+	local_migration_attraction = 1.225
 }
 province_wealth500 = {
-	local_migration_attraction = 5.0
+	local_migration_attraction = 1.25
 }
 province_wealth510 = {
-	local_migration_attraction = 5.1000000000000005
+	local_migration_attraction = 1.2750000000000001
 }
 province_wealth520 = {
-	local_migration_attraction = 5.2
+	local_migration_attraction = 1.3
 }
 province_wealth530 = {
-	local_migration_attraction = 5.3
+	local_migration_attraction = 1.325
 }
 province_wealth540 = {
-	local_migration_attraction = 5.4
+	local_migration_attraction = 1.35
 }
 province_wealth550 = {
-	local_migration_attraction = 5.5
+	local_migration_attraction = 1.375
 }
 province_wealth560 = {
-	local_migration_attraction = 5.6000000000000005
+	local_migration_attraction = 1.4000000000000001
 }
 province_wealth570 = {
-	local_migration_attraction = 5.7
+	local_migration_attraction = 1.425
 }
 province_wealth580 = {
-	local_migration_attraction = 5.8
+	local_migration_attraction = 1.45
 }
 province_wealth590 = {
-	local_migration_attraction = 5.9
+	local_migration_attraction = 1.475
 }
 province_wealth600 = {
-	local_migration_attraction = 6.0
+	local_migration_attraction = 1.5
 }
 province_wealth610 = {
-	local_migration_attraction = 6.1000000000000005
+	local_migration_attraction = 1.5250000000000001
 }
 province_wealth620 = {
-	local_migration_attraction = 6.2
+	local_migration_attraction = 1.55
 }
 province_wealth630 = {
-	local_migration_attraction = 6.3
+	local_migration_attraction = 1.575
 }
 province_wealth640 = {
-	local_migration_attraction = 6.4
+	local_migration_attraction = 1.6
 }
 province_wealth650 = {
-	local_migration_attraction = 6.5
+	local_migration_attraction = 1.625
 }
 province_wealth660 = {
-	local_migration_attraction = 6.6000000000000005
+	local_migration_attraction = 1.6500000000000001
 }
 province_wealth670 = {
-	local_migration_attraction = 6.7
+	local_migration_attraction = 1.675
 }
 province_wealth680 = {
-	local_migration_attraction = 6.8
+	local_migration_attraction = 1.7
 }
 province_wealth690 = {
-	local_migration_attraction = 6.9
+	local_migration_attraction = 1.725
 }
 province_wealth700 = {
-	local_migration_attraction = 7.0
+	local_migration_attraction = 1.75
 }
 province_wealth710 = {
-	local_migration_attraction = 7.1000000000000005
+	local_migration_attraction = 1.7750000000000001
 }
 province_wealth720 = {
-	local_migration_attraction = 7.2
+	local_migration_attraction = 1.8
 }
 province_wealth730 = {
-	local_migration_attraction = 7.3
+	local_migration_attraction = 1.825
 }
 province_wealth740 = {
-	local_migration_attraction = 7.4
+	local_migration_attraction = 1.85
 }
 province_wealth750 = {
-	local_migration_attraction = 7.5
+	local_migration_attraction = 1.875
 }
 province_wealth760 = {
-	local_migration_attraction = 7.6000000000000005
+	local_migration_attraction = 1.9000000000000001
 }
 province_wealth770 = {
-	local_migration_attraction = 7.7
+	local_migration_attraction = 1.925
 }
 province_wealth780 = {
-	local_migration_attraction = 7.8
+	local_migration_attraction = 1.95
 }
 province_wealth790 = {
-	local_migration_attraction = 7.9
+	local_migration_attraction = 1.975
 }
 province_wealth800 = {
-	local_migration_attraction = 8.0
+	local_migration_attraction = 2.0
 }
 province_wealth810 = {
-	local_migration_attraction = 8.1
+	local_migration_attraction = 2.025
 }
 province_wealth820 = {
-	local_migration_attraction = 8.2
+	local_migration_attraction = 2.05
 }
 province_wealth830 = {
-	local_migration_attraction = 8.3
+	local_migration_attraction = 2.075
 }
 province_wealth840 = {
-	local_migration_attraction = 8.4
+	local_migration_attraction = 2.1
 }
 province_wealth850 = {
-	local_migration_attraction = 8.5
+	local_migration_attraction = 2.125
 }
 province_wealth860 = {
-	local_migration_attraction = 8.6
+	local_migration_attraction = 2.15
 }
 province_wealth870 = {
-	local_migration_attraction = 8.700000000000001
+	local_migration_attraction = 2.1750000000000003
 }
 province_wealth880 = {
-	local_migration_attraction = 8.8
+	local_migration_attraction = 2.2
 }
 province_wealth890 = {
-	local_migration_attraction = 8.9
+	local_migration_attraction = 2.225
 }
 province_wealth900 = {
-	local_migration_attraction = 9.0
+	local_migration_attraction = 2.25
 }
 province_wealth910 = {
-	local_migration_attraction = 9.1
+	local_migration_attraction = 2.275
 }
 province_wealth920 = {
-	local_migration_attraction = 9.200000000000001
+	local_migration_attraction = 2.3000000000000003
 }
 province_wealth930 = {
-	local_migration_attraction = 9.3
+	local_migration_attraction = 2.325
 }
 province_wealth940 = {
-	local_migration_attraction = 9.4
+	local_migration_attraction = 2.35
 }
 province_wealth950 = {
-	local_migration_attraction = 9.5
+	local_migration_attraction = 2.375
 }
 province_wealth960 = {
-	local_migration_attraction = 9.6
+	local_migration_attraction = 2.4
 }
 province_wealth970 = {
-	local_migration_attraction = 9.700000000000001
+	local_migration_attraction = 2.4250000000000003
 }
 province_wealth980 = {
-	local_migration_attraction = 9.8
+	local_migration_attraction = 2.45
 }
 province_wealth990 = {
-	local_migration_attraction = 9.9
+	local_migration_attraction = 2.475
 }
 province_wealth1000 = {
-	local_migration_attraction = 10.0
+	local_migration_attraction = 2.5
 }
 province_wealth1010 = {
-	local_migration_attraction = 10.1
+	local_migration_attraction = 2.525
 }
 province_wealth1020 = {
-	local_migration_attraction = 10.200000000000001
+	local_migration_attraction = 2.5500000000000003
 }
 province_wealth1030 = {
-	local_migration_attraction = 10.3
+	local_migration_attraction = 2.575
 }
 province_wealth1040 = {
-	local_migration_attraction = 10.4
+	local_migration_attraction = 2.6
 }
 province_wealth1050 = {
-	local_migration_attraction = 10.5
+	local_migration_attraction = 2.625
 }
 province_wealth1060 = {
-	local_migration_attraction = 10.6
+	local_migration_attraction = 2.65
 }
 province_wealth1070 = {
-	local_migration_attraction = 10.700000000000001
+	local_migration_attraction = 2.6750000000000003
 }
 province_wealth1080 = {
-	local_migration_attraction = 10.8
+	local_migration_attraction = 2.7
 }
 province_wealth1090 = {
-	local_migration_attraction = 10.9
+	local_migration_attraction = 2.725
 }
 province_wealth1100 = {
-	local_migration_attraction = 11.0
+	local_migration_attraction = 2.75
 }
 province_wealth1110 = {
-	local_migration_attraction = 11.1
+	local_migration_attraction = 2.775
 }
 province_wealth1120 = {
-	local_migration_attraction = 11.200000000000001
+	local_migration_attraction = 2.8000000000000003
 }
 province_wealth1130 = {
-	local_migration_attraction = 11.3
+	local_migration_attraction = 2.825
 }
 province_wealth1140 = {
-	local_migration_attraction = 11.4
+	local_migration_attraction = 2.85
 }
 province_wealth1150 = {
-	local_migration_attraction = 11.5
+	local_migration_attraction = 2.875
 }
 province_wealth1160 = {
-	local_migration_attraction = 11.6
+	local_migration_attraction = 2.9
 }
 province_wealth1170 = {
-	local_migration_attraction = 11.700000000000001
+	local_migration_attraction = 2.9250000000000003
 }
 province_wealth1180 = {
-	local_migration_attraction = 11.8
+	local_migration_attraction = 2.95
 }
 province_wealth1190 = {
-	local_migration_attraction = 11.9
+	local_migration_attraction = 2.975
 }
 province_wealth1200 = {
-	local_migration_attraction = 12.0
+	local_migration_attraction = 3.0
 }
 province_wealth1210 = {
-	local_migration_attraction = 12.1
+	local_migration_attraction = 3.025
 }
 province_wealth1220 = {
-	local_migration_attraction = 12.200000000000001
+	local_migration_attraction = 3.0500000000000003
 }
 province_wealth1230 = {
-	local_migration_attraction = 12.3
+	local_migration_attraction = 3.075
 }
 province_wealth1240 = {
-	local_migration_attraction = 12.4
+	local_migration_attraction = 3.1
 }
 province_wealth1250 = {
-	local_migration_attraction = 12.5
+	local_migration_attraction = 3.125
 }
 province_wealth1260 = {
-	local_migration_attraction = 12.6
+	local_migration_attraction = 3.15
 }
 province_wealth1270 = {
-	local_migration_attraction = 12.700000000000001
+	local_migration_attraction = 3.1750000000000003
 }
 province_wealth1280 = {
-	local_migration_attraction = 12.8
+	local_migration_attraction = 3.2
 }
 province_wealth1290 = {
-	local_migration_attraction = 12.9
+	local_migration_attraction = 3.225
 }
 province_wealth1300 = {
-	local_migration_attraction = 13.0
+	local_migration_attraction = 3.25
 }
 province_wealth1310 = {
-	local_migration_attraction = 13.1
+	local_migration_attraction = 3.275
 }
 province_wealth1320 = {
-	local_migration_attraction = 13.200000000000001
+	local_migration_attraction = 3.3000000000000003
 }
 province_wealth1330 = {
-	local_migration_attraction = 13.3
+	local_migration_attraction = 3.325
 }
 province_wealth1340 = {
-	local_migration_attraction = 13.4
+	local_migration_attraction = 3.35
 }
 province_wealth1350 = {
-	local_migration_attraction = 13.5
+	local_migration_attraction = 3.375
 }
 province_wealth1360 = {
-	local_migration_attraction = 13.6
+	local_migration_attraction = 3.4
 }
 province_wealth1370 = {
-	local_migration_attraction = 13.700000000000001
+	local_migration_attraction = 3.4250000000000003
 }
 province_wealth1380 = {
-	local_migration_attraction = 13.8
+	local_migration_attraction = 3.45
 }
 province_wealth1390 = {
-	local_migration_attraction = 13.9
+	local_migration_attraction = 3.475
 }
 province_wealth1400 = {
-	local_migration_attraction = 14.0
+	local_migration_attraction = 3.5
 }
 province_wealth1410 = {
-	local_migration_attraction = 14.1
+	local_migration_attraction = 3.525
 }
 province_wealth1420 = {
-	local_migration_attraction = 14.200000000000001
+	local_migration_attraction = 3.5500000000000003
 }
 province_wealth1430 = {
-	local_migration_attraction = 14.3
+	local_migration_attraction = 3.575
 }
 province_wealth1440 = {
-	local_migration_attraction = 14.4
+	local_migration_attraction = 3.6
 }
 province_wealth1450 = {
-	local_migration_attraction = 14.5
+	local_migration_attraction = 3.625
 }
 province_wealth1460 = {
-	local_migration_attraction = 14.6
+	local_migration_attraction = 3.65
 }
 province_wealth1470 = {
-	local_migration_attraction = 14.700000000000001
+	local_migration_attraction = 3.6750000000000003
 }
 province_wealth1480 = {
-	local_migration_attraction = 14.8
+	local_migration_attraction = 3.7
 }
 province_wealth1490 = {
-	local_migration_attraction = 14.9
+	local_migration_attraction = 3.725
 }
 province_wealth1500 = {
-	local_migration_attraction = 15.0
+	local_migration_attraction = 3.75
 }
 province_wealth1510 = {
-	local_migration_attraction = 15.1
+	local_migration_attraction = 3.775
 }
 province_wealth1520 = {
-	local_migration_attraction = 15.200000000000001
+	local_migration_attraction = 3.8000000000000003
 }
 province_wealth1530 = {
-	local_migration_attraction = 15.3
+	local_migration_attraction = 3.825
 }
 province_wealth1540 = {
-	local_migration_attraction = 15.4
+	local_migration_attraction = 3.85
 }
 province_wealth1550 = {
-	local_migration_attraction = 15.5
+	local_migration_attraction = 3.875
 }
 province_wealth1560 = {
-	local_migration_attraction = 15.6
+	local_migration_attraction = 3.9
 }
 province_wealth1570 = {
-	local_migration_attraction = 15.700000000000001
+	local_migration_attraction = 3.9250000000000003
 }
 province_wealth1580 = {
-	local_migration_attraction = 15.8
+	local_migration_attraction = 3.95
 }
 province_wealth1590 = {
-	local_migration_attraction = 15.9
+	local_migration_attraction = 3.975
 }
 province_wealth1600 = {
-	local_migration_attraction = 16.0
+	local_migration_attraction = 4.0
 }
 province_wealth1610 = {
-	local_migration_attraction = 16.1
+	local_migration_attraction = 4.025
 }
 province_wealth1620 = {
-	local_migration_attraction = 16.2
+	local_migration_attraction = 4.05
 }
 province_wealth1630 = {
-	local_migration_attraction = 16.3
+	local_migration_attraction = 4.075
 }
 province_wealth1640 = {
-	local_migration_attraction = 16.4
+	local_migration_attraction = 4.1
 }
 province_wealth1650 = {
-	local_migration_attraction = 16.5
+	local_migration_attraction = 4.125
 }
 province_wealth1660 = {
-	local_migration_attraction = 16.6
+	local_migration_attraction = 4.15
 }
 province_wealth1670 = {
-	local_migration_attraction = 16.7
+	local_migration_attraction = 4.175
 }
 province_wealth1680 = {
-	local_migration_attraction = 16.8
+	local_migration_attraction = 4.2
 }
 province_wealth1690 = {
-	local_migration_attraction = 16.9
+	local_migration_attraction = 4.225
 }
 province_wealth1700 = {
-	local_migration_attraction = 17.0
+	local_migration_attraction = 4.25
 }
 province_wealth1710 = {
-	local_migration_attraction = 17.1
+	local_migration_attraction = 4.275
 }
 province_wealth1720 = {
-	local_migration_attraction = 17.2
+	local_migration_attraction = 4.3
 }
 province_wealth1730 = {
-	local_migration_attraction = 17.3
+	local_migration_attraction = 4.325
 }
 province_wealth1740 = {
-	local_migration_attraction = 17.400000000000002
+	local_migration_attraction = 4.3500000000000005
 }
 province_wealth1750 = {
-	local_migration_attraction = 17.5
+	local_migration_attraction = 4.375
 }
 province_wealth1760 = {
-	local_migration_attraction = 17.6
+	local_migration_attraction = 4.4
 }
 province_wealth1770 = {
-	local_migration_attraction = 17.7
+	local_migration_attraction = 4.425
 }
 province_wealth1780 = {
-	local_migration_attraction = 17.8
+	local_migration_attraction = 4.45
 }
 province_wealth1790 = {
-	local_migration_attraction = 17.900000000000002
+	local_migration_attraction = 4.4750000000000005
 }
 province_wealth1800 = {
-	local_migration_attraction = 18.0
+	local_migration_attraction = 4.5
 }
 province_wealth1810 = {
-	local_migration_attraction = 18.1
+	local_migration_attraction = 4.525
 }
 province_wealth1820 = {
-	local_migration_attraction = 18.2
+	local_migration_attraction = 4.55
 }
 province_wealth1830 = {
-	local_migration_attraction = 18.3
+	local_migration_attraction = 4.575
 }
 province_wealth1840 = {
-	local_migration_attraction = 18.400000000000002
+	local_migration_attraction = 4.6000000000000005
 }
 province_wealth1850 = {
-	local_migration_attraction = 18.5
+	local_migration_attraction = 4.625
 }
 province_wealth1860 = {
-	local_migration_attraction = 18.6
+	local_migration_attraction = 4.65
 }
 province_wealth1870 = {
-	local_migration_attraction = 18.7
+	local_migration_attraction = 4.675
 }
 province_wealth1880 = {
-	local_migration_attraction = 18.8
+	local_migration_attraction = 4.7
 }
 province_wealth1890 = {
-	local_migration_attraction = 18.900000000000002
+	local_migration_attraction = 4.7250000000000005
 }
 province_wealth1900 = {
-	local_migration_attraction = 19.0
+	local_migration_attraction = 4.75
 }
 province_wealth1910 = {
-	local_migration_attraction = 19.1
+	local_migration_attraction = 4.775
 }
 province_wealth1920 = {
-	local_migration_attraction = 19.2
+	local_migration_attraction = 4.8
 }
 province_wealth1930 = {
-	local_migration_attraction = 19.3
+	local_migration_attraction = 4.825
 }
 province_wealth1940 = {
-	local_migration_attraction = 19.400000000000002
+	local_migration_attraction = 4.8500000000000005
 }
 province_wealth1950 = {
-	local_migration_attraction = 19.5
+	local_migration_attraction = 4.875
 }
 province_wealth1960 = {
-	local_migration_attraction = 19.6
+	local_migration_attraction = 4.9
 }
 province_wealth1970 = {
-	local_migration_attraction = 19.7
+	local_migration_attraction = 4.925
 }
 province_wealth1980 = {
-	local_migration_attraction = 19.8
+	local_migration_attraction = 4.95
 }
 province_wealth1990 = {
-	local_migration_attraction = 19.900000000000002
+	local_migration_attraction = 4.9750000000000005
 }
 province_wealth2000 = {
-	local_migration_attraction = 20.0
+	local_migration_attraction = 5.0
 }
 province_wealth2100 = {
-	local_migration_attraction = 21.0
+	local_migration_attraction = 5.25
 }
 province_wealth2200 = {
-	local_migration_attraction = 22.0
+	local_migration_attraction = 5.5
 }
 province_wealth2300 = {
-	local_migration_attraction = 23.0
+	local_migration_attraction = 5.75
 }
 province_wealth2400 = {
-	local_migration_attraction = 24.0
+	local_migration_attraction = 6.0
 }
 province_wealth2500 = {
-	local_migration_attraction = 25.0
+	local_migration_attraction = 6.25
 }
 province_wealth2600 = {
-	local_migration_attraction = 26.0
+	local_migration_attraction = 6.5
 }
 province_wealth2700 = {
-	local_migration_attraction = 27.0
+	local_migration_attraction = 6.75
 }
 province_wealth2800 = {
-	local_migration_attraction = 28.0
+	local_migration_attraction = 7.0
 }
 province_wealth2900 = {
-	local_migration_attraction = 29.0
+	local_migration_attraction = 7.25
 }
 province_wealth3000 = {
-	local_migration_attraction = 30.0
+	local_migration_attraction = 7.5
 }
 province_wealth3100 = {
-	local_migration_attraction = 31.0
+	local_migration_attraction = 7.75
 }
 province_wealth3200 = {
-	local_migration_attraction = 32.0
+	local_migration_attraction = 8.0
 }
 province_wealth3300 = {
-	local_migration_attraction = 33.0
+	local_migration_attraction = 8.25
 }
 province_wealth3400 = {
-	local_migration_attraction = 34.0
+	local_migration_attraction = 8.5
 }
 province_wealth3500 = {
-	local_migration_attraction = 35.0
+	local_migration_attraction = 8.75
 }
 province_wealth3600 = {
-	local_migration_attraction = 36.0
+	local_migration_attraction = 9.0
 }
 province_wealth3700 = {
-	local_migration_attraction = 37.0
+	local_migration_attraction = 9.25
 }
 province_wealth3800 = {
-	local_migration_attraction = 38.0
+	local_migration_attraction = 9.5
 }
 province_wealth3900 = {
-	local_migration_attraction = 39.0
+	local_migration_attraction = 9.75
 }
 province_wealth4000 = {
-	local_migration_attraction = 40.0
+	local_migration_attraction = 10.0
 }
 province_wealth4100 = {
-	local_migration_attraction = 41.0
+	local_migration_attraction = 10.25
 }
 province_wealth4200 = {
-	local_migration_attraction = 42.0
+	local_migration_attraction = 10.5
 }
 province_wealth4300 = {
-	local_migration_attraction = 43.0
+	local_migration_attraction = 10.75
 }
 province_wealth4400 = {
-	local_migration_attraction = 44.0
+	local_migration_attraction = 11.0
 }
 province_wealth4500 = {
-	local_migration_attraction = 45.0
+	local_migration_attraction = 11.25
 }
 province_wealth4600 = {
-	local_migration_attraction = 46.0
+	local_migration_attraction = 11.5
 }
 province_wealth4700 = {
-	local_migration_attraction = 47.0
+	local_migration_attraction = 11.75
 }
 province_wealth4800 = {
-	local_migration_attraction = 48.0
+	local_migration_attraction = 12.0
 }
 province_wealth4900 = {
-	local_migration_attraction = 49.0
+	local_migration_attraction = 12.25
 }
 province_wealth5000 = {
-	local_migration_attraction = 50.0
+	local_migration_attraction = 12.5
 }
 province_wealth5100 = {
-	local_migration_attraction = 51.0
+	local_migration_attraction = 12.75
 }
 province_wealth5200 = {
-	local_migration_attraction = 52.0
+	local_migration_attraction = 13.0
 }
 province_wealth5300 = {
-	local_migration_attraction = 53.0
+	local_migration_attraction = 13.25
 }
 province_wealth5400 = {
-	local_migration_attraction = 54.0
+	local_migration_attraction = 13.5
 }
 province_wealth5500 = {
-	local_migration_attraction = 55.0
+	local_migration_attraction = 13.75
 }
 province_wealth5600 = {
-	local_migration_attraction = 56.0
+	local_migration_attraction = 14.0
 }
 province_wealth5700 = {
-	local_migration_attraction = 57.0
+	local_migration_attraction = 14.25
 }
 province_wealth5800 = {
-	local_migration_attraction = 58.0
+	local_migration_attraction = 14.5
 }
 province_wealth5900 = {
-	local_migration_attraction = 59.0
+	local_migration_attraction = 14.75
 }
 province_wealth6000 = {
-	local_migration_attraction = 60.0
+	local_migration_attraction = 15.0
 }
 province_wealth6100 = {
-	local_migration_attraction = 61.0
+	local_migration_attraction = 15.25
 }
 province_wealth6200 = {
-	local_migration_attraction = 62.0
+	local_migration_attraction = 15.5
 }
 province_wealth6300 = {
-	local_migration_attraction = 63.0
+	local_migration_attraction = 15.75
 }
 province_wealth6400 = {
-	local_migration_attraction = 64.0
+	local_migration_attraction = 16.0
 }
 province_wealth6500 = {
-	local_migration_attraction = 65.0
+	local_migration_attraction = 16.25
 }
 province_wealth6600 = {
-	local_migration_attraction = 66.0
+	local_migration_attraction = 16.5
 }
 province_wealth6700 = {
-	local_migration_attraction = 67.0
+	local_migration_attraction = 16.75
 }
 province_wealth6800 = {
-	local_migration_attraction = 68.0
+	local_migration_attraction = 17.0
 }
 province_wealth6900 = {
-	local_migration_attraction = 69.0
+	local_migration_attraction = 17.25
 }
 province_wealth7000 = {
-	local_migration_attraction = 70.0
+	local_migration_attraction = 17.5
 }
 province_wealth7100 = {
-	local_migration_attraction = 71.0
+	local_migration_attraction = 17.75
 }
 province_wealth7200 = {
-	local_migration_attraction = 72.0
+	local_migration_attraction = 18.0
 }
 province_wealth7300 = {
-	local_migration_attraction = 73.0
+	local_migration_attraction = 18.25
 }
 province_wealth7400 = {
-	local_migration_attraction = 74.0
+	local_migration_attraction = 18.5
 }
 province_wealth7500 = {
-	local_migration_attraction = 75.0
+	local_migration_attraction = 18.75
 }
 province_wealth7600 = {
-	local_migration_attraction = 76.0
+	local_migration_attraction = 19.0
 }
 province_wealth7700 = {
-	local_migration_attraction = 77.0
+	local_migration_attraction = 19.25
 }
 province_wealth7800 = {
-	local_migration_attraction = 78.0
+	local_migration_attraction = 19.5
 }
 province_wealth7900 = {
-	local_migration_attraction = 79.0
+	local_migration_attraction = 19.75
 }
 province_wealth8000 = {
-	local_migration_attraction = 80.0
+	local_migration_attraction = 20.0
 }
 province_wealth8100 = {
-	local_migration_attraction = 81.0
+	local_migration_attraction = 20.25
 }
 province_wealth8200 = {
-	local_migration_attraction = 82.0
+	local_migration_attraction = 20.5
 }
 province_wealth8300 = {
-	local_migration_attraction = 83.0
+	local_migration_attraction = 20.75
 }
 province_wealth8400 = {
-	local_migration_attraction = 84.0
+	local_migration_attraction = 21.0
 }
 province_wealth8500 = {
-	local_migration_attraction = 85.0
+	local_migration_attraction = 21.25
 }
 province_wealth8600 = {
-	local_migration_attraction = 86.0
+	local_migration_attraction = 21.5
 }
 province_wealth8700 = {
-	local_migration_attraction = 87.0
+	local_migration_attraction = 21.75
 }
 province_wealth8800 = {
-	local_migration_attraction = 88.0
+	local_migration_attraction = 22.0
 }
 province_wealth8900 = {
-	local_migration_attraction = 89.0
+	local_migration_attraction = 22.25
 }
 province_wealth9000 = {
-	local_migration_attraction = 90.0
+	local_migration_attraction = 22.5
 }
 province_wealth9100 = {
-	local_migration_attraction = 91.0
+	local_migration_attraction = 22.75
 }
 province_wealth9200 = {
-	local_migration_attraction = 92.0
+	local_migration_attraction = 23.0
 }
 province_wealth9300 = {
-	local_migration_attraction = 93.0
+	local_migration_attraction = 23.25
 }
 province_wealth9400 = {
-	local_migration_attraction = 94.0
+	local_migration_attraction = 23.5
 }
 province_wealth9500 = {
-	local_migration_attraction = 95.0
+	local_migration_attraction = 23.75
 }
 province_wealth9600 = {
-	local_migration_attraction = 96.0
+	local_migration_attraction = 24.0
 }
 province_wealth9700 = {
-	local_migration_attraction = 97.0
+	local_migration_attraction = 24.25
 }
 province_wealth9800 = {
-	local_migration_attraction = 98.0
+	local_migration_attraction = 24.5
 }
 province_wealth9900 = {
-	local_migration_attraction = 99.0
+	local_migration_attraction = 24.75
 }
 province_wealth10000 = {
-	local_migration_attraction = 100.0
+	local_migration_attraction = 25.0
 }
 province_wealth10100 = {
-	local_migration_attraction = 101.0
+	local_migration_attraction = 25.25
 }
 province_wealth10200 = {
-	local_migration_attraction = 102.0
+	local_migration_attraction = 25.5
 }
 province_wealth10300 = {
-	local_migration_attraction = 103.0
+	local_migration_attraction = 25.75
 }
 province_wealth10400 = {
-	local_migration_attraction = 104.0
+	local_migration_attraction = 26.0
 }
 province_wealth10500 = {
-	local_migration_attraction = 105.0
+	local_migration_attraction = 26.25
 }
 province_wealth10600 = {
-	local_migration_attraction = 106.0
+	local_migration_attraction = 26.5
 }
 province_wealth10700 = {
-	local_migration_attraction = 107.0
+	local_migration_attraction = 26.75
 }
 province_wealth10800 = {
-	local_migration_attraction = 108.0
+	local_migration_attraction = 27.0
 }
 province_wealth10900 = {
-	local_migration_attraction = 109.0
+	local_migration_attraction = 27.25
 }
 province_wealth11000 = {
-	local_migration_attraction = 110.0
+	local_migration_attraction = 27.5
 }
 province_wealth11100 = {
-	local_migration_attraction = 111.0
+	local_migration_attraction = 27.75
 }
 province_wealth11200 = {
-	local_migration_attraction = 112.0
+	local_migration_attraction = 28.0
 }
 province_wealth11300 = {
-	local_migration_attraction = 113.0
+	local_migration_attraction = 28.25
 }
 province_wealth11400 = {
-	local_migration_attraction = 114.0
+	local_migration_attraction = 28.5
 }
 province_wealth11500 = {
-	local_migration_attraction = 115.0
+	local_migration_attraction = 28.75
 }
 province_wealth11600 = {
-	local_migration_attraction = 116.0
+	local_migration_attraction = 29.0
 }
 province_wealth11700 = {
-	local_migration_attraction = 117.0
+	local_migration_attraction = 29.25
 }
 province_wealth11800 = {
-	local_migration_attraction = 118.0
+	local_migration_attraction = 29.5
 }
 province_wealth11900 = {
-	local_migration_attraction = 119.0
+	local_migration_attraction = 29.75
 }
 province_wealth12000 = {
-	local_migration_attraction = 120.0
+	local_migration_attraction = 30.0
 }
 province_wealth12100 = {
-	local_migration_attraction = 121.0
+	local_migration_attraction = 30.25
 }
 province_wealth12200 = {
-	local_migration_attraction = 122.0
+	local_migration_attraction = 30.5
 }
 province_wealth12300 = {
-	local_migration_attraction = 123.0
+	local_migration_attraction = 30.75
 }
 province_wealth12400 = {
-	local_migration_attraction = 124.0
+	local_migration_attraction = 31.0
 }
 province_wealth12500 = {
-	local_migration_attraction = 125.0
+	local_migration_attraction = 31.25
 }
 province_wealth12600 = {
-	local_migration_attraction = 126.0
+	local_migration_attraction = 31.5
 }
 province_wealth12700 = {
-	local_migration_attraction = 127.0
+	local_migration_attraction = 31.75
 }
 province_wealth12800 = {
-	local_migration_attraction = 128.0
+	local_migration_attraction = 32.0
 }
 province_wealth12900 = {
-	local_migration_attraction = 129.0
+	local_migration_attraction = 32.25
 }
 province_wealth13000 = {
-	local_migration_attraction = 130.0
+	local_migration_attraction = 32.5
 }
 province_wealth13100 = {
-	local_migration_attraction = 131.0
+	local_migration_attraction = 32.75
 }
 province_wealth13200 = {
-	local_migration_attraction = 132.0
+	local_migration_attraction = 33.0
 }
 province_wealth13300 = {
-	local_migration_attraction = 133.0
+	local_migration_attraction = 33.25
 }
 province_wealth13400 = {
-	local_migration_attraction = 134.0
+	local_migration_attraction = 33.5
 }
 province_wealth13500 = {
-	local_migration_attraction = 135.0
+	local_migration_attraction = 33.75
 }
 province_wealth13600 = {
-	local_migration_attraction = 136.0
+	local_migration_attraction = 34.0
 }
 province_wealth13700 = {
-	local_migration_attraction = 137.0
+	local_migration_attraction = 34.25
 }
 province_wealth13800 = {
-	local_migration_attraction = 138.0
+	local_migration_attraction = 34.5
 }
 province_wealth13900 = {
-	local_migration_attraction = 139.0
+	local_migration_attraction = 34.75
 }
 province_wealth14000 = {
-	local_migration_attraction = 140.0
+	local_migration_attraction = 35.0
 }
 province_wealth14100 = {
-	local_migration_attraction = 141.0
+	local_migration_attraction = 35.25
 }
 province_wealth14200 = {
-	local_migration_attraction = 142.0
+	local_migration_attraction = 35.5
 }
 province_wealth14300 = {
-	local_migration_attraction = 143.0
+	local_migration_attraction = 35.75
 }
 province_wealth14400 = {
-	local_migration_attraction = 144.0
+	local_migration_attraction = 36.0
 }
 province_wealth14500 = {
-	local_migration_attraction = 145.0
+	local_migration_attraction = 36.25
 }
 province_wealth14600 = {
-	local_migration_attraction = 146.0
+	local_migration_attraction = 36.5
 }
 province_wealth14700 = {
-	local_migration_attraction = 147.0
+	local_migration_attraction = 36.75
 }
 province_wealth14800 = {
-	local_migration_attraction = 148.0
+	local_migration_attraction = 37.0
 }
 province_wealth14900 = {
-	local_migration_attraction = 149.0
+	local_migration_attraction = 37.25
 }
 province_wealth15000 = {
-	local_migration_attraction = 150.0
+	local_migration_attraction = 37.5
 }
 province_wealth15100 = {
-	local_migration_attraction = 151.0
+	local_migration_attraction = 37.75
 }
 province_wealth15200 = {
-	local_migration_attraction = 152.0
+	local_migration_attraction = 38.0
 }
 province_wealth15300 = {
-	local_migration_attraction = 153.0
+	local_migration_attraction = 38.25
 }
 province_wealth15400 = {
-	local_migration_attraction = 154.0
+	local_migration_attraction = 38.5
 }
 province_wealth15500 = {
-	local_migration_attraction = 155.0
+	local_migration_attraction = 38.75
 }
 province_wealth15600 = {
-	local_migration_attraction = 156.0
+	local_migration_attraction = 39.0
 }
 province_wealth15700 = {
-	local_migration_attraction = 157.0
+	local_migration_attraction = 39.25
 }
 province_wealth15800 = {
-	local_migration_attraction = 158.0
+	local_migration_attraction = 39.5
 }
 province_wealth15900 = {
-	local_migration_attraction = 159.0
+	local_migration_attraction = 39.75
 }
 province_wealth16000 = {
-	local_migration_attraction = 160.0
+	local_migration_attraction = 40.0
 }
 province_wealth16100 = {
-	local_migration_attraction = 161.0
+	local_migration_attraction = 40.25
 }
 province_wealth16200 = {
-	local_migration_attraction = 162.0
+	local_migration_attraction = 40.5
 }
 province_wealth16300 = {
-	local_migration_attraction = 163.0
+	local_migration_attraction = 40.75
 }
 province_wealth16400 = {
-	local_migration_attraction = 164.0
+	local_migration_attraction = 41.0
 }
 province_wealth16500 = {
-	local_migration_attraction = 165.0
+	local_migration_attraction = 41.25
 }
 province_wealth16600 = {
-	local_migration_attraction = 166.0
+	local_migration_attraction = 41.5
 }
 province_wealth16700 = {
-	local_migration_attraction = 167.0
+	local_migration_attraction = 41.75
 }
 province_wealth16800 = {
-	local_migration_attraction = 168.0
+	local_migration_attraction = 42.0
 }
 province_wealth16900 = {
-	local_migration_attraction = 169.0
+	local_migration_attraction = 42.25
 }
 province_wealth17000 = {
-	local_migration_attraction = 170.0
+	local_migration_attraction = 42.5
 }
 province_wealth17100 = {
-	local_migration_attraction = 171.0
+	local_migration_attraction = 42.75
 }
 province_wealth17200 = {
-	local_migration_attraction = 172.0
+	local_migration_attraction = 43.0
 }
 province_wealth17300 = {
-	local_migration_attraction = 173.0
+	local_migration_attraction = 43.25
 }
 province_wealth17400 = {
-	local_migration_attraction = 174.0
+	local_migration_attraction = 43.5
 }
 province_wealth17500 = {
-	local_migration_attraction = 175.0
+	local_migration_attraction = 43.75
 }
 province_wealth17600 = {
-	local_migration_attraction = 176.0
+	local_migration_attraction = 44.0
 }
 province_wealth17700 = {
-	local_migration_attraction = 177.0
+	local_migration_attraction = 44.25
 }
 province_wealth17800 = {
-	local_migration_attraction = 178.0
+	local_migration_attraction = 44.5
 }
 province_wealth17900 = {
-	local_migration_attraction = 179.0
+	local_migration_attraction = 44.75
 }
 province_wealth18000 = {
-	local_migration_attraction = 180.0
+	local_migration_attraction = 45.0
 }
 province_wealth18100 = {
-	local_migration_attraction = 181.0
+	local_migration_attraction = 45.25
 }
 province_wealth18200 = {
-	local_migration_attraction = 182.0
+	local_migration_attraction = 45.5
 }
 province_wealth18300 = {
-	local_migration_attraction = 183.0
+	local_migration_attraction = 45.75
 }
 province_wealth18400 = {
-	local_migration_attraction = 184.0
+	local_migration_attraction = 46.0
 }
 province_wealth18500 = {
-	local_migration_attraction = 185.0
+	local_migration_attraction = 46.25
 }
 province_wealth18600 = {
-	local_migration_attraction = 186.0
+	local_migration_attraction = 46.5
 }
 province_wealth18700 = {
-	local_migration_attraction = 187.0
+	local_migration_attraction = 46.75
 }
 province_wealth18800 = {
-	local_migration_attraction = 188.0
+	local_migration_attraction = 47.0
 }
 province_wealth18900 = {
-	local_migration_attraction = 189.0
+	local_migration_attraction = 47.25
 }
 province_wealth19000 = {
-	local_migration_attraction = 190.0
+	local_migration_attraction = 47.5
 }
 province_wealth19100 = {
-	local_migration_attraction = 191.0
+	local_migration_attraction = 47.75
 }
 province_wealth19200 = {
-	local_migration_attraction = 192.0
+	local_migration_attraction = 48.0
 }
 province_wealth19300 = {
-	local_migration_attraction = 193.0
+	local_migration_attraction = 48.25
 }
 province_wealth19400 = {
-	local_migration_attraction = 194.0
+	local_migration_attraction = 48.5
 }
 province_wealth19500 = {
-	local_migration_attraction = 195.0
+	local_migration_attraction = 48.75
 }
 province_wealth19600 = {
-	local_migration_attraction = 196.0
+	local_migration_attraction = 49.0
 }
 province_wealth19700 = {
-	local_migration_attraction = 197.0
+	local_migration_attraction = 49.25
 }
 province_wealth19800 = {
-	local_migration_attraction = 198.0
+	local_migration_attraction = 49.5
 }
 province_wealth19900 = {
-	local_migration_attraction = 199.0
+	local_migration_attraction = 49.75
 }
 province_wealth20000 = {
-	local_migration_attraction = 200.0
+	local_migration_attraction = 50.0
 }
 province_wealth21000 = {
-	local_migration_attraction = 210.0
+	local_migration_attraction = 52.5
 }
 province_wealth22000 = {
-	local_migration_attraction = 220.0
+	local_migration_attraction = 55.0
 }
 province_wealth23000 = {
-	local_migration_attraction = 230.0
+	local_migration_attraction = 57.5
 }
 province_wealth24000 = {
-	local_migration_attraction = 240.0
+	local_migration_attraction = 60.0
 }
 province_wealth25000 = {
-	local_migration_attraction = 250.0
+	local_migration_attraction = 62.5
 }
 province_wealth26000 = {
-	local_migration_attraction = 260.0
+	local_migration_attraction = 65.0
 }
 province_wealth27000 = {
-	local_migration_attraction = 270.0
+	local_migration_attraction = 67.5
 }
 province_wealth28000 = {
-	local_migration_attraction = 280.0
+	local_migration_attraction = 70.0
 }
 province_wealth29000 = {
-	local_migration_attraction = 290.0
+	local_migration_attraction = 72.5
 }
 province_wealth30000 = {
-	local_migration_attraction = 300.0
+	local_migration_attraction = 75.0
 }
 province_wealth31000 = {
-	local_migration_attraction = 310.0
+	local_migration_attraction = 77.5
 }
 province_wealth32000 = {
-	local_migration_attraction = 320.0
+	local_migration_attraction = 80.0
 }
 province_wealth33000 = {
-	local_migration_attraction = 330.0
+	local_migration_attraction = 82.5
 }
 province_wealth34000 = {
-	local_migration_attraction = 340.0
+	local_migration_attraction = 85.0
 }
 province_wealth35000 = {
-	local_migration_attraction = 350.0
+	local_migration_attraction = 87.5
 }
 province_wealth36000 = {
-	local_migration_attraction = 360.0
+	local_migration_attraction = 90.0
 }
 province_wealth37000 = {
-	local_migration_attraction = 370.0
+	local_migration_attraction = 92.5
 }
 province_wealth38000 = {
-	local_migration_attraction = 380.0
+	local_migration_attraction = 95.0
 }
 province_wealth39000 = {
-	local_migration_attraction = 390.0
+	local_migration_attraction = 97.5
 }
 province_wealth40000 = {
-	local_migration_attraction = 400.0
+	local_migration_attraction = 100.0
 }
 province_wealth41000 = {
-	local_migration_attraction = 410.0
+	local_migration_attraction = 102.5
 }
 province_wealth42000 = {
-	local_migration_attraction = 420.0
+	local_migration_attraction = 105.0
 }
 province_wealth43000 = {
-	local_migration_attraction = 430.0
+	local_migration_attraction = 107.5
 }
 province_wealth44000 = {
-	local_migration_attraction = 440.0
+	local_migration_attraction = 110.0
 }
 province_wealth45000 = {
-	local_migration_attraction = 450.0
+	local_migration_attraction = 112.5
 }
 province_wealth46000 = {
-	local_migration_attraction = 460.0
+	local_migration_attraction = 115.0
 }
 province_wealth47000 = {
-	local_migration_attraction = 470.0
+	local_migration_attraction = 117.5
 }
 province_wealth48000 = {
-	local_migration_attraction = 480.0
+	local_migration_attraction = 120.0
 }
 province_wealth49000 = {
-	local_migration_attraction = 490.0
+	local_migration_attraction = 122.5
 }
 province_wealth50000 = {
-	local_migration_attraction = 500.0
+	local_migration_attraction = 125.0
 }
 province_wealth51000 = {
-	local_migration_attraction = 510.0
+	local_migration_attraction = 127.5
 }
 province_wealth52000 = {
-	local_migration_attraction = 520.0
+	local_migration_attraction = 130.0
 }
 province_wealth53000 = {
-	local_migration_attraction = 530.0
+	local_migration_attraction = 132.5
 }
 province_wealth54000 = {
-	local_migration_attraction = 540.0
+	local_migration_attraction = 135.0
 }
 province_wealth55000 = {
-	local_migration_attraction = 550.0
+	local_migration_attraction = 137.5
 }
 province_wealth56000 = {
-	local_migration_attraction = 560.0
+	local_migration_attraction = 140.0
 }
 province_wealth57000 = {
-	local_migration_attraction = 570.0
+	local_migration_attraction = 142.5
 }
 province_wealth58000 = {
-	local_migration_attraction = 580.0
+	local_migration_attraction = 145.0
 }
 province_wealth59000 = {
-	local_migration_attraction = 590.0
+	local_migration_attraction = 147.5
 }
 province_wealth60000 = {
-	local_migration_attraction = 600.0
+	local_migration_attraction = 150.0
 }
 province_wealth61000 = {
-	local_migration_attraction = 610.0
+	local_migration_attraction = 152.5
 }
 province_wealth62000 = {
-	local_migration_attraction = 620.0
+	local_migration_attraction = 155.0
 }
 province_wealth63000 = {
-	local_migration_attraction = 630.0
+	local_migration_attraction = 157.5
 }
 province_wealth64000 = {
-	local_migration_attraction = 640.0
+	local_migration_attraction = 160.0
 }
 province_wealth65000 = {
-	local_migration_attraction = 650.0
+	local_migration_attraction = 162.5
 }
 province_wealth66000 = {
-	local_migration_attraction = 660.0
+	local_migration_attraction = 165.0
 }
 province_wealth67000 = {
-	local_migration_attraction = 670.0
+	local_migration_attraction = 167.5
 }
 province_wealth68000 = {
-	local_migration_attraction = 680.0
+	local_migration_attraction = 170.0
 }
 province_wealth69000 = {
-	local_migration_attraction = 690.0
+	local_migration_attraction = 172.5
 }
 province_wealth70000 = {
-	local_migration_attraction = 700.0
+	local_migration_attraction = 175.0
 }
 province_wealth71000 = {
-	local_migration_attraction = 710.0
+	local_migration_attraction = 177.5
 }
 province_wealth72000 = {
-	local_migration_attraction = 720.0
+	local_migration_attraction = 180.0
 }
 province_wealth73000 = {
-	local_migration_attraction = 730.0
+	local_migration_attraction = 182.5
 }
 province_wealth74000 = {
-	local_migration_attraction = 740.0
+	local_migration_attraction = 185.0
 }
 province_wealth75000 = {
-	local_migration_attraction = 750.0
+	local_migration_attraction = 187.5
 }
 province_wealth76000 = {
-	local_migration_attraction = 760.0
+	local_migration_attraction = 190.0
 }
 province_wealth77000 = {
-	local_migration_attraction = 770.0
+	local_migration_attraction = 192.5
 }
 province_wealth78000 = {
-	local_migration_attraction = 780.0
+	local_migration_attraction = 195.0
 }
 province_wealth79000 = {
-	local_migration_attraction = 790.0
+	local_migration_attraction = 197.5
 }
 province_wealth80000 = {
-	local_migration_attraction = 800.0
+	local_migration_attraction = 200.0
 }
 province_wealth81000 = {
-	local_migration_attraction = 810.0
+	local_migration_attraction = 202.5
 }
 province_wealth82000 = {
-	local_migration_attraction = 820.0
+	local_migration_attraction = 205.0
 }
 province_wealth83000 = {
-	local_migration_attraction = 830.0
+	local_migration_attraction = 207.5
 }
 province_wealth84000 = {
-	local_migration_attraction = 840.0
+	local_migration_attraction = 210.0
 }
 province_wealth85000 = {
-	local_migration_attraction = 850.0
+	local_migration_attraction = 212.5
 }
 province_wealth86000 = {
-	local_migration_attraction = 860.0
+	local_migration_attraction = 215.0
 }
 province_wealth87000 = {
-	local_migration_attraction = 870.0
+	local_migration_attraction = 217.5
 }
 province_wealth88000 = {
-	local_migration_attraction = 880.0
+	local_migration_attraction = 220.0
 }
 province_wealth89000 = {
-	local_migration_attraction = 890.0
+	local_migration_attraction = 222.5
 }
 province_wealth90000 = {
-	local_migration_attraction = 900.0
+	local_migration_attraction = 225.0
 }
 province_wealth91000 = {
-	local_migration_attraction = 910.0
+	local_migration_attraction = 227.5
 }
 province_wealth92000 = {
-	local_migration_attraction = 920.0
+	local_migration_attraction = 230.0
 }
 province_wealth93000 = {
-	local_migration_attraction = 930.0
+	local_migration_attraction = 232.5
 }
 province_wealth94000 = {
-	local_migration_attraction = 940.0
+	local_migration_attraction = 235.0
 }
 province_wealth95000 = {
-	local_migration_attraction = 950.0
+	local_migration_attraction = 237.5
 }
 province_wealth96000 = {
-	local_migration_attraction = 960.0
+	local_migration_attraction = 240.0
 }
 province_wealth97000 = {
-	local_migration_attraction = 970.0
+	local_migration_attraction = 242.5
 }
 province_wealth98000 = {
-	local_migration_attraction = 980.0
+	local_migration_attraction = 245.0
 }
 province_wealth99000 = {
-	local_migration_attraction = 990.0
+	local_migration_attraction = 247.5
 }
 province_wealth100000 = {
-	local_migration_attraction = 1000.0
+	local_migration_attraction = 250.0
 }
 province_wealth101000 = {
-	local_migration_attraction = 1010.0
+	local_migration_attraction = 252.5
 }
 province_wealth102000 = {
-	local_migration_attraction = 1020.0
+	local_migration_attraction = 255.0
 }
 province_wealth103000 = {
-	local_migration_attraction = 1030.0
+	local_migration_attraction = 257.5
 }
 province_wealth104000 = {
-	local_migration_attraction = 1040.0
+	local_migration_attraction = 260.0
 }
 province_wealth105000 = {
-	local_migration_attraction = 1050.0
+	local_migration_attraction = 262.5
 }
 province_wealth106000 = {
-	local_migration_attraction = 1060.0
+	local_migration_attraction = 265.0
 }
 province_wealth107000 = {
-	local_migration_attraction = 1070.0
+	local_migration_attraction = 267.5
 }
 province_wealth108000 = {
-	local_migration_attraction = 1080.0
+	local_migration_attraction = 270.0
 }
 province_wealth109000 = {
-	local_migration_attraction = 1090.0
+	local_migration_attraction = 272.5
 }
 province_wealth110000 = {
-	local_migration_attraction = 1100.0
+	local_migration_attraction = 275.0
 }
 province_wealth111000 = {
-	local_migration_attraction = 1110.0
+	local_migration_attraction = 277.5
 }
 province_wealth112000 = {
-	local_migration_attraction = 1120.0
+	local_migration_attraction = 280.0
 }
 province_wealth113000 = {
-	local_migration_attraction = 1130.0
+	local_migration_attraction = 282.5
 }
 province_wealth114000 = {
-	local_migration_attraction = 1140.0
+	local_migration_attraction = 285.0
 }
 province_wealth115000 = {
-	local_migration_attraction = 1150.0
+	local_migration_attraction = 287.5
 }
 province_wealth116000 = {
-	local_migration_attraction = 1160.0
+	local_migration_attraction = 290.0
 }
 province_wealth117000 = {
-	local_migration_attraction = 1170.0
+	local_migration_attraction = 292.5
 }
 province_wealth118000 = {
-	local_migration_attraction = 1180.0
+	local_migration_attraction = 295.0
 }
 province_wealth119000 = {
-	local_migration_attraction = 1190.0
+	local_migration_attraction = 297.5
 }
 province_wealth120000 = {
-	local_migration_attraction = 1200.0
+	local_migration_attraction = 300.0
 }
 province_wealth121000 = {
-	local_migration_attraction = 1210.0
+	local_migration_attraction = 302.5
 }
 province_wealth122000 = {
-	local_migration_attraction = 1220.0
+	local_migration_attraction = 305.0
 }
 province_wealth123000 = {
-	local_migration_attraction = 1230.0
+	local_migration_attraction = 307.5
 }
 province_wealth124000 = {
-	local_migration_attraction = 1240.0
+	local_migration_attraction = 310.0
 }
 province_wealth125000 = {
-	local_migration_attraction = 1250.0
+	local_migration_attraction = 312.5
 }
 province_wealth126000 = {
-	local_migration_attraction = 1260.0
+	local_migration_attraction = 315.0
 }
 province_wealth127000 = {
-	local_migration_attraction = 1270.0
+	local_migration_attraction = 317.5
 }
 province_wealth128000 = {
-	local_migration_attraction = 1280.0
+	local_migration_attraction = 320.0
 }
 province_wealth129000 = {
-	local_migration_attraction = 1290.0
+	local_migration_attraction = 322.5
 }
 province_wealth130000 = {
-	local_migration_attraction = 1300.0
+	local_migration_attraction = 325.0
 }
 province_wealth131000 = {
-	local_migration_attraction = 1310.0
+	local_migration_attraction = 327.5
 }
 province_wealth132000 = {
-	local_migration_attraction = 1320.0
+	local_migration_attraction = 330.0
 }
 province_wealth133000 = {
-	local_migration_attraction = 1330.0
+	local_migration_attraction = 332.5
 }
 province_wealth134000 = {
-	local_migration_attraction = 1340.0
+	local_migration_attraction = 335.0
 }
 province_wealth135000 = {
-	local_migration_attraction = 1350.0
+	local_migration_attraction = 337.5
 }
 province_wealth136000 = {
-	local_migration_attraction = 1360.0
+	local_migration_attraction = 340.0
 }
 province_wealth137000 = {
-	local_migration_attraction = 1370.0
+	local_migration_attraction = 342.5
 }
 province_wealth138000 = {
-	local_migration_attraction = 1380.0
+	local_migration_attraction = 345.0
 }
 province_wealth139000 = {
-	local_migration_attraction = 1390.0
+	local_migration_attraction = 347.5
 }
 province_wealth140000 = {
-	local_migration_attraction = 1400.0
+	local_migration_attraction = 350.0
 }
 province_wealth141000 = {
-	local_migration_attraction = 1410.0
+	local_migration_attraction = 352.5
 }
 province_wealth142000 = {
-	local_migration_attraction = 1420.0
+	local_migration_attraction = 355.0
 }
 province_wealth143000 = {
-	local_migration_attraction = 1430.0
+	local_migration_attraction = 357.5
 }
 province_wealth144000 = {
-	local_migration_attraction = 1440.0
+	local_migration_attraction = 360.0
 }
 province_wealth145000 = {
-	local_migration_attraction = 1450.0
+	local_migration_attraction = 362.5
 }
 province_wealth146000 = {
-	local_migration_attraction = 1460.0
+	local_migration_attraction = 365.0
 }
 province_wealth147000 = {
-	local_migration_attraction = 1470.0
+	local_migration_attraction = 367.5
 }
 province_wealth148000 = {
-	local_migration_attraction = 1480.0
+	local_migration_attraction = 370.0
 }
 province_wealth149000 = {
-	local_migration_attraction = 1490.0
+	local_migration_attraction = 372.5
 }
 province_wealth150000 = {
-	local_migration_attraction = 1500.0
+	local_migration_attraction = 375.0
 }
 province_wealth151000 = {
-	local_migration_attraction = 1510.0
+	local_migration_attraction = 377.5
 }
 province_wealth152000 = {
-	local_migration_attraction = 1520.0
+	local_migration_attraction = 380.0
 }
 province_wealth153000 = {
-	local_migration_attraction = 1530.0
+	local_migration_attraction = 382.5
 }
 province_wealth154000 = {
-	local_migration_attraction = 1540.0
+	local_migration_attraction = 385.0
 }
 province_wealth155000 = {
-	local_migration_attraction = 1550.0
+	local_migration_attraction = 387.5
 }
 province_wealth156000 = {
-	local_migration_attraction = 1560.0
+	local_migration_attraction = 390.0
 }
 province_wealth157000 = {
-	local_migration_attraction = 1570.0
+	local_migration_attraction = 392.5
 }
 province_wealth158000 = {
-	local_migration_attraction = 1580.0
+	local_migration_attraction = 395.0
 }
 province_wealth159000 = {
-	local_migration_attraction = 1590.0
+	local_migration_attraction = 397.5
 }
 province_wealth160000 = {
-	local_migration_attraction = 1600.0
+	local_migration_attraction = 400.0
 }
 province_wealth161000 = {
-	local_migration_attraction = 1610.0
+	local_migration_attraction = 402.5
 }
 province_wealth162000 = {
-	local_migration_attraction = 1620.0
+	local_migration_attraction = 405.0
 }
 province_wealth163000 = {
-	local_migration_attraction = 1630.0
+	local_migration_attraction = 407.5
 }
 province_wealth164000 = {
-	local_migration_attraction = 1640.0
+	local_migration_attraction = 410.0
 }
 province_wealth165000 = {
-	local_migration_attraction = 1650.0
+	local_migration_attraction = 412.5
 }
 province_wealth166000 = {
-	local_migration_attraction = 1660.0
+	local_migration_attraction = 415.0
 }
 province_wealth167000 = {
-	local_migration_attraction = 1670.0
+	local_migration_attraction = 417.5
 }
 province_wealth168000 = {
-	local_migration_attraction = 1680.0
+	local_migration_attraction = 420.0
 }
 province_wealth169000 = {
-	local_migration_attraction = 1690.0
+	local_migration_attraction = 422.5
 }
 province_wealth170000 = {
-	local_migration_attraction = 1700.0
+	local_migration_attraction = 425.0
 }
 province_wealth171000 = {
-	local_migration_attraction = 1710.0
+	local_migration_attraction = 427.5
 }
 province_wealth172000 = {
-	local_migration_attraction = 1720.0
+	local_migration_attraction = 430.0
 }
 province_wealth173000 = {
-	local_migration_attraction = 1730.0
+	local_migration_attraction = 432.5
 }
 province_wealth174000 = {
-	local_migration_attraction = 1740.0
+	local_migration_attraction = 435.0
 }
 province_wealth175000 = {
-	local_migration_attraction = 1750.0
+	local_migration_attraction = 437.5
 }
 province_wealth176000 = {
-	local_migration_attraction = 1760.0
+	local_migration_attraction = 440.0
 }
 province_wealth177000 = {
-	local_migration_attraction = 1770.0
+	local_migration_attraction = 442.5
 }
 province_wealth178000 = {
-	local_migration_attraction = 1780.0
+	local_migration_attraction = 445.0
 }
 province_wealth179000 = {
-	local_migration_attraction = 1790.0
+	local_migration_attraction = 447.5
 }
 province_wealth180000 = {
-	local_migration_attraction = 1800.0
+	local_migration_attraction = 450.0
 }
 province_wealth181000 = {
-	local_migration_attraction = 1810.0
+	local_migration_attraction = 452.5
 }
 province_wealth182000 = {
-	local_migration_attraction = 1820.0
+	local_migration_attraction = 455.0
 }
 province_wealth183000 = {
-	local_migration_attraction = 1830.0
+	local_migration_attraction = 457.5
 }
 province_wealth184000 = {
-	local_migration_attraction = 1840.0
+	local_migration_attraction = 460.0
 }
 province_wealth185000 = {
-	local_migration_attraction = 1850.0
+	local_migration_attraction = 462.5
 }
 province_wealth186000 = {
-	local_migration_attraction = 1860.0
+	local_migration_attraction = 465.0
 }
 province_wealth187000 = {
-	local_migration_attraction = 1870.0
+	local_migration_attraction = 467.5
 }
 province_wealth188000 = {
-	local_migration_attraction = 1880.0
+	local_migration_attraction = 470.0
 }
 province_wealth189000 = {
-	local_migration_attraction = 1890.0
+	local_migration_attraction = 472.5
 }
 province_wealth190000 = {
-	local_migration_attraction = 1900.0
+	local_migration_attraction = 475.0
 }
 province_wealth191000 = {
-	local_migration_attraction = 1910.0
+	local_migration_attraction = 477.5
 }
 province_wealth192000 = {
-	local_migration_attraction = 1920.0
+	local_migration_attraction = 480.0
 }
 province_wealth193000 = {
-	local_migration_attraction = 1930.0
+	local_migration_attraction = 482.5
 }
 province_wealth194000 = {
-	local_migration_attraction = 1940.0
+	local_migration_attraction = 485.0
 }
 province_wealth195000 = {
-	local_migration_attraction = 1950.0
+	local_migration_attraction = 487.5
 }
 province_wealth196000 = {
-	local_migration_attraction = 1960.0
+	local_migration_attraction = 490.0
 }
 province_wealth197000 = {
-	local_migration_attraction = 1970.0
+	local_migration_attraction = 492.5
 }
 province_wealth198000 = {
-	local_migration_attraction = 1980.0
+	local_migration_attraction = 495.0
 }
 province_wealth199000 = {
-	local_migration_attraction = 1990.0
+	local_migration_attraction = 497.5
 }
 province_wealth200000 = {
-	local_migration_attraction = 2000.0
+	local_migration_attraction = 500.0
 }
 province_wealth210000 = {
-	local_migration_attraction = 2100.0
+	local_migration_attraction = 525.0
 }
 province_wealth220000 = {
-	local_migration_attraction = 2200.0
+	local_migration_attraction = 550.0
 }
 province_wealth230000 = {
-	local_migration_attraction = 2300.0
+	local_migration_attraction = 575.0
 }
 province_wealth240000 = {
-	local_migration_attraction = 2400.0
+	local_migration_attraction = 600.0
 }
 province_wealth250000 = {
-	local_migration_attraction = 2500.0
+	local_migration_attraction = 625.0
 }
 province_wealth260000 = {
-	local_migration_attraction = 2600.0
+	local_migration_attraction = 650.0
 }
 province_wealth270000 = {
-	local_migration_attraction = 2700.0
+	local_migration_attraction = 675.0
 }
 province_wealth280000 = {
-	local_migration_attraction = 2800.0
+	local_migration_attraction = 700.0
 }
 province_wealth290000 = {
-	local_migration_attraction = 2900.0
+	local_migration_attraction = 725.0
 }
 province_wealth300000 = {
-	local_migration_attraction = 3000.0
+	local_migration_attraction = 750.0
 }
 province_wealth310000 = {
-	local_migration_attraction = 3100.0
+	local_migration_attraction = 775.0
 }
 province_wealth320000 = {
-	local_migration_attraction = 3200.0
+	local_migration_attraction = 800.0
 }
 province_wealth330000 = {
-	local_migration_attraction = 3300.0
+	local_migration_attraction = 825.0
 }
 province_wealth340000 = {
-	local_migration_attraction = 3400.0
+	local_migration_attraction = 850.0
 }
 province_wealth350000 = {
-	local_migration_attraction = 3500.0
+	local_migration_attraction = 875.0
 }
 province_wealth360000 = {
-	local_migration_attraction = 3600.0
+	local_migration_attraction = 900.0
 }
 province_wealth370000 = {
-	local_migration_attraction = 3700.0
+	local_migration_attraction = 925.0
 }
 province_wealth380000 = {
-	local_migration_attraction = 3800.0
+	local_migration_attraction = 950.0
 }
 province_wealth390000 = {
-	local_migration_attraction = 3900.0
+	local_migration_attraction = 975.0
 }
 province_wealth400000 = {
-	local_migration_attraction = 4000.0
+	local_migration_attraction = 1000.0
 }
 province_wealth410000 = {
-	local_migration_attraction = 4100.0
+	local_migration_attraction = 1025.0
 }
 province_wealth420000 = {
-	local_migration_attraction = 4200.0
+	local_migration_attraction = 1050.0
 }
 province_wealth430000 = {
-	local_migration_attraction = 4300.0
+	local_migration_attraction = 1075.0
 }
 province_wealth440000 = {
-	local_migration_attraction = 4400.0
+	local_migration_attraction = 1100.0
 }
 province_wealth450000 = {
-	local_migration_attraction = 4500.0
+	local_migration_attraction = 1125.0
 }
 province_wealth460000 = {
-	local_migration_attraction = 4600.0
+	local_migration_attraction = 1150.0
 }
 province_wealth470000 = {
-	local_migration_attraction = 4700.0
+	local_migration_attraction = 1175.0
 }
 province_wealth480000 = {
-	local_migration_attraction = 4800.0
+	local_migration_attraction = 1200.0
 }
 province_wealth490000 = {
-	local_migration_attraction = 4900.0
+	local_migration_attraction = 1225.0
 }
 province_wealth500000 = {
-	local_migration_attraction = 5000.0
+	local_migration_attraction = 1250.0
 }
 province_wealth510000 = {
-	local_migration_attraction = 5100.0
+	local_migration_attraction = 1275.0
 }
 province_wealth520000 = {
-	local_migration_attraction = 5200.0
+	local_migration_attraction = 1300.0
 }
 province_wealth530000 = {
-	local_migration_attraction = 5300.0
+	local_migration_attraction = 1325.0
 }
 province_wealth540000 = {
-	local_migration_attraction = 5400.0
+	local_migration_attraction = 1350.0
 }
 province_wealth550000 = {
-	local_migration_attraction = 5500.0
+	local_migration_attraction = 1375.0
 }
 province_wealth560000 = {
-	local_migration_attraction = 5600.0
+	local_migration_attraction = 1400.0
 }
 province_wealth570000 = {
-	local_migration_attraction = 5700.0
+	local_migration_attraction = 1425.0
 }
 province_wealth580000 = {
-	local_migration_attraction = 5800.0
+	local_migration_attraction = 1450.0
 }
 province_wealth590000 = {
-	local_migration_attraction = 5900.0
+	local_migration_attraction = 1475.0
 }
 province_wealth600000 = {
-	local_migration_attraction = 6000.0
+	local_migration_attraction = 1500.0
 }
 province_wealth610000 = {
-	local_migration_attraction = 6100.0
+	local_migration_attraction = 1525.0
 }
 province_wealth620000 = {
-	local_migration_attraction = 6200.0
+	local_migration_attraction = 1550.0
 }
 province_wealth630000 = {
-	local_migration_attraction = 6300.0
+	local_migration_attraction = 1575.0
 }
 province_wealth640000 = {
-	local_migration_attraction = 6400.0
+	local_migration_attraction = 1600.0
 }
 province_wealth650000 = {
-	local_migration_attraction = 6500.0
+	local_migration_attraction = 1625.0
 }
 province_wealth660000 = {
-	local_migration_attraction = 6600.0
+	local_migration_attraction = 1650.0
 }
 province_wealth670000 = {
-	local_migration_attraction = 6700.0
+	local_migration_attraction = 1675.0
 }
 province_wealth680000 = {
-	local_migration_attraction = 6800.0
+	local_migration_attraction = 1700.0
 }
 province_wealth690000 = {
-	local_migration_attraction = 6900.0
+	local_migration_attraction = 1725.0
 }
 province_wealth700000 = {
-	local_migration_attraction = 7000.0
+	local_migration_attraction = 1750.0
 }
 province_wealth710000 = {
-	local_migration_attraction = 7100.0
+	local_migration_attraction = 1775.0
 }
 province_wealth720000 = {
-	local_migration_attraction = 7200.0
+	local_migration_attraction = 1800.0
 }
 province_wealth730000 = {
-	local_migration_attraction = 7300.0
+	local_migration_attraction = 1825.0
 }
 province_wealth740000 = {
-	local_migration_attraction = 7400.0
+	local_migration_attraction = 1850.0
 }
 province_wealth750000 = {
-	local_migration_attraction = 7500.0
+	local_migration_attraction = 1875.0
 }
 province_wealth760000 = {
-	local_migration_attraction = 7600.0
+	local_migration_attraction = 1900.0
 }
 province_wealth770000 = {
-	local_migration_attraction = 7700.0
+	local_migration_attraction = 1925.0
 }
 province_wealth780000 = {
-	local_migration_attraction = 7800.0
+	local_migration_attraction = 1950.0
 }
 province_wealth790000 = {
-	local_migration_attraction = 7900.0
+	local_migration_attraction = 1975.0
 }
 province_wealth800000 = {
-	local_migration_attraction = 8000.0
+	local_migration_attraction = 2000.0
 }
 province_wealth810000 = {
-	local_migration_attraction = 8100.0
+	local_migration_attraction = 2025.0
 }
 province_wealth820000 = {
-	local_migration_attraction = 8200.0
+	local_migration_attraction = 2050.0
 }
 province_wealth830000 = {
-	local_migration_attraction = 8300.0
+	local_migration_attraction = 2075.0
 }
 province_wealth840000 = {
-	local_migration_attraction = 8400.0
+	local_migration_attraction = 2100.0
 }
 province_wealth850000 = {
-	local_migration_attraction = 8500.0
+	local_migration_attraction = 2125.0
 }
 province_wealth860000 = {
-	local_migration_attraction = 8600.0
+	local_migration_attraction = 2150.0
 }
 province_wealth870000 = {
-	local_migration_attraction = 8700.0
+	local_migration_attraction = 2175.0
 }
 province_wealth880000 = {
-	local_migration_attraction = 8800.0
+	local_migration_attraction = 2200.0
 }
 province_wealth890000 = {
-	local_migration_attraction = 8900.0
+	local_migration_attraction = 2225.0
 }
 province_wealth900000 = {
-	local_migration_attraction = 9000.0
+	local_migration_attraction = 2250.0
 }
 province_wealth910000 = {
-	local_migration_attraction = 9100.0
+	local_migration_attraction = 2275.0
 }
 province_wealth920000 = {
-	local_migration_attraction = 9200.0
+	local_migration_attraction = 2300.0
 }
 province_wealth930000 = {
-	local_migration_attraction = 9300.0
+	local_migration_attraction = 2325.0
 }
 province_wealth940000 = {
-	local_migration_attraction = 9400.0
+	local_migration_attraction = 2350.0
 }
 province_wealth950000 = {
-	local_migration_attraction = 9500.0
+	local_migration_attraction = 2375.0
 }
 province_wealth960000 = {
-	local_migration_attraction = 9600.0
+	local_migration_attraction = 2400.0
 }
 province_wealth970000 = {
-	local_migration_attraction = 9700.0
+	local_migration_attraction = 2425.0
 }
 province_wealth980000 = {
-	local_migration_attraction = 9800.0
+	local_migration_attraction = 2450.0
 }
 province_wealth990000 = {
-	local_migration_attraction = 9900.0
+	local_migration_attraction = 2475.0
 }
 province_wealth1000000 = {
-	local_migration_attraction = 10000.0
+	local_migration_attraction = 2500.0
 }
 province_wealth1010000 = {
-	local_migration_attraction = 10100.0
+	local_migration_attraction = 2525.0
 }
 province_wealth1020000 = {
-	local_migration_attraction = 10200.0
+	local_migration_attraction = 2550.0
 }
 province_wealth1030000 = {
-	local_migration_attraction = 10300.0
+	local_migration_attraction = 2575.0
 }
 province_wealth1040000 = {
-	local_migration_attraction = 10400.0
+	local_migration_attraction = 2600.0
 }
 province_wealth1050000 = {
-	local_migration_attraction = 10500.0
+	local_migration_attraction = 2625.0
 }
 province_wealth1060000 = {
-	local_migration_attraction = 10600.0
+	local_migration_attraction = 2650.0
 }
 province_wealth1070000 = {
-	local_migration_attraction = 10700.0
+	local_migration_attraction = 2675.0
 }
 province_wealth1080000 = {
-	local_migration_attraction = 10800.0
+	local_migration_attraction = 2700.0
 }
 province_wealth1090000 = {
-	local_migration_attraction = 10900.0
+	local_migration_attraction = 2725.0
 }
 province_wealth1100000 = {
-	local_migration_attraction = 11000.0
+	local_migration_attraction = 2750.0
 }
 province_wealth1110000 = {
-	local_migration_attraction = 11100.0
+	local_migration_attraction = 2775.0
 }
 province_wealth1120000 = {
-	local_migration_attraction = 11200.0
+	local_migration_attraction = 2800.0
 }
 province_wealth1130000 = {
-	local_migration_attraction = 11300.0
+	local_migration_attraction = 2825.0
 }
 province_wealth1140000 = {
-	local_migration_attraction = 11400.0
+	local_migration_attraction = 2850.0
 }
 province_wealth1150000 = {
-	local_migration_attraction = 11500.0
+	local_migration_attraction = 2875.0
 }
 province_wealth1160000 = {
-	local_migration_attraction = 11600.0
+	local_migration_attraction = 2900.0
 }
 province_wealth1170000 = {
-	local_migration_attraction = 11700.0
+	local_migration_attraction = 2925.0
 }
 province_wealth1180000 = {
-	local_migration_attraction = 11800.0
+	local_migration_attraction = 2950.0
 }
 province_wealth1190000 = {
-	local_migration_attraction = 11900.0
+	local_migration_attraction = 2975.0
 }
 province_wealth1200000 = {
-	local_migration_attraction = 12000.0
+	local_migration_attraction = 3000.0
 }
 province_wealth1210000 = {
-	local_migration_attraction = 12100.0
+	local_migration_attraction = 3025.0
 }
 province_wealth1220000 = {
-	local_migration_attraction = 12200.0
+	local_migration_attraction = 3050.0
 }
 province_wealth1230000 = {
-	local_migration_attraction = 12300.0
+	local_migration_attraction = 3075.0
 }
 province_wealth1240000 = {
-	local_migration_attraction = 12400.0
+	local_migration_attraction = 3100.0
 }
 province_wealth1250000 = {
-	local_migration_attraction = 12500.0
+	local_migration_attraction = 3125.0
 }
 province_wealth1260000 = {
-	local_migration_attraction = 12600.0
+	local_migration_attraction = 3150.0
 }
 province_wealth1270000 = {
-	local_migration_attraction = 12700.0
+	local_migration_attraction = 3175.0
 }
 province_wealth1280000 = {
-	local_migration_attraction = 12800.0
+	local_migration_attraction = 3200.0
 }
 province_wealth1290000 = {
-	local_migration_attraction = 12900.0
+	local_migration_attraction = 3225.0
 }
 province_wealth1300000 = {
-	local_migration_attraction = 13000.0
+	local_migration_attraction = 3250.0
 }
 province_wealth1310000 = {
-	local_migration_attraction = 13100.0
+	local_migration_attraction = 3275.0
 }
 province_wealth1320000 = {
-	local_migration_attraction = 13200.0
+	local_migration_attraction = 3300.0
 }
 province_wealth1330000 = {
-	local_migration_attraction = 13300.0
+	local_migration_attraction = 3325.0
 }
 province_wealth1340000 = {
-	local_migration_attraction = 13400.0
+	local_migration_attraction = 3350.0
 }
 province_wealth1350000 = {
-	local_migration_attraction = 13500.0
+	local_migration_attraction = 3375.0
 }
 province_wealth1360000 = {
-	local_migration_attraction = 13600.0
+	local_migration_attraction = 3400.0
 }
 province_wealth1370000 = {
-	local_migration_attraction = 13700.0
+	local_migration_attraction = 3425.0
 }
 province_wealth1380000 = {
-	local_migration_attraction = 13800.0
+	local_migration_attraction = 3450.0
 }
 province_wealth1390000 = {
-	local_migration_attraction = 13900.0
+	local_migration_attraction = 3475.0
 }
 province_wealth1400000 = {
-	local_migration_attraction = 14000.0
+	local_migration_attraction = 3500.0
 }
 province_wealth1410000 = {
-	local_migration_attraction = 14100.0
+	local_migration_attraction = 3525.0
 }
 province_wealth1420000 = {
-	local_migration_attraction = 14200.0
+	local_migration_attraction = 3550.0
 }
 province_wealth1430000 = {
-	local_migration_attraction = 14300.0
+	local_migration_attraction = 3575.0
 }
 province_wealth1440000 = {
-	local_migration_attraction = 14400.0
+	local_migration_attraction = 3600.0
 }
 province_wealth1450000 = {
-	local_migration_attraction = 14500.0
+	local_migration_attraction = 3625.0
 }
 province_wealth1460000 = {
-	local_migration_attraction = 14600.0
+	local_migration_attraction = 3650.0
 }
 province_wealth1470000 = {
-	local_migration_attraction = 14700.0
+	local_migration_attraction = 3675.0
 }
 province_wealth1480000 = {
-	local_migration_attraction = 14800.0
+	local_migration_attraction = 3700.0
 }
 province_wealth1490000 = {
-	local_migration_attraction = 14900.0
+	local_migration_attraction = 3725.0
 }
 province_wealth1500000 = {
-	local_migration_attraction = 15000.0
+	local_migration_attraction = 3750.0
 }
 province_wealth1510000 = {
-	local_migration_attraction = 15100.0
+	local_migration_attraction = 3775.0
 }
 province_wealth1520000 = {
-	local_migration_attraction = 15200.0
+	local_migration_attraction = 3800.0
 }
 province_wealth1530000 = {
-	local_migration_attraction = 15300.0
+	local_migration_attraction = 3825.0
 }
 province_wealth1540000 = {
-	local_migration_attraction = 15400.0
+	local_migration_attraction = 3850.0
 }
 province_wealth1550000 = {
-	local_migration_attraction = 15500.0
+	local_migration_attraction = 3875.0
 }
 province_wealth1560000 = {
-	local_migration_attraction = 15600.0
+	local_migration_attraction = 3900.0
 }
 province_wealth1570000 = {
-	local_migration_attraction = 15700.0
+	local_migration_attraction = 3925.0
 }
 province_wealth1580000 = {
-	local_migration_attraction = 15800.0
+	local_migration_attraction = 3950.0
 }
 province_wealth1590000 = {
-	local_migration_attraction = 15900.0
+	local_migration_attraction = 3975.0
 }
 province_wealth1600000 = {
-	local_migration_attraction = 16000.0
+	local_migration_attraction = 4000.0
 }
 province_wealth1610000 = {
-	local_migration_attraction = 16100.0
+	local_migration_attraction = 4025.0
 }
 province_wealth1620000 = {
-	local_migration_attraction = 16200.0
+	local_migration_attraction = 4050.0
 }
 province_wealth1630000 = {
-	local_migration_attraction = 16300.0
+	local_migration_attraction = 4075.0
 }
 province_wealth1640000 = {
-	local_migration_attraction = 16400.0
+	local_migration_attraction = 4100.0
 }
 province_wealth1650000 = {
-	local_migration_attraction = 16500.0
+	local_migration_attraction = 4125.0
 }
 province_wealth1660000 = {
-	local_migration_attraction = 16600.0
+	local_migration_attraction = 4150.0
 }
 province_wealth1670000 = {
-	local_migration_attraction = 16700.0
+	local_migration_attraction = 4175.0
 }
 province_wealth1680000 = {
-	local_migration_attraction = 16800.0
+	local_migration_attraction = 4200.0
 }
 province_wealth1690000 = {
-	local_migration_attraction = 16900.0
+	local_migration_attraction = 4225.0
 }
 province_wealth1700000 = {
-	local_migration_attraction = 17000.0
+	local_migration_attraction = 4250.0
 }
 province_wealth1710000 = {
-	local_migration_attraction = 17100.0
+	local_migration_attraction = 4275.0
 }
 province_wealth1720000 = {
-	local_migration_attraction = 17200.0
+	local_migration_attraction = 4300.0
 }
 province_wealth1730000 = {
-	local_migration_attraction = 17300.0
+	local_migration_attraction = 4325.0
 }
 province_wealth1740000 = {
-	local_migration_attraction = 17400.0
+	local_migration_attraction = 4350.0
 }
 province_wealth1750000 = {
-	local_migration_attraction = 17500.0
+	local_migration_attraction = 4375.0
 }
 province_wealth1760000 = {
-	local_migration_attraction = 17600.0
+	local_migration_attraction = 4400.0
 }
 province_wealth1770000 = {
-	local_migration_attraction = 17700.0
+	local_migration_attraction = 4425.0
 }
 province_wealth1780000 = {
-	local_migration_attraction = 17800.0
+	local_migration_attraction = 4450.0
 }
 province_wealth1790000 = {
-	local_migration_attraction = 17900.0
+	local_migration_attraction = 4475.0
 }
 province_wealth1800000 = {
-	local_migration_attraction = 18000.0
+	local_migration_attraction = 4500.0
 }
 province_wealth1810000 = {
-	local_migration_attraction = 18100.0
+	local_migration_attraction = 4525.0
 }
 province_wealth1820000 = {
-	local_migration_attraction = 18200.0
+	local_migration_attraction = 4550.0
 }
 province_wealth1830000 = {
-	local_migration_attraction = 18300.0
+	local_migration_attraction = 4575.0
 }
 province_wealth1840000 = {
-	local_migration_attraction = 18400.0
+	local_migration_attraction = 4600.0
 }
 province_wealth1850000 = {
-	local_migration_attraction = 18500.0
+	local_migration_attraction = 4625.0
 }
 province_wealth1860000 = {
-	local_migration_attraction = 18600.0
+	local_migration_attraction = 4650.0
 }
 province_wealth1870000 = {
-	local_migration_attraction = 18700.0
+	local_migration_attraction = 4675.0
 }
 province_wealth1880000 = {
-	local_migration_attraction = 18800.0
+	local_migration_attraction = 4700.0
 }
 province_wealth1890000 = {
-	local_migration_attraction = 18900.0
+	local_migration_attraction = 4725.0
 }
 province_wealth1900000 = {
-	local_migration_attraction = 19000.0
+	local_migration_attraction = 4750.0
 }
 province_wealth1910000 = {
-	local_migration_attraction = 19100.0
+	local_migration_attraction = 4775.0
 }
 province_wealth1920000 = {
-	local_migration_attraction = 19200.0
+	local_migration_attraction = 4800.0
 }
 province_wealth1930000 = {
-	local_migration_attraction = 19300.0
+	local_migration_attraction = 4825.0
 }
 province_wealth1940000 = {
-	local_migration_attraction = 19400.0
+	local_migration_attraction = 4850.0
 }
 province_wealth1950000 = {
-	local_migration_attraction = 19500.0
+	local_migration_attraction = 4875.0
 }
 province_wealth1960000 = {
-	local_migration_attraction = 19600.0
+	local_migration_attraction = 4900.0
 }
 province_wealth1970000 = {
-	local_migration_attraction = 19700.0
+	local_migration_attraction = 4925.0
 }
 province_wealth1980000 = {
-	local_migration_attraction = 19800.0
+	local_migration_attraction = 4950.0
 }
 province_wealth1990000 = {
-	local_migration_attraction = 19900.0
+	local_migration_attraction = 4975.0
 }
 province_wealth2000000 = {
-	local_migration_attraction = 20000.0
+	local_migration_attraction = 5000.0
 }
 province_infrastructure0 = {
 	local_population_capacity = 0.0

@@ -73,28 +73,19 @@ barracks_building = {
 }
 
 foundry_building = { #Investment
-	cost = 100
+	cost = 500
 	time = 1
-	local_building_slot = 1
 	potential = {
 		always = yes
 	}
 	
 	modification_display = {
-		0 = local_start_experience
-		1 = local_output_modifier
 	}
 	
 	chance = {
 		modifier = {
-			OR = {
-				trade_goods = horses
-				trade_goods = elephants
-				trade_goods = iron
-				trade_goods = steppe_horses
-				trade_goods = camel
-			}
-			add = 1.5
+			owner = {treasury > 10000}
+			add = 10
 		}
 	}
 }
