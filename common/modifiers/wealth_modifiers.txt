@@ -2767,3683 +2767,3683 @@ province_infrastructure0 = {
 	local_building_slot = 0
 }
 province_infrastructure1 = {
-	local_population_capacity = 0.001
-	local_building_slot = 0
-}
-province_infrastructure2 = {
 	local_population_capacity = 0.002
 	local_building_slot = 0
 }
-province_infrastructure3 = {
-	local_population_capacity = 0.003
-	local_building_slot = 0
-}
-province_infrastructure4 = {
+province_infrastructure2 = {
 	local_population_capacity = 0.004
 	local_building_slot = 0
 }
-province_infrastructure5 = {
-	local_population_capacity = 0.005
-	local_building_slot = 0
-}
-province_infrastructure6 = {
+province_infrastructure3 = {
 	local_population_capacity = 0.006
 	local_building_slot = 0
 }
-province_infrastructure7 = {
-	local_population_capacity = 0.007
-	local_building_slot = 0
-}
-province_infrastructure8 = {
+province_infrastructure4 = {
 	local_population_capacity = 0.008
 	local_building_slot = 0
 }
-province_infrastructure9 = {
-	local_population_capacity = 0.009000000000000001
-	local_building_slot = 0
-}
-province_infrastructure10 = {
+province_infrastructure5 = {
 	local_population_capacity = 0.01
 	local_building_slot = 0
 }
-province_infrastructure11 = {
-	local_population_capacity = 0.011
-	local_building_slot = 0
-}
-province_infrastructure12 = {
+province_infrastructure6 = {
 	local_population_capacity = 0.012
 	local_building_slot = 0
 }
-province_infrastructure13 = {
-	local_population_capacity = 0.013000000000000001
-	local_building_slot = 0
-}
-province_infrastructure14 = {
+province_infrastructure7 = {
 	local_population_capacity = 0.014
 	local_building_slot = 0
 }
-province_infrastructure15 = {
-	local_population_capacity = 0.015
-	local_building_slot = 0
-}
-province_infrastructure16 = {
+province_infrastructure8 = {
 	local_population_capacity = 0.016
 	local_building_slot = 0
 }
-province_infrastructure17 = {
-	local_population_capacity = 0.017
-	local_building_slot = 0
-}
-province_infrastructure18 = {
+province_infrastructure9 = {
 	local_population_capacity = 0.018000000000000002
 	local_building_slot = 0
 }
-province_infrastructure19 = {
-	local_population_capacity = 0.019
-	local_building_slot = 0
-}
-province_infrastructure20 = {
+province_infrastructure10 = {
 	local_population_capacity = 0.02
 	local_building_slot = 0
 }
-province_infrastructure21 = {
-	local_population_capacity = 0.021
-	local_building_slot = 0
-}
-province_infrastructure22 = {
+province_infrastructure11 = {
 	local_population_capacity = 0.022
 	local_building_slot = 0
 }
-province_infrastructure23 = {
-	local_population_capacity = 0.023
-	local_building_slot = 0
-}
-province_infrastructure24 = {
+province_infrastructure12 = {
 	local_population_capacity = 0.024
 	local_building_slot = 0
 }
-province_infrastructure25 = {
-	local_population_capacity = 0.025
-	local_building_slot = 0
-}
-province_infrastructure26 = {
+province_infrastructure13 = {
 	local_population_capacity = 0.026000000000000002
 	local_building_slot = 0
 }
-province_infrastructure27 = {
-	local_population_capacity = 0.027
-	local_building_slot = 0
-}
-province_infrastructure28 = {
+province_infrastructure14 = {
 	local_population_capacity = 0.028
 	local_building_slot = 0
 }
-province_infrastructure29 = {
-	local_population_capacity = 0.029
-	local_building_slot = 0
-}
-province_infrastructure30 = {
+province_infrastructure15 = {
 	local_population_capacity = 0.03
 	local_building_slot = 0
 }
-province_infrastructure31 = {
-	local_population_capacity = 0.031
-	local_building_slot = 0
-}
-province_infrastructure32 = {
+province_infrastructure16 = {
 	local_population_capacity = 0.032
 	local_building_slot = 0
 }
-province_infrastructure33 = {
-	local_population_capacity = 0.033
-	local_building_slot = 0
-}
-province_infrastructure34 = {
+province_infrastructure17 = {
 	local_population_capacity = 0.034
 	local_building_slot = 0
 }
-province_infrastructure35 = {
-	local_population_capacity = 0.035
-	local_building_slot = 0
-}
-province_infrastructure36 = {
+province_infrastructure18 = {
 	local_population_capacity = 0.036000000000000004
 	local_building_slot = 0
 }
-province_infrastructure37 = {
-	local_population_capacity = 0.037
-	local_building_slot = 0
-}
-province_infrastructure38 = {
+province_infrastructure19 = {
 	local_population_capacity = 0.038
 	local_building_slot = 0
 }
-province_infrastructure39 = {
-	local_population_capacity = 0.039
-	local_building_slot = 0
-}
-province_infrastructure40 = {
+province_infrastructure20 = {
 	local_population_capacity = 0.04
 	local_building_slot = 0
 }
-province_infrastructure41 = {
-	local_population_capacity = 0.041
-	local_building_slot = 0
-}
-province_infrastructure42 = {
+province_infrastructure21 = {
 	local_population_capacity = 0.042
 	local_building_slot = 0
 }
-province_infrastructure43 = {
-	local_population_capacity = 0.043000000000000003
-	local_building_slot = 0
-}
-province_infrastructure44 = {
+province_infrastructure22 = {
 	local_population_capacity = 0.044
 	local_building_slot = 0
 }
-province_infrastructure45 = {
-	local_population_capacity = 0.045
-	local_building_slot = 0
-}
-province_infrastructure46 = {
+province_infrastructure23 = {
 	local_population_capacity = 0.046
 	local_building_slot = 0
 }
-province_infrastructure47 = {
-	local_population_capacity = 0.047
-	local_building_slot = 0
-}
-province_infrastructure48 = {
+province_infrastructure24 = {
 	local_population_capacity = 0.048
 	local_building_slot = 0
 }
-province_infrastructure49 = {
-	local_population_capacity = 0.049
-	local_building_slot = 0
-}
-province_infrastructure50 = {
+province_infrastructure25 = {
 	local_population_capacity = 0.05
 	local_building_slot = 0
 }
-province_infrastructure51 = {
-	local_population_capacity = 0.051000000000000004
-	local_building_slot = 0
-}
-province_infrastructure52 = {
+province_infrastructure26 = {
 	local_population_capacity = 0.052000000000000005
 	local_building_slot = 0
 }
-province_infrastructure53 = {
-	local_population_capacity = 0.053
-	local_building_slot = 0
-}
-province_infrastructure54 = {
+province_infrastructure27 = {
 	local_population_capacity = 0.054
 	local_building_slot = 0
 }
-province_infrastructure55 = {
-	local_population_capacity = 0.055
-	local_building_slot = 0
-}
-province_infrastructure56 = {
+province_infrastructure28 = {
 	local_population_capacity = 0.056
 	local_building_slot = 0
 }
-province_infrastructure57 = {
-	local_population_capacity = 0.057
-	local_building_slot = 0
-}
-province_infrastructure58 = {
+province_infrastructure29 = {
 	local_population_capacity = 0.058
 	local_building_slot = 0
 }
-province_infrastructure59 = {
-	local_population_capacity = 0.059000000000000004
-	local_building_slot = 0
-}
-province_infrastructure60 = {
+province_infrastructure30 = {
 	local_population_capacity = 0.06
 	local_building_slot = 0
 }
-province_infrastructure61 = {
-	local_population_capacity = 0.061
-	local_building_slot = 0
-}
-province_infrastructure62 = {
+province_infrastructure31 = {
 	local_population_capacity = 0.062
 	local_building_slot = 0
 }
-province_infrastructure63 = {
-	local_population_capacity = 0.063
-	local_building_slot = 0
-}
-province_infrastructure64 = {
+province_infrastructure32 = {
 	local_population_capacity = 0.064
 	local_building_slot = 0
 }
-province_infrastructure65 = {
-	local_population_capacity = 0.065
-	local_building_slot = 0
-}
-province_infrastructure66 = {
+province_infrastructure33 = {
 	local_population_capacity = 0.066
 	local_building_slot = 0
 }
-province_infrastructure67 = {
-	local_population_capacity = 0.067
-	local_building_slot = 0
-}
-province_infrastructure68 = {
+province_infrastructure34 = {
 	local_population_capacity = 0.068
 	local_building_slot = 0
 }
-province_infrastructure69 = {
-	local_population_capacity = 0.069
-	local_building_slot = 0
-}
-province_infrastructure70 = {
+province_infrastructure35 = {
 	local_population_capacity = 0.07
 	local_building_slot = 0
 }
-province_infrastructure71 = {
-	local_population_capacity = 0.07100000000000001
-	local_building_slot = 0
-}
-province_infrastructure72 = {
+province_infrastructure36 = {
 	local_population_capacity = 0.07200000000000001
 	local_building_slot = 0
 }
-province_infrastructure73 = {
-	local_population_capacity = 0.073
-	local_building_slot = 0
-}
-province_infrastructure74 = {
+province_infrastructure37 = {
 	local_population_capacity = 0.074
 	local_building_slot = 0
 }
-province_infrastructure75 = {
-	local_population_capacity = 0.075
-	local_building_slot = 0
-}
-province_infrastructure76 = {
+province_infrastructure38 = {
 	local_population_capacity = 0.076
 	local_building_slot = 0
 }
-province_infrastructure77 = {
-	local_population_capacity = 0.077
-	local_building_slot = 0
-}
-province_infrastructure78 = {
+province_infrastructure39 = {
 	local_population_capacity = 0.078
 	local_building_slot = 0
 }
-province_infrastructure79 = {
-	local_population_capacity = 0.079
-	local_building_slot = 0
-}
-province_infrastructure80 = {
+province_infrastructure40 = {
 	local_population_capacity = 0.08
 	local_building_slot = 0
 }
-province_infrastructure81 = {
-	local_population_capacity = 0.081
-	local_building_slot = 0
-}
-province_infrastructure82 = {
+province_infrastructure41 = {
 	local_population_capacity = 0.082
 	local_building_slot = 0
 }
-province_infrastructure83 = {
-	local_population_capacity = 0.083
-	local_building_slot = 0
-}
-province_infrastructure84 = {
+province_infrastructure42 = {
 	local_population_capacity = 0.084
 	local_building_slot = 0
 }
-province_infrastructure85 = {
-	local_population_capacity = 0.085
-	local_building_slot = 0
-}
-province_infrastructure86 = {
+province_infrastructure43 = {
 	local_population_capacity = 0.08600000000000001
 	local_building_slot = 0
 }
-province_infrastructure87 = {
-	local_population_capacity = 0.08700000000000001
-	local_building_slot = 0
-}
-province_infrastructure88 = {
+province_infrastructure44 = {
 	local_population_capacity = 0.088
 	local_building_slot = 0
 }
-province_infrastructure89 = {
-	local_population_capacity = 0.089
-	local_building_slot = 0
-}
-province_infrastructure90 = {
+province_infrastructure45 = {
 	local_population_capacity = 0.09
 	local_building_slot = 0
 }
-province_infrastructure91 = {
-	local_population_capacity = 0.091
-	local_building_slot = 0
-}
-province_infrastructure92 = {
+province_infrastructure46 = {
 	local_population_capacity = 0.092
 	local_building_slot = 0
 }
-province_infrastructure93 = {
-	local_population_capacity = 0.093
-	local_building_slot = 0
-}
-province_infrastructure94 = {
+province_infrastructure47 = {
 	local_population_capacity = 0.094
 	local_building_slot = 0
 }
-province_infrastructure95 = {
-	local_population_capacity = 0.095
-	local_building_slot = 0
-}
-province_infrastructure96 = {
+province_infrastructure48 = {
 	local_population_capacity = 0.096
 	local_building_slot = 0
 }
-province_infrastructure97 = {
-	local_population_capacity = 0.097
-	local_building_slot = 0
-}
-province_infrastructure98 = {
+province_infrastructure49 = {
 	local_population_capacity = 0.098
 	local_building_slot = 0
 }
-province_infrastructure99 = {
-	local_population_capacity = 0.099
-	local_building_slot = 0
-}
-province_infrastructure100 = {
+province_infrastructure50 = {
 	local_population_capacity = 0.1
 	local_building_slot = 0
 }
-province_infrastructure101 = {
-	local_population_capacity = 0.101
-	local_building_slot = 0
-}
-province_infrastructure102 = {
+province_infrastructure51 = {
 	local_population_capacity = 0.10200000000000001
 	local_building_slot = 0
 }
-province_infrastructure103 = {
-	local_population_capacity = 0.10300000000000001
-	local_building_slot = 0
-}
-province_infrastructure104 = {
+province_infrastructure52 = {
 	local_population_capacity = 0.10400000000000001
 	local_building_slot = 0
 }
-province_infrastructure105 = {
-	local_population_capacity = 0.105
-	local_building_slot = 0
-}
-province_infrastructure106 = {
+province_infrastructure53 = {
 	local_population_capacity = 0.106
 	local_building_slot = 0
 }
-province_infrastructure107 = {
-	local_population_capacity = 0.107
-	local_building_slot = 0
-}
-province_infrastructure108 = {
+province_infrastructure54 = {
 	local_population_capacity = 0.108
 	local_building_slot = 0
 }
-province_infrastructure109 = {
-	local_population_capacity = 0.109
-	local_building_slot = 0
-}
-province_infrastructure110 = {
+province_infrastructure55 = {
 	local_population_capacity = 0.11
 	local_building_slot = 0
 }
-province_infrastructure111 = {
-	local_population_capacity = 0.111
-	local_building_slot = 0
-}
-province_infrastructure112 = {
+province_infrastructure56 = {
 	local_population_capacity = 0.112
 	local_building_slot = 0
 }
-province_infrastructure113 = {
-	local_population_capacity = 0.113
-	local_building_slot = 0
-}
-province_infrastructure114 = {
+province_infrastructure57 = {
 	local_population_capacity = 0.114
 	local_building_slot = 0
 }
-province_infrastructure115 = {
-	local_population_capacity = 0.115
-	local_building_slot = 0
-}
-province_infrastructure116 = {
+province_infrastructure58 = {
 	local_population_capacity = 0.116
 	local_building_slot = 0
 }
-province_infrastructure117 = {
-	local_population_capacity = 0.117
-	local_building_slot = 0
-}
-province_infrastructure118 = {
+province_infrastructure59 = {
 	local_population_capacity = 0.11800000000000001
 	local_building_slot = 0
 }
-province_infrastructure119 = {
-	local_population_capacity = 0.11900000000000001
-	local_building_slot = 0
-}
-province_infrastructure120 = {
+province_infrastructure60 = {
 	local_population_capacity = 0.12
 	local_building_slot = 0
 }
-province_infrastructure121 = {
-	local_population_capacity = 0.121
-	local_building_slot = 0
-}
-province_infrastructure122 = {
+province_infrastructure61 = {
 	local_population_capacity = 0.122
 	local_building_slot = 0
 }
-province_infrastructure123 = {
-	local_population_capacity = 0.123
-	local_building_slot = 0
-}
-province_infrastructure124 = {
+province_infrastructure62 = {
 	local_population_capacity = 0.124
 	local_building_slot = 0
 }
-province_infrastructure125 = {
-	local_population_capacity = 0.125
-	local_building_slot = 0
-}
-province_infrastructure126 = {
+province_infrastructure63 = {
 	local_population_capacity = 0.126
 	local_building_slot = 0
 }
-province_infrastructure127 = {
-	local_population_capacity = 0.127
-	local_building_slot = 0
-}
-province_infrastructure128 = {
+province_infrastructure64 = {
 	local_population_capacity = 0.128
 	local_building_slot = 0
 }
-province_infrastructure129 = {
-	local_population_capacity = 0.129
-	local_building_slot = 0
-}
-province_infrastructure130 = {
+province_infrastructure65 = {
 	local_population_capacity = 0.13
 	local_building_slot = 0
 }
-province_infrastructure131 = {
-	local_population_capacity = 0.131
-	local_building_slot = 0
-}
-province_infrastructure132 = {
+province_infrastructure66 = {
 	local_population_capacity = 0.132
 	local_building_slot = 0
 }
-province_infrastructure133 = {
-	local_population_capacity = 0.133
-	local_building_slot = 0
-}
-province_infrastructure134 = {
+province_infrastructure67 = {
 	local_population_capacity = 0.134
 	local_building_slot = 0
 }
-province_infrastructure135 = {
-	local_population_capacity = 0.135
-	local_building_slot = 0
-}
-province_infrastructure136 = {
+province_infrastructure68 = {
 	local_population_capacity = 0.136
 	local_building_slot = 0
 }
-province_infrastructure137 = {
-	local_population_capacity = 0.137
-	local_building_slot = 0
-}
-province_infrastructure138 = {
+province_infrastructure69 = {
 	local_population_capacity = 0.138
 	local_building_slot = 0
 }
-province_infrastructure139 = {
-	local_population_capacity = 0.139
-	local_building_slot = 0
-}
-province_infrastructure140 = {
+province_infrastructure70 = {
 	local_population_capacity = 0.14
 	local_building_slot = 0
 }
-province_infrastructure141 = {
-	local_population_capacity = 0.14100000000000001
-	local_building_slot = 0
-}
-province_infrastructure142 = {
+province_infrastructure71 = {
 	local_population_capacity = 0.14200000000000002
 	local_building_slot = 0
 }
-province_infrastructure143 = {
-	local_population_capacity = 0.14300000000000002
-	local_building_slot = 0
-}
-province_infrastructure144 = {
+province_infrastructure72 = {
 	local_population_capacity = 0.14400000000000002
 	local_building_slot = 0
 }
-province_infrastructure145 = {
-	local_population_capacity = 0.145
-	local_building_slot = 0
-}
-province_infrastructure146 = {
+province_infrastructure73 = {
 	local_population_capacity = 0.146
 	local_building_slot = 0
 }
-province_infrastructure147 = {
-	local_population_capacity = 0.147
-	local_building_slot = 0
-}
-province_infrastructure148 = {
+province_infrastructure74 = {
 	local_population_capacity = 0.148
 	local_building_slot = 0
 }
-province_infrastructure149 = {
-	local_population_capacity = 0.149
-	local_building_slot = 0
-}
-province_infrastructure150 = {
+province_infrastructure75 = {
 	local_population_capacity = 0.15
 	local_building_slot = 0
 }
-province_infrastructure151 = {
-	local_population_capacity = 0.151
-	local_building_slot = 0
-}
-province_infrastructure152 = {
+province_infrastructure76 = {
 	local_population_capacity = 0.152
 	local_building_slot = 0
 }
-province_infrastructure153 = {
-	local_population_capacity = 0.153
-	local_building_slot = 0
-}
-province_infrastructure154 = {
+province_infrastructure77 = {
 	local_population_capacity = 0.154
 	local_building_slot = 0
 }
-province_infrastructure155 = {
-	local_population_capacity = 0.155
-	local_building_slot = 0
-}
-province_infrastructure156 = {
+province_infrastructure78 = {
 	local_population_capacity = 0.156
 	local_building_slot = 0
 }
-province_infrastructure157 = {
-	local_population_capacity = 0.157
-	local_building_slot = 0
-}
-province_infrastructure158 = {
+province_infrastructure79 = {
 	local_population_capacity = 0.158
 	local_building_slot = 0
 }
-province_infrastructure159 = {
-	local_population_capacity = 0.159
-	local_building_slot = 0
-}
-province_infrastructure160 = {
+province_infrastructure80 = {
 	local_population_capacity = 0.16
 	local_building_slot = 0
 }
-province_infrastructure161 = {
-	local_population_capacity = 0.161
-	local_building_slot = 0
-}
-province_infrastructure162 = {
+province_infrastructure81 = {
 	local_population_capacity = 0.162
 	local_building_slot = 0
 }
-province_infrastructure163 = {
-	local_population_capacity = 0.163
-	local_building_slot = 0
-}
-province_infrastructure164 = {
+province_infrastructure82 = {
 	local_population_capacity = 0.164
 	local_building_slot = 0
 }
-province_infrastructure165 = {
-	local_population_capacity = 0.165
-	local_building_slot = 0
-}
-province_infrastructure166 = {
+province_infrastructure83 = {
 	local_population_capacity = 0.166
 	local_building_slot = 0
 }
-province_infrastructure167 = {
-	local_population_capacity = 0.167
-	local_building_slot = 0
-}
-province_infrastructure168 = {
+province_infrastructure84 = {
 	local_population_capacity = 0.168
 	local_building_slot = 0
 }
-province_infrastructure169 = {
-	local_population_capacity = 0.169
-	local_building_slot = 0
-}
-province_infrastructure170 = {
+province_infrastructure85 = {
 	local_population_capacity = 0.17
 	local_building_slot = 0
 }
-province_infrastructure171 = {
-	local_population_capacity = 0.171
-	local_building_slot = 0
-}
-province_infrastructure172 = {
+province_infrastructure86 = {
 	local_population_capacity = 0.17200000000000001
 	local_building_slot = 0
 }
-province_infrastructure173 = {
-	local_population_capacity = 0.17300000000000001
-	local_building_slot = 0
-}
-province_infrastructure174 = {
+province_infrastructure87 = {
 	local_population_capacity = 0.17400000000000002
 	local_building_slot = 0
 }
-province_infrastructure175 = {
-	local_population_capacity = 0.17500000000000002
-	local_building_slot = 0
-}
-province_infrastructure176 = {
+province_infrastructure88 = {
 	local_population_capacity = 0.176
 	local_building_slot = 0
 }
-province_infrastructure177 = {
-	local_population_capacity = 0.177
-	local_building_slot = 0
-}
-province_infrastructure178 = {
+province_infrastructure89 = {
 	local_population_capacity = 0.178
 	local_building_slot = 0
 }
-province_infrastructure179 = {
-	local_population_capacity = 0.179
-	local_building_slot = 0
-}
-province_infrastructure180 = {
+province_infrastructure90 = {
 	local_population_capacity = 0.18
 	local_building_slot = 0
 }
-province_infrastructure181 = {
-	local_population_capacity = 0.181
-	local_building_slot = 0
-}
-province_infrastructure182 = {
+province_infrastructure91 = {
 	local_population_capacity = 0.182
 	local_building_slot = 0
 }
-province_infrastructure183 = {
-	local_population_capacity = 0.183
-	local_building_slot = 0
-}
-province_infrastructure184 = {
+province_infrastructure92 = {
 	local_population_capacity = 0.184
 	local_building_slot = 0
 }
-province_infrastructure185 = {
-	local_population_capacity = 0.185
-	local_building_slot = 0
-}
-province_infrastructure186 = {
+province_infrastructure93 = {
 	local_population_capacity = 0.186
 	local_building_slot = 0
 }
-province_infrastructure187 = {
-	local_population_capacity = 0.187
-	local_building_slot = 0
-}
-province_infrastructure188 = {
+province_infrastructure94 = {
 	local_population_capacity = 0.188
 	local_building_slot = 0
 }
-province_infrastructure189 = {
-	local_population_capacity = 0.189
-	local_building_slot = 0
-}
-province_infrastructure190 = {
+province_infrastructure95 = {
 	local_population_capacity = 0.19
 	local_building_slot = 0
 }
-province_infrastructure191 = {
-	local_population_capacity = 0.191
-	local_building_slot = 0
-}
-province_infrastructure192 = {
+province_infrastructure96 = {
 	local_population_capacity = 0.192
 	local_building_slot = 0
 }
-province_infrastructure193 = {
-	local_population_capacity = 0.193
-	local_building_slot = 0
-}
-province_infrastructure194 = {
+province_infrastructure97 = {
 	local_population_capacity = 0.194
 	local_building_slot = 0
 }
-province_infrastructure195 = {
-	local_population_capacity = 0.195
-	local_building_slot = 0
-}
-province_infrastructure196 = {
+province_infrastructure98 = {
 	local_population_capacity = 0.196
 	local_building_slot = 0
 }
-province_infrastructure197 = {
-	local_population_capacity = 0.197
-	local_building_slot = 0
-}
-province_infrastructure198 = {
+province_infrastructure99 = {
 	local_population_capacity = 0.198
 	local_building_slot = 0
 }
-province_infrastructure199 = {
-	local_population_capacity = 0.199
-	local_building_slot = 0
-}
-province_infrastructure200 = {
+province_infrastructure100 = {
 	local_population_capacity = 0.2
 	local_building_slot = 0
 }
-province_infrastructure210 = {
+province_infrastructure101 = {
+	local_population_capacity = 0.202
+	local_building_slot = 0
+}
+province_infrastructure102 = {
+	local_population_capacity = 0.20400000000000001
+	local_building_slot = 0
+}
+province_infrastructure103 = {
+	local_population_capacity = 0.20600000000000002
+	local_building_slot = 0
+}
+province_infrastructure104 = {
+	local_population_capacity = 0.20800000000000002
+	local_building_slot = 0
+}
+province_infrastructure105 = {
 	local_population_capacity = 0.21
 	local_building_slot = 0
 }
-province_infrastructure220 = {
+province_infrastructure106 = {
+	local_population_capacity = 0.212
+	local_building_slot = 0
+}
+province_infrastructure107 = {
+	local_population_capacity = 0.214
+	local_building_slot = 0
+}
+province_infrastructure108 = {
+	local_population_capacity = 0.216
+	local_building_slot = 0
+}
+province_infrastructure109 = {
+	local_population_capacity = 0.218
+	local_building_slot = 0
+}
+province_infrastructure110 = {
 	local_population_capacity = 0.22
 	local_building_slot = 0
 }
-province_infrastructure230 = {
+province_infrastructure111 = {
+	local_population_capacity = 0.222
+	local_building_slot = 0
+}
+province_infrastructure112 = {
+	local_population_capacity = 0.224
+	local_building_slot = 0
+}
+province_infrastructure113 = {
+	local_population_capacity = 0.226
+	local_building_slot = 0
+}
+province_infrastructure114 = {
+	local_population_capacity = 0.228
+	local_building_slot = 0
+}
+province_infrastructure115 = {
 	local_population_capacity = 0.23
 	local_building_slot = 0
 }
-province_infrastructure240 = {
+province_infrastructure116 = {
+	local_population_capacity = 0.232
+	local_building_slot = 0
+}
+province_infrastructure117 = {
+	local_population_capacity = 0.234
+	local_building_slot = 0
+}
+province_infrastructure118 = {
+	local_population_capacity = 0.23600000000000002
+	local_building_slot = 0
+}
+province_infrastructure119 = {
+	local_population_capacity = 0.23800000000000002
+	local_building_slot = 0
+}
+province_infrastructure120 = {
 	local_population_capacity = 0.24
 	local_building_slot = 0
 }
-province_infrastructure250 = {
+province_infrastructure121 = {
+	local_population_capacity = 0.242
+	local_building_slot = 0
+}
+province_infrastructure122 = {
+	local_population_capacity = 0.244
+	local_building_slot = 0
+}
+province_infrastructure123 = {
+	local_population_capacity = 0.246
+	local_building_slot = 0
+}
+province_infrastructure124 = {
+	local_population_capacity = 0.248
+	local_building_slot = 0
+}
+province_infrastructure125 = {
 	local_population_capacity = 0.25
 	local_building_slot = 0
 }
-province_infrastructure260 = {
+province_infrastructure126 = {
+	local_population_capacity = 0.252
+	local_building_slot = 0
+}
+province_infrastructure127 = {
+	local_population_capacity = 0.254
+	local_building_slot = 0
+}
+province_infrastructure128 = {
+	local_population_capacity = 0.256
+	local_building_slot = 0
+}
+province_infrastructure129 = {
+	local_population_capacity = 0.258
+	local_building_slot = 0
+}
+province_infrastructure130 = {
 	local_population_capacity = 0.26
 	local_building_slot = 0
 }
-province_infrastructure270 = {
+province_infrastructure131 = {
+	local_population_capacity = 0.262
+	local_building_slot = 0
+}
+province_infrastructure132 = {
+	local_population_capacity = 0.264
+	local_building_slot = 0
+}
+province_infrastructure133 = {
+	local_population_capacity = 0.266
+	local_building_slot = 0
+}
+province_infrastructure134 = {
+	local_population_capacity = 0.268
+	local_building_slot = 0
+}
+province_infrastructure135 = {
 	local_population_capacity = 0.27
 	local_building_slot = 0
 }
-province_infrastructure280 = {
+province_infrastructure136 = {
+	local_population_capacity = 0.272
+	local_building_slot = 0
+}
+province_infrastructure137 = {
+	local_population_capacity = 0.274
+	local_building_slot = 0
+}
+province_infrastructure138 = {
+	local_population_capacity = 0.276
+	local_building_slot = 0
+}
+province_infrastructure139 = {
+	local_population_capacity = 0.278
+	local_building_slot = 0
+}
+province_infrastructure140 = {
 	local_population_capacity = 0.28
 	local_building_slot = 0
 }
-province_infrastructure290 = {
+province_infrastructure141 = {
+	local_population_capacity = 0.28200000000000003
+	local_building_slot = 0
+}
+province_infrastructure142 = {
+	local_population_capacity = 0.28400000000000003
+	local_building_slot = 0
+}
+province_infrastructure143 = {
+	local_population_capacity = 0.28600000000000003
+	local_building_slot = 0
+}
+province_infrastructure144 = {
+	local_population_capacity = 0.28800000000000003
+	local_building_slot = 0
+}
+province_infrastructure145 = {
 	local_population_capacity = 0.29
 	local_building_slot = 0
 }
-province_infrastructure300 = {
+province_infrastructure146 = {
+	local_population_capacity = 0.292
+	local_building_slot = 0
+}
+province_infrastructure147 = {
+	local_population_capacity = 0.294
+	local_building_slot = 0
+}
+province_infrastructure148 = {
+	local_population_capacity = 0.296
+	local_building_slot = 0
+}
+province_infrastructure149 = {
+	local_population_capacity = 0.298
+	local_building_slot = 0
+}
+province_infrastructure150 = {
 	local_population_capacity = 0.3
 	local_building_slot = 0
 }
-province_infrastructure310 = {
+province_infrastructure151 = {
+	local_population_capacity = 0.302
+	local_building_slot = 0
+}
+province_infrastructure152 = {
+	local_population_capacity = 0.304
+	local_building_slot = 0
+}
+province_infrastructure153 = {
+	local_population_capacity = 0.306
+	local_building_slot = 0
+}
+province_infrastructure154 = {
+	local_population_capacity = 0.308
+	local_building_slot = 0
+}
+province_infrastructure155 = {
 	local_population_capacity = 0.31
 	local_building_slot = 0
 }
-province_infrastructure320 = {
+province_infrastructure156 = {
+	local_population_capacity = 0.312
+	local_building_slot = 0
+}
+province_infrastructure157 = {
+	local_population_capacity = 0.314
+	local_building_slot = 0
+}
+province_infrastructure158 = {
+	local_population_capacity = 0.316
+	local_building_slot = 0
+}
+province_infrastructure159 = {
+	local_population_capacity = 0.318
+	local_building_slot = 0
+}
+province_infrastructure160 = {
 	local_population_capacity = 0.32
 	local_building_slot = 0
 }
-province_infrastructure330 = {
+province_infrastructure161 = {
+	local_population_capacity = 0.322
+	local_building_slot = 0
+}
+province_infrastructure162 = {
+	local_population_capacity = 0.324
+	local_building_slot = 0
+}
+province_infrastructure163 = {
+	local_population_capacity = 0.326
+	local_building_slot = 0
+}
+province_infrastructure164 = {
+	local_population_capacity = 0.328
+	local_building_slot = 0
+}
+province_infrastructure165 = {
 	local_population_capacity = 0.33
 	local_building_slot = 0
 }
-province_infrastructure340 = {
+province_infrastructure166 = {
+	local_population_capacity = 0.332
+	local_building_slot = 0
+}
+province_infrastructure167 = {
+	local_population_capacity = 0.334
+	local_building_slot = 0
+}
+province_infrastructure168 = {
+	local_population_capacity = 0.336
+	local_building_slot = 0
+}
+province_infrastructure169 = {
+	local_population_capacity = 0.338
+	local_building_slot = 0
+}
+province_infrastructure170 = {
 	local_population_capacity = 0.34
 	local_building_slot = 0
 }
-province_infrastructure350 = {
+province_infrastructure171 = {
+	local_population_capacity = 0.342
+	local_building_slot = 0
+}
+province_infrastructure172 = {
+	local_population_capacity = 0.34400000000000003
+	local_building_slot = 0
+}
+province_infrastructure173 = {
+	local_population_capacity = 0.34600000000000003
+	local_building_slot = 0
+}
+province_infrastructure174 = {
+	local_population_capacity = 0.34800000000000003
+	local_building_slot = 0
+}
+province_infrastructure175 = {
 	local_population_capacity = 0.35000000000000003
 	local_building_slot = 0
 }
-province_infrastructure360 = {
+province_infrastructure176 = {
+	local_population_capacity = 0.352
+	local_building_slot = 0
+}
+province_infrastructure177 = {
+	local_population_capacity = 0.354
+	local_building_slot = 0
+}
+province_infrastructure178 = {
+	local_population_capacity = 0.356
+	local_building_slot = 0
+}
+province_infrastructure179 = {
+	local_population_capacity = 0.358
+	local_building_slot = 0
+}
+province_infrastructure180 = {
 	local_population_capacity = 0.36
 	local_building_slot = 0
 }
-province_infrastructure370 = {
+province_infrastructure181 = {
+	local_population_capacity = 0.362
+	local_building_slot = 0
+}
+province_infrastructure182 = {
+	local_population_capacity = 0.364
+	local_building_slot = 0
+}
+province_infrastructure183 = {
+	local_population_capacity = 0.366
+	local_building_slot = 0
+}
+province_infrastructure184 = {
+	local_population_capacity = 0.368
+	local_building_slot = 0
+}
+province_infrastructure185 = {
 	local_population_capacity = 0.37
 	local_building_slot = 0
 }
-province_infrastructure380 = {
+province_infrastructure186 = {
+	local_population_capacity = 0.372
+	local_building_slot = 0
+}
+province_infrastructure187 = {
+	local_population_capacity = 0.374
+	local_building_slot = 0
+}
+province_infrastructure188 = {
+	local_population_capacity = 0.376
+	local_building_slot = 0
+}
+province_infrastructure189 = {
+	local_population_capacity = 0.378
+	local_building_slot = 0
+}
+province_infrastructure190 = {
 	local_population_capacity = 0.38
 	local_building_slot = 0
 }
-province_infrastructure390 = {
+province_infrastructure191 = {
+	local_population_capacity = 0.382
+	local_building_slot = 0
+}
+province_infrastructure192 = {
+	local_population_capacity = 0.384
+	local_building_slot = 0
+}
+province_infrastructure193 = {
+	local_population_capacity = 0.386
+	local_building_slot = 0
+}
+province_infrastructure194 = {
+	local_population_capacity = 0.388
+	local_building_slot = 0
+}
+province_infrastructure195 = {
 	local_population_capacity = 0.39
 	local_building_slot = 0
 }
-province_infrastructure400 = {
+province_infrastructure196 = {
+	local_population_capacity = 0.392
+	local_building_slot = 0
+}
+province_infrastructure197 = {
+	local_population_capacity = 0.394
+	local_building_slot = 0
+}
+province_infrastructure198 = {
+	local_population_capacity = 0.396
+	local_building_slot = 0
+}
+province_infrastructure199 = {
+	local_population_capacity = 0.398
+	local_building_slot = 0
+}
+province_infrastructure200 = {
 	local_population_capacity = 0.4
 	local_building_slot = 0
 }
-province_infrastructure410 = {
-	local_population_capacity = 0.41000000000000003
-	local_building_slot = 0
-}
-province_infrastructure420 = {
+province_infrastructure210 = {
 	local_population_capacity = 0.42
 	local_building_slot = 0
 }
-province_infrastructure430 = {
-	local_population_capacity = 0.43
-	local_building_slot = 0
-}
-province_infrastructure440 = {
+province_infrastructure220 = {
 	local_population_capacity = 0.44
 	local_building_slot = 0
 }
-province_infrastructure450 = {
-	local_population_capacity = 0.45
-	local_building_slot = 0
-}
-province_infrastructure460 = {
+province_infrastructure230 = {
 	local_population_capacity = 0.46
 	local_building_slot = 0
 }
-province_infrastructure470 = {
-	local_population_capacity = 0.47000000000000003
-	local_building_slot = 0
-}
-province_infrastructure480 = {
+province_infrastructure240 = {
 	local_population_capacity = 0.48
 	local_building_slot = 0
 }
-province_infrastructure490 = {
-	local_population_capacity = 0.49
-	local_building_slot = 0
-}
-province_infrastructure500 = {
+province_infrastructure250 = {
 	local_population_capacity = 0.5
 	local_building_slot = 0
 }
-province_infrastructure510 = {
-	local_population_capacity = 0.51
-	local_building_slot = 0
-}
-province_infrastructure520 = {
+province_infrastructure260 = {
 	local_population_capacity = 0.52
 	local_building_slot = 0
 }
-province_infrastructure530 = {
-	local_population_capacity = 0.53
-	local_building_slot = 0
-}
-province_infrastructure540 = {
+province_infrastructure270 = {
 	local_population_capacity = 0.54
 	local_building_slot = 0
 }
-province_infrastructure550 = {
-	local_population_capacity = 0.55
-	local_building_slot = 0
-}
-province_infrastructure560 = {
+province_infrastructure280 = {
 	local_population_capacity = 0.56
 	local_building_slot = 0
 }
-province_infrastructure570 = {
-	local_population_capacity = 0.5700000000000001
-	local_building_slot = 0
-}
-province_infrastructure580 = {
+province_infrastructure290 = {
 	local_population_capacity = 0.58
 	local_building_slot = 0
 }
-province_infrastructure590 = {
-	local_population_capacity = 0.59
-	local_building_slot = 0
-}
-province_infrastructure600 = {
+province_infrastructure300 = {
 	local_population_capacity = 0.6
 	local_building_slot = 0
 }
-province_infrastructure610 = {
-	local_population_capacity = 0.61
-	local_building_slot = 0
-}
-province_infrastructure620 = {
+province_infrastructure310 = {
 	local_population_capacity = 0.62
 	local_building_slot = 0
 }
-province_infrastructure630 = {
-	local_population_capacity = 0.63
-	local_building_slot = 0
-}
-province_infrastructure640 = {
+province_infrastructure320 = {
 	local_population_capacity = 0.64
 	local_building_slot = 0
 }
-province_infrastructure650 = {
-	local_population_capacity = 0.65
-	local_building_slot = 0
-}
-province_infrastructure660 = {
+province_infrastructure330 = {
 	local_population_capacity = 0.66
 	local_building_slot = 0
 }
-province_infrastructure670 = {
-	local_population_capacity = 0.67
-	local_building_slot = 0
-}
-province_infrastructure680 = {
+province_infrastructure340 = {
 	local_population_capacity = 0.68
 	local_building_slot = 0
 }
-province_infrastructure690 = {
-	local_population_capacity = 0.6900000000000001
-	local_building_slot = 0
-}
-province_infrastructure700 = {
+province_infrastructure350 = {
 	local_population_capacity = 0.7000000000000001
 	local_building_slot = 0
 }
-province_infrastructure710 = {
-	local_population_capacity = 0.71
-	local_building_slot = 0
-}
-province_infrastructure720 = {
+province_infrastructure360 = {
 	local_population_capacity = 0.72
 	local_building_slot = 0
 }
-province_infrastructure730 = {
-	local_population_capacity = 0.73
-	local_building_slot = 0
-}
-province_infrastructure740 = {
+province_infrastructure370 = {
 	local_population_capacity = 0.74
 	local_building_slot = 0
 }
-province_infrastructure750 = {
-	local_population_capacity = 0.75
-	local_building_slot = 0
-}
-province_infrastructure760 = {
+province_infrastructure380 = {
 	local_population_capacity = 0.76
 	local_building_slot = 0
 }
-province_infrastructure770 = {
-	local_population_capacity = 0.77
-	local_building_slot = 0
-}
-province_infrastructure780 = {
+province_infrastructure390 = {
 	local_population_capacity = 0.78
 	local_building_slot = 0
 }
-province_infrastructure790 = {
-	local_population_capacity = 0.79
-	local_building_slot = 0
-}
-province_infrastructure800 = {
+province_infrastructure400 = {
 	local_population_capacity = 0.8
 	local_building_slot = 0
 }
-province_infrastructure810 = {
-	local_population_capacity = 0.81
-	local_building_slot = 0
-}
-province_infrastructure820 = {
+province_infrastructure410 = {
 	local_population_capacity = 0.8200000000000001
 	local_building_slot = 0
 }
-province_infrastructure830 = {
-	local_population_capacity = 0.8300000000000001
-	local_building_slot = 0
-}
-province_infrastructure840 = {
+province_infrastructure420 = {
 	local_population_capacity = 0.84
 	local_building_slot = 0
 }
-province_infrastructure850 = {
-	local_population_capacity = 0.85
-	local_building_slot = 0
-}
-province_infrastructure860 = {
+province_infrastructure430 = {
 	local_population_capacity = 0.86
 	local_building_slot = 0
 }
-province_infrastructure870 = {
-	local_population_capacity = 0.87
-	local_building_slot = 0
-}
-province_infrastructure880 = {
+province_infrastructure440 = {
 	local_population_capacity = 0.88
 	local_building_slot = 0
 }
-province_infrastructure890 = {
-	local_population_capacity = 0.89
-	local_building_slot = 0
-}
-province_infrastructure900 = {
+province_infrastructure450 = {
 	local_population_capacity = 0.9
 	local_building_slot = 0
 }
-province_infrastructure910 = {
-	local_population_capacity = 0.91
-	local_building_slot = 0
-}
-province_infrastructure920 = {
+province_infrastructure460 = {
 	local_population_capacity = 0.92
 	local_building_slot = 0
 }
-province_infrastructure930 = {
-	local_population_capacity = 0.93
-	local_building_slot = 0
-}
-province_infrastructure940 = {
+province_infrastructure470 = {
 	local_population_capacity = 0.9400000000000001
 	local_building_slot = 0
 }
-province_infrastructure950 = {
-	local_population_capacity = 0.9500000000000001
-	local_building_slot = 0
-}
-province_infrastructure960 = {
+province_infrastructure480 = {
 	local_population_capacity = 0.96
 	local_building_slot = 0
 }
-province_infrastructure970 = {
-	local_population_capacity = 0.97
-	local_building_slot = 0
-}
-province_infrastructure980 = {
+province_infrastructure490 = {
 	local_population_capacity = 0.98
 	local_building_slot = 0
 }
+province_infrastructure500 = {
+	local_population_capacity = 1.0
+	local_building_slot = 0
+}
+province_infrastructure510 = {
+	local_population_capacity = 1.02
+	local_building_slot = 0
+}
+province_infrastructure520 = {
+	local_population_capacity = 1.04
+	local_building_slot = 0
+}
+province_infrastructure530 = {
+	local_population_capacity = 1.06
+	local_building_slot = 0
+}
+province_infrastructure540 = {
+	local_population_capacity = 1.08
+	local_building_slot = 0
+}
+province_infrastructure550 = {
+	local_population_capacity = 1.1
+	local_building_slot = 0
+}
+province_infrastructure560 = {
+	local_population_capacity = 1.12
+	local_building_slot = 0
+}
+province_infrastructure570 = {
+	local_population_capacity = 1.1400000000000001
+	local_building_slot = 0
+}
+province_infrastructure580 = {
+	local_population_capacity = 1.16
+	local_building_slot = 0
+}
+province_infrastructure590 = {
+	local_population_capacity = 1.18
+	local_building_slot = 0
+}
+province_infrastructure600 = {
+	local_population_capacity = 1.2
+	local_building_slot = 0
+}
+province_infrastructure610 = {
+	local_population_capacity = 1.22
+	local_building_slot = 0
+}
+province_infrastructure620 = {
+	local_population_capacity = 1.24
+	local_building_slot = 0
+}
+province_infrastructure630 = {
+	local_population_capacity = 1.26
+	local_building_slot = 0
+}
+province_infrastructure640 = {
+	local_population_capacity = 1.28
+	local_building_slot = 0
+}
+province_infrastructure650 = {
+	local_population_capacity = 1.3
+	local_building_slot = 0
+}
+province_infrastructure660 = {
+	local_population_capacity = 1.32
+	local_building_slot = 0
+}
+province_infrastructure670 = {
+	local_population_capacity = 1.34
+	local_building_slot = 0
+}
+province_infrastructure680 = {
+	local_population_capacity = 1.36
+	local_building_slot = 0
+}
+province_infrastructure690 = {
+	local_population_capacity = 1.3800000000000001
+	local_building_slot = 0
+}
+province_infrastructure700 = {
+	local_population_capacity = 1.4000000000000001
+	local_building_slot = 0
+}
+province_infrastructure710 = {
+	local_population_capacity = 1.42
+	local_building_slot = 0
+}
+province_infrastructure720 = {
+	local_population_capacity = 1.44
+	local_building_slot = 0
+}
+province_infrastructure730 = {
+	local_population_capacity = 1.46
+	local_building_slot = 0
+}
+province_infrastructure740 = {
+	local_population_capacity = 1.48
+	local_building_slot = 0
+}
+province_infrastructure750 = {
+	local_population_capacity = 1.5
+	local_building_slot = 0
+}
+province_infrastructure760 = {
+	local_population_capacity = 1.52
+	local_building_slot = 0
+}
+province_infrastructure770 = {
+	local_population_capacity = 1.54
+	local_building_slot = 0
+}
+province_infrastructure780 = {
+	local_population_capacity = 1.56
+	local_building_slot = 0
+}
+province_infrastructure790 = {
+	local_population_capacity = 1.58
+	local_building_slot = 0
+}
+province_infrastructure800 = {
+	local_population_capacity = 1.6
+	local_building_slot = 0
+}
+province_infrastructure810 = {
+	local_population_capacity = 1.62
+	local_building_slot = 0
+}
+province_infrastructure820 = {
+	local_population_capacity = 1.6400000000000001
+	local_building_slot = 0
+}
+province_infrastructure830 = {
+	local_population_capacity = 1.6600000000000001
+	local_building_slot = 0
+}
+province_infrastructure840 = {
+	local_population_capacity = 1.68
+	local_building_slot = 0
+}
+province_infrastructure850 = {
+	local_population_capacity = 1.7
+	local_building_slot = 0
+}
+province_infrastructure860 = {
+	local_population_capacity = 1.72
+	local_building_slot = 0
+}
+province_infrastructure870 = {
+	local_population_capacity = 1.74
+	local_building_slot = 0
+}
+province_infrastructure880 = {
+	local_population_capacity = 1.76
+	local_building_slot = 0
+}
+province_infrastructure890 = {
+	local_population_capacity = 1.78
+	local_building_slot = 0
+}
+province_infrastructure900 = {
+	local_population_capacity = 1.8
+	local_building_slot = 0
+}
+province_infrastructure910 = {
+	local_population_capacity = 1.82
+	local_building_slot = 0
+}
+province_infrastructure920 = {
+	local_population_capacity = 1.84
+	local_building_slot = 0
+}
+province_infrastructure930 = {
+	local_population_capacity = 1.86
+	local_building_slot = 0
+}
+province_infrastructure940 = {
+	local_population_capacity = 1.8800000000000001
+	local_building_slot = 0
+}
+province_infrastructure950 = {
+	local_population_capacity = 1.9000000000000001
+	local_building_slot = 0
+}
+province_infrastructure960 = {
+	local_population_capacity = 1.92
+	local_building_slot = 0
+}
+province_infrastructure970 = {
+	local_population_capacity = 1.94
+	local_building_slot = 0
+}
+province_infrastructure980 = {
+	local_population_capacity = 1.96
+	local_building_slot = 0
+}
 province_infrastructure990 = {
-	local_population_capacity = 0.99
+	local_population_capacity = 1.98
 	local_building_slot = 0
 }
 province_infrastructure1000 = {
-	local_population_capacity = 1.0
+	local_population_capacity = 2.0
 	local_building_slot = 1
 }
 province_infrastructure1010 = {
-	local_population_capacity = 1.01
+	local_population_capacity = 2.02
 	local_building_slot = 1
 }
 province_infrastructure1020 = {
-	local_population_capacity = 1.02
+	local_population_capacity = 2.04
 	local_building_slot = 1
 }
 province_infrastructure1030 = {
-	local_population_capacity = 1.03
+	local_population_capacity = 2.06
 	local_building_slot = 1
 }
 province_infrastructure1040 = {
-	local_population_capacity = 1.04
+	local_population_capacity = 2.08
 	local_building_slot = 1
 }
 province_infrastructure1050 = {
-	local_population_capacity = 1.05
+	local_population_capacity = 2.1
 	local_building_slot = 1
 }
 province_infrastructure1060 = {
-	local_population_capacity = 1.06
+	local_population_capacity = 2.12
 	local_building_slot = 1
 }
 province_infrastructure1070 = {
-	local_population_capacity = 1.07
+	local_population_capacity = 2.14
 	local_building_slot = 1
 }
 province_infrastructure1080 = {
-	local_population_capacity = 1.08
+	local_population_capacity = 2.16
 	local_building_slot = 1
 }
 province_infrastructure1090 = {
-	local_population_capacity = 1.09
+	local_population_capacity = 2.18
 	local_building_slot = 1
 }
 province_infrastructure1100 = {
-	local_population_capacity = 1.1
+	local_population_capacity = 2.2
 	local_building_slot = 1
 }
 province_infrastructure1110 = {
-	local_population_capacity = 1.11
+	local_population_capacity = 2.22
 	local_building_slot = 1
 }
 province_infrastructure1120 = {
-	local_population_capacity = 1.12
+	local_population_capacity = 2.24
 	local_building_slot = 1
 }
 province_infrastructure1130 = {
-	local_population_capacity = 1.1300000000000001
+	local_population_capacity = 2.2600000000000002
 	local_building_slot = 1
 }
 province_infrastructure1140 = {
-	local_population_capacity = 1.1400000000000001
+	local_population_capacity = 2.2800000000000002
 	local_building_slot = 1
 }
 province_infrastructure1150 = {
-	local_population_capacity = 1.1500000000000001
+	local_population_capacity = 2.3000000000000003
 	local_building_slot = 1
 }
 province_infrastructure1160 = {
-	local_population_capacity = 1.16
+	local_population_capacity = 2.32
 	local_building_slot = 1
 }
 province_infrastructure1170 = {
-	local_population_capacity = 1.17
+	local_population_capacity = 2.34
 	local_building_slot = 1
 }
 province_infrastructure1180 = {
-	local_population_capacity = 1.18
+	local_population_capacity = 2.36
 	local_building_slot = 1
 }
 province_infrastructure1190 = {
-	local_population_capacity = 1.19
+	local_population_capacity = 2.38
 	local_building_slot = 1
 }
 province_infrastructure1200 = {
-	local_population_capacity = 1.2
+	local_population_capacity = 2.4
 	local_building_slot = 1
 }
 province_infrastructure1210 = {
-	local_population_capacity = 1.21
+	local_population_capacity = 2.42
 	local_building_slot = 1
 }
 province_infrastructure1220 = {
-	local_population_capacity = 1.22
+	local_population_capacity = 2.44
 	local_building_slot = 1
 }
 province_infrastructure1230 = {
-	local_population_capacity = 1.23
+	local_population_capacity = 2.46
 	local_building_slot = 1
 }
 province_infrastructure1240 = {
-	local_population_capacity = 1.24
+	local_population_capacity = 2.48
 	local_building_slot = 1
 }
 province_infrastructure1250 = {
-	local_population_capacity = 1.25
+	local_population_capacity = 2.5
 	local_building_slot = 1
 }
 province_infrastructure1260 = {
-	local_population_capacity = 1.26
+	local_population_capacity = 2.52
 	local_building_slot = 1
 }
 province_infrastructure1270 = {
-	local_population_capacity = 1.27
+	local_population_capacity = 2.54
 	local_building_slot = 1
 }
 province_infrastructure1280 = {
-	local_population_capacity = 1.28
+	local_population_capacity = 2.56
 	local_building_slot = 1
 }
 province_infrastructure1290 = {
-	local_population_capacity = 1.29
+	local_population_capacity = 2.58
 	local_building_slot = 1
 }
 province_infrastructure1300 = {
-	local_population_capacity = 1.3
+	local_population_capacity = 2.6
 	local_building_slot = 1
 }
 province_infrastructure1310 = {
-	local_population_capacity = 1.31
+	local_population_capacity = 2.62
 	local_building_slot = 1
 }
 province_infrastructure1320 = {
-	local_population_capacity = 1.32
+	local_population_capacity = 2.64
 	local_building_slot = 1
 }
 province_infrastructure1330 = {
-	local_population_capacity = 1.33
+	local_population_capacity = 2.66
 	local_building_slot = 1
 }
 province_infrastructure1340 = {
-	local_population_capacity = 1.34
+	local_population_capacity = 2.68
 	local_building_slot = 1
 }
 province_infrastructure1350 = {
-	local_population_capacity = 1.35
+	local_population_capacity = 2.7
 	local_building_slot = 1
 }
 province_infrastructure1360 = {
-	local_population_capacity = 1.36
+	local_population_capacity = 2.72
 	local_building_slot = 1
 }
 province_infrastructure1370 = {
-	local_population_capacity = 1.37
+	local_population_capacity = 2.74
 	local_building_slot = 1
 }
 province_infrastructure1380 = {
-	local_population_capacity = 1.3800000000000001
+	local_population_capacity = 2.7600000000000002
 	local_building_slot = 1
 }
 province_infrastructure1390 = {
-	local_population_capacity = 1.3900000000000001
+	local_population_capacity = 2.7800000000000002
 	local_building_slot = 1
 }
 province_infrastructure1400 = {
-	local_population_capacity = 1.4000000000000001
+	local_population_capacity = 2.8000000000000003
 	local_building_slot = 1
 }
 province_infrastructure1410 = {
-	local_population_capacity = 1.41
+	local_population_capacity = 2.82
 	local_building_slot = 1
 }
 province_infrastructure1420 = {
-	local_population_capacity = 1.42
+	local_population_capacity = 2.84
 	local_building_slot = 1
 }
 province_infrastructure1430 = {
-	local_population_capacity = 1.43
+	local_population_capacity = 2.86
 	local_building_slot = 1
 }
 province_infrastructure1440 = {
-	local_population_capacity = 1.44
+	local_population_capacity = 2.88
 	local_building_slot = 1
 }
 province_infrastructure1450 = {
-	local_population_capacity = 1.45
+	local_population_capacity = 2.9
 	local_building_slot = 1
 }
 province_infrastructure1460 = {
-	local_population_capacity = 1.46
+	local_population_capacity = 2.92
 	local_building_slot = 1
 }
 province_infrastructure1470 = {
-	local_population_capacity = 1.47
+	local_population_capacity = 2.94
 	local_building_slot = 1
 }
 province_infrastructure1480 = {
-	local_population_capacity = 1.48
+	local_population_capacity = 2.96
 	local_building_slot = 1
 }
 province_infrastructure1490 = {
-	local_population_capacity = 1.49
+	local_population_capacity = 2.98
 	local_building_slot = 1
 }
 province_infrastructure1500 = {
-	local_population_capacity = 1.5
+	local_population_capacity = 3.0
 	local_building_slot = 1
 }
 province_infrastructure1510 = {
-	local_population_capacity = 1.51
+	local_population_capacity = 3.02
 	local_building_slot = 1
 }
 province_infrastructure1520 = {
-	local_population_capacity = 1.52
+	local_population_capacity = 3.04
 	local_building_slot = 1
 }
 province_infrastructure1530 = {
-	local_population_capacity = 1.53
+	local_population_capacity = 3.06
 	local_building_slot = 1
 }
 province_infrastructure1540 = {
-	local_population_capacity = 1.54
+	local_population_capacity = 3.08
 	local_building_slot = 1
 }
 province_infrastructure1550 = {
-	local_population_capacity = 1.55
+	local_population_capacity = 3.1
 	local_building_slot = 1
 }
 province_infrastructure1560 = {
-	local_population_capacity = 1.56
+	local_population_capacity = 3.12
 	local_building_slot = 1
 }
 province_infrastructure1570 = {
-	local_population_capacity = 1.57
+	local_population_capacity = 3.14
 	local_building_slot = 1
 }
 province_infrastructure1580 = {
-	local_population_capacity = 1.58
+	local_population_capacity = 3.16
 	local_building_slot = 1
 }
 province_infrastructure1590 = {
-	local_population_capacity = 1.59
+	local_population_capacity = 3.18
 	local_building_slot = 1
 }
 province_infrastructure1600 = {
-	local_population_capacity = 1.6
+	local_population_capacity = 3.2
 	local_building_slot = 1
 }
 province_infrastructure1610 = {
-	local_population_capacity = 1.61
+	local_population_capacity = 3.22
 	local_building_slot = 1
 }
 province_infrastructure1620 = {
-	local_population_capacity = 1.62
+	local_population_capacity = 3.24
 	local_building_slot = 1
 }
 province_infrastructure1630 = {
-	local_population_capacity = 1.6300000000000001
+	local_population_capacity = 3.2600000000000002
 	local_building_slot = 1
 }
 province_infrastructure1640 = {
-	local_population_capacity = 1.6400000000000001
+	local_population_capacity = 3.2800000000000002
 	local_building_slot = 1
 }
 province_infrastructure1650 = {
-	local_population_capacity = 1.6500000000000001
+	local_population_capacity = 3.3000000000000003
 	local_building_slot = 1
 }
 province_infrastructure1660 = {
-	local_population_capacity = 1.6600000000000001
+	local_population_capacity = 3.3200000000000003
 	local_building_slot = 1
 }
 province_infrastructure1670 = {
-	local_population_capacity = 1.67
+	local_population_capacity = 3.34
 	local_building_slot = 1
 }
 province_infrastructure1680 = {
-	local_population_capacity = 1.68
+	local_population_capacity = 3.36
 	local_building_slot = 1
 }
 province_infrastructure1690 = {
-	local_population_capacity = 1.69
+	local_population_capacity = 3.38
 	local_building_slot = 1
 }
 province_infrastructure1700 = {
-	local_population_capacity = 1.7
+	local_population_capacity = 3.4
 	local_building_slot = 1
 }
 province_infrastructure1710 = {
-	local_population_capacity = 1.71
+	local_population_capacity = 3.42
 	local_building_slot = 1
 }
 province_infrastructure1720 = {
-	local_population_capacity = 1.72
+	local_population_capacity = 3.44
 	local_building_slot = 1
 }
 province_infrastructure1730 = {
-	local_population_capacity = 1.73
+	local_population_capacity = 3.46
 	local_building_slot = 1
 }
 province_infrastructure1740 = {
-	local_population_capacity = 1.74
+	local_population_capacity = 3.48
 	local_building_slot = 1
 }
 province_infrastructure1750 = {
-	local_population_capacity = 1.75
+	local_population_capacity = 3.5
 	local_building_slot = 1
 }
 province_infrastructure1760 = {
-	local_population_capacity = 1.76
+	local_population_capacity = 3.52
 	local_building_slot = 1
 }
 province_infrastructure1770 = {
-	local_population_capacity = 1.77
+	local_population_capacity = 3.54
 	local_building_slot = 1
 }
 province_infrastructure1780 = {
-	local_population_capacity = 1.78
+	local_population_capacity = 3.56
 	local_building_slot = 1
 }
 province_infrastructure1790 = {
-	local_population_capacity = 1.79
+	local_population_capacity = 3.58
 	local_building_slot = 1
 }
 province_infrastructure1800 = {
-	local_population_capacity = 1.8
+	local_population_capacity = 3.6
 	local_building_slot = 1
 }
 province_infrastructure1810 = {
-	local_population_capacity = 1.81
+	local_population_capacity = 3.62
 	local_building_slot = 1
 }
 province_infrastructure1820 = {
-	local_population_capacity = 1.82
+	local_population_capacity = 3.64
 	local_building_slot = 1
 }
 province_infrastructure1830 = {
-	local_population_capacity = 1.83
+	local_population_capacity = 3.66
 	local_building_slot = 1
 }
 province_infrastructure1840 = {
-	local_population_capacity = 1.84
+	local_population_capacity = 3.68
 	local_building_slot = 1
 }
 province_infrastructure1850 = {
-	local_population_capacity = 1.85
+	local_population_capacity = 3.7
 	local_building_slot = 1
 }
 province_infrastructure1860 = {
-	local_population_capacity = 1.86
+	local_population_capacity = 3.72
 	local_building_slot = 1
 }
 province_infrastructure1870 = {
-	local_population_capacity = 1.87
+	local_population_capacity = 3.74
 	local_building_slot = 1
 }
 province_infrastructure1880 = {
-	local_population_capacity = 1.8800000000000001
+	local_population_capacity = 3.7600000000000002
 	local_building_slot = 1
 }
 province_infrastructure1890 = {
-	local_population_capacity = 1.8900000000000001
+	local_population_capacity = 3.7800000000000002
 	local_building_slot = 1
 }
 province_infrastructure1900 = {
-	local_population_capacity = 1.9000000000000001
+	local_population_capacity = 3.8000000000000003
 	local_building_slot = 1
 }
 province_infrastructure1910 = {
-	local_population_capacity = 1.9100000000000001
+	local_population_capacity = 3.8200000000000003
 	local_building_slot = 1
 }
 province_infrastructure1920 = {
-	local_population_capacity = 1.92
+	local_population_capacity = 3.84
 	local_building_slot = 1
 }
 province_infrastructure1930 = {
-	local_population_capacity = 1.93
+	local_population_capacity = 3.86
 	local_building_slot = 1
 }
 province_infrastructure1940 = {
-	local_population_capacity = 1.94
+	local_population_capacity = 3.88
 	local_building_slot = 1
 }
 province_infrastructure1950 = {
-	local_population_capacity = 1.95
+	local_population_capacity = 3.9
 	local_building_slot = 1
 }
 province_infrastructure1960 = {
-	local_population_capacity = 1.96
+	local_population_capacity = 3.92
 	local_building_slot = 1
 }
 province_infrastructure1970 = {
-	local_population_capacity = 1.97
+	local_population_capacity = 3.94
 	local_building_slot = 1
 }
 province_infrastructure1980 = {
-	local_population_capacity = 1.98
+	local_population_capacity = 3.96
 	local_building_slot = 1
 }
 province_infrastructure1990 = {
-	local_population_capacity = 1.99
+	local_population_capacity = 3.98
 	local_building_slot = 1
 }
 province_infrastructure2000 = {
-	local_population_capacity = 2.0
+	local_population_capacity = 4.0
 	local_building_slot = 2
 }
 province_infrastructure2100 = {
-	local_population_capacity = 2.1
+	local_population_capacity = 4.2
 	local_building_slot = 2
 }
 province_infrastructure2200 = {
-	local_population_capacity = 2.2
+	local_population_capacity = 4.4
 	local_building_slot = 2
 }
 province_infrastructure2300 = {
-	local_population_capacity = 2.3000000000000003
+	local_population_capacity = 4.6000000000000005
 	local_building_slot = 2
 }
 province_infrastructure2400 = {
-	local_population_capacity = 2.4
+	local_population_capacity = 4.8
 	local_building_slot = 2
 }
 province_infrastructure2500 = {
-	local_population_capacity = 2.5
+	local_population_capacity = 5.0
 	local_building_slot = 2
 }
 province_infrastructure2600 = {
-	local_population_capacity = 2.6
+	local_population_capacity = 5.2
 	local_building_slot = 2
 }
 province_infrastructure2700 = {
-	local_population_capacity = 2.7
+	local_population_capacity = 5.4
 	local_building_slot = 2
 }
 province_infrastructure2800 = {
-	local_population_capacity = 2.8000000000000003
+	local_population_capacity = 5.6000000000000005
 	local_building_slot = 2
 }
 province_infrastructure2900 = {
-	local_population_capacity = 2.9
+	local_population_capacity = 5.8
 	local_building_slot = 2
 }
 province_infrastructure3000 = {
-	local_population_capacity = 3.0
+	local_population_capacity = 6.0
 	local_building_slot = 3
 }
 province_infrastructure3100 = {
-	local_population_capacity = 3.1
+	local_population_capacity = 6.2
 	local_building_slot = 3
 }
 province_infrastructure3200 = {
-	local_population_capacity = 3.2
+	local_population_capacity = 6.4
 	local_building_slot = 3
 }
 province_infrastructure3300 = {
-	local_population_capacity = 3.3000000000000003
+	local_population_capacity = 6.6000000000000005
 	local_building_slot = 3
 }
 province_infrastructure3400 = {
-	local_population_capacity = 3.4
+	local_population_capacity = 6.8
 	local_building_slot = 3
 }
 province_infrastructure3500 = {
-	local_population_capacity = 3.5
+	local_population_capacity = 7.0
 	local_building_slot = 3
 }
 province_infrastructure3600 = {
-	local_population_capacity = 3.6
+	local_population_capacity = 7.2
 	local_building_slot = 3
 }
 province_infrastructure3700 = {
-	local_population_capacity = 3.7
+	local_population_capacity = 7.4
 	local_building_slot = 3
 }
 province_infrastructure3800 = {
-	local_population_capacity = 3.8000000000000003
+	local_population_capacity = 7.6000000000000005
 	local_building_slot = 3
 }
 province_infrastructure3900 = {
-	local_population_capacity = 3.9
+	local_population_capacity = 7.8
 	local_building_slot = 3
 }
 province_infrastructure4000 = {
-	local_population_capacity = 4.0
+	local_population_capacity = 8.0
 	local_building_slot = 4
 }
 province_infrastructure4100 = {
-	local_population_capacity = 4.1
+	local_population_capacity = 8.2
 	local_building_slot = 4
 }
 province_infrastructure4200 = {
-	local_population_capacity = 4.2
+	local_population_capacity = 8.4
 	local_building_slot = 4
 }
 province_infrastructure4300 = {
-	local_population_capacity = 4.3
+	local_population_capacity = 8.6
 	local_building_slot = 4
 }
 province_infrastructure4400 = {
-	local_population_capacity = 4.4
+	local_population_capacity = 8.8
 	local_building_slot = 4
 }
 province_infrastructure4500 = {
-	local_population_capacity = 4.5
+	local_population_capacity = 9.0
 	local_building_slot = 4
 }
 province_infrastructure4600 = {
-	local_population_capacity = 4.6000000000000005
+	local_population_capacity = 9.200000000000001
 	local_building_slot = 4
 }
 province_infrastructure4700 = {
-	local_population_capacity = 4.7
+	local_population_capacity = 9.4
 	local_building_slot = 4
 }
 province_infrastructure4800 = {
-	local_population_capacity = 4.8
+	local_population_capacity = 9.6
 	local_building_slot = 4
 }
 province_infrastructure4900 = {
-	local_population_capacity = 4.9
+	local_population_capacity = 9.8
 	local_building_slot = 4
 }
 province_infrastructure5000 = {
-	local_population_capacity = 5.0
+	local_population_capacity = 10.0
 	local_building_slot = 5
 }
 province_infrastructure5100 = {
-	local_population_capacity = 5.1000000000000005
+	local_population_capacity = 10.200000000000001
 	local_building_slot = 5
 }
 province_infrastructure5200 = {
-	local_population_capacity = 5.2
+	local_population_capacity = 10.4
 	local_building_slot = 5
 }
 province_infrastructure5300 = {
-	local_population_capacity = 5.3
+	local_population_capacity = 10.6
 	local_building_slot = 5
 }
 province_infrastructure5400 = {
-	local_population_capacity = 5.4
+	local_population_capacity = 10.8
 	local_building_slot = 5
 }
 province_infrastructure5500 = {
-	local_population_capacity = 5.5
+	local_population_capacity = 11.0
 	local_building_slot = 5
 }
 province_infrastructure5600 = {
-	local_population_capacity = 5.6000000000000005
+	local_population_capacity = 11.200000000000001
 	local_building_slot = 5
 }
 province_infrastructure5700 = {
-	local_population_capacity = 5.7
+	local_population_capacity = 11.4
 	local_building_slot = 5
 }
 province_infrastructure5800 = {
-	local_population_capacity = 5.8
+	local_population_capacity = 11.6
 	local_building_slot = 5
 }
 province_infrastructure5900 = {
-	local_population_capacity = 5.9
+	local_population_capacity = 11.8
 	local_building_slot = 5
 }
 province_infrastructure6000 = {
-	local_population_capacity = 6.0
+	local_population_capacity = 12.0
 	local_building_slot = 6
 }
 province_infrastructure6100 = {
-	local_population_capacity = 6.1000000000000005
+	local_population_capacity = 12.200000000000001
 	local_building_slot = 6
 }
 province_infrastructure6200 = {
-	local_population_capacity = 6.2
+	local_population_capacity = 12.4
 	local_building_slot = 6
 }
 province_infrastructure6300 = {
-	local_population_capacity = 6.3
+	local_population_capacity = 12.6
 	local_building_slot = 6
 }
 province_infrastructure6400 = {
-	local_population_capacity = 6.4
+	local_population_capacity = 12.8
 	local_building_slot = 6
 }
 province_infrastructure6500 = {
-	local_population_capacity = 6.5
+	local_population_capacity = 13.0
 	local_building_slot = 6
 }
 province_infrastructure6600 = {
-	local_population_capacity = 6.6000000000000005
+	local_population_capacity = 13.200000000000001
 	local_building_slot = 6
 }
 province_infrastructure6700 = {
-	local_population_capacity = 6.7
+	local_population_capacity = 13.4
 	local_building_slot = 6
 }
 province_infrastructure6800 = {
-	local_population_capacity = 6.8
+	local_population_capacity = 13.6
 	local_building_slot = 6
 }
 province_infrastructure6900 = {
-	local_population_capacity = 6.9
+	local_population_capacity = 13.8
 	local_building_slot = 6
 }
 province_infrastructure7000 = {
-	local_population_capacity = 7.0
+	local_population_capacity = 14.0
 	local_building_slot = 7
 }
 province_infrastructure7100 = {
-	local_population_capacity = 7.1000000000000005
+	local_population_capacity = 14.200000000000001
 	local_building_slot = 7
 }
 province_infrastructure7200 = {
-	local_population_capacity = 7.2
+	local_population_capacity = 14.4
 	local_building_slot = 7
 }
 province_infrastructure7300 = {
-	local_population_capacity = 7.3
+	local_population_capacity = 14.6
 	local_building_slot = 7
 }
 province_infrastructure7400 = {
-	local_population_capacity = 7.4
+	local_population_capacity = 14.8
 	local_building_slot = 7
 }
 province_infrastructure7500 = {
-	local_population_capacity = 7.5
+	local_population_capacity = 15.0
 	local_building_slot = 7
 }
 province_infrastructure7600 = {
-	local_population_capacity = 7.6000000000000005
+	local_population_capacity = 15.200000000000001
 	local_building_slot = 7
 }
 province_infrastructure7700 = {
-	local_population_capacity = 7.7
+	local_population_capacity = 15.4
 	local_building_slot = 7
 }
 province_infrastructure7800 = {
-	local_population_capacity = 7.8
+	local_population_capacity = 15.6
 	local_building_slot = 7
 }
 province_infrastructure7900 = {
-	local_population_capacity = 7.9
+	local_population_capacity = 15.8
 	local_building_slot = 7
 }
 province_infrastructure8000 = {
-	local_population_capacity = 8.0
+	local_population_capacity = 16.0
 	local_building_slot = 8
 }
 province_infrastructure8100 = {
-	local_population_capacity = 8.1
+	local_population_capacity = 16.2
 	local_building_slot = 8
 }
 province_infrastructure8200 = {
-	local_population_capacity = 8.2
+	local_population_capacity = 16.4
 	local_building_slot = 8
 }
 province_infrastructure8300 = {
-	local_population_capacity = 8.3
+	local_population_capacity = 16.6
 	local_building_slot = 8
 }
 province_infrastructure8400 = {
-	local_population_capacity = 8.4
+	local_population_capacity = 16.8
 	local_building_slot = 8
 }
 province_infrastructure8500 = {
-	local_population_capacity = 8.5
+	local_population_capacity = 17.0
 	local_building_slot = 8
 }
 province_infrastructure8600 = {
-	local_population_capacity = 8.6
+	local_population_capacity = 17.2
 	local_building_slot = 8
 }
 province_infrastructure8700 = {
-	local_population_capacity = 8.700000000000001
+	local_population_capacity = 17.400000000000002
 	local_building_slot = 8
 }
 province_infrastructure8800 = {
-	local_population_capacity = 8.8
+	local_population_capacity = 17.6
 	local_building_slot = 8
 }
 province_infrastructure8900 = {
-	local_population_capacity = 8.9
+	local_population_capacity = 17.8
 	local_building_slot = 8
 }
 province_infrastructure9000 = {
-	local_population_capacity = 9.0
+	local_population_capacity = 18.0
 	local_building_slot = 9
 }
 province_infrastructure9100 = {
-	local_population_capacity = 9.1
+	local_population_capacity = 18.2
 	local_building_slot = 9
 }
 province_infrastructure9200 = {
-	local_population_capacity = 9.200000000000001
+	local_population_capacity = 18.400000000000002
 	local_building_slot = 9
 }
 province_infrastructure9300 = {
-	local_population_capacity = 9.3
+	local_population_capacity = 18.6
 	local_building_slot = 9
 }
 province_infrastructure9400 = {
-	local_population_capacity = 9.4
+	local_population_capacity = 18.8
 	local_building_slot = 9
 }
 province_infrastructure9500 = {
-	local_population_capacity = 9.5
+	local_population_capacity = 19.0
 	local_building_slot = 9
 }
 province_infrastructure9600 = {
-	local_population_capacity = 9.6
+	local_population_capacity = 19.2
 	local_building_slot = 9
 }
 province_infrastructure9700 = {
-	local_population_capacity = 9.700000000000001
+	local_population_capacity = 19.400000000000002
 	local_building_slot = 9
 }
 province_infrastructure9800 = {
-	local_population_capacity = 9.8
+	local_population_capacity = 19.6
 	local_building_slot = 9
 }
 province_infrastructure9900 = {
-	local_population_capacity = 9.9
+	local_population_capacity = 19.8
 	local_building_slot = 9
 }
 province_infrastructure10000 = {
-	local_population_capacity = 10.0
+	local_population_capacity = 20.0
 	local_building_slot = 10
 }
 province_infrastructure10100 = {
-	local_population_capacity = 10.1
+	local_population_capacity = 20.2
 	local_building_slot = 10
 }
 province_infrastructure10200 = {
-	local_population_capacity = 10.200000000000001
+	local_population_capacity = 20.400000000000002
 	local_building_slot = 10
 }
 province_infrastructure10300 = {
-	local_population_capacity = 10.3
+	local_population_capacity = 20.6
 	local_building_slot = 10
 }
 province_infrastructure10400 = {
-	local_population_capacity = 10.4
+	local_population_capacity = 20.8
 	local_building_slot = 10
 }
 province_infrastructure10500 = {
-	local_population_capacity = 10.5
+	local_population_capacity = 21.0
 	local_building_slot = 10
 }
 province_infrastructure10600 = {
-	local_population_capacity = 10.6
+	local_population_capacity = 21.2
 	local_building_slot = 10
 }
 province_infrastructure10700 = {
-	local_population_capacity = 10.700000000000001
+	local_population_capacity = 21.400000000000002
 	local_building_slot = 10
 }
 province_infrastructure10800 = {
-	local_population_capacity = 10.8
+	local_population_capacity = 21.6
 	local_building_slot = 10
 }
 province_infrastructure10900 = {
-	local_population_capacity = 10.9
+	local_population_capacity = 21.8
 	local_building_slot = 10
 }
 province_infrastructure11000 = {
-	local_population_capacity = 11.0
+	local_population_capacity = 22.0
 	local_building_slot = 11
 }
 province_infrastructure11100 = {
-	local_population_capacity = 11.1
+	local_population_capacity = 22.2
 	local_building_slot = 11
 }
 province_infrastructure11200 = {
-	local_population_capacity = 11.200000000000001
+	local_population_capacity = 22.400000000000002
 	local_building_slot = 11
 }
 province_infrastructure11300 = {
-	local_population_capacity = 11.3
+	local_population_capacity = 22.6
 	local_building_slot = 11
 }
 province_infrastructure11400 = {
-	local_population_capacity = 11.4
+	local_population_capacity = 22.8
 	local_building_slot = 11
 }
 province_infrastructure11500 = {
-	local_population_capacity = 11.5
+	local_population_capacity = 23.0
 	local_building_slot = 11
 }
 province_infrastructure11600 = {
-	local_population_capacity = 11.6
+	local_population_capacity = 23.2
 	local_building_slot = 11
 }
 province_infrastructure11700 = {
-	local_population_capacity = 11.700000000000001
+	local_population_capacity = 23.400000000000002
 	local_building_slot = 11
 }
 province_infrastructure11800 = {
-	local_population_capacity = 11.8
+	local_population_capacity = 23.6
 	local_building_slot = 11
 }
 province_infrastructure11900 = {
-	local_population_capacity = 11.9
+	local_population_capacity = 23.8
 	local_building_slot = 11
 }
 province_infrastructure12000 = {
-	local_population_capacity = 12.0
+	local_population_capacity = 24.0
 	local_building_slot = 12
 }
 province_infrastructure12100 = {
-	local_population_capacity = 12.1
+	local_population_capacity = 24.2
 	local_building_slot = 12
 }
 province_infrastructure12200 = {
-	local_population_capacity = 12.200000000000001
+	local_population_capacity = 24.400000000000002
 	local_building_slot = 12
 }
 province_infrastructure12300 = {
-	local_population_capacity = 12.3
+	local_population_capacity = 24.6
 	local_building_slot = 12
 }
 province_infrastructure12400 = {
-	local_population_capacity = 12.4
+	local_population_capacity = 24.8
 	local_building_slot = 12
 }
 province_infrastructure12500 = {
-	local_population_capacity = 12.5
+	local_population_capacity = 25.0
 	local_building_slot = 12
 }
 province_infrastructure12600 = {
-	local_population_capacity = 12.6
+	local_population_capacity = 25.2
 	local_building_slot = 12
 }
 province_infrastructure12700 = {
-	local_population_capacity = 12.700000000000001
+	local_population_capacity = 25.400000000000002
 	local_building_slot = 12
 }
 province_infrastructure12800 = {
-	local_population_capacity = 12.8
+	local_population_capacity = 25.6
 	local_building_slot = 12
 }
 province_infrastructure12900 = {
-	local_population_capacity = 12.9
+	local_population_capacity = 25.8
 	local_building_slot = 12
 }
 province_infrastructure13000 = {
-	local_population_capacity = 13.0
+	local_population_capacity = 26.0
 	local_building_slot = 13
 }
 province_infrastructure13100 = {
-	local_population_capacity = 13.1
+	local_population_capacity = 26.2
 	local_building_slot = 13
 }
 province_infrastructure13200 = {
-	local_population_capacity = 13.200000000000001
+	local_population_capacity = 26.400000000000002
 	local_building_slot = 13
 }
 province_infrastructure13300 = {
-	local_population_capacity = 13.3
+	local_population_capacity = 26.6
 	local_building_slot = 13
 }
 province_infrastructure13400 = {
-	local_population_capacity = 13.4
+	local_population_capacity = 26.8
 	local_building_slot = 13
 }
 province_infrastructure13500 = {
-	local_population_capacity = 13.5
+	local_population_capacity = 27.0
 	local_building_slot = 13
 }
 province_infrastructure13600 = {
-	local_population_capacity = 13.6
+	local_population_capacity = 27.2
 	local_building_slot = 13
 }
 province_infrastructure13700 = {
-	local_population_capacity = 13.700000000000001
+	local_population_capacity = 27.400000000000002
 	local_building_slot = 13
 }
 province_infrastructure13800 = {
-	local_population_capacity = 13.8
+	local_population_capacity = 27.6
 	local_building_slot = 13
 }
 province_infrastructure13900 = {
-	local_population_capacity = 13.9
+	local_population_capacity = 27.8
 	local_building_slot = 13
 }
 province_infrastructure14000 = {
-	local_population_capacity = 14.0
+	local_population_capacity = 28.0
 	local_building_slot = 14
 }
 province_infrastructure14100 = {
-	local_population_capacity = 14.1
+	local_population_capacity = 28.2
 	local_building_slot = 14
 }
 province_infrastructure14200 = {
-	local_population_capacity = 14.200000000000001
+	local_population_capacity = 28.400000000000002
 	local_building_slot = 14
 }
 province_infrastructure14300 = {
-	local_population_capacity = 14.3
+	local_population_capacity = 28.6
 	local_building_slot = 14
 }
 province_infrastructure14400 = {
-	local_population_capacity = 14.4
+	local_population_capacity = 28.8
 	local_building_slot = 14
 }
 province_infrastructure14500 = {
-	local_population_capacity = 14.5
+	local_population_capacity = 29.0
 	local_building_slot = 14
 }
 province_infrastructure14600 = {
-	local_population_capacity = 14.6
+	local_population_capacity = 29.2
 	local_building_slot = 14
 }
 province_infrastructure14700 = {
-	local_population_capacity = 14.700000000000001
+	local_population_capacity = 29.400000000000002
 	local_building_slot = 14
 }
 province_infrastructure14800 = {
-	local_population_capacity = 14.8
+	local_population_capacity = 29.6
 	local_building_slot = 14
 }
 province_infrastructure14900 = {
-	local_population_capacity = 14.9
+	local_population_capacity = 29.8
 	local_building_slot = 14
 }
 province_infrastructure15000 = {
-	local_population_capacity = 15.0
+	local_population_capacity = 30.0
 	local_building_slot = 15
 }
 province_infrastructure15100 = {
-	local_population_capacity = 15.1
+	local_population_capacity = 30.2
 	local_building_slot = 15
 }
 province_infrastructure15200 = {
-	local_population_capacity = 15.200000000000001
+	local_population_capacity = 30.400000000000002
 	local_building_slot = 15
 }
 province_infrastructure15300 = {
-	local_population_capacity = 15.3
+	local_population_capacity = 30.6
 	local_building_slot = 15
 }
 province_infrastructure15400 = {
-	local_population_capacity = 15.4
+	local_population_capacity = 30.8
 	local_building_slot = 15
 }
 province_infrastructure15500 = {
-	local_population_capacity = 15.5
+	local_population_capacity = 31.0
 	local_building_slot = 15
 }
 province_infrastructure15600 = {
-	local_population_capacity = 15.6
+	local_population_capacity = 31.2
 	local_building_slot = 15
 }
 province_infrastructure15700 = {
-	local_population_capacity = 15.700000000000001
+	local_population_capacity = 31.400000000000002
 	local_building_slot = 15
 }
 province_infrastructure15800 = {
-	local_population_capacity = 15.8
+	local_population_capacity = 31.6
 	local_building_slot = 15
 }
 province_infrastructure15900 = {
-	local_population_capacity = 15.9
+	local_population_capacity = 31.8
 	local_building_slot = 15
 }
 province_infrastructure16000 = {
-	local_population_capacity = 16.0
+	local_population_capacity = 32.0
 	local_building_slot = 16
 }
 province_infrastructure16100 = {
-	local_population_capacity = 16.1
+	local_population_capacity = 32.2
 	local_building_slot = 16
 }
 province_infrastructure16200 = {
-	local_population_capacity = 16.2
+	local_population_capacity = 32.4
 	local_building_slot = 16
 }
 province_infrastructure16300 = {
-	local_population_capacity = 16.3
+	local_population_capacity = 32.6
 	local_building_slot = 16
 }
 province_infrastructure16400 = {
-	local_population_capacity = 16.4
+	local_population_capacity = 32.8
 	local_building_slot = 16
 }
 province_infrastructure16500 = {
-	local_population_capacity = 16.5
+	local_population_capacity = 33.0
 	local_building_slot = 16
 }
 province_infrastructure16600 = {
-	local_population_capacity = 16.6
+	local_population_capacity = 33.2
 	local_building_slot = 16
 }
 province_infrastructure16700 = {
-	local_population_capacity = 16.7
+	local_population_capacity = 33.4
 	local_building_slot = 16
 }
 province_infrastructure16800 = {
-	local_population_capacity = 16.8
+	local_population_capacity = 33.6
 	local_building_slot = 16
 }
 province_infrastructure16900 = {
-	local_population_capacity = 16.9
+	local_population_capacity = 33.8
 	local_building_slot = 16
 }
 province_infrastructure17000 = {
-	local_population_capacity = 17.0
+	local_population_capacity = 34.0
 	local_building_slot = 17
 }
 province_infrastructure17100 = {
-	local_population_capacity = 17.1
+	local_population_capacity = 34.2
 	local_building_slot = 17
 }
 province_infrastructure17200 = {
-	local_population_capacity = 17.2
+	local_population_capacity = 34.4
 	local_building_slot = 17
 }
 province_infrastructure17300 = {
-	local_population_capacity = 17.3
+	local_population_capacity = 34.6
 	local_building_slot = 17
 }
 province_infrastructure17400 = {
-	local_population_capacity = 17.400000000000002
+	local_population_capacity = 34.800000000000004
 	local_building_slot = 17
 }
 province_infrastructure17500 = {
-	local_population_capacity = 17.5
+	local_population_capacity = 35.0
 	local_building_slot = 17
 }
 province_infrastructure17600 = {
-	local_population_capacity = 17.6
+	local_population_capacity = 35.2
 	local_building_slot = 17
 }
 province_infrastructure17700 = {
-	local_population_capacity = 17.7
+	local_population_capacity = 35.4
 	local_building_slot = 17
 }
 province_infrastructure17800 = {
-	local_population_capacity = 17.8
+	local_population_capacity = 35.6
 	local_building_slot = 17
 }
 province_infrastructure17900 = {
-	local_population_capacity = 17.900000000000002
+	local_population_capacity = 35.800000000000004
 	local_building_slot = 17
 }
 province_infrastructure18000 = {
-	local_population_capacity = 18.0
+	local_population_capacity = 36.0
 	local_building_slot = 18
 }
 province_infrastructure18100 = {
-	local_population_capacity = 18.1
+	local_population_capacity = 36.2
 	local_building_slot = 18
 }
 province_infrastructure18200 = {
-	local_population_capacity = 18.2
+	local_population_capacity = 36.4
 	local_building_slot = 18
 }
 province_infrastructure18300 = {
-	local_population_capacity = 18.3
+	local_population_capacity = 36.6
 	local_building_slot = 18
 }
 province_infrastructure18400 = {
-	local_population_capacity = 18.400000000000002
+	local_population_capacity = 36.800000000000004
 	local_building_slot = 18
 }
 province_infrastructure18500 = {
-	local_population_capacity = 18.5
+	local_population_capacity = 37.0
 	local_building_slot = 18
 }
 province_infrastructure18600 = {
-	local_population_capacity = 18.6
+	local_population_capacity = 37.2
 	local_building_slot = 18
 }
 province_infrastructure18700 = {
-	local_population_capacity = 18.7
+	local_population_capacity = 37.4
 	local_building_slot = 18
 }
 province_infrastructure18800 = {
-	local_population_capacity = 18.8
+	local_population_capacity = 37.6
 	local_building_slot = 18
 }
 province_infrastructure18900 = {
-	local_population_capacity = 18.900000000000002
+	local_population_capacity = 37.800000000000004
 	local_building_slot = 18
 }
 province_infrastructure19000 = {
-	local_population_capacity = 19.0
+	local_population_capacity = 38.0
 	local_building_slot = 19
 }
 province_infrastructure19100 = {
-	local_population_capacity = 19.1
+	local_population_capacity = 38.2
 	local_building_slot = 19
 }
 province_infrastructure19200 = {
-	local_population_capacity = 19.2
+	local_population_capacity = 38.4
 	local_building_slot = 19
 }
 province_infrastructure19300 = {
-	local_population_capacity = 19.3
+	local_population_capacity = 38.6
 	local_building_slot = 19
 }
 province_infrastructure19400 = {
-	local_population_capacity = 19.400000000000002
+	local_population_capacity = 38.800000000000004
 	local_building_slot = 19
 }
 province_infrastructure19500 = {
-	local_population_capacity = 19.5
+	local_population_capacity = 39.0
 	local_building_slot = 19
 }
 province_infrastructure19600 = {
-	local_population_capacity = 19.6
+	local_population_capacity = 39.2
 	local_building_slot = 19
 }
 province_infrastructure19700 = {
-	local_population_capacity = 19.7
+	local_population_capacity = 39.4
 	local_building_slot = 19
 }
 province_infrastructure19800 = {
-	local_population_capacity = 19.8
+	local_population_capacity = 39.6
 	local_building_slot = 19
 }
 province_infrastructure19900 = {
-	local_population_capacity = 19.900000000000002
+	local_population_capacity = 39.800000000000004
 	local_building_slot = 19
 }
 province_infrastructure20000 = {
-	local_population_capacity = 20.0
+	local_population_capacity = 40.0
 	local_building_slot = 20
 }
 province_infrastructure21000 = {
-	local_population_capacity = 21.0
+	local_population_capacity = 42.0
 	local_building_slot = 21
 }
 province_infrastructure22000 = {
-	local_population_capacity = 22.0
+	local_population_capacity = 44.0
 	local_building_slot = 22
 }
 province_infrastructure23000 = {
-	local_population_capacity = 23.0
+	local_population_capacity = 46.0
 	local_building_slot = 23
 }
 province_infrastructure24000 = {
-	local_population_capacity = 24.0
+	local_population_capacity = 48.0
 	local_building_slot = 24
 }
 province_infrastructure25000 = {
-	local_population_capacity = 25.0
+	local_population_capacity = 50.0
 	local_building_slot = 25
 }
 province_infrastructure26000 = {
-	local_population_capacity = 26.0
+	local_population_capacity = 52.0
 	local_building_slot = 26
 }
 province_infrastructure27000 = {
-	local_population_capacity = 27.0
+	local_population_capacity = 54.0
 	local_building_slot = 27
 }
 province_infrastructure28000 = {
-	local_population_capacity = 28.0
+	local_population_capacity = 56.0
 	local_building_slot = 28
 }
 province_infrastructure29000 = {
-	local_population_capacity = 29.0
+	local_population_capacity = 58.0
 	local_building_slot = 29
 }
 province_infrastructure30000 = {
-	local_population_capacity = 30.0
+	local_population_capacity = 60.0
 	local_building_slot = 30
 }
 province_infrastructure31000 = {
-	local_population_capacity = 31.0
+	local_population_capacity = 62.0
 	local_building_slot = 31
 }
 province_infrastructure32000 = {
-	local_population_capacity = 32.0
+	local_population_capacity = 64.0
 	local_building_slot = 32
 }
 province_infrastructure33000 = {
-	local_population_capacity = 33.0
+	local_population_capacity = 66.0
 	local_building_slot = 33
 }
 province_infrastructure34000 = {
-	local_population_capacity = 34.0
+	local_population_capacity = 68.0
 	local_building_slot = 34
 }
 province_infrastructure35000 = {
-	local_population_capacity = 35.0
+	local_population_capacity = 70.0
 	local_building_slot = 35
 }
 province_infrastructure36000 = {
-	local_population_capacity = 36.0
+	local_population_capacity = 72.0
 	local_building_slot = 36
 }
 province_infrastructure37000 = {
-	local_population_capacity = 37.0
+	local_population_capacity = 74.0
 	local_building_slot = 37
 }
 province_infrastructure38000 = {
-	local_population_capacity = 38.0
+	local_population_capacity = 76.0
 	local_building_slot = 38
 }
 province_infrastructure39000 = {
-	local_population_capacity = 39.0
+	local_population_capacity = 78.0
 	local_building_slot = 39
 }
 province_infrastructure40000 = {
-	local_population_capacity = 40.0
+	local_population_capacity = 80.0
 	local_building_slot = 40
 }
 province_infrastructure41000 = {
-	local_population_capacity = 41.0
+	local_population_capacity = 82.0
 	local_building_slot = 41
 }
 province_infrastructure42000 = {
-	local_population_capacity = 42.0
+	local_population_capacity = 84.0
 	local_building_slot = 42
 }
 province_infrastructure43000 = {
-	local_population_capacity = 43.0
+	local_population_capacity = 86.0
 	local_building_slot = 43
 }
 province_infrastructure44000 = {
-	local_population_capacity = 44.0
+	local_population_capacity = 88.0
 	local_building_slot = 44
 }
 province_infrastructure45000 = {
-	local_population_capacity = 45.0
+	local_population_capacity = 90.0
 	local_building_slot = 45
 }
 province_infrastructure46000 = {
-	local_population_capacity = 46.0
+	local_population_capacity = 92.0
 	local_building_slot = 46
 }
 province_infrastructure47000 = {
-	local_population_capacity = 47.0
+	local_population_capacity = 94.0
 	local_building_slot = 47
 }
 province_infrastructure48000 = {
-	local_population_capacity = 48.0
+	local_population_capacity = 96.0
 	local_building_slot = 48
 }
 province_infrastructure49000 = {
-	local_population_capacity = 49.0
+	local_population_capacity = 98.0
 	local_building_slot = 49
 }
 province_infrastructure50000 = {
-	local_population_capacity = 50.0
+	local_population_capacity = 100.0
 	local_building_slot = 50
 }
 province_infrastructure51000 = {
-	local_population_capacity = 51.0
+	local_population_capacity = 102.0
 	local_building_slot = 51
 }
 province_infrastructure52000 = {
-	local_population_capacity = 52.0
+	local_population_capacity = 104.0
 	local_building_slot = 52
 }
 province_infrastructure53000 = {
-	local_population_capacity = 53.0
+	local_population_capacity = 106.0
 	local_building_slot = 53
 }
 province_infrastructure54000 = {
-	local_population_capacity = 54.0
+	local_population_capacity = 108.0
 	local_building_slot = 54
 }
 province_infrastructure55000 = {
-	local_population_capacity = 55.0
+	local_population_capacity = 110.0
 	local_building_slot = 55
 }
 province_infrastructure56000 = {
-	local_population_capacity = 56.0
+	local_population_capacity = 112.0
 	local_building_slot = 56
 }
 province_infrastructure57000 = {
-	local_population_capacity = 57.0
+	local_population_capacity = 114.0
 	local_building_slot = 57
 }
 province_infrastructure58000 = {
-	local_population_capacity = 58.0
+	local_population_capacity = 116.0
 	local_building_slot = 58
 }
 province_infrastructure59000 = {
-	local_population_capacity = 59.0
+	local_population_capacity = 118.0
 	local_building_slot = 59
 }
 province_infrastructure60000 = {
-	local_population_capacity = 60.0
+	local_population_capacity = 120.0
 	local_building_slot = 60
 }
 province_infrastructure61000 = {
-	local_population_capacity = 61.0
+	local_population_capacity = 122.0
 	local_building_slot = 61
 }
 province_infrastructure62000 = {
-	local_population_capacity = 62.0
+	local_population_capacity = 124.0
 	local_building_slot = 62
 }
 province_infrastructure63000 = {
-	local_population_capacity = 63.0
+	local_population_capacity = 126.0
 	local_building_slot = 63
 }
 province_infrastructure64000 = {
-	local_population_capacity = 64.0
+	local_population_capacity = 128.0
 	local_building_slot = 64
 }
 province_infrastructure65000 = {
-	local_population_capacity = 65.0
+	local_population_capacity = 130.0
 	local_building_slot = 65
 }
 province_infrastructure66000 = {
-	local_population_capacity = 66.0
+	local_population_capacity = 132.0
 	local_building_slot = 66
 }
 province_infrastructure67000 = {
-	local_population_capacity = 67.0
+	local_population_capacity = 134.0
 	local_building_slot = 67
 }
 province_infrastructure68000 = {
-	local_population_capacity = 68.0
+	local_population_capacity = 136.0
 	local_building_slot = 68
 }
 province_infrastructure69000 = {
-	local_population_capacity = 69.0
+	local_population_capacity = 138.0
 	local_building_slot = 69
 }
 province_infrastructure70000 = {
-	local_population_capacity = 70.0
+	local_population_capacity = 140.0
 	local_building_slot = 70
 }
 province_infrastructure71000 = {
-	local_population_capacity = 71.0
+	local_population_capacity = 142.0
 	local_building_slot = 71
 }
 province_infrastructure72000 = {
-	local_population_capacity = 72.0
+	local_population_capacity = 144.0
 	local_building_slot = 72
 }
 province_infrastructure73000 = {
-	local_population_capacity = 73.0
+	local_population_capacity = 146.0
 	local_building_slot = 73
 }
 province_infrastructure74000 = {
-	local_population_capacity = 74.0
+	local_population_capacity = 148.0
 	local_building_slot = 74
 }
 province_infrastructure75000 = {
-	local_population_capacity = 75.0
+	local_population_capacity = 150.0
 	local_building_slot = 75
 }
 province_infrastructure76000 = {
-	local_population_capacity = 76.0
+	local_population_capacity = 152.0
 	local_building_slot = 76
 }
 province_infrastructure77000 = {
-	local_population_capacity = 77.0
+	local_population_capacity = 154.0
 	local_building_slot = 77
 }
 province_infrastructure78000 = {
-	local_population_capacity = 78.0
+	local_population_capacity = 156.0
 	local_building_slot = 78
 }
 province_infrastructure79000 = {
-	local_population_capacity = 79.0
+	local_population_capacity = 158.0
 	local_building_slot = 79
 }
 province_infrastructure80000 = {
-	local_population_capacity = 80.0
+	local_population_capacity = 160.0
 	local_building_slot = 80
 }
 province_infrastructure81000 = {
-	local_population_capacity = 81.0
+	local_population_capacity = 162.0
 	local_building_slot = 81
 }
 province_infrastructure82000 = {
-	local_population_capacity = 82.0
+	local_population_capacity = 164.0
 	local_building_slot = 82
 }
 province_infrastructure83000 = {
-	local_population_capacity = 83.0
+	local_population_capacity = 166.0
 	local_building_slot = 83
 }
 province_infrastructure84000 = {
-	local_population_capacity = 84.0
+	local_population_capacity = 168.0
 	local_building_slot = 84
 }
 province_infrastructure85000 = {
-	local_population_capacity = 85.0
+	local_population_capacity = 170.0
 	local_building_slot = 85
 }
 province_infrastructure86000 = {
-	local_population_capacity = 86.0
+	local_population_capacity = 172.0
 	local_building_slot = 86
 }
 province_infrastructure87000 = {
-	local_population_capacity = 87.0
+	local_population_capacity = 174.0
 	local_building_slot = 87
 }
 province_infrastructure88000 = {
-	local_population_capacity = 88.0
+	local_population_capacity = 176.0
 	local_building_slot = 88
 }
 province_infrastructure89000 = {
-	local_population_capacity = 89.0
+	local_population_capacity = 178.0
 	local_building_slot = 89
 }
 province_infrastructure90000 = {
-	local_population_capacity = 90.0
+	local_population_capacity = 180.0
 	local_building_slot = 90
 }
 province_infrastructure91000 = {
-	local_population_capacity = 91.0
+	local_population_capacity = 182.0
 	local_building_slot = 91
 }
 province_infrastructure92000 = {
-	local_population_capacity = 92.0
+	local_population_capacity = 184.0
 	local_building_slot = 92
 }
 province_infrastructure93000 = {
-	local_population_capacity = 93.0
+	local_population_capacity = 186.0
 	local_building_slot = 93
 }
 province_infrastructure94000 = {
-	local_population_capacity = 94.0
+	local_population_capacity = 188.0
 	local_building_slot = 94
 }
 province_infrastructure95000 = {
-	local_population_capacity = 95.0
+	local_population_capacity = 190.0
 	local_building_slot = 95
 }
 province_infrastructure96000 = {
-	local_population_capacity = 96.0
+	local_population_capacity = 192.0
 	local_building_slot = 96
 }
 province_infrastructure97000 = {
-	local_population_capacity = 97.0
+	local_population_capacity = 194.0
 	local_building_slot = 97
 }
 province_infrastructure98000 = {
-	local_population_capacity = 98.0
+	local_population_capacity = 196.0
 	local_building_slot = 98
 }
 province_infrastructure99000 = {
-	local_population_capacity = 99.0
+	local_population_capacity = 198.0
 	local_building_slot = 99
 }
 province_infrastructure100000 = {
-	local_population_capacity = 100.0
+	local_population_capacity = 200.0
 	local_building_slot = 100
 }
 province_infrastructure101000 = {
-	local_population_capacity = 101.0
+	local_population_capacity = 202.0
 	local_building_slot = 101
 }
 province_infrastructure102000 = {
-	local_population_capacity = 102.0
+	local_population_capacity = 204.0
 	local_building_slot = 102
 }
 province_infrastructure103000 = {
-	local_population_capacity = 103.0
+	local_population_capacity = 206.0
 	local_building_slot = 103
 }
 province_infrastructure104000 = {
-	local_population_capacity = 104.0
+	local_population_capacity = 208.0
 	local_building_slot = 104
 }
 province_infrastructure105000 = {
-	local_population_capacity = 105.0
+	local_population_capacity = 210.0
 	local_building_slot = 105
 }
 province_infrastructure106000 = {
-	local_population_capacity = 106.0
+	local_population_capacity = 212.0
 	local_building_slot = 106
 }
 province_infrastructure107000 = {
-	local_population_capacity = 107.0
+	local_population_capacity = 214.0
 	local_building_slot = 107
 }
 province_infrastructure108000 = {
-	local_population_capacity = 108.0
+	local_population_capacity = 216.0
 	local_building_slot = 108
 }
 province_infrastructure109000 = {
-	local_population_capacity = 109.0
+	local_population_capacity = 218.0
 	local_building_slot = 109
 }
 province_infrastructure110000 = {
-	local_population_capacity = 110.0
+	local_population_capacity = 220.0
 	local_building_slot = 110
 }
 province_infrastructure111000 = {
-	local_population_capacity = 111.0
+	local_population_capacity = 222.0
 	local_building_slot = 111
 }
 province_infrastructure112000 = {
-	local_population_capacity = 112.0
+	local_population_capacity = 224.0
 	local_building_slot = 112
 }
 province_infrastructure113000 = {
-	local_population_capacity = 113.0
+	local_population_capacity = 226.0
 	local_building_slot = 113
 }
 province_infrastructure114000 = {
-	local_population_capacity = 114.0
+	local_population_capacity = 228.0
 	local_building_slot = 114
 }
 province_infrastructure115000 = {
-	local_population_capacity = 115.0
+	local_population_capacity = 230.0
 	local_building_slot = 115
 }
 province_infrastructure116000 = {
-	local_population_capacity = 116.0
+	local_population_capacity = 232.0
 	local_building_slot = 116
 }
 province_infrastructure117000 = {
-	local_population_capacity = 117.0
+	local_population_capacity = 234.0
 	local_building_slot = 117
 }
 province_infrastructure118000 = {
-	local_population_capacity = 118.0
+	local_population_capacity = 236.0
 	local_building_slot = 118
 }
 province_infrastructure119000 = {
-	local_population_capacity = 119.0
+	local_population_capacity = 238.0
 	local_building_slot = 119
 }
 province_infrastructure120000 = {
-	local_population_capacity = 120.0
+	local_population_capacity = 240.0
 	local_building_slot = 120
 }
 province_infrastructure121000 = {
-	local_population_capacity = 121.0
+	local_population_capacity = 242.0
 	local_building_slot = 121
 }
 province_infrastructure122000 = {
-	local_population_capacity = 122.0
+	local_population_capacity = 244.0
 	local_building_slot = 122
 }
 province_infrastructure123000 = {
-	local_population_capacity = 123.0
+	local_population_capacity = 246.0
 	local_building_slot = 123
 }
 province_infrastructure124000 = {
-	local_population_capacity = 124.0
+	local_population_capacity = 248.0
 	local_building_slot = 124
 }
 province_infrastructure125000 = {
-	local_population_capacity = 125.0
+	local_population_capacity = 250.0
 	local_building_slot = 125
 }
 province_infrastructure126000 = {
-	local_population_capacity = 126.0
+	local_population_capacity = 252.0
 	local_building_slot = 126
 }
 province_infrastructure127000 = {
-	local_population_capacity = 127.0
+	local_population_capacity = 254.0
 	local_building_slot = 127
 }
 province_infrastructure128000 = {
-	local_population_capacity = 128.0
+	local_population_capacity = 256.0
 	local_building_slot = 128
 }
 province_infrastructure129000 = {
-	local_population_capacity = 129.0
+	local_population_capacity = 258.0
 	local_building_slot = 129
 }
 province_infrastructure130000 = {
-	local_population_capacity = 130.0
+	local_population_capacity = 260.0
 	local_building_slot = 130
 }
 province_infrastructure131000 = {
-	local_population_capacity = 131.0
+	local_population_capacity = 262.0
 	local_building_slot = 131
 }
 province_infrastructure132000 = {
-	local_population_capacity = 132.0
+	local_population_capacity = 264.0
 	local_building_slot = 132
 }
 province_infrastructure133000 = {
-	local_population_capacity = 133.0
+	local_population_capacity = 266.0
 	local_building_slot = 133
 }
 province_infrastructure134000 = {
-	local_population_capacity = 134.0
+	local_population_capacity = 268.0
 	local_building_slot = 134
 }
 province_infrastructure135000 = {
-	local_population_capacity = 135.0
+	local_population_capacity = 270.0
 	local_building_slot = 135
 }
 province_infrastructure136000 = {
-	local_population_capacity = 136.0
+	local_population_capacity = 272.0
 	local_building_slot = 136
 }
 province_infrastructure137000 = {
-	local_population_capacity = 137.0
+	local_population_capacity = 274.0
 	local_building_slot = 137
 }
 province_infrastructure138000 = {
-	local_population_capacity = 138.0
+	local_population_capacity = 276.0
 	local_building_slot = 138
 }
 province_infrastructure139000 = {
-	local_population_capacity = 139.0
+	local_population_capacity = 278.0
 	local_building_slot = 139
 }
 province_infrastructure140000 = {
-	local_population_capacity = 140.0
+	local_population_capacity = 280.0
 	local_building_slot = 140
 }
 province_infrastructure141000 = {
-	local_population_capacity = 141.0
+	local_population_capacity = 282.0
 	local_building_slot = 141
 }
 province_infrastructure142000 = {
-	local_population_capacity = 142.0
+	local_population_capacity = 284.0
 	local_building_slot = 142
 }
 province_infrastructure143000 = {
-	local_population_capacity = 143.0
+	local_population_capacity = 286.0
 	local_building_slot = 143
 }
 province_infrastructure144000 = {
-	local_population_capacity = 144.0
+	local_population_capacity = 288.0
 	local_building_slot = 144
 }
 province_infrastructure145000 = {
-	local_population_capacity = 145.0
+	local_population_capacity = 290.0
 	local_building_slot = 145
 }
 province_infrastructure146000 = {
-	local_population_capacity = 146.0
+	local_population_capacity = 292.0
 	local_building_slot = 146
 }
 province_infrastructure147000 = {
-	local_population_capacity = 147.0
+	local_population_capacity = 294.0
 	local_building_slot = 147
 }
 province_infrastructure148000 = {
-	local_population_capacity = 148.0
+	local_population_capacity = 296.0
 	local_building_slot = 148
 }
 province_infrastructure149000 = {
-	local_population_capacity = 149.0
+	local_population_capacity = 298.0
 	local_building_slot = 149
 }
 province_infrastructure150000 = {
-	local_population_capacity = 150.0
+	local_population_capacity = 300.0
 	local_building_slot = 150
 }
 province_infrastructure151000 = {
-	local_population_capacity = 151.0
+	local_population_capacity = 302.0
 	local_building_slot = 151
 }
 province_infrastructure152000 = {
-	local_population_capacity = 152.0
+	local_population_capacity = 304.0
 	local_building_slot = 152
 }
 province_infrastructure153000 = {
-	local_population_capacity = 153.0
+	local_population_capacity = 306.0
 	local_building_slot = 153
 }
 province_infrastructure154000 = {
-	local_population_capacity = 154.0
+	local_population_capacity = 308.0
 	local_building_slot = 154
 }
 province_infrastructure155000 = {
-	local_population_capacity = 155.0
+	local_population_capacity = 310.0
 	local_building_slot = 155
 }
 province_infrastructure156000 = {
-	local_population_capacity = 156.0
+	local_population_capacity = 312.0
 	local_building_slot = 156
 }
 province_infrastructure157000 = {
-	local_population_capacity = 157.0
+	local_population_capacity = 314.0
 	local_building_slot = 157
 }
 province_infrastructure158000 = {
-	local_population_capacity = 158.0
+	local_population_capacity = 316.0
 	local_building_slot = 158
 }
 province_infrastructure159000 = {
-	local_population_capacity = 159.0
+	local_population_capacity = 318.0
 	local_building_slot = 159
 }
 province_infrastructure160000 = {
-	local_population_capacity = 160.0
+	local_population_capacity = 320.0
 	local_building_slot = 160
 }
 province_infrastructure161000 = {
-	local_population_capacity = 161.0
+	local_population_capacity = 322.0
 	local_building_slot = 161
 }
 province_infrastructure162000 = {
-	local_population_capacity = 162.0
+	local_population_capacity = 324.0
 	local_building_slot = 162
 }
 province_infrastructure163000 = {
-	local_population_capacity = 163.0
+	local_population_capacity = 326.0
 	local_building_slot = 163
 }
 province_infrastructure164000 = {
-	local_population_capacity = 164.0
+	local_population_capacity = 328.0
 	local_building_slot = 164
 }
 province_infrastructure165000 = {
-	local_population_capacity = 165.0
+	local_population_capacity = 330.0
 	local_building_slot = 165
 }
 province_infrastructure166000 = {
-	local_population_capacity = 166.0
+	local_population_capacity = 332.0
 	local_building_slot = 166
 }
 province_infrastructure167000 = {
-	local_population_capacity = 167.0
+	local_population_capacity = 334.0
 	local_building_slot = 167
 }
 province_infrastructure168000 = {
-	local_population_capacity = 168.0
+	local_population_capacity = 336.0
 	local_building_slot = 168
 }
 province_infrastructure169000 = {
-	local_population_capacity = 169.0
+	local_population_capacity = 338.0
 	local_building_slot = 169
 }
 province_infrastructure170000 = {
-	local_population_capacity = 170.0
+	local_population_capacity = 340.0
 	local_building_slot = 170
 }
 province_infrastructure171000 = {
-	local_population_capacity = 171.0
+	local_population_capacity = 342.0
 	local_building_slot = 171
 }
 province_infrastructure172000 = {
-	local_population_capacity = 172.0
+	local_population_capacity = 344.0
 	local_building_slot = 172
 }
 province_infrastructure173000 = {
-	local_population_capacity = 173.0
+	local_population_capacity = 346.0
 	local_building_slot = 173
 }
 province_infrastructure174000 = {
-	local_population_capacity = 174.0
+	local_population_capacity = 348.0
 	local_building_slot = 174
 }
 province_infrastructure175000 = {
-	local_population_capacity = 175.0
+	local_population_capacity = 350.0
 	local_building_slot = 175
 }
 province_infrastructure176000 = {
-	local_population_capacity = 176.0
+	local_population_capacity = 352.0
 	local_building_slot = 176
 }
 province_infrastructure177000 = {
-	local_population_capacity = 177.0
+	local_population_capacity = 354.0
 	local_building_slot = 177
 }
 province_infrastructure178000 = {
-	local_population_capacity = 178.0
+	local_population_capacity = 356.0
 	local_building_slot = 178
 }
 province_infrastructure179000 = {
-	local_population_capacity = 179.0
+	local_population_capacity = 358.0
 	local_building_slot = 179
 }
 province_infrastructure180000 = {
-	local_population_capacity = 180.0
+	local_population_capacity = 360.0
 	local_building_slot = 180
 }
 province_infrastructure181000 = {
-	local_population_capacity = 181.0
+	local_population_capacity = 362.0
 	local_building_slot = 181
 }
 province_infrastructure182000 = {
-	local_population_capacity = 182.0
+	local_population_capacity = 364.0
 	local_building_slot = 182
 }
 province_infrastructure183000 = {
-	local_population_capacity = 183.0
+	local_population_capacity = 366.0
 	local_building_slot = 183
 }
 province_infrastructure184000 = {
-	local_population_capacity = 184.0
+	local_population_capacity = 368.0
 	local_building_slot = 184
 }
 province_infrastructure185000 = {
-	local_population_capacity = 185.0
+	local_population_capacity = 370.0
 	local_building_slot = 185
 }
 province_infrastructure186000 = {
-	local_population_capacity = 186.0
+	local_population_capacity = 372.0
 	local_building_slot = 186
 }
 province_infrastructure187000 = {
-	local_population_capacity = 187.0
+	local_population_capacity = 374.0
 	local_building_slot = 187
 }
 province_infrastructure188000 = {
-	local_population_capacity = 188.0
+	local_population_capacity = 376.0
 	local_building_slot = 188
 }
 province_infrastructure189000 = {
-	local_population_capacity = 189.0
+	local_population_capacity = 378.0
 	local_building_slot = 189
 }
 province_infrastructure190000 = {
-	local_population_capacity = 190.0
+	local_population_capacity = 380.0
 	local_building_slot = 190
 }
 province_infrastructure191000 = {
-	local_population_capacity = 191.0
+	local_population_capacity = 382.0
 	local_building_slot = 191
 }
 province_infrastructure192000 = {
-	local_population_capacity = 192.0
+	local_population_capacity = 384.0
 	local_building_slot = 192
 }
 province_infrastructure193000 = {
-	local_population_capacity = 193.0
+	local_population_capacity = 386.0
 	local_building_slot = 193
 }
 province_infrastructure194000 = {
-	local_population_capacity = 194.0
+	local_population_capacity = 388.0
 	local_building_slot = 194
 }
 province_infrastructure195000 = {
-	local_population_capacity = 195.0
+	local_population_capacity = 390.0
 	local_building_slot = 195
 }
 province_infrastructure196000 = {
-	local_population_capacity = 196.0
+	local_population_capacity = 392.0
 	local_building_slot = 196
 }
 province_infrastructure197000 = {
-	local_population_capacity = 197.0
+	local_population_capacity = 394.0
 	local_building_slot = 197
 }
 province_infrastructure198000 = {
-	local_population_capacity = 198.0
+	local_population_capacity = 396.0
 	local_building_slot = 198
 }
 province_infrastructure199000 = {
-	local_population_capacity = 199.0
+	local_population_capacity = 398.0
 	local_building_slot = 199
 }
 province_infrastructure200000 = {
-	local_population_capacity = 200.0
+	local_population_capacity = 400.0
 	local_building_slot = 200
 }
 province_infrastructure210000 = {
-	local_population_capacity = 210.0
+	local_population_capacity = 420.0
 	local_building_slot = 210
 }
 province_infrastructure220000 = {
-	local_population_capacity = 220.0
+	local_population_capacity = 440.0
 	local_building_slot = 220
 }
 province_infrastructure230000 = {
-	local_population_capacity = 230.0
+	local_population_capacity = 460.0
 	local_building_slot = 230
 }
 province_infrastructure240000 = {
-	local_population_capacity = 240.0
+	local_population_capacity = 480.0
 	local_building_slot = 240
 }
 province_infrastructure250000 = {
-	local_population_capacity = 250.0
+	local_population_capacity = 500.0
 	local_building_slot = 250
 }
 province_infrastructure260000 = {
-	local_population_capacity = 260.0
+	local_population_capacity = 520.0
 	local_building_slot = 260
 }
 province_infrastructure270000 = {
-	local_population_capacity = 270.0
+	local_population_capacity = 540.0
 	local_building_slot = 270
 }
 province_infrastructure280000 = {
-	local_population_capacity = 280.0
+	local_population_capacity = 560.0
 	local_building_slot = 280
 }
 province_infrastructure290000 = {
-	local_population_capacity = 290.0
+	local_population_capacity = 580.0
 	local_building_slot = 290
 }
 province_infrastructure300000 = {
-	local_population_capacity = 300.0
+	local_population_capacity = 600.0
 	local_building_slot = 300
 }
 province_infrastructure310000 = {
-	local_population_capacity = 310.0
+	local_population_capacity = 620.0
 	local_building_slot = 310
 }
 province_infrastructure320000 = {
-	local_population_capacity = 320.0
+	local_population_capacity = 640.0
 	local_building_slot = 320
 }
 province_infrastructure330000 = {
-	local_population_capacity = 330.0
+	local_population_capacity = 660.0
 	local_building_slot = 330
 }
 province_infrastructure340000 = {
-	local_population_capacity = 340.0
+	local_population_capacity = 680.0
 	local_building_slot = 340
 }
 province_infrastructure350000 = {
-	local_population_capacity = 350.0
+	local_population_capacity = 700.0
 	local_building_slot = 350
 }
 province_infrastructure360000 = {
-	local_population_capacity = 360.0
+	local_population_capacity = 720.0
 	local_building_slot = 360
 }
 province_infrastructure370000 = {
-	local_population_capacity = 370.0
+	local_population_capacity = 740.0
 	local_building_slot = 370
 }
 province_infrastructure380000 = {
-	local_population_capacity = 380.0
+	local_population_capacity = 760.0
 	local_building_slot = 380
 }
 province_infrastructure390000 = {
-	local_population_capacity = 390.0
+	local_population_capacity = 780.0
 	local_building_slot = 390
 }
 province_infrastructure400000 = {
-	local_population_capacity = 400.0
+	local_population_capacity = 800.0
 	local_building_slot = 400
 }
 province_infrastructure410000 = {
-	local_population_capacity = 410.0
+	local_population_capacity = 820.0
 	local_building_slot = 410
 }
 province_infrastructure420000 = {
-	local_population_capacity = 420.0
+	local_population_capacity = 840.0
 	local_building_slot = 420
 }
 province_infrastructure430000 = {
-	local_population_capacity = 430.0
+	local_population_capacity = 860.0
 	local_building_slot = 430
 }
 province_infrastructure440000 = {
-	local_population_capacity = 440.0
+	local_population_capacity = 880.0
 	local_building_slot = 440
 }
 province_infrastructure450000 = {
-	local_population_capacity = 450.0
+	local_population_capacity = 900.0
 	local_building_slot = 450
 }
 province_infrastructure460000 = {
-	local_population_capacity = 460.0
+	local_population_capacity = 920.0
 	local_building_slot = 460
 }
 province_infrastructure470000 = {
-	local_population_capacity = 470.0
+	local_population_capacity = 940.0
 	local_building_slot = 470
 }
 province_infrastructure480000 = {
-	local_population_capacity = 480.0
+	local_population_capacity = 960.0
 	local_building_slot = 480
 }
 province_infrastructure490000 = {
-	local_population_capacity = 490.0
+	local_population_capacity = 980.0
 	local_building_slot = 490
 }
 province_infrastructure500000 = {
-	local_population_capacity = 500.0
+	local_population_capacity = 1000.0
 	local_building_slot = 500
 }
 province_infrastructure510000 = {
-	local_population_capacity = 510.0
+	local_population_capacity = 1020.0
 	local_building_slot = 510
 }
 province_infrastructure520000 = {
-	local_population_capacity = 520.0
+	local_population_capacity = 1040.0
 	local_building_slot = 520
 }
 province_infrastructure530000 = {
-	local_population_capacity = 530.0
+	local_population_capacity = 1060.0
 	local_building_slot = 530
 }
 province_infrastructure540000 = {
-	local_population_capacity = 540.0
+	local_population_capacity = 1080.0
 	local_building_slot = 540
 }
 province_infrastructure550000 = {
-	local_population_capacity = 550.0
+	local_population_capacity = 1100.0
 	local_building_slot = 550
 }
 province_infrastructure560000 = {
-	local_population_capacity = 560.0
+	local_population_capacity = 1120.0
 	local_building_slot = 560
 }
 province_infrastructure570000 = {
-	local_population_capacity = 570.0
+	local_population_capacity = 1140.0
 	local_building_slot = 570
 }
 province_infrastructure580000 = {
-	local_population_capacity = 580.0
+	local_population_capacity = 1160.0
 	local_building_slot = 580
 }
 province_infrastructure590000 = {
-	local_population_capacity = 590.0
+	local_population_capacity = 1180.0
 	local_building_slot = 590
 }
 province_infrastructure600000 = {
-	local_population_capacity = 600.0
+	local_population_capacity = 1200.0
 	local_building_slot = 600
 }
 province_infrastructure610000 = {
-	local_population_capacity = 610.0
+	local_population_capacity = 1220.0
 	local_building_slot = 610
 }
 province_infrastructure620000 = {
-	local_population_capacity = 620.0
+	local_population_capacity = 1240.0
 	local_building_slot = 620
 }
 province_infrastructure630000 = {
-	local_population_capacity = 630.0
+	local_population_capacity = 1260.0
 	local_building_slot = 630
 }
 province_infrastructure640000 = {
-	local_population_capacity = 640.0
+	local_population_capacity = 1280.0
 	local_building_slot = 640
 }
 province_infrastructure650000 = {
-	local_population_capacity = 650.0
+	local_population_capacity = 1300.0
 	local_building_slot = 650
 }
 province_infrastructure660000 = {
-	local_population_capacity = 660.0
+	local_population_capacity = 1320.0
 	local_building_slot = 660
 }
 province_infrastructure670000 = {
-	local_population_capacity = 670.0
+	local_population_capacity = 1340.0
 	local_building_slot = 670
 }
 province_infrastructure680000 = {
-	local_population_capacity = 680.0
+	local_population_capacity = 1360.0
 	local_building_slot = 680
 }
 province_infrastructure690000 = {
-	local_population_capacity = 690.0
+	local_population_capacity = 1380.0
 	local_building_slot = 690
 }
 province_infrastructure700000 = {
-	local_population_capacity = 700.0
+	local_population_capacity = 1400.0
 	local_building_slot = 700
 }
 province_infrastructure710000 = {
-	local_population_capacity = 710.0
+	local_population_capacity = 1420.0
 	local_building_slot = 710
 }
 province_infrastructure720000 = {
-	local_population_capacity = 720.0
+	local_population_capacity = 1440.0
 	local_building_slot = 720
 }
 province_infrastructure730000 = {
-	local_population_capacity = 730.0
+	local_population_capacity = 1460.0
 	local_building_slot = 730
 }
 province_infrastructure740000 = {
-	local_population_capacity = 740.0
+	local_population_capacity = 1480.0
 	local_building_slot = 740
 }
 province_infrastructure750000 = {
-	local_population_capacity = 750.0
+	local_population_capacity = 1500.0
 	local_building_slot = 750
 }
 province_infrastructure760000 = {
-	local_population_capacity = 760.0
+	local_population_capacity = 1520.0
 	local_building_slot = 760
 }
 province_infrastructure770000 = {
-	local_population_capacity = 770.0
+	local_population_capacity = 1540.0
 	local_building_slot = 770
 }
 province_infrastructure780000 = {
-	local_population_capacity = 780.0
+	local_population_capacity = 1560.0
 	local_building_slot = 780
 }
 province_infrastructure790000 = {
-	local_population_capacity = 790.0
+	local_population_capacity = 1580.0
 	local_building_slot = 790
 }
 province_infrastructure800000 = {
-	local_population_capacity = 800.0
+	local_population_capacity = 1600.0
 	local_building_slot = 800
 }
 province_infrastructure810000 = {
-	local_population_capacity = 810.0
+	local_population_capacity = 1620.0
 	local_building_slot = 810
 }
 province_infrastructure820000 = {
-	local_population_capacity = 820.0
+	local_population_capacity = 1640.0
 	local_building_slot = 820
 }
 province_infrastructure830000 = {
-	local_population_capacity = 830.0
+	local_population_capacity = 1660.0
 	local_building_slot = 830
 }
 province_infrastructure840000 = {
-	local_population_capacity = 840.0
+	local_population_capacity = 1680.0
 	local_building_slot = 840
 }
 province_infrastructure850000 = {
-	local_population_capacity = 850.0
+	local_population_capacity = 1700.0
 	local_building_slot = 850
 }
 province_infrastructure860000 = {
-	local_population_capacity = 860.0
+	local_population_capacity = 1720.0
 	local_building_slot = 860
 }
 province_infrastructure870000 = {
-	local_population_capacity = 870.0
+	local_population_capacity = 1740.0
 	local_building_slot = 870
 }
 province_infrastructure880000 = {
-	local_population_capacity = 880.0
+	local_population_capacity = 1760.0
 	local_building_slot = 880
 }
 province_infrastructure890000 = {
-	local_population_capacity = 890.0
+	local_population_capacity = 1780.0
 	local_building_slot = 890
 }
 province_infrastructure900000 = {
-	local_population_capacity = 900.0
+	local_population_capacity = 1800.0
 	local_building_slot = 900
 }
 province_infrastructure910000 = {
-	local_population_capacity = 910.0
+	local_population_capacity = 1820.0
 	local_building_slot = 910
 }
 province_infrastructure920000 = {
-	local_population_capacity = 920.0
+	local_population_capacity = 1840.0
 	local_building_slot = 920
 }
 province_infrastructure930000 = {
-	local_population_capacity = 930.0
+	local_population_capacity = 1860.0
 	local_building_slot = 930
 }
 province_infrastructure940000 = {
-	local_population_capacity = 940.0
+	local_population_capacity = 1880.0
 	local_building_slot = 940
 }
 province_infrastructure950000 = {
-	local_population_capacity = 950.0
+	local_population_capacity = 1900.0
 	local_building_slot = 950
 }
 province_infrastructure960000 = {
-	local_population_capacity = 960.0
+	local_population_capacity = 1920.0
 	local_building_slot = 960
 }
 province_infrastructure970000 = {
-	local_population_capacity = 970.0
+	local_population_capacity = 1940.0
 	local_building_slot = 970
 }
 province_infrastructure980000 = {
-	local_population_capacity = 980.0
+	local_population_capacity = 1960.0
 	local_building_slot = 980
 }
 province_infrastructure990000 = {
-	local_population_capacity = 990.0
+	local_population_capacity = 1980.0
 	local_building_slot = 990
 }
 province_infrastructure1000000 = {
-	local_population_capacity = 1000.0
+	local_population_capacity = 2000.0
 	local_building_slot = 1000
 }
 province_infrastructure1010000 = {
-	local_population_capacity = 1010.0
+	local_population_capacity = 2020.0
 	local_building_slot = 1010
 }
 province_infrastructure1020000 = {
-	local_population_capacity = 1020.0
+	local_population_capacity = 2040.0
 	local_building_slot = 1020
 }
 province_infrastructure1030000 = {
-	local_population_capacity = 1030.0
+	local_population_capacity = 2060.0
 	local_building_slot = 1030
 }
 province_infrastructure1040000 = {
-	local_population_capacity = 1040.0
+	local_population_capacity = 2080.0
 	local_building_slot = 1040
 }
 province_infrastructure1050000 = {
-	local_population_capacity = 1050.0
+	local_population_capacity = 2100.0
 	local_building_slot = 1050
 }
 province_infrastructure1060000 = {
-	local_population_capacity = 1060.0
+	local_population_capacity = 2120.0
 	local_building_slot = 1060
 }
 province_infrastructure1070000 = {
-	local_population_capacity = 1070.0
+	local_population_capacity = 2140.0
 	local_building_slot = 1070
 }
 province_infrastructure1080000 = {
-	local_population_capacity = 1080.0
+	local_population_capacity = 2160.0
 	local_building_slot = 1080
 }
 province_infrastructure1090000 = {
-	local_population_capacity = 1090.0
+	local_population_capacity = 2180.0
 	local_building_slot = 1090
 }
 province_infrastructure1100000 = {
-	local_population_capacity = 1100.0
+	local_population_capacity = 2200.0
 	local_building_slot = 1100
 }
 province_infrastructure1110000 = {
-	local_population_capacity = 1110.0
+	local_population_capacity = 2220.0
 	local_building_slot = 1110
 }
 province_infrastructure1120000 = {
-	local_population_capacity = 1120.0
+	local_population_capacity = 2240.0
 	local_building_slot = 1120
 }
 province_infrastructure1130000 = {
-	local_population_capacity = 1130.0
+	local_population_capacity = 2260.0
 	local_building_slot = 1130
 }
 province_infrastructure1140000 = {
-	local_population_capacity = 1140.0
+	local_population_capacity = 2280.0
 	local_building_slot = 1140
 }
 province_infrastructure1150000 = {
-	local_population_capacity = 1150.0
+	local_population_capacity = 2300.0
 	local_building_slot = 1150
 }
 province_infrastructure1160000 = {
-	local_population_capacity = 1160.0
+	local_population_capacity = 2320.0
 	local_building_slot = 1160
 }
 province_infrastructure1170000 = {
-	local_population_capacity = 1170.0
+	local_population_capacity = 2340.0
 	local_building_slot = 1170
 }
 province_infrastructure1180000 = {
-	local_population_capacity = 1180.0
+	local_population_capacity = 2360.0
 	local_building_slot = 1180
 }
 province_infrastructure1190000 = {
-	local_population_capacity = 1190.0
+	local_population_capacity = 2380.0
 	local_building_slot = 1190
 }
 province_infrastructure1200000 = {
-	local_population_capacity = 1200.0
+	local_population_capacity = 2400.0
 	local_building_slot = 1200
 }
 province_infrastructure1210000 = {
-	local_population_capacity = 1210.0
+	local_population_capacity = 2420.0
 	local_building_slot = 1210
 }
 province_infrastructure1220000 = {
-	local_population_capacity = 1220.0
+	local_population_capacity = 2440.0
 	local_building_slot = 1220
 }
 province_infrastructure1230000 = {
-	local_population_capacity = 1230.0
+	local_population_capacity = 2460.0
 	local_building_slot = 1230
 }
 province_infrastructure1240000 = {
-	local_population_capacity = 1240.0
+	local_population_capacity = 2480.0
 	local_building_slot = 1240
 }
 province_infrastructure1250000 = {
-	local_population_capacity = 1250.0
+	local_population_capacity = 2500.0
 	local_building_slot = 1250
 }
 province_infrastructure1260000 = {
-	local_population_capacity = 1260.0
+	local_population_capacity = 2520.0
 	local_building_slot = 1260
 }
 province_infrastructure1270000 = {
-	local_population_capacity = 1270.0
+	local_population_capacity = 2540.0
 	local_building_slot = 1270
 }
 province_infrastructure1280000 = {
-	local_population_capacity = 1280.0
+	local_population_capacity = 2560.0
 	local_building_slot = 1280
 }
 province_infrastructure1290000 = {
-	local_population_capacity = 1290.0
+	local_population_capacity = 2580.0
 	local_building_slot = 1290
 }
 province_infrastructure1300000 = {
-	local_population_capacity = 1300.0
+	local_population_capacity = 2600.0
 	local_building_slot = 1300
 }
 province_infrastructure1310000 = {
-	local_population_capacity = 1310.0
+	local_population_capacity = 2620.0
 	local_building_slot = 1310
 }
 province_infrastructure1320000 = {
-	local_population_capacity = 1320.0
+	local_population_capacity = 2640.0
 	local_building_slot = 1320
 }
 province_infrastructure1330000 = {
-	local_population_capacity = 1330.0
+	local_population_capacity = 2660.0
 	local_building_slot = 1330
 }
 province_infrastructure1340000 = {
-	local_population_capacity = 1340.0
+	local_population_capacity = 2680.0
 	local_building_slot = 1340
 }
 province_infrastructure1350000 = {
-	local_population_capacity = 1350.0
+	local_population_capacity = 2700.0
 	local_building_slot = 1350
 }
 province_infrastructure1360000 = {
-	local_population_capacity = 1360.0
+	local_population_capacity = 2720.0
 	local_building_slot = 1360
 }
 province_infrastructure1370000 = {
-	local_population_capacity = 1370.0
+	local_population_capacity = 2740.0
 	local_building_slot = 1370
 }
 province_infrastructure1380000 = {
-	local_population_capacity = 1380.0
+	local_population_capacity = 2760.0
 	local_building_slot = 1380
 }
 province_infrastructure1390000 = {
-	local_population_capacity = 1390.0
+	local_population_capacity = 2780.0
 	local_building_slot = 1390
 }
 province_infrastructure1400000 = {
-	local_population_capacity = 1400.0
+	local_population_capacity = 2800.0
 	local_building_slot = 1400
 }
 province_infrastructure1410000 = {
-	local_population_capacity = 1410.0
+	local_population_capacity = 2820.0
 	local_building_slot = 1410
 }
 province_infrastructure1420000 = {
-	local_population_capacity = 1420.0
+	local_population_capacity = 2840.0
 	local_building_slot = 1420
 }
 province_infrastructure1430000 = {
-	local_population_capacity = 1430.0
+	local_population_capacity = 2860.0
 	local_building_slot = 1430
 }
 province_infrastructure1440000 = {
-	local_population_capacity = 1440.0
+	local_population_capacity = 2880.0
 	local_building_slot = 1440
 }
 province_infrastructure1450000 = {
-	local_population_capacity = 1450.0
+	local_population_capacity = 2900.0
 	local_building_slot = 1450
 }
 province_infrastructure1460000 = {
-	local_population_capacity = 1460.0
+	local_population_capacity = 2920.0
 	local_building_slot = 1460
 }
 province_infrastructure1470000 = {
-	local_population_capacity = 1470.0
+	local_population_capacity = 2940.0
 	local_building_slot = 1470
 }
 province_infrastructure1480000 = {
-	local_population_capacity = 1480.0
+	local_population_capacity = 2960.0
 	local_building_slot = 1480
 }
 province_infrastructure1490000 = {
-	local_population_capacity = 1490.0
+	local_population_capacity = 2980.0
 	local_building_slot = 1490
 }
 province_infrastructure1500000 = {
-	local_population_capacity = 1500.0
+	local_population_capacity = 3000.0
 	local_building_slot = 1500
 }
 province_infrastructure1510000 = {
-	local_population_capacity = 1510.0
+	local_population_capacity = 3020.0
 	local_building_slot = 1510
 }
 province_infrastructure1520000 = {
-	local_population_capacity = 1520.0
+	local_population_capacity = 3040.0
 	local_building_slot = 1520
 }
 province_infrastructure1530000 = {
-	local_population_capacity = 1530.0
+	local_population_capacity = 3060.0
 	local_building_slot = 1530
 }
 province_infrastructure1540000 = {
-	local_population_capacity = 1540.0
+	local_population_capacity = 3080.0
 	local_building_slot = 1540
 }
 province_infrastructure1550000 = {
-	local_population_capacity = 1550.0
+	local_population_capacity = 3100.0
 	local_building_slot = 1550
 }
 province_infrastructure1560000 = {
-	local_population_capacity = 1560.0
+	local_population_capacity = 3120.0
 	local_building_slot = 1560
 }
 province_infrastructure1570000 = {
-	local_population_capacity = 1570.0
+	local_population_capacity = 3140.0
 	local_building_slot = 1570
 }
 province_infrastructure1580000 = {
-	local_population_capacity = 1580.0
+	local_population_capacity = 3160.0
 	local_building_slot = 1580
 }
 province_infrastructure1590000 = {
-	local_population_capacity = 1590.0
+	local_population_capacity = 3180.0
 	local_building_slot = 1590
 }
 province_infrastructure1600000 = {
-	local_population_capacity = 1600.0
+	local_population_capacity = 3200.0
 	local_building_slot = 1600
 }
 province_infrastructure1610000 = {
-	local_population_capacity = 1610.0
+	local_population_capacity = 3220.0
 	local_building_slot = 1610
 }
 province_infrastructure1620000 = {
-	local_population_capacity = 1620.0
+	local_population_capacity = 3240.0
 	local_building_slot = 1620
 }
 province_infrastructure1630000 = {
-	local_population_capacity = 1630.0
+	local_population_capacity = 3260.0
 	local_building_slot = 1630
 }
 province_infrastructure1640000 = {
-	local_population_capacity = 1640.0
+	local_population_capacity = 3280.0
 	local_building_slot = 1640
 }
 province_infrastructure1650000 = {
-	local_population_capacity = 1650.0
+	local_population_capacity = 3300.0
 	local_building_slot = 1650
 }
 province_infrastructure1660000 = {
-	local_population_capacity = 1660.0
+	local_population_capacity = 3320.0
 	local_building_slot = 1660
 }
 province_infrastructure1670000 = {
-	local_population_capacity = 1670.0
+	local_population_capacity = 3340.0
 	local_building_slot = 1670
 }
 province_infrastructure1680000 = {
-	local_population_capacity = 1680.0
+	local_population_capacity = 3360.0
 	local_building_slot = 1680
 }
 province_infrastructure1690000 = {
-	local_population_capacity = 1690.0
+	local_population_capacity = 3380.0
 	local_building_slot = 1690
 }
 province_infrastructure1700000 = {
-	local_population_capacity = 1700.0
+	local_population_capacity = 3400.0
 	local_building_slot = 1700
 }
 province_infrastructure1710000 = {
-	local_population_capacity = 1710.0
+	local_population_capacity = 3420.0
 	local_building_slot = 1710
 }
 province_infrastructure1720000 = {
-	local_population_capacity = 1720.0
+	local_population_capacity = 3440.0
 	local_building_slot = 1720
 }
 province_infrastructure1730000 = {
-	local_population_capacity = 1730.0
+	local_population_capacity = 3460.0
 	local_building_slot = 1730
 }
 province_infrastructure1740000 = {
-	local_population_capacity = 1740.0
+	local_population_capacity = 3480.0
 	local_building_slot = 1740
 }
 province_infrastructure1750000 = {
-	local_population_capacity = 1750.0
+	local_population_capacity = 3500.0
 	local_building_slot = 1750
 }
 province_infrastructure1760000 = {
-	local_population_capacity = 1760.0
+	local_population_capacity = 3520.0
 	local_building_slot = 1760
 }
 province_infrastructure1770000 = {
-	local_population_capacity = 1770.0
+	local_population_capacity = 3540.0
 	local_building_slot = 1770
 }
 province_infrastructure1780000 = {
-	local_population_capacity = 1780.0
+	local_population_capacity = 3560.0
 	local_building_slot = 1780
 }
 province_infrastructure1790000 = {
-	local_population_capacity = 1790.0
+	local_population_capacity = 3580.0
 	local_building_slot = 1790
 }
 province_infrastructure1800000 = {
-	local_population_capacity = 1800.0
+	local_population_capacity = 3600.0
 	local_building_slot = 1800
 }
 province_infrastructure1810000 = {
-	local_population_capacity = 1810.0
+	local_population_capacity = 3620.0
 	local_building_slot = 1810
 }
 province_infrastructure1820000 = {
-	local_population_capacity = 1820.0
+	local_population_capacity = 3640.0
 	local_building_slot = 1820
 }
 province_infrastructure1830000 = {
-	local_population_capacity = 1830.0
+	local_population_capacity = 3660.0
 	local_building_slot = 1830
 }
 province_infrastructure1840000 = {
-	local_population_capacity = 1840.0
+	local_population_capacity = 3680.0
 	local_building_slot = 1840
 }
 province_infrastructure1850000 = {
-	local_population_capacity = 1850.0
+	local_population_capacity = 3700.0
 	local_building_slot = 1850
 }
 province_infrastructure1860000 = {
-	local_population_capacity = 1860.0
+	local_population_capacity = 3720.0
 	local_building_slot = 1860
 }
 province_infrastructure1870000 = {
-	local_population_capacity = 1870.0
+	local_population_capacity = 3740.0
 	local_building_slot = 1870
 }
 province_infrastructure1880000 = {
-	local_population_capacity = 1880.0
+	local_population_capacity = 3760.0
 	local_building_slot = 1880
 }
 province_infrastructure1890000 = {
-	local_population_capacity = 1890.0
+	local_population_capacity = 3780.0
 	local_building_slot = 1890
 }
 province_infrastructure1900000 = {
-	local_population_capacity = 1900.0
+	local_population_capacity = 3800.0
 	local_building_slot = 1900
 }
 province_infrastructure1910000 = {
-	local_population_capacity = 1910.0
+	local_population_capacity = 3820.0
 	local_building_slot = 1910
 }
 province_infrastructure1920000 = {
-	local_population_capacity = 1920.0
+	local_population_capacity = 3840.0
 	local_building_slot = 1920
 }
 province_infrastructure1930000 = {
-	local_population_capacity = 1930.0
+	local_population_capacity = 3860.0
 	local_building_slot = 1930
 }
 province_infrastructure1940000 = {
-	local_population_capacity = 1940.0
+	local_population_capacity = 3880.0
 	local_building_slot = 1940
 }
 province_infrastructure1950000 = {
-	local_population_capacity = 1950.0
+	local_population_capacity = 3900.0
 	local_building_slot = 1950
 }
 province_infrastructure1960000 = {
-	local_population_capacity = 1960.0
+	local_population_capacity = 3920.0
 	local_building_slot = 1960
 }
 province_infrastructure1970000 = {
-	local_population_capacity = 1970.0
+	local_population_capacity = 3940.0
 	local_building_slot = 1970
 }
 province_infrastructure1980000 = {
-	local_population_capacity = 1980.0
+	local_population_capacity = 3960.0
 	local_building_slot = 1980
 }
 province_infrastructure1990000 = {
-	local_population_capacity = 1990.0
+	local_population_capacity = 3980.0
 	local_building_slot = 1990
 }
 province_infrastructure2000000 = {
-	local_population_capacity = 2000.0
+	local_population_capacity = 4000.0
 	local_building_slot = 2000
 }
 province_taxes0_0 = {

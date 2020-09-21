@@ -28,8 +28,8 @@ update_pop_growth.1 = {
             value = farming_population
         }
         set_variable = {
-            name = wealth_factor
-            value = wealth_factor
+            name = return_on_infrastructure_time
+            value = return_on_infrastructure_time
         }
 
 		if = {limit = {has_province_modifier = pop_growthn100} remove_province_modifier = pop_growthn100}

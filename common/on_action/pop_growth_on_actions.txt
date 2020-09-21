@@ -171,6 +171,14 @@ yearly_country_pulse = {
 		troop_maintenance.1
 		state_type_events.1
 	}
+	effect = {
+		if = {
+			limit = {is_ai = yes}
+			change_law = wealth_taxes_1
+			change_law = income_taxes_10
+			change_law = poll_taxes_0_05
+		}
+	}
 }
 
 on_office_gained = {
