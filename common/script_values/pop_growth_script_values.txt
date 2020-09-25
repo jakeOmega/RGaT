@@ -660,7 +660,7 @@ net_food_surplus = {
 
 food_wealth_change = {
 	value = net_food_surplus
-	multiply = 0.5
+	multiply = 1
 }
 
 trade_good_wealth_change = {
@@ -683,14 +683,16 @@ urban_wealth_change = {
 	else = {
 		value = total_population
 	}
-	multiply = 0.25 #0.25 per pop per year - growth of 25 gold/pop/century without taxes
-	multiply = { #function that is approximately 0.1*per_capita_infrastructure at low per_capita_infrastructure and caps at 10 at high per_capita_infrastructure
-		value = 0.02
-		multiply = per_capita_infrastructure
-		divide = {
-			value = per_capita_infrastructure
-			divide = 500
-			add = 0.2
+	multiply = 1.5 #1.5 per pop per year - growth of 150 gold/pop/century without taxes or infrastructure decay
+	multiply = { #function that is approximately linear at low per_capita_infrastructure and caps at 20 at high per_capita_infrastructure
+		value = 20
+		subtract = {
+			value = 20
+			divide = {
+				value = 0.0002
+				multiply = per_capita_infrastructure
+				add = 1
+			}
 		}
 	}
 	divide = 12
@@ -890,34 +892,34 @@ infrastructure_decay = {
 	value = 0
 	if = {
 		limit = {civilization_value < 10}
-		add = -0.0045
+		add = -0.0015
 	}
 	else_if = {
 		limit = {civilization_value < 20}
-		add = -0.004
+		add = -0.0014
 	}
 	else_if = {
 		limit = {civilization_value < 30}
-		add = -0.0035
+		add = -0.0013
 	}
 	else_if = {
 		limit = {civilization_value < 35}
-		add = -0.003
+		add = -0.0012
 	}
 	else_if = {
 		limit = {civilization_value < 40}
-		add = -0.0025
+		add = -0.0011
 	}
 	else_if = {
 		limit = {civilization_value < 45}
-		add = -0.002
+		add = -0.001
 	}
 	else_if = {
 		limit = {civilization_value < 50}
-		add = -0.0015
+		add = -0.0009
 	}
 	else = {
-		add = -0.001
+		add = -0.0008
 	}
 	divide = 12
 }
@@ -935,7 +937,7 @@ return_on_infrastructure_time = { #break-even time
 			limit = {per_capita_infrastructure < 10}
 			add = 5
 			divide = {
-				value = 0.5025
+				value = 5
 				multiply = net_food_surplus
 				subtract = {
 					value = per_capita_infrastructure
@@ -948,7 +950,7 @@ return_on_infrastructure_time = { #break-even time
 			limit = {per_capita_infrastructure < 30}
 			add = 20
 			divide = {
-				value = 0.51
+				value = 5
 				multiply = net_food_surplus
 				subtract = {
 					value = per_capita_infrastructure
@@ -961,7 +963,7 @@ return_on_infrastructure_time = { #break-even time
 			limit = {per_capita_infrastructure < 60}
 			add = 45
 			divide = {
-				value = 0.5225
+				value = 5
 				multiply = net_food_surplus
 				subtract = {
 					value = per_capita_infrastructure
@@ -974,7 +976,7 @@ return_on_infrastructure_time = { #break-even time
 			limit = {per_capita_infrastructure < 100}
 			add = 80
 			divide = {
-				value = 0.54
+				value = 5
 				multiply = net_food_surplus
 				subtract = {
 					value = per_capita_infrastructure
@@ -987,7 +989,7 @@ return_on_infrastructure_time = { #break-even time
 			limit = {per_capita_infrastructure < 150}
 			add = 125
 			divide = {
-				value = 0.5625
+				value = 5
 				multiply = net_food_surplus
 				subtract = {
 					value = per_capita_infrastructure
@@ -1000,7 +1002,7 @@ return_on_infrastructure_time = { #break-even time
 			limit = {per_capita_infrastructure < 210}
 			add = 180
 			divide = {
-				value = 0.59
+				value = 5
 				multiply = net_food_surplus
 				subtract = {
 					value = per_capita_infrastructure
@@ -1013,7 +1015,7 @@ return_on_infrastructure_time = { #break-even time
 			limit = {per_capita_infrastructure < 280}
 			add = 245
 			divide = {
-				value = 0.6225
+				value = 5
 				multiply = net_food_surplus
 				subtract = {
 					value = per_capita_infrastructure
@@ -1026,7 +1028,7 @@ return_on_infrastructure_time = { #break-even time
 			limit = {per_capita_infrastructure < 360}
 			add = 320
 			divide = {
-				value = 0.66
+				value = 5
 				multiply = net_food_surplus
 				subtract = {
 					value = per_capita_infrastructure
@@ -1039,7 +1041,7 @@ return_on_infrastructure_time = { #break-even time
 			limit = {per_capita_infrastructure < 450}
 			add = 405
 			divide = {
-				value = 0.7025
+				value = 5
 				multiply = net_food_surplus
 				subtract = {
 					value = per_capita_infrastructure
@@ -1052,7 +1054,7 @@ return_on_infrastructure_time = { #break-even time
 			limit = {per_capita_infrastructure < 550}
 			add = 500
 			divide = {
-				value = 0.75
+				value = 5
 				multiply = net_food_surplus
 				subtract = {
 					value = per_capita_infrastructure
@@ -1065,7 +1067,7 @@ return_on_infrastructure_time = { #break-even time
 			limit = {per_capita_infrastructure < 660}
 			add = 605
 			divide = {
-				value = 0.8025
+				value = 5
 				multiply = net_food_surplus
 				subtract = {
 					value = per_capita_infrastructure
@@ -1078,7 +1080,7 @@ return_on_infrastructure_time = { #break-even time
 			limit = {per_capita_infrastructure < 780}
 			add = 720
 			divide = {
-				value = 0.86
+				value = 5
 				multiply = net_food_surplus
 				subtract = {
 					value = per_capita_infrastructure
@@ -1091,7 +1093,7 @@ return_on_infrastructure_time = { #break-even time
 			limit = {per_capita_infrastructure < 910}
 			add = 845
 			divide = {
-				value = 0.9225
+				value = 5
 				multiply = net_food_surplus
 				subtract = {
 					value = per_capita_infrastructure
@@ -1104,7 +1106,7 @@ return_on_infrastructure_time = { #break-even time
 			limit = {per_capita_infrastructure < 1050}
 			add = 980
 			divide = {
-				value = 0.99
+				value = 5
 				multiply = net_food_surplus
 				subtract = {
 					value = per_capita_infrastructure
@@ -1117,7 +1119,7 @@ return_on_infrastructure_time = { #break-even time
 			limit = {per_capita_infrastructure < 1200}
 			add = 1125
 			divide = {
-				value = 1.0625
+				value = 5
 				multiply = net_food_surplus
 				subtract = {
 					value = per_capita_infrastructure
@@ -1127,36 +1129,31 @@ return_on_infrastructure_time = { #break-even time
 			}
 		}
 		else = {
-			add = 2000
+			subtract = 1
 			subtract = per_capita_infrastructure
-			divide = {
-				multiply = net_food_surplus
-				subtract = {
-					value = infrastructure_decay
-					multiply = 2000
-				}
-			}
+			divide = infrastructure_decay
 		}
 	}
 	else = {
 		value = 1
-		multiply = {
-			value = 100
-			add = per_capita_infrastructure
-		}
-		multiply = {
-			value = 100
-			add = per_capita_infrastructure
-		}
 		divide = {
-			value = 0.0025 
-			add = infrastructure_decay
-			multiply = per_capita_infrastructure
-			multiply = per_capita_infrastructure
+			value = infrastructure_decay
 			add = {
-				value = 10000
-				multiply = infrastructure_decay
-				add = 250
+				value = 0.006
+				divide = {
+					value = 1
+					add = {
+						value = 0.0002
+						multiply = per_capita_infrastructure
+					}
+				}
+				divide = {
+					value = 1
+					add = {
+						value = 0.0002
+						multiply = per_capita_infrastructure
+					}
+				}
 			}
 		}
 	}
@@ -1218,7 +1215,7 @@ extra_infra_investment = {
 	value = var:province_wealth
 	if = {
 		limit = {var:return_on_infrastructure_time < 0} #income decreases with increasing infrastructure, it's not paying for itself, don't invest in infrastructure
-		multiply = -1
+		multiply = 0
 	}
 	else_if = {
 		limit = {var:return_on_infrastructure_time < 600}
@@ -1242,6 +1239,27 @@ province_infrastrucure_investment = {
 	add = extra_infra_investment
 	min = 0
 	max = max_infra_investment
+}
+
+trade_route_wealth_change = {
+	value = 5
+	multiply = {
+		state = {
+			value = outgoing_trade_routes
+			multiply = 3
+			subtract = incoming_trade_routes
+		}
+	}
+	multiply = total_population
+	divide = {
+		value = 0
+		state = {
+			every_state_province = {
+				add = total_population
+			}
+		}
+	}
+	divide = 12
 }
 
 province_wealth_change = {

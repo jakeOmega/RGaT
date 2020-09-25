@@ -323,7 +323,7 @@ if run_wealth:
     for level in wealth_levels:
         level_name = level.replace('.', '_').replace('-','n')
         modifier = "province_infrastructure" + level_name + ' = {'
-        modifier += "\n\tlocal_population_capacity = " + str(0.002 * float(level))
+        modifier += "\n\tlocal_population_capacity = " + str(0.1 * float(level)**0.5)
         modifier += "\n\tlocal_building_slot = " + str(int(0.001 * float(level)))
         modifier += '\n}'
         modifier_output += '\n' + modifier  
@@ -522,7 +522,7 @@ province_wealth.3 = {
             }
             else = {
             '''
-    event_output += binary_search_output(list(map(str, range(100, -1, -1))), 4, 'map_mode', 'var:per_capita_wealth', 'set_trade_goods', pre_modifier = ' = ', post_modifier = '', mapping_func = lambda x: 50 - x * 0.5)
+    event_output += binary_search_output(list(map(str, range(100, -1, -1))), 4, 'map_mode', 'var:per_capita_wealth', 'set_trade_goods', pre_modifier = ' = ', post_modifier = '', mapping_func = lambda x: 100 - x * 1)
     event_output += '''    
             }    
         }

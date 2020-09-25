@@ -16722,16 +16722,16 @@ province_wealth.3 = {
             }
             else = {
             
-				if = { limit = {var:per_capita_wealth<25.0 }
-					if = { limit = {var:per_capita_wealth<12.5 }
-						if = { limit = {var:per_capita_wealth<6.0 }
-							if = { limit = {var:per_capita_wealth<3.0 }
-								if = { limit = {var:per_capita_wealth<1.5 }
-									if = { limit = {var:per_capita_wealth<0.5 }
+				if = { limit = {var:per_capita_wealth<50.0 }
+					if = { limit = {var:per_capita_wealth<25.0 }
+						if = { limit = {var:per_capita_wealth<12.0 }
+							if = { limit = {var:per_capita_wealth<6.0 }
+								if = { limit = {var:per_capita_wealth<3.0 }
+									if = { limit = {var:per_capita_wealth<1.0 }
 										set_trade_goods = map_mode100
 									}
 									else = { 
-										if = { limit = {var:per_capita_wealth<1.0 }
+										if = { limit = {var:per_capita_wealth<2.0 }
 											set_trade_goods = map_mode99
 										}
 										else = { 
@@ -16740,11 +16740,11 @@ province_wealth.3 = {
 									}
 								}
 								else = { 
-									if = { limit = {var:per_capita_wealth<2.0 }
+									if = { limit = {var:per_capita_wealth<4.0 }
 										set_trade_goods = map_mode97
 									}
 									else = { 
-										if = { limit = {var:per_capita_wealth<2.5 }
+										if = { limit = {var:per_capita_wealth<5.0 }
 											set_trade_goods = map_mode96
 										}
 										else = { 
@@ -16754,12 +16754,12 @@ province_wealth.3 = {
 								}
 							}
 							else = { 
-								if = { limit = {var:per_capita_wealth<4.5 }
-									if = { limit = {var:per_capita_wealth<3.5 }
+								if = { limit = {var:per_capita_wealth<9.0 }
+									if = { limit = {var:per_capita_wealth<7.0 }
 										set_trade_goods = map_mode94
 									}
 									else = { 
-										if = { limit = {var:per_capita_wealth<4.0 }
+										if = { limit = {var:per_capita_wealth<8.0 }
 											set_trade_goods = map_mode93
 										}
 										else = { 
@@ -16768,11 +16768,11 @@ province_wealth.3 = {
 									}
 								}
 								else = { 
-									if = { limit = {var:per_capita_wealth<5.0 }
+									if = { limit = {var:per_capita_wealth<10.0 }
 										set_trade_goods = map_mode91
 									}
 									else = { 
-										if = { limit = {var:per_capita_wealth<5.5 }
+										if = { limit = {var:per_capita_wealth<11.0 }
 											set_trade_goods = map_mode90
 										}
 										else = { 
@@ -16783,13 +16783,13 @@ province_wealth.3 = {
 							}
 						}
 						else = { 
-							if = { limit = {var:per_capita_wealth<9.0 }
-								if = { limit = {var:per_capita_wealth<7.5 }
-									if = { limit = {var:per_capita_wealth<6.5 }
+							if = { limit = {var:per_capita_wealth<18.0 }
+								if = { limit = {var:per_capita_wealth<15.0 }
+									if = { limit = {var:per_capita_wealth<13.0 }
 										set_trade_goods = map_mode88
 									}
 									else = { 
-										if = { limit = {var:per_capita_wealth<7.0 }
+										if = { limit = {var:per_capita_wealth<14.0 }
 											set_trade_goods = map_mode87
 										}
 										else = { 
@@ -16798,11 +16798,11 @@ province_wealth.3 = {
 									}
 								}
 								else = { 
-									if = { limit = {var:per_capita_wealth<8.0 }
+									if = { limit = {var:per_capita_wealth<16.0 }
 										set_trade_goods = map_mode85
 									}
 									else = { 
-										if = { limit = {var:per_capita_wealth<8.5 }
+										if = { limit = {var:per_capita_wealth<17.0 }
 											set_trade_goods = map_mode84
 										}
 										else = { 
@@ -16812,12 +16812,12 @@ province_wealth.3 = {
 								}
 							}
 							else = { 
-								if = { limit = {var:per_capita_wealth<10.5 }
-									if = { limit = {var:per_capita_wealth<9.5 }
+								if = { limit = {var:per_capita_wealth<21.0 }
+									if = { limit = {var:per_capita_wealth<19.0 }
 										set_trade_goods = map_mode82
 									}
 									else = { 
-										if = { limit = {var:per_capita_wealth<10.0 }
+										if = { limit = {var:per_capita_wealth<20.0 }
 											set_trade_goods = map_mode81
 										}
 										else = { 
@@ -16826,8 +16826,8 @@ province_wealth.3 = {
 									}
 								}
 								else = { 
-									if = { limit = {var:per_capita_wealth<11.5 }
-										if = { limit = {var:per_capita_wealth<11.0 }
+									if = { limit = {var:per_capita_wealth<23.0 }
+										if = { limit = {var:per_capita_wealth<22.0 }
 											set_trade_goods = map_mode79
 										}
 										else = { 
@@ -16835,7 +16835,7 @@ province_wealth.3 = {
 										}
 									}
 									else = { 
-										if = { limit = {var:per_capita_wealth<12.0 }
+										if = { limit = {var:per_capita_wealth<24.0 }
 											set_trade_goods = map_mode77
 										}
 										else = { 
@@ -16847,14 +16847,14 @@ province_wealth.3 = {
 						}
 					}
 					else = { 
-						if = { limit = {var:per_capita_wealth<18.5 }
-							if = { limit = {var:per_capita_wealth<15.5 }
-								if = { limit = {var:per_capita_wealth<14.0 }
-									if = { limit = {var:per_capita_wealth<13.0 }
+						if = { limit = {var:per_capita_wealth<37.0 }
+							if = { limit = {var:per_capita_wealth<31.0 }
+								if = { limit = {var:per_capita_wealth<28.0 }
+									if = { limit = {var:per_capita_wealth<26.0 }
 										set_trade_goods = map_mode75
 									}
 									else = { 
-										if = { limit = {var:per_capita_wealth<13.5 }
+										if = { limit = {var:per_capita_wealth<27.0 }
 											set_trade_goods = map_mode74
 										}
 										else = { 
@@ -16863,11 +16863,11 @@ province_wealth.3 = {
 									}
 								}
 								else = { 
-									if = { limit = {var:per_capita_wealth<14.5 }
+									if = { limit = {var:per_capita_wealth<29.0 }
 										set_trade_goods = map_mode72
 									}
 									else = { 
-										if = { limit = {var:per_capita_wealth<15.0 }
+										if = { limit = {var:per_capita_wealth<30.0 }
 											set_trade_goods = map_mode71
 										}
 										else = { 
@@ -16877,12 +16877,12 @@ province_wealth.3 = {
 								}
 							}
 							else = { 
-								if = { limit = {var:per_capita_wealth<17.0 }
-									if = { limit = {var:per_capita_wealth<16.0 }
+								if = { limit = {var:per_capita_wealth<34.0 }
+									if = { limit = {var:per_capita_wealth<32.0 }
 										set_trade_goods = map_mode69
 									}
 									else = { 
-										if = { limit = {var:per_capita_wealth<16.5 }
+										if = { limit = {var:per_capita_wealth<33.0 }
 											set_trade_goods = map_mode68
 										}
 										else = { 
@@ -16891,11 +16891,11 @@ province_wealth.3 = {
 									}
 								}
 								else = { 
-									if = { limit = {var:per_capita_wealth<17.5 }
+									if = { limit = {var:per_capita_wealth<35.0 }
 										set_trade_goods = map_mode66
 									}
 									else = { 
-										if = { limit = {var:per_capita_wealth<18.0 }
+										if = { limit = {var:per_capita_wealth<36.0 }
 											set_trade_goods = map_mode65
 										}
 										else = { 
@@ -16906,13 +16906,13 @@ province_wealth.3 = {
 							}
 						}
 						else = { 
-							if = { limit = {var:per_capita_wealth<21.5 }
-								if = { limit = {var:per_capita_wealth<20.0 }
-									if = { limit = {var:per_capita_wealth<19.0 }
+							if = { limit = {var:per_capita_wealth<43.0 }
+								if = { limit = {var:per_capita_wealth<40.0 }
+									if = { limit = {var:per_capita_wealth<38.0 }
 										set_trade_goods = map_mode63
 									}
 									else = { 
-										if = { limit = {var:per_capita_wealth<19.5 }
+										if = { limit = {var:per_capita_wealth<39.0 }
 											set_trade_goods = map_mode62
 										}
 										else = { 
@@ -16921,11 +16921,11 @@ province_wealth.3 = {
 									}
 								}
 								else = { 
-									if = { limit = {var:per_capita_wealth<20.5 }
+									if = { limit = {var:per_capita_wealth<41.0 }
 										set_trade_goods = map_mode60
 									}
 									else = { 
-										if = { limit = {var:per_capita_wealth<21.0 }
+										if = { limit = {var:per_capita_wealth<42.0 }
 											set_trade_goods = map_mode59
 										}
 										else = { 
@@ -16935,12 +16935,12 @@ province_wealth.3 = {
 								}
 							}
 							else = { 
-								if = { limit = {var:per_capita_wealth<23.0 }
-									if = { limit = {var:per_capita_wealth<22.0 }
+								if = { limit = {var:per_capita_wealth<46.0 }
+									if = { limit = {var:per_capita_wealth<44.0 }
 										set_trade_goods = map_mode57
 									}
 									else = { 
-										if = { limit = {var:per_capita_wealth<22.5 }
+										if = { limit = {var:per_capita_wealth<45.0 }
 											set_trade_goods = map_mode56
 										}
 										else = { 
@@ -16949,8 +16949,8 @@ province_wealth.3 = {
 									}
 								}
 								else = { 
-									if = { limit = {var:per_capita_wealth<24.0 }
-										if = { limit = {var:per_capita_wealth<23.5 }
+									if = { limit = {var:per_capita_wealth<48.0 }
+										if = { limit = {var:per_capita_wealth<47.0 }
 											set_trade_goods = map_mode54
 										}
 										else = { 
@@ -16958,7 +16958,7 @@ province_wealth.3 = {
 										}
 									}
 									else = { 
-										if = { limit = {var:per_capita_wealth<24.5 }
+										if = { limit = {var:per_capita_wealth<49.0 }
 											set_trade_goods = map_mode52
 										}
 										else = { 
@@ -16971,15 +16971,15 @@ province_wealth.3 = {
 					}
 				}
 				else = { 
-					if = { limit = {var:per_capita_wealth<37.5 }
-						if = { limit = {var:per_capita_wealth<31.0 }
-							if = { limit = {var:per_capita_wealth<28.0 }
-								if = { limit = {var:per_capita_wealth<26.5 }
-									if = { limit = {var:per_capita_wealth<25.5 }
+					if = { limit = {var:per_capita_wealth<75.0 }
+						if = { limit = {var:per_capita_wealth<62.0 }
+							if = { limit = {var:per_capita_wealth<56.0 }
+								if = { limit = {var:per_capita_wealth<53.0 }
+									if = { limit = {var:per_capita_wealth<51.0 }
 										set_trade_goods = map_mode50
 									}
 									else = { 
-										if = { limit = {var:per_capita_wealth<26.0 }
+										if = { limit = {var:per_capita_wealth<52.0 }
 											set_trade_goods = map_mode49
 										}
 										else = { 
@@ -16988,11 +16988,11 @@ province_wealth.3 = {
 									}
 								}
 								else = { 
-									if = { limit = {var:per_capita_wealth<27.0 }
+									if = { limit = {var:per_capita_wealth<54.0 }
 										set_trade_goods = map_mode47
 									}
 									else = { 
-										if = { limit = {var:per_capita_wealth<27.5 }
+										if = { limit = {var:per_capita_wealth<55.0 }
 											set_trade_goods = map_mode46
 										}
 										else = { 
@@ -17002,12 +17002,12 @@ province_wealth.3 = {
 								}
 							}
 							else = { 
-								if = { limit = {var:per_capita_wealth<29.5 }
-									if = { limit = {var:per_capita_wealth<28.5 }
+								if = { limit = {var:per_capita_wealth<59.0 }
+									if = { limit = {var:per_capita_wealth<57.0 }
 										set_trade_goods = map_mode44
 									}
 									else = { 
-										if = { limit = {var:per_capita_wealth<29.0 }
+										if = { limit = {var:per_capita_wealth<58.0 }
 											set_trade_goods = map_mode43
 										}
 										else = { 
@@ -17016,11 +17016,11 @@ province_wealth.3 = {
 									}
 								}
 								else = { 
-									if = { limit = {var:per_capita_wealth<30.0 }
+									if = { limit = {var:per_capita_wealth<60.0 }
 										set_trade_goods = map_mode41
 									}
 									else = { 
-										if = { limit = {var:per_capita_wealth<30.5 }
+										if = { limit = {var:per_capita_wealth<61.0 }
 											set_trade_goods = map_mode40
 										}
 										else = { 
@@ -17031,13 +17031,13 @@ province_wealth.3 = {
 							}
 						}
 						else = { 
-							if = { limit = {var:per_capita_wealth<34.0 }
-								if = { limit = {var:per_capita_wealth<32.5 }
-									if = { limit = {var:per_capita_wealth<31.5 }
+							if = { limit = {var:per_capita_wealth<68.0 }
+								if = { limit = {var:per_capita_wealth<65.0 }
+									if = { limit = {var:per_capita_wealth<63.0 }
 										set_trade_goods = map_mode38
 									}
 									else = { 
-										if = { limit = {var:per_capita_wealth<32.0 }
+										if = { limit = {var:per_capita_wealth<64.0 }
 											set_trade_goods = map_mode37
 										}
 										else = { 
@@ -17046,11 +17046,11 @@ province_wealth.3 = {
 									}
 								}
 								else = { 
-									if = { limit = {var:per_capita_wealth<33.0 }
+									if = { limit = {var:per_capita_wealth<66.0 }
 										set_trade_goods = map_mode35
 									}
 									else = { 
-										if = { limit = {var:per_capita_wealth<33.5 }
+										if = { limit = {var:per_capita_wealth<67.0 }
 											set_trade_goods = map_mode34
 										}
 										else = { 
@@ -17060,12 +17060,12 @@ province_wealth.3 = {
 								}
 							}
 							else = { 
-								if = { limit = {var:per_capita_wealth<35.5 }
-									if = { limit = {var:per_capita_wealth<34.5 }
+								if = { limit = {var:per_capita_wealth<71.0 }
+									if = { limit = {var:per_capita_wealth<69.0 }
 										set_trade_goods = map_mode32
 									}
 									else = { 
-										if = { limit = {var:per_capita_wealth<35.0 }
+										if = { limit = {var:per_capita_wealth<70.0 }
 											set_trade_goods = map_mode31
 										}
 										else = { 
@@ -17074,8 +17074,8 @@ province_wealth.3 = {
 									}
 								}
 								else = { 
-									if = { limit = {var:per_capita_wealth<36.5 }
-										if = { limit = {var:per_capita_wealth<36.0 }
+									if = { limit = {var:per_capita_wealth<73.0 }
+										if = { limit = {var:per_capita_wealth<72.0 }
 											set_trade_goods = map_mode29
 										}
 										else = { 
@@ -17083,7 +17083,7 @@ province_wealth.3 = {
 										}
 									}
 									else = { 
-										if = { limit = {var:per_capita_wealth<37.0 }
+										if = { limit = {var:per_capita_wealth<74.0 }
 											set_trade_goods = map_mode27
 										}
 										else = { 
@@ -17095,14 +17095,14 @@ province_wealth.3 = {
 						}
 					}
 					else = { 
-						if = { limit = {var:per_capita_wealth<44.0 }
-							if = { limit = {var:per_capita_wealth<40.5 }
-								if = { limit = {var:per_capita_wealth<39.0 }
-									if = { limit = {var:per_capita_wealth<38.0 }
+						if = { limit = {var:per_capita_wealth<88.0 }
+							if = { limit = {var:per_capita_wealth<81.0 }
+								if = { limit = {var:per_capita_wealth<78.0 }
+									if = { limit = {var:per_capita_wealth<76.0 }
 										set_trade_goods = map_mode25
 									}
 									else = { 
-										if = { limit = {var:per_capita_wealth<38.5 }
+										if = { limit = {var:per_capita_wealth<77.0 }
 											set_trade_goods = map_mode24
 										}
 										else = { 
@@ -17111,11 +17111,11 @@ province_wealth.3 = {
 									}
 								}
 								else = { 
-									if = { limit = {var:per_capita_wealth<39.5 }
+									if = { limit = {var:per_capita_wealth<79.0 }
 										set_trade_goods = map_mode22
 									}
 									else = { 
-										if = { limit = {var:per_capita_wealth<40.0 }
+										if = { limit = {var:per_capita_wealth<80.0 }
 											set_trade_goods = map_mode21
 										}
 										else = { 
@@ -17125,12 +17125,12 @@ province_wealth.3 = {
 								}
 							}
 							else = { 
-								if = { limit = {var:per_capita_wealth<42.0 }
-									if = { limit = {var:per_capita_wealth<41.0 }
+								if = { limit = {var:per_capita_wealth<84.0 }
+									if = { limit = {var:per_capita_wealth<82.0 }
 										set_trade_goods = map_mode19
 									}
 									else = { 
-										if = { limit = {var:per_capita_wealth<41.5 }
+										if = { limit = {var:per_capita_wealth<83.0 }
 											set_trade_goods = map_mode18
 										}
 										else = { 
@@ -17139,8 +17139,8 @@ province_wealth.3 = {
 									}
 								}
 								else = { 
-									if = { limit = {var:per_capita_wealth<43.0 }
-										if = { limit = {var:per_capita_wealth<42.5 }
+									if = { limit = {var:per_capita_wealth<86.0 }
+										if = { limit = {var:per_capita_wealth<85.0 }
 											set_trade_goods = map_mode16
 										}
 										else = { 
@@ -17148,7 +17148,7 @@ province_wealth.3 = {
 										}
 									}
 									else = { 
-										if = { limit = {var:per_capita_wealth<43.5 }
+										if = { limit = {var:per_capita_wealth<87.0 }
 											set_trade_goods = map_mode14
 										}
 										else = { 
@@ -17159,13 +17159,13 @@ province_wealth.3 = {
 							}
 						}
 						else = { 
-							if = { limit = {var:per_capita_wealth<47.0 }
-								if = { limit = {var:per_capita_wealth<45.5 }
-									if = { limit = {var:per_capita_wealth<44.5 }
+							if = { limit = {var:per_capita_wealth<94.0 }
+								if = { limit = {var:per_capita_wealth<91.0 }
+									if = { limit = {var:per_capita_wealth<89.0 }
 										set_trade_goods = map_mode12
 									}
 									else = { 
-										if = { limit = {var:per_capita_wealth<45.0 }
+										if = { limit = {var:per_capita_wealth<90.0 }
 											set_trade_goods = map_mode11
 										}
 										else = { 
@@ -17174,11 +17174,11 @@ province_wealth.3 = {
 									}
 								}
 								else = { 
-									if = { limit = {var:per_capita_wealth<46.0 }
+									if = { limit = {var:per_capita_wealth<92.0 }
 										set_trade_goods = map_mode9
 									}
 									else = { 
-										if = { limit = {var:per_capita_wealth<46.5 }
+										if = { limit = {var:per_capita_wealth<93.0 }
 											set_trade_goods = map_mode8
 										}
 										else = { 
@@ -17188,12 +17188,12 @@ province_wealth.3 = {
 								}
 							}
 							else = { 
-								if = { limit = {var:per_capita_wealth<48.5 }
-									if = { limit = {var:per_capita_wealth<47.5 }
+								if = { limit = {var:per_capita_wealth<97.0 }
+									if = { limit = {var:per_capita_wealth<95.0 }
 										set_trade_goods = map_mode6
 									}
 									else = { 
-										if = { limit = {var:per_capita_wealth<48.0 }
+										if = { limit = {var:per_capita_wealth<96.0 }
 											set_trade_goods = map_mode5
 										}
 										else = { 
@@ -17202,8 +17202,8 @@ province_wealth.3 = {
 									}
 								}
 								else = { 
-									if = { limit = {var:per_capita_wealth<49.5 }
-										if = { limit = {var:per_capita_wealth<49.0 }
+									if = { limit = {var:per_capita_wealth<99.0 }
+										if = { limit = {var:per_capita_wealth<98.0 }
 											set_trade_goods = map_mode3
 										}
 										else = { 
@@ -17211,7 +17211,7 @@ province_wealth.3 = {
 										}
 									}
 									else = { 
-										if = { limit = {var:per_capita_wealth<50.0 }
+										if = { limit = {var:per_capita_wealth<100.0 }
 											set_trade_goods = map_mode1
 										}
 										else = { 
