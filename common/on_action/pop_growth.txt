@@ -1,0 +1,22 @@
+﻿
+yearly_province_pulse =
+{	
+	events = {
+		update_pop_growth.9001
+	}
+}
+    
+on_game_initialized = {
+    events = {
+        update_pop_growth.9005
+    }
+}
+on_ownership_change = {
+	effect = {
+		set_variable = {
+			name = travel_time
+			value = 999999
+		}
+		trigger_event = { id = update_pop_growth.9002 }
+	}
+}

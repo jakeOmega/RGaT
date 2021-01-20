@@ -38,7 +38,28 @@ looting.1 = {
 			subtract = var:loot_amount
 		}
 		change_variable = {
-			name = province_infrastructure
+			name = political_infrastructure
+			multiply = {
+				value = 1
+				subtract = looting_infrastructure_damage
+			}
+		}
+		change_variable = {
+			name = production_infrastructure
+			multiply = {
+				value = 1
+				subtract = looting_infrastructure_damage
+			}
+		}
+		change_variable = {
+			name = farming_infrastructure
+			multiply = {
+				value = 1
+				subtract = looting_infrastructure_damage
+			}
+		}
+		change_variable = {
+			name = urban_infrastructure
 			multiply = {
 				value = 1
 				subtract = looting_infrastructure_damage

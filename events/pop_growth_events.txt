@@ -7,30 +7,6 @@ update_pop_growth.1 = {
     trigger = {has_owner = yes}
 	
 	immediate = {   
-        set_variable = {
-            name = annual_growth_rate
-            value = annual_growth_rate
-        }             
-        set_variable = {
-            name = low_pop_food_production
-            value = low_pop_food_production
-        }
-        set_variable = {
-            name = marginal_food_production
-            value = marginal_food_production
-        }
-        set_variable = {
-            name = crop_yield_modifier
-            value = crop_yield_modifier
-        }
-        set_variable = {
-            name = farming_population
-            value = farming_population
-        }
-        set_variable = {
-            name = return_on_infrastructure_time
-            value = return_on_infrastructure_time
-        }
 
 		if = {limit = {has_province_modifier = pop_growthn100} remove_province_modifier = pop_growthn100}
 		if = {limit = {has_province_modifier = pop_growthn99} remove_province_modifier = pop_growthn99}
@@ -742,198 +718,112 @@ update_pop_growth.1 = {
 		if = {limit = {has_province_modifier = pop_growth24_70} remove_province_modifier = pop_growth24_70}
 		if = {limit = {has_province_modifier = pop_growth24_8} remove_province_modifier = pop_growth24_8}
 		if = {limit = {has_province_modifier = pop_growth24_90} remove_province_modifier = pop_growth24_90}
-		if = {limit = {has_province_modifier = pop_growth25_0} remove_province_modifier = pop_growth25_0}
-		if = {limit = {has_province_modifier = pop_growth26} remove_province_modifier = pop_growth26}
-		if = {limit = {has_province_modifier = pop_growth27} remove_province_modifier = pop_growth27}
-		if = {limit = {has_province_modifier = pop_growth28} remove_province_modifier = pop_growth28}
-		if = {limit = {has_province_modifier = pop_growth29} remove_province_modifier = pop_growth29}
-		if = {limit = {has_province_modifier = pop_growth30} remove_province_modifier = pop_growth30}
-		if = {limit = {has_province_modifier = pop_growth31} remove_province_modifier = pop_growth31}
-		if = {limit = {has_province_modifier = pop_growth32} remove_province_modifier = pop_growth32}
-		if = {limit = {has_province_modifier = pop_growth33} remove_province_modifier = pop_growth33}
-		if = {limit = {has_province_modifier = pop_growth34} remove_province_modifier = pop_growth34}
-		if = {limit = {has_province_modifier = pop_growth35} remove_province_modifier = pop_growth35}
-		if = {limit = {has_province_modifier = pop_growth36} remove_province_modifier = pop_growth36}
-		if = {limit = {has_province_modifier = pop_growth37} remove_province_modifier = pop_growth37}
-		if = {limit = {has_province_modifier = pop_growth38} remove_province_modifier = pop_growth38}
-		if = {limit = {has_province_modifier = pop_growth39} remove_province_modifier = pop_growth39}
-		if = {limit = {has_province_modifier = pop_growth40} remove_province_modifier = pop_growth40}
-		if = {limit = {has_province_modifier = pop_growth41} remove_province_modifier = pop_growth41}
-		if = {limit = {has_province_modifier = pop_growth42} remove_province_modifier = pop_growth42}
-		if = {limit = {has_province_modifier = pop_growth43} remove_province_modifier = pop_growth43}
-		if = {limit = {has_province_modifier = pop_growth44} remove_province_modifier = pop_growth44}
-		if = {limit = {has_province_modifier = pop_growth45} remove_province_modifier = pop_growth45}
-		if = {limit = {has_province_modifier = pop_growth46} remove_province_modifier = pop_growth46}
-		if = {limit = {has_province_modifier = pop_growth47} remove_province_modifier = pop_growth47}
-		if = {limit = {has_province_modifier = pop_growth48} remove_province_modifier = pop_growth48}
-		if = {limit = {has_province_modifier = pop_growth49} remove_province_modifier = pop_growth49}
-		if = {limit = {has_province_modifier = pop_growth50} remove_province_modifier = pop_growth50}
-		if = {limit = {has_province_modifier = pop_growth51} remove_province_modifier = pop_growth51}
-		if = {limit = {has_province_modifier = pop_growth52} remove_province_modifier = pop_growth52}
-		if = {limit = {has_province_modifier = pop_growth53} remove_province_modifier = pop_growth53}
-		if = {limit = {has_province_modifier = pop_growth54} remove_province_modifier = pop_growth54}
-		if = {limit = {has_province_modifier = pop_growth55} remove_province_modifier = pop_growth55}
-		if = {limit = {has_province_modifier = pop_growth56} remove_province_modifier = pop_growth56}
-		if = {limit = {has_province_modifier = pop_growth57} remove_province_modifier = pop_growth57}
-		if = {limit = {has_province_modifier = pop_growth58} remove_province_modifier = pop_growth58}
-		if = {limit = {has_province_modifier = pop_growth59} remove_province_modifier = pop_growth59}
-		if = {limit = {has_province_modifier = pop_growth60} remove_province_modifier = pop_growth60}
-		if = {limit = {has_province_modifier = pop_growth61} remove_province_modifier = pop_growth61}
-		if = {limit = {has_province_modifier = pop_growth62} remove_province_modifier = pop_growth62}
-		if = {limit = {has_province_modifier = pop_growth63} remove_province_modifier = pop_growth63}
-		if = {limit = {has_province_modifier = pop_growth64} remove_province_modifier = pop_growth64}
-		if = {limit = {has_province_modifier = pop_growth65} remove_province_modifier = pop_growth65}
-		if = {limit = {has_province_modifier = pop_growth66} remove_province_modifier = pop_growth66}
-		if = {limit = {has_province_modifier = pop_growth67} remove_province_modifier = pop_growth67}
-		if = {limit = {has_province_modifier = pop_growth68} remove_province_modifier = pop_growth68}
-		if = {limit = {has_province_modifier = pop_growth69} remove_province_modifier = pop_growth69}
-		if = {limit = {has_province_modifier = pop_growth70} remove_province_modifier = pop_growth70}
-		if = {limit = {has_province_modifier = pop_growth71} remove_province_modifier = pop_growth71}
-		if = {limit = {has_province_modifier = pop_growth72} remove_province_modifier = pop_growth72}
-		if = {limit = {has_province_modifier = pop_growth73} remove_province_modifier = pop_growth73}
-		if = {limit = {has_province_modifier = pop_growth74} remove_province_modifier = pop_growth74}
-		if = {limit = {has_province_modifier = pop_growth75} remove_province_modifier = pop_growth75}
-		if = {limit = {has_province_modifier = pop_growth76} remove_province_modifier = pop_growth76}
-		if = {limit = {has_province_modifier = pop_growth77} remove_province_modifier = pop_growth77}
-		if = {limit = {has_province_modifier = pop_growth78} remove_province_modifier = pop_growth78}
-		if = {limit = {has_province_modifier = pop_growth79} remove_province_modifier = pop_growth79}
-		if = {limit = {has_province_modifier = pop_growth80} remove_province_modifier = pop_growth80}
-		if = {limit = {has_province_modifier = pop_growth81} remove_province_modifier = pop_growth81}
-		if = {limit = {has_province_modifier = pop_growth82} remove_province_modifier = pop_growth82}
-		if = {limit = {has_province_modifier = pop_growth83} remove_province_modifier = pop_growth83}
-		if = {limit = {has_province_modifier = pop_growth84} remove_province_modifier = pop_growth84}
-		if = {limit = {has_province_modifier = pop_growth85} remove_province_modifier = pop_growth85}
-		if = {limit = {has_province_modifier = pop_growth86} remove_province_modifier = pop_growth86}
-		if = {limit = {has_province_modifier = pop_growth87} remove_province_modifier = pop_growth87}
-		if = {limit = {has_province_modifier = pop_growth88} remove_province_modifier = pop_growth88}
-		if = {limit = {has_province_modifier = pop_growth89} remove_province_modifier = pop_growth89}
-		if = {limit = {has_province_modifier = pop_growth90} remove_province_modifier = pop_growth90}
-		if = {limit = {has_province_modifier = pop_growth91} remove_province_modifier = pop_growth91}
-		if = {limit = {has_province_modifier = pop_growth92} remove_province_modifier = pop_growth92}
-		if = {limit = {has_province_modifier = pop_growth93} remove_province_modifier = pop_growth93}
-		if = {limit = {has_province_modifier = pop_growth94} remove_province_modifier = pop_growth94}
-		if = {limit = {has_province_modifier = pop_growth95} remove_province_modifier = pop_growth95}
-		if = {limit = {has_province_modifier = pop_growth96} remove_province_modifier = pop_growth96}
-		if = {limit = {has_province_modifier = pop_growth97} remove_province_modifier = pop_growth97}
-		if = {limit = {has_province_modifier = pop_growth98} remove_province_modifier = pop_growth98}
-		if = {limit = {has_province_modifier = pop_growth99} remove_province_modifier = pop_growth99}
-		if = {limit = {has_province_modifier = pop_growth100} remove_province_modifier = pop_growth100}
-		if = { limit = {growth_rate<0.68 }
-			if = { limit = {growth_rate<-1.29 }
-				if = { limit = {growth_rate<-9.2 }
-					if = { limit = {growth_rate<-51.0 }
-						if = { limit = {growth_rate<-76.0 }
-							if = { limit = {growth_rate<-88.0 }
-								if = { limit = {growth_rate<-94.0 }
-									if = { limit = {growth_rate<-97.0 }
+		if = { limit = {growth_rate<0.3 }
+			if = { limit = {growth_rate<-1.48 }
+				if = { limit = {growth_rate<-12.0 }
+					if = { limit = {growth_rate<-56.0 }
+						if = { limit = {growth_rate<-78.0 }
+							if = { limit = {growth_rate<-89.0 }
+								if = { limit = {growth_rate<-95.0 }
+									if = { limit = {growth_rate<-98.0 }
 										if = { limit = {growth_rate<-99.0 }
 											add_permanent_province_modifier = { name = pop_growthn100}
 										}
 										else = { 
-											if = { limit = {growth_rate<-98.0 }
-												add_permanent_province_modifier = { name = pop_growthn99}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growthn98}
-											}
+											add_permanent_province_modifier = { name = pop_growthn99}
 										}
 									}
 									else = { 
-										if = { limit = {growth_rate<-96.0 }
-											add_permanent_province_modifier = { name = pop_growthn97}
+										if = { limit = {growth_rate<-97.0 }
+											add_permanent_province_modifier = { name = pop_growthn98}
 										}
 										else = { 
-											if = { limit = {growth_rate<-95.0 }
-												add_permanent_province_modifier = { name = pop_growthn96}
+											if = { limit = {growth_rate<-96.0 }
+												add_permanent_province_modifier = { name = pop_growthn97}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growthn95}
+												add_permanent_province_modifier = { name = pop_growthn96}
 											}
 										}
 									}
 								}
 								else = { 
-									if = { limit = {growth_rate<-91.0 }
-										if = { limit = {growth_rate<-93.0 }
-											add_permanent_province_modifier = { name = pop_growthn94}
+									if = { limit = {growth_rate<-92.0 }
+										if = { limit = {growth_rate<-94.0 }
+											add_permanent_province_modifier = { name = pop_growthn95}
 										}
 										else = { 
-											if = { limit = {growth_rate<-92.0 }
-												add_permanent_province_modifier = { name = pop_growthn93}
+											if = { limit = {growth_rate<-93.0 }
+												add_permanent_province_modifier = { name = pop_growthn94}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growthn92}
+												add_permanent_province_modifier = { name = pop_growthn93}
 											}
 										}
 									}
 									else = { 
-										if = { limit = {growth_rate<-90.0 }
-											add_permanent_province_modifier = { name = pop_growthn91}
+										if = { limit = {growth_rate<-91.0 }
+											add_permanent_province_modifier = { name = pop_growthn92}
 										}
 										else = { 
-											if = { limit = {growth_rate<-89.0 }
-												add_permanent_province_modifier = { name = pop_growthn90}
+											if = { limit = {growth_rate<-90.0 }
+												add_permanent_province_modifier = { name = pop_growthn91}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growthn89}
+												add_permanent_province_modifier = { name = pop_growthn90}
 											}
 										}
 									}
 								}
 							}
 							else = { 
-								if = { limit = {growth_rate<-82.0 }
-									if = { limit = {growth_rate<-85.0 }
-										if = { limit = {growth_rate<-87.0 }
-											add_permanent_province_modifier = { name = pop_growthn88}
+								if = { limit = {growth_rate<-84.0 }
+									if = { limit = {growth_rate<-87.0 }
+										if = { limit = {growth_rate<-88.0 }
+											add_permanent_province_modifier = { name = pop_growthn89}
 										}
 										else = { 
-											if = { limit = {growth_rate<-86.0 }
-												add_permanent_province_modifier = { name = pop_growthn87}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growthn86}
-											}
+											add_permanent_province_modifier = { name = pop_growthn88}
 										}
 									}
 									else = { 
-										if = { limit = {growth_rate<-84.0 }
-											add_permanent_province_modifier = { name = pop_growthn85}
+										if = { limit = {growth_rate<-86.0 }
+											add_permanent_province_modifier = { name = pop_growthn87}
 										}
 										else = { 
-											if = { limit = {growth_rate<-83.0 }
-												add_permanent_province_modifier = { name = pop_growthn84}
+											if = { limit = {growth_rate<-85.0 }
+												add_permanent_province_modifier = { name = pop_growthn86}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growthn83}
+												add_permanent_province_modifier = { name = pop_growthn85}
 											}
 										}
 									}
 								}
 								else = { 
-									if = { limit = {growth_rate<-79.0 }
-										if = { limit = {growth_rate<-81.0 }
-											add_permanent_province_modifier = { name = pop_growthn82}
+									if = { limit = {growth_rate<-81.0 }
+										if = { limit = {growth_rate<-83.0 }
+											add_permanent_province_modifier = { name = pop_growthn84}
 										}
 										else = { 
-											if = { limit = {growth_rate<-80.0 }
-												add_permanent_province_modifier = { name = pop_growthn81}
+											if = { limit = {growth_rate<-82.0 }
+												add_permanent_province_modifier = { name = pop_growthn83}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growthn80}
+												add_permanent_province_modifier = { name = pop_growthn82}
 											}
 										}
 									}
 									else = { 
-										if = { limit = {growth_rate<-78.0 }
-											add_permanent_province_modifier = { name = pop_growthn79}
+										if = { limit = {growth_rate<-80.0 }
+											add_permanent_province_modifier = { name = pop_growthn81}
 										}
 										else = { 
-											if = { limit = {growth_rate<-77.0 }
-												add_permanent_province_modifier = { name = pop_growthn78}
+											if = { limit = {growth_rate<-79.0 }
+												add_permanent_province_modifier = { name = pop_growthn80}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growthn77}
+												add_permanent_province_modifier = { name = pop_growthn79}
 											}
 										}
 									}
@@ -941,9 +831,17 @@ update_pop_growth.1 = {
 							}
 						}
 						else = { 
-							if = { limit = {growth_rate<-64.0 }
-								if = { limit = {growth_rate<-70.0 }
-									if = { limit = {growth_rate<-73.0 }
+							if = { limit = {growth_rate<-67.0 }
+								if = { limit = {growth_rate<-73.0 }
+									if = { limit = {growth_rate<-76.0 }
+										if = { limit = {growth_rate<-77.0 }
+											add_permanent_province_modifier = { name = pop_growthn78}
+										}
+										else = { 
+											add_permanent_province_modifier = { name = pop_growthn77}
+										}
+									}
+									else = { 
 										if = { limit = {growth_rate<-75.0 }
 											add_permanent_province_modifier = { name = pop_growthn76}
 										}
@@ -956,7 +854,9 @@ update_pop_growth.1 = {
 											}
 										}
 									}
-									else = { 
+								}
+								else = { 
+									if = { limit = {growth_rate<-70.0 }
 										if = { limit = {growth_rate<-72.0 }
 											add_permanent_province_modifier = { name = pop_growthn73}
 										}
@@ -969,9 +869,7 @@ update_pop_growth.1 = {
 											}
 										}
 									}
-								}
-								else = { 
-									if = { limit = {growth_rate<-67.0 }
+									else = { 
 										if = { limit = {growth_rate<-69.0 }
 											add_permanent_province_modifier = { name = pop_growthn70}
 										}
@@ -984,72 +882,78 @@ update_pop_growth.1 = {
 											}
 										}
 									}
-									else = { 
+								}
+							}
+							else = { 
+								if = { limit = {growth_rate<-62.0 }
+									if = { limit = {growth_rate<-65.0 }
 										if = { limit = {growth_rate<-66.0 }
 											add_permanent_province_modifier = { name = pop_growthn67}
 										}
 										else = { 
-											if = { limit = {growth_rate<-65.0 }
-												add_permanent_province_modifier = { name = pop_growthn66}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growthn65}
-											}
-										}
-									}
-								}
-							}
-							else = { 
-								if = { limit = {growth_rate<-58.0 }
-									if = { limit = {growth_rate<-61.0 }
-										if = { limit = {growth_rate<-63.0 }
-											add_permanent_province_modifier = { name = pop_growthn64}
-										}
-										else = { 
-											if = { limit = {growth_rate<-62.0 }
-												add_permanent_province_modifier = { name = pop_growthn63}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growthn62}
-											}
+											add_permanent_province_modifier = { name = pop_growthn66}
 										}
 									}
 									else = { 
-										if = { limit = {growth_rate<-60.0 }
-											add_permanent_province_modifier = { name = pop_growthn61}
+										if = { limit = {growth_rate<-64.0 }
+											add_permanent_province_modifier = { name = pop_growthn65}
 										}
 										else = { 
-											if = { limit = {growth_rate<-59.0 }
-												add_permanent_province_modifier = { name = pop_growthn60}
+											if = { limit = {growth_rate<-63.0 }
+												add_permanent_province_modifier = { name = pop_growthn64}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growthn59}
+												add_permanent_province_modifier = { name = pop_growthn63}
 											}
 										}
 									}
 								}
 								else = { 
-									if = { limit = {growth_rate<-55.0 }
-										if = { limit = {growth_rate<-57.0 }
-											add_permanent_province_modifier = { name = pop_growthn58}
+									if = { limit = {growth_rate<-59.0 }
+										if = { limit = {growth_rate<-61.0 }
+											add_permanent_province_modifier = { name = pop_growthn62}
 										}
 										else = { 
-											if = { limit = {growth_rate<-56.0 }
-												add_permanent_province_modifier = { name = pop_growthn57}
+											if = { limit = {growth_rate<-60.0 }
+												add_permanent_province_modifier = { name = pop_growthn61}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growthn56}
+												add_permanent_province_modifier = { name = pop_growthn60}
 											}
 										}
 									}
 									else = { 
-										if = { limit = {growth_rate<-53.0 }
-											if = { limit = {growth_rate<-54.0 }
-												add_permanent_province_modifier = { name = pop_growthn55}
+										if = { limit = {growth_rate<-58.0 }
+											add_permanent_province_modifier = { name = pop_growthn59}
+										}
+										else = { 
+											if = { limit = {growth_rate<-57.0 }
+												add_permanent_province_modifier = { name = pop_growthn58}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growthn54}
+												add_permanent_province_modifier = { name = pop_growthn57}
 											}
+										}
+									}
+								}
+							}
+						}
+					}
+					else = { 
+						if = { limit = {growth_rate<-34.0 }
+							if = { limit = {growth_rate<-45.0 }
+								if = { limit = {growth_rate<-51.0 }
+									if = { limit = {growth_rate<-54.0 }
+										if = { limit = {growth_rate<-55.0 }
+											add_permanent_province_modifier = { name = pop_growthn56}
+										}
+										else = { 
+											add_permanent_province_modifier = { name = pop_growthn55}
+										}
+									}
+									else = { 
+										if = { limit = {growth_rate<-53.0 }
+											add_permanent_province_modifier = { name = pop_growthn54}
 										}
 										else = { 
 											if = { limit = {growth_rate<-52.0 }
@@ -1061,13 +965,7 @@ update_pop_growth.1 = {
 										}
 									}
 								}
-							}
-						}
-					}
-					else = { 
-						if = { limit = {growth_rate<-27.0 }
-							if = { limit = {growth_rate<-39.0 }
-								if = { limit = {growth_rate<-45.0 }
+								else = { 
 									if = { limit = {growth_rate<-48.0 }
 										if = { limit = {growth_rate<-50.0 }
 											add_permanent_province_modifier = { name = pop_growthn51}
@@ -1095,88 +993,55 @@ update_pop_growth.1 = {
 										}
 									}
 								}
-								else = { 
-									if = { limit = {growth_rate<-42.0 }
+							}
+							else = { 
+								if = { limit = {growth_rate<-40.0 }
+									if = { limit = {growth_rate<-43.0 }
 										if = { limit = {growth_rate<-44.0 }
 											add_permanent_province_modifier = { name = pop_growthn45}
 										}
 										else = { 
-											if = { limit = {growth_rate<-43.0 }
-												add_permanent_province_modifier = { name = pop_growthn44}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growthn43}
-											}
+											add_permanent_province_modifier = { name = pop_growthn44}
 										}
 									}
 									else = { 
-										if = { limit = {growth_rate<-41.0 }
-											add_permanent_province_modifier = { name = pop_growthn42}
+										if = { limit = {growth_rate<-42.0 }
+											add_permanent_province_modifier = { name = pop_growthn43}
 										}
 										else = { 
-											if = { limit = {growth_rate<-40.0 }
+											if = { limit = {growth_rate<-41.0 }
+												add_permanent_province_modifier = { name = pop_growthn42}
+											}
+											else = { 
 												add_permanent_province_modifier = { name = pop_growthn41}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growthn40}
-											}
-										}
-									}
-								}
-							}
-							else = { 
-								if = { limit = {growth_rate<-33.0 }
-									if = { limit = {growth_rate<-36.0 }
-										if = { limit = {growth_rate<-38.0 }
-											add_permanent_province_modifier = { name = pop_growthn39}
-										}
-										else = { 
-											if = { limit = {growth_rate<-37.0 }
-												add_permanent_province_modifier = { name = pop_growthn38}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growthn37}
-											}
-										}
-									}
-									else = { 
-										if = { limit = {growth_rate<-35.0 }
-											add_permanent_province_modifier = { name = pop_growthn36}
-										}
-										else = { 
-											if = { limit = {growth_rate<-34.0 }
-												add_permanent_province_modifier = { name = pop_growthn35}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growthn34}
 											}
 										}
 									}
 								}
 								else = { 
-									if = { limit = {growth_rate<-30.0 }
-										if = { limit = {growth_rate<-32.0 }
-											add_permanent_province_modifier = { name = pop_growthn33}
+									if = { limit = {growth_rate<-37.0 }
+										if = { limit = {growth_rate<-39.0 }
+											add_permanent_province_modifier = { name = pop_growthn40}
 										}
 										else = { 
-											if = { limit = {growth_rate<-31.0 }
-												add_permanent_province_modifier = { name = pop_growthn32}
+											if = { limit = {growth_rate<-38.0 }
+												add_permanent_province_modifier = { name = pop_growthn39}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growthn31}
+												add_permanent_province_modifier = { name = pop_growthn38}
 											}
 										}
 									}
 									else = { 
-										if = { limit = {growth_rate<-29.0 }
-											add_permanent_province_modifier = { name = pop_growthn30}
+										if = { limit = {growth_rate<-36.0 }
+											add_permanent_province_modifier = { name = pop_growthn37}
 										}
 										else = { 
-											if = { limit = {growth_rate<-28.0 }
-												add_permanent_province_modifier = { name = pop_growthn29}
+											if = { limit = {growth_rate<-35.0 }
+												add_permanent_province_modifier = { name = pop_growthn36}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growthn28}
+												add_permanent_province_modifier = { name = pop_growthn35}
 											}
 										}
 									}
@@ -1184,37 +1049,70 @@ update_pop_growth.1 = {
 							}
 						}
 						else = { 
-							if = { limit = {growth_rate<-15.0 }
-								if = { limit = {growth_rate<-21.0 }
-									if = { limit = {growth_rate<-24.0 }
-										if = { limit = {growth_rate<-26.0 }
-											add_permanent_province_modifier = { name = pop_growthn27}
+							if = { limit = {growth_rate<-23.0 }
+								if = { limit = {growth_rate<-29.0 }
+									if = { limit = {growth_rate<-32.0 }
+										if = { limit = {growth_rate<-33.0 }
+											add_permanent_province_modifier = { name = pop_growthn34}
 										}
 										else = { 
-											if = { limit = {growth_rate<-25.0 }
-												add_permanent_province_modifier = { name = pop_growthn26}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growthn25}
-											}
+											add_permanent_province_modifier = { name = pop_growthn33}
 										}
 									}
 									else = { 
-										if = { limit = {growth_rate<-23.0 }
-											add_permanent_province_modifier = { name = pop_growthn24}
+										if = { limit = {growth_rate<-31.0 }
+											add_permanent_province_modifier = { name = pop_growthn32}
 										}
 										else = { 
-											if = { limit = {growth_rate<-22.0 }
-												add_permanent_province_modifier = { name = pop_growthn23}
+											if = { limit = {growth_rate<-30.0 }
+												add_permanent_province_modifier = { name = pop_growthn31}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growthn22}
+												add_permanent_province_modifier = { name = pop_growthn30}
 											}
 										}
 									}
 								}
 								else = { 
-									if = { limit = {growth_rate<-18.0 }
+									if = { limit = {growth_rate<-26.0 }
+										if = { limit = {growth_rate<-28.0 }
+											add_permanent_province_modifier = { name = pop_growthn29}
+										}
+										else = { 
+											if = { limit = {growth_rate<-27.0 }
+												add_permanent_province_modifier = { name = pop_growthn28}
+											}
+											else = { 
+												add_permanent_province_modifier = { name = pop_growthn27}
+											}
+										}
+									}
+									else = { 
+										if = { limit = {growth_rate<-25.0 }
+											add_permanent_province_modifier = { name = pop_growthn26}
+										}
+										else = { 
+											if = { limit = {growth_rate<-24.0 }
+												add_permanent_province_modifier = { name = pop_growthn25}
+											}
+											else = { 
+												add_permanent_province_modifier = { name = pop_growthn24}
+											}
+										}
+									}
+								}
+							}
+							else = { 
+								if = { limit = {growth_rate<-18.0 }
+									if = { limit = {growth_rate<-21.0 }
+										if = { limit = {growth_rate<-22.0 }
+											add_permanent_province_modifier = { name = pop_growthn23}
+										}
+										else = { 
+											add_permanent_province_modifier = { name = pop_growthn22}
+										}
+									}
+									else = { 
 										if = { limit = {growth_rate<-20.0 }
 											add_permanent_province_modifier = { name = pop_growthn21}
 										}
@@ -1227,7 +1125,9 @@ update_pop_growth.1 = {
 											}
 										}
 									}
-									else = { 
+								}
+								else = { 
+									if = { limit = {growth_rate<-15.0 }
 										if = { limit = {growth_rate<-17.0 }
 											add_permanent_province_modifier = { name = pop_growthn18}
 										}
@@ -1240,11 +1140,7 @@ update_pop_growth.1 = {
 											}
 										}
 									}
-								}
-							}
-							else = { 
-								if = { limit = {growth_rate<-9.9 }
-									if = { limit = {growth_rate<-12.0 }
+									else = { 
 										if = { limit = {growth_rate<-14.0 }
 											add_permanent_province_modifier = { name = pop_growthn15}
 										}
@@ -1257,36 +1153,44 @@ update_pop_growth.1 = {
 											}
 										}
 									}
-									else = { 
+								}
+							}
+						}
+					}
+				}
+				else = { 
+					if = { limit = {growth_rate<-5.8 }
+						if = { limit = {growth_rate<-8.0 }
+							if = { limit = {growth_rate<-9.1 }
+								if = { limit = {growth_rate<-9.7 }
+									if = { limit = {growth_rate<-10.0 }
 										if = { limit = {growth_rate<-11.0 }
 											add_permanent_province_modifier = { name = pop_growthn12}
 										}
 										else = { 
-											if = { limit = {growth_rate<-10.0 }
-												add_permanent_province_modifier = { name = pop_growthn11}
+											add_permanent_province_modifier = { name = pop_growthn11}
+										}
+									}
+									else = { 
+										if = { limit = {growth_rate<-9.9 }
+											add_permanent_province_modifier = { name = pop_growthn10_0}
+										}
+										else = { 
+											if = { limit = {growth_rate<-9.8 }
+												add_permanent_province_modifier = { name = pop_growthn9_9}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growthn10_0}
+												add_permanent_province_modifier = { name = pop_growthn9_8}
 											}
 										}
 									}
 								}
 								else = { 
-									if = { limit = {growth_rate<-9.6 }
-										if = { limit = {growth_rate<-9.8 }
-											add_permanent_province_modifier = { name = pop_growthn9_9}
+									if = { limit = {growth_rate<-9.4 }
+										if = { limit = {growth_rate<-9.6 }
+											add_permanent_province_modifier = { name = pop_growthn9_70}
 										}
 										else = { 
-											if = { limit = {growth_rate<-9.7 }
-												add_permanent_province_modifier = { name = pop_growthn9_8}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growthn9_70}
-											}
-										}
-									}
-									else = { 
-										if = { limit = {growth_rate<-9.4 }
 											if = { limit = {growth_rate<-9.5 }
 												add_permanent_province_modifier = { name = pop_growthn9_60}
 											}
@@ -1294,36 +1198,30 @@ update_pop_growth.1 = {
 												add_permanent_province_modifier = { name = pop_growthn9_5}
 											}
 										}
+									}
+									else = { 
+										if = { limit = {growth_rate<-9.3 }
+											add_permanent_province_modifier = { name = pop_growthn9_4}
+										}
 										else = { 
-											if = { limit = {growth_rate<-9.3 }
-												add_permanent_province_modifier = { name = pop_growthn9_4}
+											if = { limit = {growth_rate<-9.2 }
+												add_permanent_province_modifier = { name = pop_growthn9_3}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growthn9_3}
+												add_permanent_province_modifier = { name = pop_growthn9_20}
 											}
 										}
 									}
 								}
 							}
-						}
-					}
-				}
-				else = { 
-					if = { limit = {growth_rate<-4.3 }
-						if = { limit = {growth_rate<-6.8 }
-							if = { limit = {growth_rate<-8.0 }
+							else = { 
 								if = { limit = {growth_rate<-8.6 }
 									if = { limit = {growth_rate<-8.9 }
-										if = { limit = {growth_rate<-9.1 }
-											add_permanent_province_modifier = { name = pop_growthn9_20}
+										if = { limit = {growth_rate<-9.0 }
+											add_permanent_province_modifier = { name = pop_growthn9_1}
 										}
 										else = { 
-											if = { limit = {growth_rate<-9.0 }
-												add_permanent_province_modifier = { name = pop_growthn9_1}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growthn9_0}
-											}
+											add_permanent_province_modifier = { name = pop_growthn9_0}
 										}
 									}
 									else = { 
@@ -1369,127 +1267,129 @@ update_pop_growth.1 = {
 									}
 								}
 							}
-							else = { 
-								if = { limit = {growth_rate<-7.4 }
-									if = { limit = {growth_rate<-7.7 }
+						}
+						else = { 
+							if = { limit = {growth_rate<-6.9 }
+								if = { limit = {growth_rate<-7.5 }
+									if = { limit = {growth_rate<-7.8 }
 										if = { limit = {growth_rate<-7.9 }
 											add_permanent_province_modifier = { name = pop_growthn8_0}
 										}
 										else = { 
-											if = { limit = {growth_rate<-7.8 }
-												add_permanent_province_modifier = { name = pop_growthn7_9}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growthn7_80}
-											}
+											add_permanent_province_modifier = { name = pop_growthn7_9}
 										}
 									}
 									else = { 
-										if = { limit = {growth_rate<-7.6 }
-											add_permanent_province_modifier = { name = pop_growthn7_7}
+										if = { limit = {growth_rate<-7.7 }
+											add_permanent_province_modifier = { name = pop_growthn7_80}
 										}
 										else = { 
-											if = { limit = {growth_rate<-7.5 }
-												add_permanent_province_modifier = { name = pop_growthn7_60}
+											if = { limit = {growth_rate<-7.6 }
+												add_permanent_province_modifier = { name = pop_growthn7_7}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growthn7_5}
+												add_permanent_province_modifier = { name = pop_growthn7_60}
 											}
 										}
 									}
 								}
 								else = { 
-									if = { limit = {growth_rate<-7.1 }
-										if = { limit = {growth_rate<-7.3 }
-											add_permanent_province_modifier = { name = pop_growthn7_4}
+									if = { limit = {growth_rate<-7.2 }
+										if = { limit = {growth_rate<-7.4 }
+											add_permanent_province_modifier = { name = pop_growthn7_5}
 										}
 										else = { 
-											if = { limit = {growth_rate<-7.2 }
-												add_permanent_province_modifier = { name = pop_growthn7_30}
+											if = { limit = {growth_rate<-7.3 }
+												add_permanent_province_modifier = { name = pop_growthn7_4}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growthn7_2}
+												add_permanent_province_modifier = { name = pop_growthn7_30}
 											}
 										}
 									}
 									else = { 
-										if = { limit = {growth_rate<-7.0 }
-											add_permanent_province_modifier = { name = pop_growthn7_10}
+										if = { limit = {growth_rate<-7.1 }
+											add_permanent_province_modifier = { name = pop_growthn7_2}
 										}
 										else = { 
-											if = { limit = {growth_rate<-6.9 }
-												add_permanent_province_modifier = { name = pop_growthn7_0}
+											if = { limit = {growth_rate<-7.0 }
+												add_permanent_province_modifier = { name = pop_growthn7_10}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growthn6_9}
+												add_permanent_province_modifier = { name = pop_growthn7_0}
+											}
+										}
+									}
+								}
+							}
+							else = { 
+								if = { limit = {growth_rate<-6.4 }
+									if = { limit = {growth_rate<-6.7 }
+										if = { limit = {growth_rate<-6.8 }
+											add_permanent_province_modifier = { name = pop_growthn6_9}
+										}
+										else = { 
+											add_permanent_province_modifier = { name = pop_growthn6_80}
+										}
+									}
+									else = { 
+										if = { limit = {growth_rate<-6.6 }
+											add_permanent_province_modifier = { name = pop_growthn6_7}
+										}
+										else = { 
+											if = { limit = {growth_rate<-6.5 }
+												add_permanent_province_modifier = { name = pop_growthn6_60}
+											}
+											else = { 
+												add_permanent_province_modifier = { name = pop_growthn6_5}
+											}
+										}
+									}
+								}
+								else = { 
+									if = { limit = {growth_rate<-6.1 }
+										if = { limit = {growth_rate<-6.3 }
+											add_permanent_province_modifier = { name = pop_growthn6_4}
+										}
+										else = { 
+											if = { limit = {growth_rate<-6.2 }
+												add_permanent_province_modifier = { name = pop_growthn6_30}
+											}
+											else = { 
+												add_permanent_province_modifier = { name = pop_growthn6_2}
+											}
+										}
+									}
+									else = { 
+										if = { limit = {growth_rate<-6.0 }
+											add_permanent_province_modifier = { name = pop_growthn6_10}
+										}
+										else = { 
+											if = { limit = {growth_rate<-5.9 }
+												add_permanent_province_modifier = { name = pop_growthn6_0}
+											}
+											else = { 
+												add_permanent_province_modifier = { name = pop_growthn5_9}
 											}
 										}
 									}
 								}
 							}
 						}
-						else = { 
-							if = { limit = {growth_rate<-5.6 }
-								if = { limit = {growth_rate<-6.2 }
-									if = { limit = {growth_rate<-6.5 }
-										if = { limit = {growth_rate<-6.7 }
-											add_permanent_province_modifier = { name = pop_growthn6_80}
+					}
+					else = { 
+						if = { limit = {growth_rate<-3.6 }
+							if = { limit = {growth_rate<-4.7 }
+								if = { limit = {growth_rate<-5.3 }
+									if = { limit = {growth_rate<-5.6 }
+										if = { limit = {growth_rate<-5.7 }
+											add_permanent_province_modifier = { name = pop_growthn5_80}
 										}
 										else = { 
-											if = { limit = {growth_rate<-6.6 }
-												add_permanent_province_modifier = { name = pop_growthn6_7}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growthn6_60}
-											}
+											add_permanent_province_modifier = { name = pop_growthn5_7}
 										}
 									}
 									else = { 
-										if = { limit = {growth_rate<-6.4 }
-											add_permanent_province_modifier = { name = pop_growthn6_5}
-										}
-										else = { 
-											if = { limit = {growth_rate<-6.3 }
-												add_permanent_province_modifier = { name = pop_growthn6_4}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growthn6_30}
-											}
-										}
-									}
-								}
-								else = { 
-									if = { limit = {growth_rate<-5.9 }
-										if = { limit = {growth_rate<-6.1 }
-											add_permanent_province_modifier = { name = pop_growthn6_2}
-										}
-										else = { 
-											if = { limit = {growth_rate<-6.0 }
-												add_permanent_province_modifier = { name = pop_growthn6_10}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growthn6_0}
-											}
-										}
-									}
-									else = { 
-										if = { limit = {growth_rate<-5.8 }
-											add_permanent_province_modifier = { name = pop_growthn5_9}
-										}
-										else = { 
-											if = { limit = {growth_rate<-5.7 }
-												add_permanent_province_modifier = { name = pop_growthn5_80}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growthn5_7}
-											}
-										}
-									}
-								}
-							}
-							else = { 
-								if = { limit = {growth_rate<-5.0 }
-									if = { limit = {growth_rate<-5.3 }
 										if = { limit = {growth_rate<-5.5 }
 											add_permanent_province_modifier = { name = pop_growthn5_60}
 										}
@@ -1502,7 +1402,9 @@ update_pop_growth.1 = {
 											}
 										}
 									}
-									else = { 
+								}
+								else = { 
+									if = { limit = {growth_rate<-5.0 }
 										if = { limit = {growth_rate<-5.2 }
 											add_permanent_province_modifier = { name = pop_growthn5_30}
 										}
@@ -1515,9 +1417,7 @@ update_pop_growth.1 = {
 											}
 										}
 									}
-								}
-								else = { 
-									if = { limit = {growth_rate<-4.7 }
+									else = { 
 										if = { limit = {growth_rate<-4.9 }
 											add_permanent_province_modifier = { name = pop_growthn5_0}
 										}
@@ -1530,71 +1430,71 @@ update_pop_growth.1 = {
 											}
 										}
 									}
-									else = { 
-										if = { limit = {growth_rate<-4.5 }
-											if = { limit = {growth_rate<-4.6 }
-												add_permanent_province_modifier = { name = pop_growthn4_7}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growthn4_60}
-											}
+								}
+							}
+							else = { 
+								if = { limit = {growth_rate<-4.2 }
+									if = { limit = {growth_rate<-4.5 }
+										if = { limit = {growth_rate<-4.6 }
+											add_permanent_province_modifier = { name = pop_growthn4_7}
 										}
 										else = { 
-											if = { limit = {growth_rate<-4.4 }
-												add_permanent_province_modifier = { name = pop_growthn4_5}
+											add_permanent_province_modifier = { name = pop_growthn4_60}
+										}
+									}
+									else = { 
+										if = { limit = {growth_rate<-4.4 }
+											add_permanent_province_modifier = { name = pop_growthn4_5}
+										}
+										else = { 
+											if = { limit = {growth_rate<-4.3 }
+												add_permanent_province_modifier = { name = pop_growthn4_4}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growthn4_4}
+												add_permanent_province_modifier = { name = pop_growthn4_3}
+											}
+										}
+									}
+								}
+								else = { 
+									if = { limit = {growth_rate<-3.9 }
+										if = { limit = {growth_rate<-4.1 }
+											add_permanent_province_modifier = { name = pop_growthn4_2}
+										}
+										else = { 
+											if = { limit = {growth_rate<-4.0 }
+												add_permanent_province_modifier = { name = pop_growthn4_10}
+											}
+											else = { 
+												add_permanent_province_modifier = { name = pop_growthn4_0}
+											}
+										}
+									}
+									else = { 
+										if = { limit = {growth_rate<-3.8 }
+											add_permanent_province_modifier = { name = pop_growthn3_90}
+										}
+										else = { 
+											if = { limit = {growth_rate<-3.7 }
+												add_permanent_province_modifier = { name = pop_growthn3_80}
+											}
+											else = { 
+												add_permanent_province_modifier = { name = pop_growthn3_7}
 											}
 										}
 									}
 								}
 							}
 						}
-					}
-					else = { 
-						if = { limit = {growth_rate<-1.9 }
-							if = { limit = {growth_rate<-3.1 }
-								if = { limit = {growth_rate<-3.7 }
-									if = { limit = {growth_rate<-4.0 }
-										if = { limit = {growth_rate<-4.2 }
-											add_permanent_province_modifier = { name = pop_growthn4_3}
-										}
-										else = { 
-											if = { limit = {growth_rate<-4.1 }
-												add_permanent_province_modifier = { name = pop_growthn4_2}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growthn4_10}
-											}
-										}
-									}
-									else = { 
-										if = { limit = {growth_rate<-3.9 }
-											add_permanent_province_modifier = { name = pop_growthn4_0}
-										}
-										else = { 
-											if = { limit = {growth_rate<-3.8 }
-												add_permanent_province_modifier = { name = pop_growthn3_90}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growthn3_80}
-											}
-										}
-									}
-								}
-								else = { 
+						else = { 
+							if = { limit = {growth_rate<-2.5 }
+								if = { limit = {growth_rate<-3.1 }
 									if = { limit = {growth_rate<-3.4 }
-										if = { limit = {growth_rate<-3.6 }
-											add_permanent_province_modifier = { name = pop_growthn3_7}
+										if = { limit = {growth_rate<-3.5 }
+											add_permanent_province_modifier = { name = pop_growthn3_6}
 										}
 										else = { 
-											if = { limit = {growth_rate<-3.5 }
-												add_permanent_province_modifier = { name = pop_growthn3_6}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growthn3_5}
-											}
+											add_permanent_province_modifier = { name = pop_growthn3_5}
 										}
 									}
 									else = { 
@@ -1611,9 +1511,7 @@ update_pop_growth.1 = {
 										}
 									}
 								}
-							}
-							else = { 
-								if = { limit = {growth_rate<-2.5 }
+								else = { 
 									if = { limit = {growth_rate<-2.8 }
 										if = { limit = {growth_rate<-3.0 }
 											add_permanent_province_modifier = { name = pop_growthn3_1}
@@ -1641,7 +1539,9 @@ update_pop_growth.1 = {
 										}
 									}
 								}
-								else = { 
+							}
+							else = { 
+								if = { limit = {growth_rate<-1.9 }
 									if = { limit = {growth_rate<-2.2 }
 										if = { limit = {growth_rate<-2.4 }
 											add_permanent_province_modifier = { name = pop_growthn2_5}
@@ -1669,11 +1569,7 @@ update_pop_growth.1 = {
 										}
 									}
 								}
-							}
-						}
-						else = { 
-							if = { limit = {growth_rate<-1.42 }
-								if = { limit = {growth_rate<-1.48 }
+								else = { 
 									if = { limit = {growth_rate<-1.6 }
 										if = { limit = {growth_rate<-1.8 }
 											add_permanent_province_modifier = { name = pop_growthn1_90}
@@ -1701,86 +1597,96 @@ update_pop_growth.1 = {
 										}
 									}
 								}
-								else = { 
-									if = { limit = {growth_rate<-1.45 }
+							}
+						}
+					}
+				}
+			}
+			else = { 
+				if = { limit = {growth_rate<-0.59 }
+					if = { limit = {growth_rate<-1.04 }
+						if = { limit = {growth_rate<-1.26 }
+							if = { limit = {growth_rate<-1.37 }
+								if = { limit = {growth_rate<-1.43 }
+									if = { limit = {growth_rate<-1.46 }
 										if = { limit = {growth_rate<-1.47 }
 											add_permanent_province_modifier = { name = pop_growthn1_48}
 										}
 										else = { 
-											if = { limit = {growth_rate<-1.46 }
-												add_permanent_province_modifier = { name = pop_growthn1_47}
+											add_permanent_province_modifier = { name = pop_growthn1_47}
+										}
+									}
+									else = { 
+										if = { limit = {growth_rate<-1.45 }
+											add_permanent_province_modifier = { name = pop_growthn1_46}
+										}
+										else = { 
+											if = { limit = {growth_rate<-1.44 }
+												add_permanent_province_modifier = { name = pop_growthn1_45}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growthn1_46}
+												add_permanent_province_modifier = { name = pop_growthn1_44}
+											}
+										}
+									}
+								}
+								else = { 
+									if = { limit = {growth_rate<-1.4 }
+										if = { limit = {growth_rate<-1.42 }
+											add_permanent_province_modifier = { name = pop_growthn1_43}
+										}
+										else = { 
+											if = { limit = {growth_rate<-1.41 }
+												add_permanent_province_modifier = { name = pop_growthn1_42}
+											}
+											else = { 
+												add_permanent_province_modifier = { name = pop_growthn1_41}
 											}
 										}
 									}
 									else = { 
-										if = { limit = {growth_rate<-1.44 }
-											add_permanent_province_modifier = { name = pop_growthn1_45}
+										if = { limit = {growth_rate<-1.39 }
+											add_permanent_province_modifier = { name = pop_growthn1_40}
 										}
 										else = { 
-											if = { limit = {growth_rate<-1.43 }
-												add_permanent_province_modifier = { name = pop_growthn1_44}
+											if = { limit = {growth_rate<-1.38 }
+												add_permanent_province_modifier = { name = pop_growthn1_39}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growthn1_43}
+												add_permanent_province_modifier = { name = pop_growthn1_38}
 											}
 										}
 									}
 								}
 							}
 							else = { 
-								if = { limit = {growth_rate<-1.36 }
-									if = { limit = {growth_rate<-1.39 }
-										if = { limit = {growth_rate<-1.41 }
-											add_permanent_province_modifier = { name = pop_growthn1_42}
+								if = { limit = {growth_rate<-1.32 }
+									if = { limit = {growth_rate<-1.35 }
+										if = { limit = {growth_rate<-1.36 }
+											add_permanent_province_modifier = { name = pop_growthn1_37}
 										}
 										else = { 
-											if = { limit = {growth_rate<-1.4 }
-												add_permanent_province_modifier = { name = pop_growthn1_41}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growthn1_40}
-											}
+											add_permanent_province_modifier = { name = pop_growthn1_36}
 										}
 									}
 									else = { 
-										if = { limit = {growth_rate<-1.38 }
-											add_permanent_province_modifier = { name = pop_growthn1_39}
+										if = { limit = {growth_rate<-1.34 }
+											add_permanent_province_modifier = { name = pop_growthn1_35}
 										}
 										else = { 
-											if = { limit = {growth_rate<-1.37 }
-												add_permanent_province_modifier = { name = pop_growthn1_38}
+											if = { limit = {growth_rate<-1.33 }
+												add_permanent_province_modifier = { name = pop_growthn1_34}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growthn1_37}
+												add_permanent_province_modifier = { name = pop_growthn1_33}
 											}
 										}
 									}
 								}
 								else = { 
-									if = { limit = {growth_rate<-1.33 }
-										if = { limit = {growth_rate<-1.35 }
-											add_permanent_province_modifier = { name = pop_growthn1_36}
-										}
-										else = { 
-											if = { limit = {growth_rate<-1.34 }
-												add_permanent_province_modifier = { name = pop_growthn1_35}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growthn1_34}
-											}
-										}
-									}
-									else = { 
+									if = { limit = {growth_rate<-1.29 }
 										if = { limit = {growth_rate<-1.31 }
-											if = { limit = {growth_rate<-1.32 }
-												add_permanent_province_modifier = { name = pop_growthn1_33}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growthn1_32}
-											}
+											add_permanent_province_modifier = { name = pop_growthn1_32}
 										}
 										else = { 
 											if = { limit = {growth_rate<-1.3 }
@@ -1791,19 +1697,7 @@ update_pop_growth.1 = {
 											}
 										}
 									}
-								}
-							}
-						}
-					}
-				}
-			}
-			else = { 
-				if = { limit = {growth_rate<-0.31 }
-					if = { limit = {growth_rate<-0.8 }
-						if = { limit = {growth_rate<-1.05 }
-							if = { limit = {growth_rate<-1.17 }
-								if = { limit = {growth_rate<-1.23 }
-									if = { limit = {growth_rate<-1.26 }
+									else = { 
 										if = { limit = {growth_rate<-1.28 }
 											add_permanent_province_modifier = { name = pop_growthn1_29}
 										}
@@ -1816,122 +1710,128 @@ update_pop_growth.1 = {
 											}
 										}
 									}
-									else = { 
+								}
+							}
+						}
+						else = { 
+							if = { limit = {growth_rate<-1.15 }
+								if = { limit = {growth_rate<-1.21 }
+									if = { limit = {growth_rate<-1.24 }
 										if = { limit = {growth_rate<-1.25 }
 											add_permanent_province_modifier = { name = pop_growthn1_26}
 										}
 										else = { 
-											if = { limit = {growth_rate<-1.24 }
-												add_permanent_province_modifier = { name = pop_growthn1_25}
+											add_permanent_province_modifier = { name = pop_growthn1_25}
+										}
+									}
+									else = { 
+										if = { limit = {growth_rate<-1.23 }
+											add_permanent_province_modifier = { name = pop_growthn1_24}
+										}
+										else = { 
+											if = { limit = {growth_rate<-1.22 }
+												add_permanent_province_modifier = { name = pop_growthn1_23}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growthn1_24}
+												add_permanent_province_modifier = { name = pop_growthn1_22}
 											}
 										}
 									}
 								}
 								else = { 
-									if = { limit = {growth_rate<-1.2 }
-										if = { limit = {growth_rate<-1.22 }
-											add_permanent_province_modifier = { name = pop_growthn1_23}
+									if = { limit = {growth_rate<-1.18 }
+										if = { limit = {growth_rate<-1.2 }
+											add_permanent_province_modifier = { name = pop_growthn1_21}
 										}
 										else = { 
-											if = { limit = {growth_rate<-1.21 }
-												add_permanent_province_modifier = { name = pop_growthn1_22}
+											if = { limit = {growth_rate<-1.19 }
+												add_permanent_province_modifier = { name = pop_growthn1_2}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growthn1_21}
+												add_permanent_province_modifier = { name = pop_growthn1_19}
 											}
 										}
 									}
 									else = { 
-										if = { limit = {growth_rate<-1.19 }
-											add_permanent_province_modifier = { name = pop_growthn1_2}
+										if = { limit = {growth_rate<-1.17 }
+											add_permanent_province_modifier = { name = pop_growthn1_18}
 										}
 										else = { 
-											if = { limit = {growth_rate<-1.18 }
-												add_permanent_province_modifier = { name = pop_growthn1_19}
+											if = { limit = {growth_rate<-1.16 }
+												add_permanent_province_modifier = { name = pop_growthn1_17}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growthn1_18}
+												add_permanent_province_modifier = { name = pop_growthn1_16}
 											}
 										}
 									}
 								}
 							}
 							else = { 
-								if = { limit = {growth_rate<-1.11 }
-									if = { limit = {growth_rate<-1.14 }
-										if = { limit = {growth_rate<-1.16 }
-											add_permanent_province_modifier = { name = pop_growthn1_17}
+								if = { limit = {growth_rate<-1.1 }
+									if = { limit = {growth_rate<-1.13 }
+										if = { limit = {growth_rate<-1.14 }
+											add_permanent_province_modifier = { name = pop_growthn1_15}
 										}
 										else = { 
-											if = { limit = {growth_rate<-1.15 }
-												add_permanent_province_modifier = { name = pop_growthn1_16}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growthn1_15}
-											}
+											add_permanent_province_modifier = { name = pop_growthn1_14}
 										}
 									}
 									else = { 
-										if = { limit = {growth_rate<-1.13 }
-											add_permanent_province_modifier = { name = pop_growthn1_14}
+										if = { limit = {growth_rate<-1.12 }
+											add_permanent_province_modifier = { name = pop_growthn1_13}
 										}
 										else = { 
-											if = { limit = {growth_rate<-1.12 }
-												add_permanent_province_modifier = { name = pop_growthn1_13}
+											if = { limit = {growth_rate<-1.11 }
+												add_permanent_province_modifier = { name = pop_growthn1_12}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growthn1_12}
+												add_permanent_province_modifier = { name = pop_growthn1_11}
 											}
 										}
 									}
 								}
 								else = { 
-									if = { limit = {growth_rate<-1.08 }
-										if = { limit = {growth_rate<-1.1 }
-											add_permanent_province_modifier = { name = pop_growthn1_11}
+									if = { limit = {growth_rate<-1.07 }
+										if = { limit = {growth_rate<-1.09 }
+											add_permanent_province_modifier = { name = pop_growthn1_1}
 										}
 										else = { 
-											if = { limit = {growth_rate<-1.09 }
-												add_permanent_province_modifier = { name = pop_growthn1_1}
+											if = { limit = {growth_rate<-1.08 }
+												add_permanent_province_modifier = { name = pop_growthn1_09}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growthn1_09}
+												add_permanent_province_modifier = { name = pop_growthn1_08}
 											}
 										}
 									}
 									else = { 
-										if = { limit = {growth_rate<-1.07 }
-											add_permanent_province_modifier = { name = pop_growthn1_08}
+										if = { limit = {growth_rate<-1.06 }
+											add_permanent_province_modifier = { name = pop_growthn1_07}
 										}
 										else = { 
-											if = { limit = {growth_rate<-1.06 }
-												add_permanent_province_modifier = { name = pop_growthn1_07}
+											if = { limit = {growth_rate<-1.05 }
+												add_permanent_province_modifier = { name = pop_growthn1_06}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growthn1_06}
+												add_permanent_province_modifier = { name = pop_growthn1_05}
 											}
 										}
 									}
 								}
 							}
 						}
-						else = { 
+					}
+					else = { 
+						if = { limit = {growth_rate<-0.82 }
 							if = { limit = {growth_rate<-0.93 }
 								if = { limit = {growth_rate<-0.99 }
 									if = { limit = {growth_rate<-1.02 }
-										if = { limit = {growth_rate<-1.04 }
-											add_permanent_province_modifier = { name = pop_growthn1_05}
+										if = { limit = {growth_rate<-1.03 }
+											add_permanent_province_modifier = { name = pop_growthn1_04}
 										}
 										else = { 
-											if = { limit = {growth_rate<-1.03 }
-												add_permanent_province_modifier = { name = pop_growthn1_04}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growthn1_03}
-											}
+											add_permanent_province_modifier = { name = pop_growthn1_03}
 										}
 									}
 									else = { 
@@ -1978,50 +1878,48 @@ update_pop_growth.1 = {
 								}
 							}
 							else = { 
-								if = { limit = {growth_rate<-0.87 }
-									if = { limit = {growth_rate<-0.9 }
+								if = { limit = {growth_rate<-0.88 }
+									if = { limit = {growth_rate<-0.91 }
 										if = { limit = {growth_rate<-0.92 }
 											add_permanent_province_modifier = { name = pop_growthn0_93}
 										}
 										else = { 
-											if = { limit = {growth_rate<-0.91 }
-												add_permanent_province_modifier = { name = pop_growthn0_92}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growthn0_91}
-											}
+											add_permanent_province_modifier = { name = pop_growthn0_92}
 										}
 									}
 									else = { 
-										if = { limit = {growth_rate<-0.89 }
-											add_permanent_province_modifier = { name = pop_growthn0_9}
+										if = { limit = {growth_rate<-0.9 }
+											add_permanent_province_modifier = { name = pop_growthn0_91}
 										}
 										else = { 
-											if = { limit = {growth_rate<-0.88 }
-												add_permanent_province_modifier = { name = pop_growthn0_89}
+											if = { limit = {growth_rate<-0.89 }
+												add_permanent_province_modifier = { name = pop_growthn0_9}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growthn0_88}
+												add_permanent_province_modifier = { name = pop_growthn0_89}
 											}
 										}
 									}
 								}
 								else = { 
-									if = { limit = {growth_rate<-0.84 }
-										if = { limit = {growth_rate<-0.86 }
-											add_permanent_province_modifier = { name = pop_growthn0_87}
+									if = { limit = {growth_rate<-0.85 }
+										if = { limit = {growth_rate<-0.87 }
+											add_permanent_province_modifier = { name = pop_growthn0_88}
 										}
 										else = { 
-											if = { limit = {growth_rate<-0.85 }
-												add_permanent_province_modifier = { name = pop_growthn0_86}
+											if = { limit = {growth_rate<-0.86 }
+												add_permanent_province_modifier = { name = pop_growthn0_87}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growthn0_85}
+												add_permanent_province_modifier = { name = pop_growthn0_86}
 											}
 										}
 									}
 									else = { 
-										if = { limit = {growth_rate<-0.82 }
+										if = { limit = {growth_rate<-0.84 }
+											add_permanent_province_modifier = { name = pop_growthn0_85}
+										}
+										else = { 
 											if = { limit = {growth_rate<-0.83 }
 												add_permanent_province_modifier = { name = pop_growthn0_84}
 											}
@@ -2029,24 +1927,22 @@ update_pop_growth.1 = {
 												add_permanent_province_modifier = { name = pop_growthn0_83}
 											}
 										}
-										else = { 
-											if = { limit = {growth_rate<-0.81 }
-												add_permanent_province_modifier = { name = pop_growthn0_82}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growthn0_81}
-											}
-										}
 									}
 								}
 							}
 						}
-					}
-					else = { 
-						if = { limit = {growth_rate<-0.56 }
-							if = { limit = {growth_rate<-0.68 }
-								if = { limit = {growth_rate<-0.74 }
-									if = { limit = {growth_rate<-0.77 }
+						else = { 
+							if = { limit = {growth_rate<-0.71 }
+								if = { limit = {growth_rate<-0.77 }
+									if = { limit = {growth_rate<-0.8 }
+										if = { limit = {growth_rate<-0.81 }
+											add_permanent_province_modifier = { name = pop_growthn0_82}
+										}
+										else = { 
+											add_permanent_province_modifier = { name = pop_growthn0_81}
+										}
+									}
+									else = { 
 										if = { limit = {growth_rate<-0.79 }
 											add_permanent_province_modifier = { name = pop_growthn0_8}
 										}
@@ -2059,7 +1955,9 @@ update_pop_growth.1 = {
 											}
 										}
 									}
-									else = { 
+								}
+								else = { 
+									if = { limit = {growth_rate<-0.74 }
 										if = { limit = {growth_rate<-0.76 }
 											add_permanent_province_modifier = { name = pop_growthn0_77}
 										}
@@ -2072,9 +1970,7 @@ update_pop_growth.1 = {
 											}
 										}
 									}
-								}
-								else = { 
-									if = { limit = {growth_rate<-0.71 }
+									else = { 
 										if = { limit = {growth_rate<-0.73 }
 											add_permanent_province_modifier = { name = pop_growthn0_74}
 										}
@@ -2087,7 +1983,11 @@ update_pop_growth.1 = {
 											}
 										}
 									}
-									else = { 
+								}
+							}
+							else = { 
+								if = { limit = {growth_rate<-0.65 }
+									if = { limit = {growth_rate<-0.68 }
 										if = { limit = {growth_rate<-0.7 }
 											add_permanent_province_modifier = { name = pop_growthn0_71}
 										}
@@ -2100,11 +2000,7 @@ update_pop_growth.1 = {
 											}
 										}
 									}
-								}
-							}
-							else = { 
-								if = { limit = {growth_rate<-0.62 }
-									if = { limit = {growth_rate<-0.65 }
+									else = { 
 										if = { limit = {growth_rate<-0.67 }
 											add_permanent_province_modifier = { name = pop_growthn0_68}
 										}
@@ -2117,7 +2013,9 @@ update_pop_growth.1 = {
 											}
 										}
 									}
-									else = { 
+								}
+								else = { 
+									if = { limit = {growth_rate<-0.62 }
 										if = { limit = {growth_rate<-0.64 }
 											add_permanent_province_modifier = { name = pop_growthn0_65}
 										}
@@ -2130,9 +2028,7 @@ update_pop_growth.1 = {
 											}
 										}
 									}
-								}
-								else = { 
-									if = { limit = {growth_rate<-0.59 }
+									else = { 
 										if = { limit = {growth_rate<-0.61 }
 											add_permanent_province_modifier = { name = pop_growthn0_62}
 										}
@@ -2145,16 +2041,115 @@ update_pop_growth.1 = {
 											}
 										}
 									}
-									else = { 
+								}
+							}
+						}
+					}
+				}
+				else = { 
+					if = { limit = {growth_rate<-0.15 }
+						if = { limit = {growth_rate<-0.37 }
+							if = { limit = {growth_rate<-0.48 }
+								if = { limit = {growth_rate<-0.54 }
+									if = { limit = {growth_rate<-0.57 }
 										if = { limit = {growth_rate<-0.58 }
 											add_permanent_province_modifier = { name = pop_growthn0_59}
 										}
 										else = { 
-											if = { limit = {growth_rate<-0.57 }
-												add_permanent_province_modifier = { name = pop_growthn0_58}
+											add_permanent_province_modifier = { name = pop_growthn0_58}
+										}
+									}
+									else = { 
+										if = { limit = {growth_rate<-0.56 }
+											add_permanent_province_modifier = { name = pop_growthn0_57}
+										}
+										else = { 
+											if = { limit = {growth_rate<-0.55 }
+												add_permanent_province_modifier = { name = pop_growthn0_56}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growthn0_57}
+												add_permanent_province_modifier = { name = pop_growthn0_55}
+											}
+										}
+									}
+								}
+								else = { 
+									if = { limit = {growth_rate<-0.51 }
+										if = { limit = {growth_rate<-0.53 }
+											add_permanent_province_modifier = { name = pop_growthn0_54}
+										}
+										else = { 
+											if = { limit = {growth_rate<-0.52 }
+												add_permanent_province_modifier = { name = pop_growthn0_53}
+											}
+											else = { 
+												add_permanent_province_modifier = { name = pop_growthn0_52}
+											}
+										}
+									}
+									else = { 
+										if = { limit = {growth_rate<-0.5 }
+											add_permanent_province_modifier = { name = pop_growthn0_51}
+										}
+										else = { 
+											if = { limit = {growth_rate<-0.49 }
+												add_permanent_province_modifier = { name = pop_growthn0_5}
+											}
+											else = { 
+												add_permanent_province_modifier = { name = pop_growthn0_49}
+											}
+										}
+									}
+								}
+							}
+							else = { 
+								if = { limit = {growth_rate<-0.43 }
+									if = { limit = {growth_rate<-0.46 }
+										if = { limit = {growth_rate<-0.47 }
+											add_permanent_province_modifier = { name = pop_growthn0_48}
+										}
+										else = { 
+											add_permanent_province_modifier = { name = pop_growthn0_47}
+										}
+									}
+									else = { 
+										if = { limit = {growth_rate<-0.45 }
+											add_permanent_province_modifier = { name = pop_growthn0_46}
+										}
+										else = { 
+											if = { limit = {growth_rate<-0.44 }
+												add_permanent_province_modifier = { name = pop_growthn0_45}
+											}
+											else = { 
+												add_permanent_province_modifier = { name = pop_growthn0_44}
+											}
+										}
+									}
+								}
+								else = { 
+									if = { limit = {growth_rate<-0.4 }
+										if = { limit = {growth_rate<-0.42 }
+											add_permanent_province_modifier = { name = pop_growthn0_43}
+										}
+										else = { 
+											if = { limit = {growth_rate<-0.41 }
+												add_permanent_province_modifier = { name = pop_growthn0_42}
+											}
+											else = { 
+												add_permanent_province_modifier = { name = pop_growthn0_41}
+											}
+										}
+									}
+									else = { 
+										if = { limit = {growth_rate<-0.39 }
+											add_permanent_province_modifier = { name = pop_growthn0_4}
+										}
+										else = { 
+											if = { limit = {growth_rate<-0.38 }
+												add_permanent_province_modifier = { name = pop_growthn0_39}
+											}
+											else = { 
+												add_permanent_province_modifier = { name = pop_growthn0_38}
 											}
 										}
 									}
@@ -2162,122 +2157,107 @@ update_pop_growth.1 = {
 							}
 						}
 						else = { 
-							if = { limit = {growth_rate<-0.44 }
-								if = { limit = {growth_rate<-0.5 }
-									if = { limit = {growth_rate<-0.53 }
-										if = { limit = {growth_rate<-0.55 }
-											add_permanent_province_modifier = { name = pop_growthn0_56}
+							if = { limit = {growth_rate<-0.26 }
+								if = { limit = {growth_rate<-0.32 }
+									if = { limit = {growth_rate<-0.35 }
+										if = { limit = {growth_rate<-0.36 }
+											add_permanent_province_modifier = { name = pop_growthn0_37}
 										}
 										else = { 
-											if = { limit = {growth_rate<-0.54 }
-												add_permanent_province_modifier = { name = pop_growthn0_55}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growthn0_54}
-											}
+											add_permanent_province_modifier = { name = pop_growthn0_36}
 										}
 									}
 									else = { 
-										if = { limit = {growth_rate<-0.52 }
-											add_permanent_province_modifier = { name = pop_growthn0_53}
+										if = { limit = {growth_rate<-0.34 }
+											add_permanent_province_modifier = { name = pop_growthn0_35}
 										}
 										else = { 
-											if = { limit = {growth_rate<-0.51 }
-												add_permanent_province_modifier = { name = pop_growthn0_52}
+											if = { limit = {growth_rate<-0.33 }
+												add_permanent_province_modifier = { name = pop_growthn0_34}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growthn0_51}
+												add_permanent_province_modifier = { name = pop_growthn0_33}
 											}
 										}
 									}
 								}
 								else = { 
-									if = { limit = {growth_rate<-0.47 }
-										if = { limit = {growth_rate<-0.49 }
-											add_permanent_province_modifier = { name = pop_growthn0_5}
+									if = { limit = {growth_rate<-0.29 }
+										if = { limit = {growth_rate<-0.31 }
+											add_permanent_province_modifier = { name = pop_growthn0_32}
 										}
 										else = { 
-											if = { limit = {growth_rate<-0.48 }
-												add_permanent_province_modifier = { name = pop_growthn0_49}
+											if = { limit = {growth_rate<-0.3 }
+												add_permanent_province_modifier = { name = pop_growthn0_31}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growthn0_48}
+												add_permanent_province_modifier = { name = pop_growthn0_3}
 											}
 										}
 									}
 									else = { 
-										if = { limit = {growth_rate<-0.46 }
-											add_permanent_province_modifier = { name = pop_growthn0_47}
+										if = { limit = {growth_rate<-0.28 }
+											add_permanent_province_modifier = { name = pop_growthn0_29}
 										}
 										else = { 
-											if = { limit = {growth_rate<-0.45 }
-												add_permanent_province_modifier = { name = pop_growthn0_46}
+											if = { limit = {growth_rate<-0.27 }
+												add_permanent_province_modifier = { name = pop_growthn0_28}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growthn0_45}
+												add_permanent_province_modifier = { name = pop_growthn0_27}
 											}
 										}
 									}
 								}
 							}
 							else = { 
-								if = { limit = {growth_rate<-0.38 }
-									if = { limit = {growth_rate<-0.41 }
-										if = { limit = {growth_rate<-0.43 }
-											add_permanent_province_modifier = { name = pop_growthn0_44}
+								if = { limit = {growth_rate<-0.21 }
+									if = { limit = {growth_rate<-0.24 }
+										if = { limit = {growth_rate<-0.25 }
+											add_permanent_province_modifier = { name = pop_growthn0_26}
 										}
 										else = { 
-											if = { limit = {growth_rate<-0.42 }
-												add_permanent_province_modifier = { name = pop_growthn0_43}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growthn0_42}
-											}
+											add_permanent_province_modifier = { name = pop_growthn0_25}
 										}
 									}
 									else = { 
-										if = { limit = {growth_rate<-0.4 }
-											add_permanent_province_modifier = { name = pop_growthn0_41}
+										if = { limit = {growth_rate<-0.23 }
+											add_permanent_province_modifier = { name = pop_growthn0_24}
 										}
 										else = { 
-											if = { limit = {growth_rate<-0.39 }
-												add_permanent_province_modifier = { name = pop_growthn0_4}
+											if = { limit = {growth_rate<-0.22 }
+												add_permanent_province_modifier = { name = pop_growthn0_23}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growthn0_39}
+												add_permanent_province_modifier = { name = pop_growthn0_22}
 											}
 										}
 									}
 								}
 								else = { 
-									if = { limit = {growth_rate<-0.35 }
-										if = { limit = {growth_rate<-0.37 }
-											add_permanent_province_modifier = { name = pop_growthn0_38}
+									if = { limit = {growth_rate<-0.18 }
+										if = { limit = {growth_rate<-0.2 }
+											add_permanent_province_modifier = { name = pop_growthn0_21}
 										}
 										else = { 
-											if = { limit = {growth_rate<-0.36 }
-												add_permanent_province_modifier = { name = pop_growthn0_37}
+											if = { limit = {growth_rate<-0.19 }
+												add_permanent_province_modifier = { name = pop_growthn0_2}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growthn0_36}
+												add_permanent_province_modifier = { name = pop_growthn0_19}
 											}
 										}
 									}
 									else = { 
-										if = { limit = {growth_rate<-0.33 }
-											if = { limit = {growth_rate<-0.34 }
-												add_permanent_province_modifier = { name = pop_growthn0_35}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growthn0_34}
-											}
+										if = { limit = {growth_rate<-0.17 }
+											add_permanent_province_modifier = { name = pop_growthn0_18}
 										}
 										else = { 
-											if = { limit = {growth_rate<-0.32 }
-												add_permanent_province_modifier = { name = pop_growthn0_33}
+											if = { limit = {growth_rate<-0.16 }
+												add_permanent_province_modifier = { name = pop_growthn0_17}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growthn0_32}
+												add_permanent_province_modifier = { name = pop_growthn0_16}
 											}
 										}
 									}
@@ -2285,99 +2265,19 @@ update_pop_growth.1 = {
 							}
 						}
 					}
-				}
-				else = { 
-					if = { limit = {growth_rate<0.18 }
-						if = { limit = {growth_rate<-0.07 }
-							if = { limit = {growth_rate<-0.19 }
-								if = { limit = {growth_rate<-0.25 }
-									if = { limit = {growth_rate<-0.28 }
-										if = { limit = {growth_rate<-0.3 }
-											add_permanent_province_modifier = { name = pop_growthn0_31}
+					else = { 
+						if = { limit = {growth_rate<0.07 }
+							if = { limit = {growth_rate<-0.04 }
+								if = { limit = {growth_rate<-0.1 }
+									if = { limit = {growth_rate<-0.13 }
+										if = { limit = {growth_rate<-0.14 }
+											add_permanent_province_modifier = { name = pop_growthn0_15}
 										}
 										else = { 
-											if = { limit = {growth_rate<-0.29 }
-												add_permanent_province_modifier = { name = pop_growthn0_3}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growthn0_29}
-											}
+											add_permanent_province_modifier = { name = pop_growthn0_14}
 										}
 									}
 									else = { 
-										if = { limit = {growth_rate<-0.27 }
-											add_permanent_province_modifier = { name = pop_growthn0_28}
-										}
-										else = { 
-											if = { limit = {growth_rate<-0.26 }
-												add_permanent_province_modifier = { name = pop_growthn0_27}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growthn0_26}
-											}
-										}
-									}
-								}
-								else = { 
-									if = { limit = {growth_rate<-0.22 }
-										if = { limit = {growth_rate<-0.24 }
-											add_permanent_province_modifier = { name = pop_growthn0_25}
-										}
-										else = { 
-											if = { limit = {growth_rate<-0.23 }
-												add_permanent_province_modifier = { name = pop_growthn0_24}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growthn0_23}
-											}
-										}
-									}
-									else = { 
-										if = { limit = {growth_rate<-0.21 }
-											add_permanent_province_modifier = { name = pop_growthn0_22}
-										}
-										else = { 
-											if = { limit = {growth_rate<-0.2 }
-												add_permanent_province_modifier = { name = pop_growthn0_21}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growthn0_2}
-											}
-										}
-									}
-								}
-							}
-							else = { 
-								if = { limit = {growth_rate<-0.13 }
-									if = { limit = {growth_rate<-0.16 }
-										if = { limit = {growth_rate<-0.18 }
-											add_permanent_province_modifier = { name = pop_growthn0_19}
-										}
-										else = { 
-											if = { limit = {growth_rate<-0.17 }
-												add_permanent_province_modifier = { name = pop_growthn0_18}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growthn0_17}
-											}
-										}
-									}
-									else = { 
-										if = { limit = {growth_rate<-0.15 }
-											add_permanent_province_modifier = { name = pop_growthn0_16}
-										}
-										else = { 
-											if = { limit = {growth_rate<-0.14 }
-												add_permanent_province_modifier = { name = pop_growthn0_15}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growthn0_14}
-											}
-										}
-									}
-								}
-								else = { 
-									if = { limit = {growth_rate<-0.1 }
 										if = { limit = {growth_rate<-0.12 }
 											add_permanent_province_modifier = { name = pop_growthn0_13}
 										}
@@ -2390,7 +2290,9 @@ update_pop_growth.1 = {
 											}
 										}
 									}
-									else = { 
+								}
+								else = { 
+									if = { limit = {growth_rate<-0.07 }
 										if = { limit = {growth_rate<-0.09 }
 											add_permanent_province_modifier = { name = pop_growthn0_1}
 										}
@@ -2403,13 +2305,7 @@ update_pop_growth.1 = {
 											}
 										}
 									}
-								}
-							}
-						}
-						else = { 
-							if = { limit = {growth_rate<0.05 }
-								if = { limit = {growth_rate<-0.01 }
-									if = { limit = {growth_rate<-0.04 }
+									else = { 
 										if = { limit = {growth_rate<-0.06 }
 											add_permanent_province_modifier = { name = pop_growthn0_07}
 										}
@@ -2422,100 +2318,104 @@ update_pop_growth.1 = {
 											}
 										}
 									}
-									else = { 
+								}
+							}
+							else = { 
+								if = { limit = {growth_rate<0.01 }
+									if = { limit = {growth_rate<-0.02 }
 										if = { limit = {growth_rate<-0.03 }
 											add_permanent_province_modifier = { name = pop_growthn0_04}
 										}
 										else = { 
-											if = { limit = {growth_rate<-0.02 }
-												add_permanent_province_modifier = { name = pop_growthn0_03}
+											add_permanent_province_modifier = { name = pop_growthn0_03}
+										}
+									}
+									else = { 
+										if = { limit = {growth_rate<-0.01 }
+											add_permanent_province_modifier = { name = pop_growthn0_02}
+										}
+										else = { 
+											if = { limit = {growth_rate<0.0 }
+												add_permanent_province_modifier = { name = pop_growthn0_01}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growthn0_02}
+												add_permanent_province_modifier = { name = pop_growth0_0}
 											}
 										}
 									}
 								}
 								else = { 
-									if = { limit = {growth_rate<0.02 }
-										if = { limit = {growth_rate<0.0 }
-											add_permanent_province_modifier = { name = pop_growthn0_01}
+									if = { limit = {growth_rate<0.04 }
+										if = { limit = {growth_rate<0.02 }
+											add_permanent_province_modifier = { name = pop_growth0_01}
 										}
 										else = { 
-											if = { limit = {growth_rate<0.01 }
-												add_permanent_province_modifier = { name = pop_growth0_0}
+											if = { limit = {growth_rate<0.03 }
+												add_permanent_province_modifier = { name = pop_growth0_02}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growth0_01}
+												add_permanent_province_modifier = { name = pop_growth0_03}
 											}
 										}
 									}
 									else = { 
-										if = { limit = {growth_rate<0.03 }
-											add_permanent_province_modifier = { name = pop_growth0_02}
+										if = { limit = {growth_rate<0.05 }
+											add_permanent_province_modifier = { name = pop_growth0_04}
 										}
 										else = { 
-											if = { limit = {growth_rate<0.04 }
-												add_permanent_province_modifier = { name = pop_growth0_03}
+											if = { limit = {growth_rate<0.06 }
+												add_permanent_province_modifier = { name = pop_growth0_05}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growth0_04}
+												add_permanent_province_modifier = { name = pop_growth0_06}
 											}
 										}
 									}
 								}
 							}
-							else = { 
-								if = { limit = {growth_rate<0.11 }
-									if = { limit = {growth_rate<0.08 }
-										if = { limit = {growth_rate<0.06 }
-											add_permanent_province_modifier = { name = pop_growth0_05}
+						}
+						else = { 
+							if = { limit = {growth_rate<0.18 }
+								if = { limit = {growth_rate<0.12 }
+									if = { limit = {growth_rate<0.09 }
+										if = { limit = {growth_rate<0.08 }
+											add_permanent_province_modifier = { name = pop_growth0_07}
 										}
 										else = { 
-											if = { limit = {growth_rate<0.07 }
-												add_permanent_province_modifier = { name = pop_growth0_06}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growth0_07}
-											}
+											add_permanent_province_modifier = { name = pop_growth0_08}
 										}
 									}
 									else = { 
-										if = { limit = {growth_rate<0.09 }
-											add_permanent_province_modifier = { name = pop_growth0_08}
+										if = { limit = {growth_rate<0.1 }
+											add_permanent_province_modifier = { name = pop_growth0_09}
 										}
 										else = { 
-											if = { limit = {growth_rate<0.1 }
-												add_permanent_province_modifier = { name = pop_growth0_09}
+											if = { limit = {growth_rate<0.11 }
+												add_permanent_province_modifier = { name = pop_growth0_1}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growth0_1}
+												add_permanent_province_modifier = { name = pop_growth0_11}
 											}
 										}
 									}
 								}
 								else = { 
-									if = { limit = {growth_rate<0.14 }
-										if = { limit = {growth_rate<0.12 }
-											add_permanent_province_modifier = { name = pop_growth0_11}
+									if = { limit = {growth_rate<0.15 }
+										if = { limit = {growth_rate<0.13 }
+											add_permanent_province_modifier = { name = pop_growth0_12}
 										}
 										else = { 
-											if = { limit = {growth_rate<0.13 }
-												add_permanent_province_modifier = { name = pop_growth0_12}
+											if = { limit = {growth_rate<0.14 }
+												add_permanent_province_modifier = { name = pop_growth0_13}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growth0_13}
+												add_permanent_province_modifier = { name = pop_growth0_14}
 											}
 										}
 									}
 									else = { 
 										if = { limit = {growth_rate<0.16 }
-											if = { limit = {growth_rate<0.15 }
-												add_permanent_province_modifier = { name = pop_growth0_14}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growth0_15}
-											}
+											add_permanent_province_modifier = { name = pop_growth0_15}
 										}
 										else = { 
 											if = { limit = {growth_rate<0.17 }
@@ -2528,11 +2428,7 @@ update_pop_growth.1 = {
 									}
 								}
 							}
-						}
-					}
-					else = { 
-						if = { limit = {growth_rate<0.43 }
-							if = { limit = {growth_rate<0.3 }
+							else = { 
 								if = { limit = {growth_rate<0.24 }
 									if = { limit = {growth_rate<0.21 }
 										if = { limit = {growth_rate<0.19 }
@@ -2590,51 +2486,59 @@ update_pop_growth.1 = {
 									}
 								}
 							}
-							else = { 
-								if = { limit = {growth_rate<0.36 }
-									if = { limit = {growth_rate<0.33 }
+						}
+					}
+				}
+			}
+		}
+		else = { 
+			if = { limit = {growth_rate<7.2 }
+				if = { limit = {growth_rate<1.18 }
+					if = { limit = {growth_rate<0.74 }
+						if = { limit = {growth_rate<0.52 }
+							if = { limit = {growth_rate<0.41 }
+								if = { limit = {growth_rate<0.35 }
+									if = { limit = {growth_rate<0.32 }
 										if = { limit = {growth_rate<0.31 }
 											add_permanent_province_modifier = { name = pop_growth0_3}
 										}
 										else = { 
-											if = { limit = {growth_rate<0.32 }
-												add_permanent_province_modifier = { name = pop_growth0_31}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growth0_32}
-											}
+											add_permanent_province_modifier = { name = pop_growth0_31}
 										}
 									}
 									else = { 
-										if = { limit = {growth_rate<0.34 }
-											add_permanent_province_modifier = { name = pop_growth0_33}
+										if = { limit = {growth_rate<0.33 }
+											add_permanent_province_modifier = { name = pop_growth0_32}
 										}
 										else = { 
-											if = { limit = {growth_rate<0.35 }
-												add_permanent_province_modifier = { name = pop_growth0_34}
+											if = { limit = {growth_rate<0.34 }
+												add_permanent_province_modifier = { name = pop_growth0_33}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growth0_350}
+												add_permanent_province_modifier = { name = pop_growth0_34}
 											}
 										}
 									}
 								}
 								else = { 
-									if = { limit = {growth_rate<0.39 }
-										if = { limit = {growth_rate<0.37 }
-											add_permanent_province_modifier = { name = pop_growth0_36}
+									if = { limit = {growth_rate<0.38 }
+										if = { limit = {growth_rate<0.36 }
+											add_permanent_province_modifier = { name = pop_growth0_350}
 										}
 										else = { 
-											if = { limit = {growth_rate<0.38 }
-												add_permanent_province_modifier = { name = pop_growth0_37}
+											if = { limit = {growth_rate<0.37 }
+												add_permanent_province_modifier = { name = pop_growth0_36}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growth0_38}
+												add_permanent_province_modifier = { name = pop_growth0_37}
 											}
 										}
 									}
 									else = { 
-										if = { limit = {growth_rate<0.41 }
+										if = { limit = {growth_rate<0.39 }
+											add_permanent_province_modifier = { name = pop_growth0_38}
+										}
+										else = { 
 											if = { limit = {growth_rate<0.4 }
 												add_permanent_province_modifier = { name = pop_growth0_39}
 											}
@@ -2642,22 +2546,20 @@ update_pop_growth.1 = {
 												add_permanent_province_modifier = { name = pop_growth0_4}
 											}
 										}
-										else = { 
-											if = { limit = {growth_rate<0.42 }
-												add_permanent_province_modifier = { name = pop_growth0_410}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growth0_42}
-											}
-										}
 									}
 								}
 							}
-						}
-						else = { 
-							if = { limit = {growth_rate<0.55 }
-								if = { limit = {growth_rate<0.49 }
-									if = { limit = {growth_rate<0.46 }
+							else = { 
+								if = { limit = {growth_rate<0.46 }
+									if = { limit = {growth_rate<0.43 }
+										if = { limit = {growth_rate<0.42 }
+											add_permanent_province_modifier = { name = pop_growth0_410}
+										}
+										else = { 
+											add_permanent_province_modifier = { name = pop_growth0_42}
+										}
+									}
+									else = { 
 										if = { limit = {growth_rate<0.44 }
 											add_permanent_province_modifier = { name = pop_growth0_43}
 										}
@@ -2670,7 +2572,9 @@ update_pop_growth.1 = {
 											}
 										}
 									}
-									else = { 
+								}
+								else = { 
+									if = { limit = {growth_rate<0.49 }
 										if = { limit = {growth_rate<0.47 }
 											add_permanent_province_modifier = { name = pop_growth0_46}
 										}
@@ -2683,9 +2587,7 @@ update_pop_growth.1 = {
 											}
 										}
 									}
-								}
-								else = { 
-									if = { limit = {growth_rate<0.52 }
+									else = { 
 										if = { limit = {growth_rate<0.5 }
 											add_permanent_province_modifier = { name = pop_growth0_49}
 										}
@@ -2698,72 +2600,76 @@ update_pop_growth.1 = {
 											}
 										}
 									}
-									else = { 
+								}
+							}
+						}
+						else = { 
+							if = { limit = {growth_rate<0.63 }
+								if = { limit = {growth_rate<0.57 }
+									if = { limit = {growth_rate<0.54 }
 										if = { limit = {growth_rate<0.53 }
 											add_permanent_province_modifier = { name = pop_growth0_52}
 										}
 										else = { 
-											if = { limit = {growth_rate<0.54 }
-												add_permanent_province_modifier = { name = pop_growth0_53}
+											add_permanent_province_modifier = { name = pop_growth0_53}
+										}
+									}
+									else = { 
+										if = { limit = {growth_rate<0.55 }
+											add_permanent_province_modifier = { name = pop_growth0_54}
+										}
+										else = { 
+											if = { limit = {growth_rate<0.56 }
+												add_permanent_province_modifier = { name = pop_growth0_55}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growth0_54}
+												add_permanent_province_modifier = { name = pop_growth0_56}
+											}
+										}
+									}
+								}
+								else = { 
+									if = { limit = {growth_rate<0.6 }
+										if = { limit = {growth_rate<0.58 }
+											add_permanent_province_modifier = { name = pop_growth0_570}
+										}
+										else = { 
+											if = { limit = {growth_rate<0.59 }
+												add_permanent_province_modifier = { name = pop_growth0_58}
+											}
+											else = { 
+												add_permanent_province_modifier = { name = pop_growth0_59}
+											}
+										}
+									}
+									else = { 
+										if = { limit = {growth_rate<0.61 }
+											add_permanent_province_modifier = { name = pop_growth0_6}
+										}
+										else = { 
+											if = { limit = {growth_rate<0.62 }
+												add_permanent_province_modifier = { name = pop_growth0_61}
+											}
+											else = { 
+												add_permanent_province_modifier = { name = pop_growth0_62}
 											}
 										}
 									}
 								}
 							}
 							else = { 
-								if = { limit = {growth_rate<0.61 }
-									if = { limit = {growth_rate<0.58 }
-										if = { limit = {growth_rate<0.56 }
-											add_permanent_province_modifier = { name = pop_growth0_55}
+								if = { limit = {growth_rate<0.68 }
+									if = { limit = {growth_rate<0.65 }
+										if = { limit = {growth_rate<0.64 }
+											add_permanent_province_modifier = { name = pop_growth0_63}
 										}
 										else = { 
-											if = { limit = {growth_rate<0.57 }
-												add_permanent_province_modifier = { name = pop_growth0_56}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growth0_570}
-											}
-										}
-									}
-									else = { 
-										if = { limit = {growth_rate<0.59 }
-											add_permanent_province_modifier = { name = pop_growth0_58}
-										}
-										else = { 
-											if = { limit = {growth_rate<0.6 }
-												add_permanent_province_modifier = { name = pop_growth0_59}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growth0_6}
-											}
-										}
-									}
-								}
-								else = { 
-									if = { limit = {growth_rate<0.64 }
-										if = { limit = {growth_rate<0.62 }
-											add_permanent_province_modifier = { name = pop_growth0_61}
-										}
-										else = { 
-											if = { limit = {growth_rate<0.63 }
-												add_permanent_province_modifier = { name = pop_growth0_62}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growth0_63}
-											}
+											add_permanent_province_modifier = { name = pop_growth0_64}
 										}
 									}
 									else = { 
 										if = { limit = {growth_rate<0.66 }
-											if = { limit = {growth_rate<0.65 }
-												add_permanent_province_modifier = { name = pop_growth0_64}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growth0_65}
-											}
+											add_permanent_province_modifier = { name = pop_growth0_65}
 										}
 										else = { 
 											if = { limit = {growth_rate<0.67 }
@@ -2775,19 +2681,7 @@ update_pop_growth.1 = {
 										}
 									}
 								}
-							}
-						}
-					}
-				}
-			}
-		}
-		else = { 
-			if = { limit = {growth_rate<12.9 }
-				if = { limit = {growth_rate<3.1 }
-					if = { limit = {growth_rate<1.17 }
-						if = { limit = {growth_rate<0.92 }
-							if = { limit = {growth_rate<0.8 }
-								if = { limit = {growth_rate<0.74 }
+								else = { 
 									if = { limit = {growth_rate<0.71 }
 										if = { limit = {growth_rate<0.69 }
 											add_permanent_province_modifier = { name = pop_growth0_68}
@@ -2815,88 +2709,112 @@ update_pop_growth.1 = {
 										}
 									}
 								}
-								else = { 
-									if = { limit = {growth_rate<0.77 }
+							}
+						}
+					}
+					else = { 
+						if = { limit = {growth_rate<0.96 }
+							if = { limit = {growth_rate<0.85 }
+								if = { limit = {growth_rate<0.79 }
+									if = { limit = {growth_rate<0.76 }
 										if = { limit = {growth_rate<0.75 }
 											add_permanent_province_modifier = { name = pop_growth0_74}
 										}
 										else = { 
-											if = { limit = {growth_rate<0.76 }
-												add_permanent_province_modifier = { name = pop_growth0_75}
+											add_permanent_province_modifier = { name = pop_growth0_75}
+										}
+									}
+									else = { 
+										if = { limit = {growth_rate<0.77 }
+											add_permanent_province_modifier = { name = pop_growth0_76}
+										}
+										else = { 
+											if = { limit = {growth_rate<0.78 }
+												add_permanent_province_modifier = { name = pop_growth0_77}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growth0_76}
+												add_permanent_province_modifier = { name = pop_growth0_78}
+											}
+										}
+									}
+								}
+								else = { 
+									if = { limit = {growth_rate<0.82 }
+										if = { limit = {growth_rate<0.8 }
+											add_permanent_province_modifier = { name = pop_growth0_79}
+										}
+										else = { 
+											if = { limit = {growth_rate<0.81 }
+												add_permanent_province_modifier = { name = pop_growth0_8}
+											}
+											else = { 
+												add_permanent_province_modifier = { name = pop_growth0_81}
 											}
 										}
 									}
 									else = { 
-										if = { limit = {growth_rate<0.78 }
-											add_permanent_province_modifier = { name = pop_growth0_77}
+										if = { limit = {growth_rate<0.83 }
+											add_permanent_province_modifier = { name = pop_growth0_820}
 										}
 										else = { 
-											if = { limit = {growth_rate<0.79 }
-												add_permanent_province_modifier = { name = pop_growth0_78}
+											if = { limit = {growth_rate<0.84 }
+												add_permanent_province_modifier = { name = pop_growth0_830}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growth0_79}
+												add_permanent_province_modifier = { name = pop_growth0_84}
 											}
 										}
 									}
 								}
 							}
 							else = { 
-								if = { limit = {growth_rate<0.86 }
-									if = { limit = {growth_rate<0.83 }
-										if = { limit = {growth_rate<0.81 }
-											add_permanent_province_modifier = { name = pop_growth0_8}
+								if = { limit = {growth_rate<0.9 }
+									if = { limit = {growth_rate<0.87 }
+										if = { limit = {growth_rate<0.86 }
+											add_permanent_province_modifier = { name = pop_growth0_85}
 										}
 										else = { 
-											if = { limit = {growth_rate<0.82 }
-												add_permanent_province_modifier = { name = pop_growth0_81}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growth0_820}
-											}
+											add_permanent_province_modifier = { name = pop_growth0_86}
 										}
 									}
 									else = { 
-										if = { limit = {growth_rate<0.84 }
-											add_permanent_province_modifier = { name = pop_growth0_830}
+										if = { limit = {growth_rate<0.88 }
+											add_permanent_province_modifier = { name = pop_growth0_87}
 										}
 										else = { 
-											if = { limit = {growth_rate<0.85 }
-												add_permanent_province_modifier = { name = pop_growth0_84}
+											if = { limit = {growth_rate<0.89 }
+												add_permanent_province_modifier = { name = pop_growth0_88}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growth0_85}
+												add_permanent_province_modifier = { name = pop_growth0_89}
 											}
 										}
 									}
 								}
 								else = { 
-									if = { limit = {growth_rate<0.89 }
-										if = { limit = {growth_rate<0.87 }
-											add_permanent_province_modifier = { name = pop_growth0_86}
+									if = { limit = {growth_rate<0.93 }
+										if = { limit = {growth_rate<0.91 }
+											add_permanent_province_modifier = { name = pop_growth0_9}
 										}
 										else = { 
-											if = { limit = {growth_rate<0.88 }
-												add_permanent_province_modifier = { name = pop_growth0_87}
+											if = { limit = {growth_rate<0.92 }
+												add_permanent_province_modifier = { name = pop_growth0_91}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growth0_88}
+												add_permanent_province_modifier = { name = pop_growth0_92}
 											}
 										}
 									}
 									else = { 
-										if = { limit = {growth_rate<0.9 }
-											add_permanent_province_modifier = { name = pop_growth0_89}
+										if = { limit = {growth_rate<0.94 }
+											add_permanent_province_modifier = { name = pop_growth0_93}
 										}
 										else = { 
-											if = { limit = {growth_rate<0.91 }
-												add_permanent_province_modifier = { name = pop_growth0_9}
+											if = { limit = {growth_rate<0.95 }
+												add_permanent_province_modifier = { name = pop_growth0_940}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growth0_91}
+												add_permanent_province_modifier = { name = pop_growth0_950}
 											}
 										}
 									}
@@ -2904,37 +2822,17 @@ update_pop_growth.1 = {
 							}
 						}
 						else = { 
-							if = { limit = {growth_rate<1.04 }
-								if = { limit = {growth_rate<0.98 }
-									if = { limit = {growth_rate<0.95 }
-										if = { limit = {growth_rate<0.93 }
-											add_permanent_province_modifier = { name = pop_growth0_92}
+							if = { limit = {growth_rate<1.07 }
+								if = { limit = {growth_rate<1.01 }
+									if = { limit = {growth_rate<0.98 }
+										if = { limit = {growth_rate<0.97 }
+											add_permanent_province_modifier = { name = pop_growth0_96}
 										}
 										else = { 
-											if = { limit = {growth_rate<0.94 }
-												add_permanent_province_modifier = { name = pop_growth0_93}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growth0_940}
-											}
+											add_permanent_province_modifier = { name = pop_growth0_97}
 										}
 									}
 									else = { 
-										if = { limit = {growth_rate<0.96 }
-											add_permanent_province_modifier = { name = pop_growth0_950}
-										}
-										else = { 
-											if = { limit = {growth_rate<0.97 }
-												add_permanent_province_modifier = { name = pop_growth0_96}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growth0_97}
-											}
-										}
-									}
-								}
-								else = { 
-									if = { limit = {growth_rate<1.01 }
 										if = { limit = {growth_rate<0.99 }
 											add_permanent_province_modifier = { name = pop_growth0_98}
 										}
@@ -2947,7 +2845,9 @@ update_pop_growth.1 = {
 											}
 										}
 									}
-									else = { 
+								}
+								else = { 
+									if = { limit = {growth_rate<1.04 }
 										if = { limit = {growth_rate<1.02 }
 											add_permanent_province_modifier = { name = pop_growth1_01}
 										}
@@ -2960,11 +2860,7 @@ update_pop_growth.1 = {
 											}
 										}
 									}
-								}
-							}
-							else = { 
-								if = { limit = {growth_rate<1.1 }
-									if = { limit = {growth_rate<1.07 }
+									else = { 
 										if = { limit = {growth_rate<1.05 }
 											add_permanent_province_modifier = { name = pop_growth1_04}
 										}
@@ -2977,36 +2873,38 @@ update_pop_growth.1 = {
 											}
 										}
 									}
-									else = { 
+								}
+							}
+							else = { 
+								if = { limit = {growth_rate<1.12 }
+									if = { limit = {growth_rate<1.09 }
 										if = { limit = {growth_rate<1.08 }
 											add_permanent_province_modifier = { name = pop_growth1_07}
 										}
 										else = { 
-											if = { limit = {growth_rate<1.09 }
-												add_permanent_province_modifier = { name = pop_growth1_08}
+											add_permanent_province_modifier = { name = pop_growth1_08}
+										}
+									}
+									else = { 
+										if = { limit = {growth_rate<1.1 }
+											add_permanent_province_modifier = { name = pop_growth1_09}
+										}
+										else = { 
+											if = { limit = {growth_rate<1.11 }
+												add_permanent_province_modifier = { name = pop_growth1_1}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growth1_09}
+												add_permanent_province_modifier = { name = pop_growth1_11}
 											}
 										}
 									}
 								}
 								else = { 
-									if = { limit = {growth_rate<1.13 }
-										if = { limit = {growth_rate<1.11 }
-											add_permanent_province_modifier = { name = pop_growth1_1}
+									if = { limit = {growth_rate<1.15 }
+										if = { limit = {growth_rate<1.13 }
+											add_permanent_province_modifier = { name = pop_growth1_12}
 										}
 										else = { 
-											if = { limit = {growth_rate<1.12 }
-												add_permanent_province_modifier = { name = pop_growth1_11}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growth1_12}
-											}
-										}
-									}
-									else = { 
-										if = { limit = {growth_rate<1.15 }
 											if = { limit = {growth_rate<1.14 }
 												add_permanent_province_modifier = { name = pop_growth1_130}
 											}
@@ -3014,12 +2912,17 @@ update_pop_growth.1 = {
 												add_permanent_province_modifier = { name = pop_growth1_140}
 											}
 										}
+									}
+									else = { 
+										if = { limit = {growth_rate<1.16 }
+											add_permanent_province_modifier = { name = pop_growth1_150}
+										}
 										else = { 
-											if = { limit = {growth_rate<1.16 }
-												add_permanent_province_modifier = { name = pop_growth1_150}
+											if = { limit = {growth_rate<1.17 }
+												add_permanent_province_modifier = { name = pop_growth1_16}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growth1_16}
+												add_permanent_province_modifier = { name = pop_growth1_17}
 											}
 										}
 									}
@@ -3027,21 +2930,18 @@ update_pop_growth.1 = {
 							}
 						}
 					}
-					else = { 
-						if = { limit = {growth_rate<1.41 }
+				}
+				else = { 
+					if = { limit = {growth_rate<2.7 }
+						if = { limit = {growth_rate<1.4 }
 							if = { limit = {growth_rate<1.29 }
 								if = { limit = {growth_rate<1.23 }
 									if = { limit = {growth_rate<1.2 }
-										if = { limit = {growth_rate<1.18 }
-											add_permanent_province_modifier = { name = pop_growth1_17}
+										if = { limit = {growth_rate<1.19 }
+											add_permanent_province_modifier = { name = pop_growth1_18}
 										}
 										else = { 
-											if = { limit = {growth_rate<1.19 }
-												add_permanent_province_modifier = { name = pop_growth1_18}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growth1_19}
-											}
+											add_permanent_province_modifier = { name = pop_growth1_19}
 										}
 									}
 									else = { 
@@ -3088,58 +2988,53 @@ update_pop_growth.1 = {
 								}
 							}
 							else = { 
-								if = { limit = {growth_rate<1.35 }
-									if = { limit = {growth_rate<1.32 }
+								if = { limit = {growth_rate<1.34 }
+									if = { limit = {growth_rate<1.31 }
 										if = { limit = {growth_rate<1.3 }
 											add_permanent_province_modifier = { name = pop_growth1_29}
 										}
 										else = { 
-											if = { limit = {growth_rate<1.31 }
-												add_permanent_province_modifier = { name = pop_growth1_3}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growth1_31}
-											}
+											add_permanent_province_modifier = { name = pop_growth1_3}
 										}
 									}
 									else = { 
-										if = { limit = {growth_rate<1.33 }
-											add_permanent_province_modifier = { name = pop_growth1_32}
+										if = { limit = {growth_rate<1.32 }
+											add_permanent_province_modifier = { name = pop_growth1_31}
 										}
 										else = { 
-											if = { limit = {growth_rate<1.34 }
-												add_permanent_province_modifier = { name = pop_growth1_33}
+											if = { limit = {growth_rate<1.33 }
+												add_permanent_province_modifier = { name = pop_growth1_32}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growth1_34}
+												add_permanent_province_modifier = { name = pop_growth1_33}
 											}
 										}
 									}
 								}
 								else = { 
-									if = { limit = {growth_rate<1.38 }
-										if = { limit = {growth_rate<1.36 }
-											add_permanent_province_modifier = { name = pop_growth1_35}
+									if = { limit = {growth_rate<1.37 }
+										if = { limit = {growth_rate<1.35 }
+											add_permanent_province_modifier = { name = pop_growth1_34}
 										}
 										else = { 
-											if = { limit = {growth_rate<1.37 }
-												add_permanent_province_modifier = { name = pop_growth1_36}
+											if = { limit = {growth_rate<1.36 }
+												add_permanent_province_modifier = { name = pop_growth1_35}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growth1_37}
+												add_permanent_province_modifier = { name = pop_growth1_36}
 											}
 										}
 									}
 									else = { 
-										if = { limit = {growth_rate<1.39 }
-											add_permanent_province_modifier = { name = pop_growth1_380}
+										if = { limit = {growth_rate<1.38 }
+											add_permanent_province_modifier = { name = pop_growth1_37}
 										}
 										else = { 
-											if = { limit = {growth_rate<1.4 }
-												add_permanent_province_modifier = { name = pop_growth1_390}
+											if = { limit = {growth_rate<1.39 }
+												add_permanent_province_modifier = { name = pop_growth1_380}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growth1_400}
+												add_permanent_province_modifier = { name = pop_growth1_390}
 											}
 										}
 									}
@@ -3147,67 +3042,70 @@ update_pop_growth.1 = {
 							}
 						}
 						else = { 
-							if = { limit = {growth_rate<1.8 }
-								if = { limit = {growth_rate<1.47 }
-									if = { limit = {growth_rate<1.44 }
-										if = { limit = {growth_rate<1.42 }
-											add_permanent_province_modifier = { name = pop_growth1_41}
+							if = { limit = {growth_rate<1.6 }
+								if = { limit = {growth_rate<1.45 }
+									if = { limit = {growth_rate<1.42 }
+										if = { limit = {growth_rate<1.41 }
+											add_permanent_province_modifier = { name = pop_growth1_400}
 										}
 										else = { 
-											if = { limit = {growth_rate<1.43 }
-												add_permanent_province_modifier = { name = pop_growth1_42}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growth1_43}
-											}
+											add_permanent_province_modifier = { name = pop_growth1_41}
 										}
 									}
 									else = { 
-										if = { limit = {growth_rate<1.45 }
-											add_permanent_province_modifier = { name = pop_growth1_44}
+										if = { limit = {growth_rate<1.43 }
+											add_permanent_province_modifier = { name = pop_growth1_42}
 										}
 										else = { 
-											if = { limit = {growth_rate<1.46 }
-												add_permanent_province_modifier = { name = pop_growth1_45}
+											if = { limit = {growth_rate<1.44 }
+												add_permanent_province_modifier = { name = pop_growth1_43}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growth1_46}
+												add_permanent_province_modifier = { name = pop_growth1_44}
 											}
 										}
 									}
 								}
 								else = { 
-									if = { limit = {growth_rate<1.5 }
-										if = { limit = {growth_rate<1.48 }
-											add_permanent_province_modifier = { name = pop_growth1_47}
+									if = { limit = {growth_rate<1.48 }
+										if = { limit = {growth_rate<1.46 }
+											add_permanent_province_modifier = { name = pop_growth1_45}
 										}
 										else = { 
-											if = { limit = {growth_rate<1.49 }
-												add_permanent_province_modifier = { name = pop_growth1_48}
+											if = { limit = {growth_rate<1.47 }
+												add_permanent_province_modifier = { name = pop_growth1_46}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growth1_49}
+												add_permanent_province_modifier = { name = pop_growth1_47}
 											}
 										}
 									}
 									else = { 
-										if = { limit = {growth_rate<1.6 }
-											add_permanent_province_modifier = { name = pop_growth1_5}
+										if = { limit = {growth_rate<1.49 }
+											add_permanent_province_modifier = { name = pop_growth1_48}
 										}
 										else = { 
-											if = { limit = {growth_rate<1.7 }
-												add_permanent_province_modifier = { name = pop_growth1_6}
+											if = { limit = {growth_rate<1.5 }
+												add_permanent_province_modifier = { name = pop_growth1_49}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growth1_700}
+												add_permanent_province_modifier = { name = pop_growth1_5}
 											}
 										}
 									}
 								}
 							}
 							else = { 
-								if = { limit = {growth_rate<2.4 }
-									if = { limit = {growth_rate<2.1 }
+								if = { limit = {growth_rate<2.1 }
+									if = { limit = {growth_rate<1.8 }
+										if = { limit = {growth_rate<1.7 }
+											add_permanent_province_modifier = { name = pop_growth1_6}
+										}
+										else = { 
+											add_permanent_province_modifier = { name = pop_growth1_700}
+										}
+									}
+									else = { 
 										if = { limit = {growth_rate<1.9 }
 											add_permanent_province_modifier = { name = pop_growth1_8}
 										}
@@ -3220,7 +3118,9 @@ update_pop_growth.1 = {
 											}
 										}
 									}
-									else = { 
+								}
+								else = { 
+									if = { limit = {growth_rate<2.4 }
 										if = { limit = {growth_rate<2.2 }
 											add_permanent_province_modifier = { name = pop_growth2_1}
 										}
@@ -3233,9 +3133,7 @@ update_pop_growth.1 = {
 											}
 										}
 									}
-								}
-								else = { 
-									if = { limit = {growth_rate<2.7 }
+									else = { 
 										if = { limit = {growth_rate<2.5 }
 											add_permanent_province_modifier = { name = pop_growth2_400}
 										}
@@ -3248,73 +3146,73 @@ update_pop_growth.1 = {
 											}
 										}
 									}
-									else = { 
-										if = { limit = {growth_rate<2.9 }
-											if = { limit = {growth_rate<2.8 }
-												add_permanent_province_modifier = { name = pop_growth2_7}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growth2_800}
-											}
-										}
-										else = { 
-											if = { limit = {growth_rate<3.0 }
-												add_permanent_province_modifier = { name = pop_growth2_900}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growth3_0}
-											}
-										}
-									}
 								}
 							}
 						}
 					}
-				}
-				else = { 
-					if = { limit = {growth_rate<8.0 }
-						if = { limit = {growth_rate<5.5 }
-							if = { limit = {growth_rate<4.3 }
-								if = { limit = {growth_rate<3.7 }
-									if = { limit = {growth_rate<3.4 }
-										if = { limit = {growth_rate<3.2 }
-											add_permanent_province_modifier = { name = pop_growth3_1}
+					else = { 
+						if = { limit = {growth_rate<4.9 }
+							if = { limit = {growth_rate<3.8 }
+								if = { limit = {growth_rate<3.2 }
+									if = { limit = {growth_rate<2.9 }
+										if = { limit = {growth_rate<2.8 }
+											add_permanent_province_modifier = { name = pop_growth2_7}
 										}
 										else = { 
-											if = { limit = {growth_rate<3.3 }
-												add_permanent_province_modifier = { name = pop_growth3_2}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growth3_300}
-											}
+											add_permanent_province_modifier = { name = pop_growth2_800}
 										}
 									}
 									else = { 
-										if = { limit = {growth_rate<3.5 }
-											add_permanent_province_modifier = { name = pop_growth3_400}
+										if = { limit = {growth_rate<3.0 }
+											add_permanent_province_modifier = { name = pop_growth2_900}
 										}
 										else = { 
-											if = { limit = {growth_rate<3.6 }
-												add_permanent_province_modifier = { name = pop_growth3_5}
+											if = { limit = {growth_rate<3.1 }
+												add_permanent_province_modifier = { name = pop_growth3_0}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growth3_6}
+												add_permanent_province_modifier = { name = pop_growth3_1}
 											}
 										}
 									}
 								}
 								else = { 
-									if = { limit = {growth_rate<4.0 }
-										if = { limit = {growth_rate<3.8 }
-											add_permanent_province_modifier = { name = pop_growth3_7}
+									if = { limit = {growth_rate<3.5 }
+										if = { limit = {growth_rate<3.3 }
+											add_permanent_province_modifier = { name = pop_growth3_2}
 										}
 										else = { 
-											if = { limit = {growth_rate<3.9 }
-												add_permanent_province_modifier = { name = pop_growth3_800}
+											if = { limit = {growth_rate<3.4 }
+												add_permanent_province_modifier = { name = pop_growth3_300}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growth3_900}
+												add_permanent_province_modifier = { name = pop_growth3_400}
 											}
+										}
+									}
+									else = { 
+										if = { limit = {growth_rate<3.6 }
+											add_permanent_province_modifier = { name = pop_growth3_5}
+										}
+										else = { 
+											if = { limit = {growth_rate<3.7 }
+												add_permanent_province_modifier = { name = pop_growth3_6}
+											}
+											else = { 
+												add_permanent_province_modifier = { name = pop_growth3_7}
+											}
+										}
+									}
+								}
+							}
+							else = { 
+								if = { limit = {growth_rate<4.3 }
+									if = { limit = {growth_rate<4.0 }
+										if = { limit = {growth_rate<3.9 }
+											add_permanent_province_modifier = { name = pop_growth3_800}
+										}
+										else = { 
+											add_permanent_province_modifier = { name = pop_growth3_900}
 										}
 									}
 									else = { 
@@ -3331,9 +3229,7 @@ update_pop_growth.1 = {
 										}
 									}
 								}
-							}
-							else = { 
-								if = { limit = {growth_rate<4.9 }
+								else = { 
 									if = { limit = {growth_rate<4.6 }
 										if = { limit = {growth_rate<4.4 }
 											add_permanent_province_modifier = { name = pop_growth4_3}
@@ -3361,146 +3257,156 @@ update_pop_growth.1 = {
 										}
 									}
 								}
-								else = { 
-									if = { limit = {growth_rate<5.2 }
+							}
+						}
+						else = { 
+							if = { limit = {growth_rate<6.0 }
+								if = { limit = {growth_rate<5.4 }
+									if = { limit = {growth_rate<5.1 }
 										if = { limit = {growth_rate<5.0 }
 											add_permanent_province_modifier = { name = pop_growth4_9}
 										}
 										else = { 
-											if = { limit = {growth_rate<5.1 }
-												add_permanent_province_modifier = { name = pop_growth5_0}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growth5_100}
-											}
+											add_permanent_province_modifier = { name = pop_growth5_0}
 										}
 									}
 									else = { 
-										if = { limit = {growth_rate<5.3 }
-											add_permanent_province_modifier = { name = pop_growth5_2}
+										if = { limit = {growth_rate<5.2 }
+											add_permanent_province_modifier = { name = pop_growth5_100}
 										}
 										else = { 
-											if = { limit = {growth_rate<5.4 }
+											if = { limit = {growth_rate<5.3 }
+												add_permanent_province_modifier = { name = pop_growth5_2}
+											}
+											else = { 
 												add_permanent_province_modifier = { name = pop_growth5_300}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growth5_4}
-											}
-										}
-									}
-								}
-							}
-						}
-						else = { 
-							if = { limit = {growth_rate<6.7 }
-								if = { limit = {growth_rate<6.1 }
-									if = { limit = {growth_rate<5.8 }
-										if = { limit = {growth_rate<5.6 }
-											add_permanent_province_modifier = { name = pop_growth5_5}
-										}
-										else = { 
-											if = { limit = {growth_rate<5.7 }
-												add_permanent_province_modifier = { name = pop_growth5_600}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growth5_7}
-											}
-										}
-									}
-									else = { 
-										if = { limit = {growth_rate<5.9 }
-											add_permanent_province_modifier = { name = pop_growth5_800}
-										}
-										else = { 
-											if = { limit = {growth_rate<6.0 }
-												add_permanent_province_modifier = { name = pop_growth5_9}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growth6_0}
 											}
 										}
 									}
 								}
 								else = { 
-									if = { limit = {growth_rate<6.4 }
-										if = { limit = {growth_rate<6.2 }
-											add_permanent_province_modifier = { name = pop_growth6_100}
+									if = { limit = {growth_rate<5.7 }
+										if = { limit = {growth_rate<5.5 }
+											add_permanent_province_modifier = { name = pop_growth5_4}
 										}
 										else = { 
-											if = { limit = {growth_rate<6.3 }
-												add_permanent_province_modifier = { name = pop_growth6_2}
+											if = { limit = {growth_rate<5.6 }
+												add_permanent_province_modifier = { name = pop_growth5_5}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growth6_300}
+												add_permanent_province_modifier = { name = pop_growth5_600}
 											}
 										}
 									}
 									else = { 
-										if = { limit = {growth_rate<6.5 }
-											add_permanent_province_modifier = { name = pop_growth6_4}
+										if = { limit = {growth_rate<5.8 }
+											add_permanent_province_modifier = { name = pop_growth5_7}
 										}
 										else = { 
-											if = { limit = {growth_rate<6.6 }
-												add_permanent_province_modifier = { name = pop_growth6_5}
+											if = { limit = {growth_rate<5.9 }
+												add_permanent_province_modifier = { name = pop_growth5_800}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growth6_600}
+												add_permanent_province_modifier = { name = pop_growth5_9}
 											}
 										}
 									}
 								}
 							}
 							else = { 
-								if = { limit = {growth_rate<7.3 }
-									if = { limit = {growth_rate<7.0 }
-										if = { limit = {growth_rate<6.8 }
-											add_permanent_province_modifier = { name = pop_growth6_7}
+								if = { limit = {growth_rate<6.6 }
+									if = { limit = {growth_rate<6.3 }
+										if = { limit = {growth_rate<6.1 }
+											add_permanent_province_modifier = { name = pop_growth6_0}
 										}
 										else = { 
-											if = { limit = {growth_rate<6.9 }
-												add_permanent_province_modifier = { name = pop_growth6_800}
+											if = { limit = {growth_rate<6.2 }
+												add_permanent_province_modifier = { name = pop_growth6_100}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growth6_9}
+												add_permanent_province_modifier = { name = pop_growth6_2}
 											}
 										}
 									}
 									else = { 
-										if = { limit = {growth_rate<7.1 }
-											add_permanent_province_modifier = { name = pop_growth7_0}
+										if = { limit = {growth_rate<6.4 }
+											add_permanent_province_modifier = { name = pop_growth6_300}
 										}
 										else = { 
-											if = { limit = {growth_rate<7.2 }
-												add_permanent_province_modifier = { name = pop_growth7_100}
+											if = { limit = {growth_rate<6.5 }
+												add_permanent_province_modifier = { name = pop_growth6_4}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growth7_2}
+												add_permanent_province_modifier = { name = pop_growth6_5}
 											}
 										}
 									}
 								}
 								else = { 
-									if = { limit = {growth_rate<7.6 }
-										if = { limit = {growth_rate<7.4 }
-											add_permanent_province_modifier = { name = pop_growth7_300}
+									if = { limit = {growth_rate<6.9 }
+										if = { limit = {growth_rate<6.7 }
+											add_permanent_province_modifier = { name = pop_growth6_600}
 										}
 										else = { 
-											if = { limit = {growth_rate<7.5 }
-												add_permanent_province_modifier = { name = pop_growth7_4}
+											if = { limit = {growth_rate<6.8 }
+												add_permanent_province_modifier = { name = pop_growth6_7}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growth7_5}
+												add_permanent_province_modifier = { name = pop_growth6_800}
 											}
 										}
 									}
 									else = { 
-										if = { limit = {growth_rate<7.8 }
-											if = { limit = {growth_rate<7.7 }
-												add_permanent_province_modifier = { name = pop_growth7_600}
+										if = { limit = {growth_rate<7.0 }
+											add_permanent_province_modifier = { name = pop_growth6_9}
+										}
+										else = { 
+											if = { limit = {growth_rate<7.1 }
+												add_permanent_province_modifier = { name = pop_growth7_0}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growth7_7}
+												add_permanent_province_modifier = { name = pop_growth7_100}
 											}
+										}
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+			else = { 
+				if = { limit = {growth_rate<16.1 }
+					if = { limit = {growth_rate<11.6 }
+						if = { limit = {growth_rate<9.4 }
+							if = { limit = {growth_rate<8.3 }
+								if = { limit = {growth_rate<7.7 }
+									if = { limit = {growth_rate<7.4 }
+										if = { limit = {growth_rate<7.3 }
+											add_permanent_province_modifier = { name = pop_growth7_2}
+										}
+										else = { 
+											add_permanent_province_modifier = { name = pop_growth7_300}
+										}
+									}
+									else = { 
+										if = { limit = {growth_rate<7.5 }
+											add_permanent_province_modifier = { name = pop_growth7_4}
+										}
+										else = { 
+											if = { limit = {growth_rate<7.6 }
+												add_permanent_province_modifier = { name = pop_growth7_5}
+											}
+											else = { 
+												add_permanent_province_modifier = { name = pop_growth7_600}
+											}
+										}
+									}
+								}
+								else = { 
+									if = { limit = {growth_rate<8.0 }
+										if = { limit = {growth_rate<7.8 }
+											add_permanent_province_modifier = { name = pop_growth7_7}
 										}
 										else = { 
 											if = { limit = {growth_rate<7.9 }
@@ -3511,15 +3417,7 @@ update_pop_growth.1 = {
 											}
 										}
 									}
-								}
-							}
-						}
-					}
-					else = { 
-						if = { limit = {growth_rate<10.4 }
-							if = { limit = {growth_rate<9.2 }
-								if = { limit = {growth_rate<8.6 }
-									if = { limit = {growth_rate<8.3 }
+									else = { 
 										if = { limit = {growth_rate<8.1 }
 											add_permanent_province_modifier = { name = pop_growth8_0}
 										}
@@ -3532,102 +3430,56 @@ update_pop_growth.1 = {
 											}
 										}
 									}
-									else = { 
+								}
+							}
+							else = { 
+								if = { limit = {growth_rate<8.8 }
+									if = { limit = {growth_rate<8.5 }
 										if = { limit = {growth_rate<8.4 }
 											add_permanent_province_modifier = { name = pop_growth8_3}
 										}
 										else = { 
-											if = { limit = {growth_rate<8.5 }
-												add_permanent_province_modifier = { name = pop_growth8_4}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growth8_5}
-											}
+											add_permanent_province_modifier = { name = pop_growth8_4}
 										}
 									}
-								}
-								else = { 
-									if = { limit = {growth_rate<8.9 }
-										if = { limit = {growth_rate<8.7 }
-											add_permanent_province_modifier = { name = pop_growth8_6}
+									else = { 
+										if = { limit = {growth_rate<8.6 }
+											add_permanent_province_modifier = { name = pop_growth8_5}
 										}
 										else = { 
-											if = { limit = {growth_rate<8.8 }
+											if = { limit = {growth_rate<8.7 }
+												add_permanent_province_modifier = { name = pop_growth8_6}
+											}
+											else = { 
 												add_permanent_province_modifier = { name = pop_growth8_700}
 											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growth8_8}
-											}
-										}
-									}
-									else = { 
-										if = { limit = {growth_rate<9.0 }
-											add_permanent_province_modifier = { name = pop_growth8_9}
-										}
-										else = { 
-											if = { limit = {growth_rate<9.1 }
-												add_permanent_province_modifier = { name = pop_growth9_0}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growth9_1}
-											}
-										}
-									}
-								}
-							}
-							else = { 
-								if = { limit = {growth_rate<9.8 }
-									if = { limit = {growth_rate<9.5 }
-										if = { limit = {growth_rate<9.3 }
-											add_permanent_province_modifier = { name = pop_growth9_200}
-										}
-										else = { 
-											if = { limit = {growth_rate<9.4 }
-												add_permanent_province_modifier = { name = pop_growth9_3}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growth9_4}
-											}
-										}
-									}
-									else = { 
-										if = { limit = {growth_rate<9.6 }
-											add_permanent_province_modifier = { name = pop_growth9_5}
-										}
-										else = { 
-											if = { limit = {growth_rate<9.7 }
-												add_permanent_province_modifier = { name = pop_growth9_600}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growth9_700}
-											}
 										}
 									}
 								}
 								else = { 
-									if = { limit = {growth_rate<10.1 }
-										if = { limit = {growth_rate<9.9 }
-											add_permanent_province_modifier = { name = pop_growth9_8}
+									if = { limit = {growth_rate<9.1 }
+										if = { limit = {growth_rate<8.9 }
+											add_permanent_province_modifier = { name = pop_growth8_8}
 										}
 										else = { 
-											if = { limit = {growth_rate<10.0 }
-												add_permanent_province_modifier = { name = pop_growth9_9}
+											if = { limit = {growth_rate<9.0 }
+												add_permanent_province_modifier = { name = pop_growth8_9}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growth10_0}
+												add_permanent_province_modifier = { name = pop_growth9_0}
 											}
 										}
 									}
 									else = { 
-										if = { limit = {growth_rate<10.2 }
-											add_permanent_province_modifier = { name = pop_growth10_10}
+										if = { limit = {growth_rate<9.2 }
+											add_permanent_province_modifier = { name = pop_growth9_1}
 										}
 										else = { 
-											if = { limit = {growth_rate<10.3 }
-												add_permanent_province_modifier = { name = pop_growth10_20}
+											if = { limit = {growth_rate<9.3 }
+												add_permanent_province_modifier = { name = pop_growth9_200}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growth10_3}
+												add_permanent_province_modifier = { name = pop_growth9_3}
 											}
 										}
 									}
@@ -3635,19 +3487,67 @@ update_pop_growth.1 = {
 							}
 						}
 						else = { 
-							if = { limit = {growth_rate<11.6 }
-								if = { limit = {growth_rate<11.0 }
-									if = { limit = {growth_rate<10.7 }
-										if = { limit = {growth_rate<10.5 }
-											add_permanent_province_modifier = { name = pop_growth10_4}
+							if = { limit = {growth_rate<10.5 }
+								if = { limit = {growth_rate<9.9 }
+									if = { limit = {growth_rate<9.6 }
+										if = { limit = {growth_rate<9.5 }
+											add_permanent_province_modifier = { name = pop_growth9_4}
 										}
 										else = { 
-											if = { limit = {growth_rate<10.6 }
-												add_permanent_province_modifier = { name = pop_growth10_5}
+											add_permanent_province_modifier = { name = pop_growth9_5}
+										}
+									}
+									else = { 
+										if = { limit = {growth_rate<9.7 }
+											add_permanent_province_modifier = { name = pop_growth9_600}
+										}
+										else = { 
+											if = { limit = {growth_rate<9.8 }
+												add_permanent_province_modifier = { name = pop_growth9_700}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growth10_60}
+												add_permanent_province_modifier = { name = pop_growth9_8}
 											}
+										}
+									}
+								}
+								else = { 
+									if = { limit = {growth_rate<10.2 }
+										if = { limit = {growth_rate<10.0 }
+											add_permanent_province_modifier = { name = pop_growth9_9}
+										}
+										else = { 
+											if = { limit = {growth_rate<10.1 }
+												add_permanent_province_modifier = { name = pop_growth10_0}
+											}
+											else = { 
+												add_permanent_province_modifier = { name = pop_growth10_10}
+											}
+										}
+									}
+									else = { 
+										if = { limit = {growth_rate<10.3 }
+											add_permanent_province_modifier = { name = pop_growth10_20}
+										}
+										else = { 
+											if = { limit = {growth_rate<10.4 }
+												add_permanent_province_modifier = { name = pop_growth10_3}
+											}
+											else = { 
+												add_permanent_province_modifier = { name = pop_growth10_4}
+											}
+										}
+									}
+								}
+							}
+							else = { 
+								if = { limit = {growth_rate<11.0 }
+									if = { limit = {growth_rate<10.7 }
+										if = { limit = {growth_rate<10.6 }
+											add_permanent_province_modifier = { name = pop_growth10_5}
+										}
+										else = { 
+											add_permanent_province_modifier = { name = pop_growth10_60}
 										}
 									}
 									else = { 
@@ -3693,51 +3593,53 @@ update_pop_growth.1 = {
 									}
 								}
 							}
-							else = { 
-								if = { limit = {growth_rate<12.2 }
-									if = { limit = {growth_rate<11.9 }
+						}
+					}
+					else = { 
+						if = { limit = {growth_rate<13.8 }
+							if = { limit = {growth_rate<12.7 }
+								if = { limit = {growth_rate<12.1 }
+									if = { limit = {growth_rate<11.8 }
 										if = { limit = {growth_rate<11.7 }
 											add_permanent_province_modifier = { name = pop_growth11_60}
 										}
 										else = { 
-											if = { limit = {growth_rate<11.8 }
-												add_permanent_province_modifier = { name = pop_growth11_70}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growth11_8}
-											}
+											add_permanent_province_modifier = { name = pop_growth11_70}
 										}
 									}
 									else = { 
-										if = { limit = {growth_rate<12.0 }
-											add_permanent_province_modifier = { name = pop_growth11_9}
+										if = { limit = {growth_rate<11.9 }
+											add_permanent_province_modifier = { name = pop_growth11_8}
 										}
 										else = { 
-											if = { limit = {growth_rate<12.1 }
-												add_permanent_province_modifier = { name = pop_growth12_0}
+											if = { limit = {growth_rate<12.0 }
+												add_permanent_province_modifier = { name = pop_growth11_9}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growth12_10}
+												add_permanent_province_modifier = { name = pop_growth12_0}
 											}
 										}
 									}
 								}
 								else = { 
-									if = { limit = {growth_rate<12.5 }
-										if = { limit = {growth_rate<12.3 }
-											add_permanent_province_modifier = { name = pop_growth12_20}
+									if = { limit = {growth_rate<12.4 }
+										if = { limit = {growth_rate<12.2 }
+											add_permanent_province_modifier = { name = pop_growth12_10}
 										}
 										else = { 
-											if = { limit = {growth_rate<12.4 }
-												add_permanent_province_modifier = { name = pop_growth12_3}
+											if = { limit = {growth_rate<12.3 }
+												add_permanent_province_modifier = { name = pop_growth12_20}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growth12_4}
+												add_permanent_province_modifier = { name = pop_growth12_3}
 											}
 										}
 									}
 									else = { 
-										if = { limit = {growth_rate<12.7 }
+										if = { limit = {growth_rate<12.5 }
+											add_permanent_province_modifier = { name = pop_growth12_4}
+										}
+										else = { 
 											if = { limit = {growth_rate<12.6 }
 												add_permanent_province_modifier = { name = pop_growth12_5}
 											}
@@ -3745,28 +3647,20 @@ update_pop_growth.1 = {
 												add_permanent_province_modifier = { name = pop_growth12_60}
 											}
 										}
-										else = { 
-											if = { limit = {growth_rate<12.8 }
-												add_permanent_province_modifier = { name = pop_growth12_70}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growth12_8}
-											}
-										}
 									}
 								}
 							}
-						}
-					}
-				}
-			}
-			else = { 
-				if = { limit = {growth_rate<22.7 }
-					if = { limit = {growth_rate<17.8 }
-						if = { limit = {growth_rate<15.3 }
-							if = { limit = {growth_rate<14.1 }
-								if = { limit = {growth_rate<13.5 }
-									if = { limit = {growth_rate<13.2 }
+							else = { 
+								if = { limit = {growth_rate<13.2 }
+									if = { limit = {growth_rate<12.9 }
+										if = { limit = {growth_rate<12.8 }
+											add_permanent_province_modifier = { name = pop_growth12_70}
+										}
+										else = { 
+											add_permanent_province_modifier = { name = pop_growth12_8}
+										}
+									}
+									else = { 
 										if = { limit = {growth_rate<13.0 }
 											add_permanent_province_modifier = { name = pop_growth12_9}
 										}
@@ -3779,7 +3673,9 @@ update_pop_growth.1 = {
 											}
 										}
 									}
-									else = { 
+								}
+								else = { 
+									if = { limit = {growth_rate<13.5 }
 										if = { limit = {growth_rate<13.3 }
 											add_permanent_province_modifier = { name = pop_growth13_20}
 										}
@@ -3792,9 +3688,7 @@ update_pop_growth.1 = {
 											}
 										}
 									}
-								}
-								else = { 
-									if = { limit = {growth_rate<13.8 }
+									else = { 
 										if = { limit = {growth_rate<13.6 }
 											add_permanent_province_modifier = { name = pop_growth13_5}
 										}
@@ -3807,197 +3701,116 @@ update_pop_growth.1 = {
 											}
 										}
 									}
-									else = { 
-										if = { limit = {growth_rate<13.9 }
-											add_permanent_province_modifier = { name = pop_growth13_8}
-										}
-										else = { 
-											if = { limit = {growth_rate<14.0 }
-												add_permanent_province_modifier = { name = pop_growth13_9}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growth14_0}
-											}
-										}
-									}
-								}
-							}
-							else = { 
-								if = { limit = {growth_rate<14.7 }
-									if = { limit = {growth_rate<14.4 }
-										if = { limit = {growth_rate<14.2 }
-											add_permanent_province_modifier = { name = pop_growth14_10}
-										}
-										else = { 
-											if = { limit = {growth_rate<14.3 }
-												add_permanent_province_modifier = { name = pop_growth14_20}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growth14_3}
-											}
-										}
-									}
-									else = { 
-										if = { limit = {growth_rate<14.5 }
-											add_permanent_province_modifier = { name = pop_growth14_4}
-										}
-										else = { 
-											if = { limit = {growth_rate<14.6 }
-												add_permanent_province_modifier = { name = pop_growth14_5}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growth14_60}
-											}
-										}
-									}
-								}
-								else = { 
-									if = { limit = {growth_rate<15.0 }
-										if = { limit = {growth_rate<14.8 }
-											add_permanent_province_modifier = { name = pop_growth14_70}
-										}
-										else = { 
-											if = { limit = {growth_rate<14.9 }
-												add_permanent_province_modifier = { name = pop_growth14_8}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growth14_9}
-											}
-										}
-									}
-									else = { 
-										if = { limit = {growth_rate<15.1 }
-											add_permanent_province_modifier = { name = pop_growth15_0}
-										}
-										else = { 
-											if = { limit = {growth_rate<15.2 }
-												add_permanent_province_modifier = { name = pop_growth15_10}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growth15_20}
-											}
-										}
-									}
 								}
 							}
 						}
 						else = { 
-							if = { limit = {growth_rate<16.5 }
-								if = { limit = {growth_rate<15.9 }
-									if = { limit = {growth_rate<15.6 }
-										if = { limit = {growth_rate<15.4 }
-											add_permanent_province_modifier = { name = pop_growth15_3}
+							if = { limit = {growth_rate<14.9 }
+								if = { limit = {growth_rate<14.3 }
+									if = { limit = {growth_rate<14.0 }
+										if = { limit = {growth_rate<13.9 }
+											add_permanent_province_modifier = { name = pop_growth13_8}
 										}
 										else = { 
-											if = { limit = {growth_rate<15.5 }
-												add_permanent_province_modifier = { name = pop_growth15_4}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growth15_5}
-											}
+											add_permanent_province_modifier = { name = pop_growth13_9}
 										}
 									}
 									else = { 
-										if = { limit = {growth_rate<15.7 }
-											add_permanent_province_modifier = { name = pop_growth15_60}
+										if = { limit = {growth_rate<14.1 }
+											add_permanent_province_modifier = { name = pop_growth14_0}
 										}
 										else = { 
-											if = { limit = {growth_rate<15.8 }
-												add_permanent_province_modifier = { name = pop_growth15_70}
+											if = { limit = {growth_rate<14.2 }
+												add_permanent_province_modifier = { name = pop_growth14_10}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growth15_8}
+												add_permanent_province_modifier = { name = pop_growth14_20}
 											}
 										}
 									}
 								}
 								else = { 
-									if = { limit = {growth_rate<16.2 }
-										if = { limit = {growth_rate<16.0 }
-											add_permanent_province_modifier = { name = pop_growth15_9}
+									if = { limit = {growth_rate<14.6 }
+										if = { limit = {growth_rate<14.4 }
+											add_permanent_province_modifier = { name = pop_growth14_3}
 										}
 										else = { 
-											if = { limit = {growth_rate<16.1 }
-												add_permanent_province_modifier = { name = pop_growth16_0}
+											if = { limit = {growth_rate<14.5 }
+												add_permanent_province_modifier = { name = pop_growth14_4}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growth16_1}
+												add_permanent_province_modifier = { name = pop_growth14_5}
 											}
 										}
 									}
 									else = { 
-										if = { limit = {growth_rate<16.3 }
-											add_permanent_province_modifier = { name = pop_growth16_2}
+										if = { limit = {growth_rate<14.7 }
+											add_permanent_province_modifier = { name = pop_growth14_60}
 										}
 										else = { 
-											if = { limit = {growth_rate<16.4 }
-												add_permanent_province_modifier = { name = pop_growth16_3}
+											if = { limit = {growth_rate<14.8 }
+												add_permanent_province_modifier = { name = pop_growth14_70}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growth16_40}
+												add_permanent_province_modifier = { name = pop_growth14_8}
 											}
 										}
 									}
 								}
 							}
 							else = { 
-								if = { limit = {growth_rate<17.1 }
-									if = { limit = {growth_rate<16.8 }
-										if = { limit = {growth_rate<16.6 }
-											add_permanent_province_modifier = { name = pop_growth16_5}
+								if = { limit = {growth_rate<15.5 }
+									if = { limit = {growth_rate<15.2 }
+										if = { limit = {growth_rate<15.0 }
+											add_permanent_province_modifier = { name = pop_growth14_9}
 										}
 										else = { 
-											if = { limit = {growth_rate<16.7 }
-												add_permanent_province_modifier = { name = pop_growth16_6}
+											if = { limit = {growth_rate<15.1 }
+												add_permanent_province_modifier = { name = pop_growth15_0}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growth16_7}
+												add_permanent_province_modifier = { name = pop_growth15_10}
 											}
 										}
 									}
 									else = { 
-										if = { limit = {growth_rate<16.9 }
-											add_permanent_province_modifier = { name = pop_growth16_8}
+										if = { limit = {growth_rate<15.3 }
+											add_permanent_province_modifier = { name = pop_growth15_20}
 										}
 										else = { 
-											if = { limit = {growth_rate<17.0 }
-												add_permanent_province_modifier = { name = pop_growth16_90}
+											if = { limit = {growth_rate<15.4 }
+												add_permanent_province_modifier = { name = pop_growth15_3}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growth17_0}
+												add_permanent_province_modifier = { name = pop_growth15_4}
 											}
 										}
 									}
 								}
 								else = { 
-									if = { limit = {growth_rate<17.4 }
-										if = { limit = {growth_rate<17.2 }
-											add_permanent_province_modifier = { name = pop_growth17_1}
+									if = { limit = {growth_rate<15.8 }
+										if = { limit = {growth_rate<15.6 }
+											add_permanent_province_modifier = { name = pop_growth15_5}
 										}
 										else = { 
-											if = { limit = {growth_rate<17.3 }
-												add_permanent_province_modifier = { name = pop_growth17_2}
+											if = { limit = {growth_rate<15.7 }
+												add_permanent_province_modifier = { name = pop_growth15_60}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growth17_3}
+												add_permanent_province_modifier = { name = pop_growth15_70}
 											}
 										}
 									}
 									else = { 
-										if = { limit = {growth_rate<17.6 }
-											if = { limit = {growth_rate<17.5 }
-												add_permanent_province_modifier = { name = pop_growth17_40}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growth17_5}
-											}
+										if = { limit = {growth_rate<15.9 }
+											add_permanent_province_modifier = { name = pop_growth15_8}
 										}
 										else = { 
-											if = { limit = {growth_rate<17.7 }
-												add_permanent_province_modifier = { name = pop_growth17_6}
+											if = { limit = {growth_rate<16.0 }
+												add_permanent_province_modifier = { name = pop_growth15_9}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growth17_7}
+												add_permanent_province_modifier = { name = pop_growth16_0}
 											}
 										}
 									}
@@ -4005,97 +3818,182 @@ update_pop_growth.1 = {
 							}
 						}
 					}
-					else = { 
-						if = { limit = {growth_rate<20.2 }
-							if = { limit = {growth_rate<19.0 }
-								if = { limit = {growth_rate<18.4 }
-									if = { limit = {growth_rate<18.1 }
-										if = { limit = {growth_rate<17.9 }
-											add_permanent_province_modifier = { name = pop_growth17_8}
+				}
+				else = { 
+					if = { limit = {growth_rate<20.5 }
+						if = { limit = {growth_rate<18.3 }
+							if = { limit = {growth_rate<17.2 }
+								if = { limit = {growth_rate<16.6 }
+									if = { limit = {growth_rate<16.3 }
+										if = { limit = {growth_rate<16.2 }
+											add_permanent_province_modifier = { name = pop_growth16_1}
 										}
 										else = { 
-											if = { limit = {growth_rate<18.0 }
-												add_permanent_province_modifier = { name = pop_growth17_90}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growth18_0}
-											}
+											add_permanent_province_modifier = { name = pop_growth16_2}
 										}
 									}
 									else = { 
-										if = { limit = {growth_rate<18.2 }
-											add_permanent_province_modifier = { name = pop_growth18_1}
+										if = { limit = {growth_rate<16.4 }
+											add_permanent_province_modifier = { name = pop_growth16_3}
 										}
 										else = { 
-											if = { limit = {growth_rate<18.3 }
-												add_permanent_province_modifier = { name = pop_growth18_2}
+											if = { limit = {growth_rate<16.5 }
+												add_permanent_province_modifier = { name = pop_growth16_40}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growth18_3}
+												add_permanent_province_modifier = { name = pop_growth16_5}
 											}
 										}
 									}
 								}
 								else = { 
-									if = { limit = {growth_rate<18.7 }
-										if = { limit = {growth_rate<18.5 }
-											add_permanent_province_modifier = { name = pop_growth18_40}
+									if = { limit = {growth_rate<16.9 }
+										if = { limit = {growth_rate<16.7 }
+											add_permanent_province_modifier = { name = pop_growth16_6}
 										}
 										else = { 
-											if = { limit = {growth_rate<18.6 }
-												add_permanent_province_modifier = { name = pop_growth18_5}
+											if = { limit = {growth_rate<16.8 }
+												add_permanent_province_modifier = { name = pop_growth16_7}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growth18_6}
+												add_permanent_province_modifier = { name = pop_growth16_8}
 											}
 										}
 									}
 									else = { 
-										if = { limit = {growth_rate<18.8 }
-											add_permanent_province_modifier = { name = pop_growth18_7}
+										if = { limit = {growth_rate<17.0 }
+											add_permanent_province_modifier = { name = pop_growth16_90}
 										}
 										else = { 
-											if = { limit = {growth_rate<18.9 }
-												add_permanent_province_modifier = { name = pop_growth18_8}
+											if = { limit = {growth_rate<17.1 }
+												add_permanent_province_modifier = { name = pop_growth17_0}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growth18_90}
+												add_permanent_province_modifier = { name = pop_growth17_1}
 											}
 										}
 									}
 								}
 							}
 							else = { 
-								if = { limit = {growth_rate<19.6 }
-									if = { limit = {growth_rate<19.3 }
-										if = { limit = {growth_rate<19.1 }
-											add_permanent_province_modifier = { name = pop_growth19_0}
+								if = { limit = {growth_rate<17.7 }
+									if = { limit = {growth_rate<17.4 }
+										if = { limit = {growth_rate<17.3 }
+											add_permanent_province_modifier = { name = pop_growth17_2}
 										}
 										else = { 
-											if = { limit = {growth_rate<19.2 }
-												add_permanent_province_modifier = { name = pop_growth19_1}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growth19_20}
-											}
+											add_permanent_province_modifier = { name = pop_growth17_3}
 										}
 									}
 									else = { 
-										if = { limit = {growth_rate<19.4 }
-											add_permanent_province_modifier = { name = pop_growth19_3}
+										if = { limit = {growth_rate<17.5 }
+											add_permanent_province_modifier = { name = pop_growth17_40}
 										}
 										else = { 
-											if = { limit = {growth_rate<19.5 }
-												add_permanent_province_modifier = { name = pop_growth19_40}
+											if = { limit = {growth_rate<17.6 }
+												add_permanent_province_modifier = { name = pop_growth17_5}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growth19_5}
+												add_permanent_province_modifier = { name = pop_growth17_6}
 											}
 										}
 									}
 								}
 								else = { 
-									if = { limit = {growth_rate<19.9 }
+									if = { limit = {growth_rate<18.0 }
+										if = { limit = {growth_rate<17.8 }
+											add_permanent_province_modifier = { name = pop_growth17_7}
+										}
+										else = { 
+											if = { limit = {growth_rate<17.9 }
+												add_permanent_province_modifier = { name = pop_growth17_8}
+											}
+											else = { 
+												add_permanent_province_modifier = { name = pop_growth17_90}
+											}
+										}
+									}
+									else = { 
+										if = { limit = {growth_rate<18.1 }
+											add_permanent_province_modifier = { name = pop_growth18_0}
+										}
+										else = { 
+											if = { limit = {growth_rate<18.2 }
+												add_permanent_province_modifier = { name = pop_growth18_1}
+											}
+											else = { 
+												add_permanent_province_modifier = { name = pop_growth18_2}
+											}
+										}
+									}
+								}
+							}
+						}
+						else = { 
+							if = { limit = {growth_rate<19.4 }
+								if = { limit = {growth_rate<18.8 }
+									if = { limit = {growth_rate<18.5 }
+										if = { limit = {growth_rate<18.4 }
+											add_permanent_province_modifier = { name = pop_growth18_3}
+										}
+										else = { 
+											add_permanent_province_modifier = { name = pop_growth18_40}
+										}
+									}
+									else = { 
+										if = { limit = {growth_rate<18.6 }
+											add_permanent_province_modifier = { name = pop_growth18_5}
+										}
+										else = { 
+											if = { limit = {growth_rate<18.7 }
+												add_permanent_province_modifier = { name = pop_growth18_6}
+											}
+											else = { 
+												add_permanent_province_modifier = { name = pop_growth18_7}
+											}
+										}
+									}
+								}
+								else = { 
+									if = { limit = {growth_rate<19.1 }
+										if = { limit = {growth_rate<18.9 }
+											add_permanent_province_modifier = { name = pop_growth18_8}
+										}
+										else = { 
+											if = { limit = {growth_rate<19.0 }
+												add_permanent_province_modifier = { name = pop_growth18_90}
+											}
+											else = { 
+												add_permanent_province_modifier = { name = pop_growth19_0}
+											}
+										}
+									}
+									else = { 
+										if = { limit = {growth_rate<19.2 }
+											add_permanent_province_modifier = { name = pop_growth19_1}
+										}
+										else = { 
+											if = { limit = {growth_rate<19.3 }
+												add_permanent_province_modifier = { name = pop_growth19_20}
+											}
+											else = { 
+												add_permanent_province_modifier = { name = pop_growth19_3}
+											}
+										}
+									}
+								}
+							}
+							else = { 
+								if = { limit = {growth_rate<19.9 }
+									if = { limit = {growth_rate<19.6 }
+										if = { limit = {growth_rate<19.5 }
+											add_permanent_province_modifier = { name = pop_growth19_40}
+										}
+										else = { 
+											add_permanent_province_modifier = { name = pop_growth19_5}
+										}
+									}
+									else = { 
 										if = { limit = {growth_rate<19.7 }
 											add_permanent_province_modifier = { name = pop_growth19_6}
 										}
@@ -4108,7 +4006,9 @@ update_pop_growth.1 = {
 											}
 										}
 									}
-									else = { 
+								}
+								else = { 
+									if = { limit = {growth_rate<20.2 }
 										if = { limit = {growth_rate<20.0 }
 											add_permanent_province_modifier = { name = pop_growth19_90}
 										}
@@ -4121,13 +4021,7 @@ update_pop_growth.1 = {
 											}
 										}
 									}
-								}
-							}
-						}
-						else = { 
-							if = { limit = {growth_rate<21.4 }
-								if = { limit = {growth_rate<20.8 }
-									if = { limit = {growth_rate<20.5 }
+									else = { 
 										if = { limit = {growth_rate<20.3 }
 											add_permanent_province_modifier = { name = pop_growth20_20}
 										}
@@ -4140,100 +4034,106 @@ update_pop_growth.1 = {
 											}
 										}
 									}
-									else = { 
+								}
+							}
+						}
+					}
+					else = { 
+						if = { limit = {growth_rate<22.7 }
+							if = { limit = {growth_rate<21.6 }
+								if = { limit = {growth_rate<21.0 }
+									if = { limit = {growth_rate<20.7 }
 										if = { limit = {growth_rate<20.6 }
 											add_permanent_province_modifier = { name = pop_growth20_5}
 										}
 										else = { 
-											if = { limit = {growth_rate<20.7 }
-												add_permanent_province_modifier = { name = pop_growth20_6}
+											add_permanent_province_modifier = { name = pop_growth20_6}
+										}
+									}
+									else = { 
+										if = { limit = {growth_rate<20.8 }
+											add_permanent_province_modifier = { name = pop_growth20_70}
+										}
+										else = { 
+											if = { limit = {growth_rate<20.9 }
+												add_permanent_province_modifier = { name = pop_growth20_8}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growth20_70}
+												add_permanent_province_modifier = { name = pop_growth20_90}
 											}
 										}
 									}
 								}
 								else = { 
-									if = { limit = {growth_rate<21.1 }
-										if = { limit = {growth_rate<20.9 }
-											add_permanent_province_modifier = { name = pop_growth20_8}
+									if = { limit = {growth_rate<21.3 }
+										if = { limit = {growth_rate<21.1 }
+											add_permanent_province_modifier = { name = pop_growth21_0}
 										}
 										else = { 
-											if = { limit = {growth_rate<21.0 }
-												add_permanent_province_modifier = { name = pop_growth20_90}
+											if = { limit = {growth_rate<21.2 }
+												add_permanent_province_modifier = { name = pop_growth21_1}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growth21_0}
+												add_permanent_province_modifier = { name = pop_growth21_20}
 											}
 										}
 									}
 									else = { 
-										if = { limit = {growth_rate<21.2 }
-											add_permanent_province_modifier = { name = pop_growth21_1}
+										if = { limit = {growth_rate<21.4 }
+											add_permanent_province_modifier = { name = pop_growth21_3}
 										}
 										else = { 
-											if = { limit = {growth_rate<21.3 }
-												add_permanent_province_modifier = { name = pop_growth21_20}
+											if = { limit = {growth_rate<21.5 }
+												add_permanent_province_modifier = { name = pop_growth21_40}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growth21_3}
+												add_permanent_province_modifier = { name = pop_growth21_5}
 											}
 										}
 									}
 								}
 							}
 							else = { 
-								if = { limit = {growth_rate<22.0 }
-									if = { limit = {growth_rate<21.7 }
-										if = { limit = {growth_rate<21.5 }
-											add_permanent_province_modifier = { name = pop_growth21_40}
+								if = { limit = {growth_rate<22.1 }
+									if = { limit = {growth_rate<21.8 }
+										if = { limit = {growth_rate<21.7 }
+											add_permanent_province_modifier = { name = pop_growth21_6}
 										}
 										else = { 
-											if = { limit = {growth_rate<21.6 }
-												add_permanent_province_modifier = { name = pop_growth21_5}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growth21_6}
-											}
+											add_permanent_province_modifier = { name = pop_growth21_70}
 										}
 									}
 									else = { 
-										if = { limit = {growth_rate<21.8 }
-											add_permanent_province_modifier = { name = pop_growth21_70}
+										if = { limit = {growth_rate<21.9 }
+											add_permanent_province_modifier = { name = pop_growth21_8}
 										}
 										else = { 
-											if = { limit = {growth_rate<21.9 }
-												add_permanent_province_modifier = { name = pop_growth21_8}
+											if = { limit = {growth_rate<22.0 }
+												add_permanent_province_modifier = { name = pop_growth21_90}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growth21_90}
+												add_permanent_province_modifier = { name = pop_growth22_0}
 											}
 										}
 									}
 								}
 								else = { 
-									if = { limit = {growth_rate<22.3 }
-										if = { limit = {growth_rate<22.1 }
-											add_permanent_province_modifier = { name = pop_growth22_0}
+									if = { limit = {growth_rate<22.4 }
+										if = { limit = {growth_rate<22.2 }
+											add_permanent_province_modifier = { name = pop_growth22_1}
 										}
 										else = { 
-											if = { limit = {growth_rate<22.2 }
-												add_permanent_province_modifier = { name = pop_growth22_1}
+											if = { limit = {growth_rate<22.3 }
+												add_permanent_province_modifier = { name = pop_growth22_20}
 											}
 											else = { 
-												add_permanent_province_modifier = { name = pop_growth22_20}
+												add_permanent_province_modifier = { name = pop_growth22_3}
 											}
 										}
 									}
 									else = { 
 										if = { limit = {growth_rate<22.5 }
-											if = { limit = {growth_rate<22.4 }
-												add_permanent_province_modifier = { name = pop_growth22_3}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growth22_40}
-											}
+											add_permanent_province_modifier = { name = pop_growth22_40}
 										}
 										else = { 
 											if = { limit = {growth_rate<22.6 }
@@ -4247,493 +4147,113 @@ update_pop_growth.1 = {
 								}
 							}
 						}
-					}
-				}
-				else = { 
-					if = { limit = {growth_rate<51.0 }
-						if = { limit = {growth_rate<26.0 }
-							if = { limit = {growth_rate<23.9 }
-								if = { limit = {growth_rate<23.3 }
-									if = { limit = {growth_rate<23.0 }
+						else = { 
+							if = { limit = {growth_rate<23.8 }
+								if = { limit = {growth_rate<23.2 }
+									if = { limit = {growth_rate<22.9 }
 										if = { limit = {growth_rate<22.8 }
 											add_permanent_province_modifier = { name = pop_growth22_70}
 										}
 										else = { 
-											if = { limit = {growth_rate<22.9 }
-												add_permanent_province_modifier = { name = pop_growth22_8}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growth22_90}
-											}
+											add_permanent_province_modifier = { name = pop_growth22_8}
 										}
 									}
 									else = { 
-										if = { limit = {growth_rate<23.1 }
-											add_permanent_province_modifier = { name = pop_growth23_0}
+										if = { limit = {growth_rate<23.0 }
+											add_permanent_province_modifier = { name = pop_growth22_90}
 										}
 										else = { 
-											if = { limit = {growth_rate<23.2 }
+											if = { limit = {growth_rate<23.1 }
+												add_permanent_province_modifier = { name = pop_growth23_0}
+											}
+											else = { 
 												add_permanent_province_modifier = { name = pop_growth23_1}
 											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growth23_20}
-											}
 										}
 									}
 								}
 								else = { 
-									if = { limit = {growth_rate<23.6 }
-										if = { limit = {growth_rate<23.4 }
-											add_permanent_province_modifier = { name = pop_growth23_3}
+									if = { limit = {growth_rate<23.5 }
+										if = { limit = {growth_rate<23.3 }
+											add_permanent_province_modifier = { name = pop_growth23_20}
 										}
 										else = { 
-											if = { limit = {growth_rate<23.5 }
+											if = { limit = {growth_rate<23.4 }
+												add_permanent_province_modifier = { name = pop_growth23_3}
+											}
+											else = { 
 												add_permanent_province_modifier = { name = pop_growth23_40}
 											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growth23_5}
-											}
 										}
 									}
 									else = { 
-										if = { limit = {growth_rate<23.7 }
-											add_permanent_province_modifier = { name = pop_growth23_6}
+										if = { limit = {growth_rate<23.6 }
+											add_permanent_province_modifier = { name = pop_growth23_5}
 										}
 										else = { 
-											if = { limit = {growth_rate<23.8 }
+											if = { limit = {growth_rate<23.7 }
+												add_permanent_province_modifier = { name = pop_growth23_6}
+											}
+											else = { 
 												add_permanent_province_modifier = { name = pop_growth23_70}
 											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growth23_8}
-											}
 										}
 									}
 								}
 							}
 							else = { 
-								if = { limit = {growth_rate<24.5 }
-									if = { limit = {growth_rate<24.2 }
-										if = { limit = {growth_rate<24.0 }
-											add_permanent_province_modifier = { name = pop_growth23_90}
+								if = { limit = {growth_rate<24.4 }
+									if = { limit = {growth_rate<24.1 }
+										if = { limit = {growth_rate<23.9 }
+											add_permanent_province_modifier = { name = pop_growth23_8}
 										}
 										else = { 
-											if = { limit = {growth_rate<24.1 }
+											if = { limit = {growth_rate<24.0 }
+												add_permanent_province_modifier = { name = pop_growth23_90}
+											}
+											else = { 
 												add_permanent_province_modifier = { name = pop_growth24_0}
 											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growth24_1}
-											}
 										}
 									}
 									else = { 
-										if = { limit = {growth_rate<24.3 }
-											add_permanent_province_modifier = { name = pop_growth24_20}
+										if = { limit = {growth_rate<24.2 }
+											add_permanent_province_modifier = { name = pop_growth24_1}
 										}
 										else = { 
-											if = { limit = {growth_rate<24.4 }
+											if = { limit = {growth_rate<24.3 }
+												add_permanent_province_modifier = { name = pop_growth24_20}
+											}
+											else = { 
 												add_permanent_province_modifier = { name = pop_growth24_3}
 											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growth24_40}
-											}
 										}
 									}
 								}
 								else = { 
-									if = { limit = {growth_rate<24.8 }
-										if = { limit = {growth_rate<24.6 }
-											add_permanent_province_modifier = { name = pop_growth24_5}
+									if = { limit = {growth_rate<24.7 }
+										if = { limit = {growth_rate<24.5 }
+											add_permanent_province_modifier = { name = pop_growth24_40}
 										}
 										else = { 
-											if = { limit = {growth_rate<24.7 }
+											if = { limit = {growth_rate<24.6 }
+												add_permanent_province_modifier = { name = pop_growth24_5}
+											}
+											else = { 
 												add_permanent_province_modifier = { name = pop_growth24_6}
 											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growth24_70}
-											}
 										}
 									}
 									else = { 
-										if = { limit = {growth_rate<24.9 }
-											add_permanent_province_modifier = { name = pop_growth24_8}
+										if = { limit = {growth_rate<24.8 }
+											add_permanent_province_modifier = { name = pop_growth24_70}
 										}
 										else = { 
-											if = { limit = {growth_rate<25.0 }
+											if = { limit = {growth_rate<24.9 }
+												add_permanent_province_modifier = { name = pop_growth24_8}
+											}
+											else = { 
 												add_permanent_province_modifier = { name = pop_growth24_90}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growth25_0}
-											}
-										}
-									}
-								}
-							}
-						}
-						else = { 
-							if = { limit = {growth_rate<38.0 }
-								if = { limit = {growth_rate<32.0 }
-									if = { limit = {growth_rate<29.0 }
-										if = { limit = {growth_rate<27.0 }
-											add_permanent_province_modifier = { name = pop_growth26}
-										}
-										else = { 
-											if = { limit = {growth_rate<28.0 }
-												add_permanent_province_modifier = { name = pop_growth27}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growth28}
-											}
-										}
-									}
-									else = { 
-										if = { limit = {growth_rate<30.0 }
-											add_permanent_province_modifier = { name = pop_growth29}
-										}
-										else = { 
-											if = { limit = {growth_rate<31.0 }
-												add_permanent_province_modifier = { name = pop_growth30}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growth31}
-											}
-										}
-									}
-								}
-								else = { 
-									if = { limit = {growth_rate<35.0 }
-										if = { limit = {growth_rate<33.0 }
-											add_permanent_province_modifier = { name = pop_growth32}
-										}
-										else = { 
-											if = { limit = {growth_rate<34.0 }
-												add_permanent_province_modifier = { name = pop_growth33}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growth34}
-											}
-										}
-									}
-									else = { 
-										if = { limit = {growth_rate<36.0 }
-											add_permanent_province_modifier = { name = pop_growth35}
-										}
-										else = { 
-											if = { limit = {growth_rate<37.0 }
-												add_permanent_province_modifier = { name = pop_growth36}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growth37}
-											}
-										}
-									}
-								}
-							}
-							else = { 
-								if = { limit = {growth_rate<44.0 }
-									if = { limit = {growth_rate<41.0 }
-										if = { limit = {growth_rate<39.0 }
-											add_permanent_province_modifier = { name = pop_growth38}
-										}
-										else = { 
-											if = { limit = {growth_rate<40.0 }
-												add_permanent_province_modifier = { name = pop_growth39}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growth40}
-											}
-										}
-									}
-									else = { 
-										if = { limit = {growth_rate<42.0 }
-											add_permanent_province_modifier = { name = pop_growth41}
-										}
-										else = { 
-											if = { limit = {growth_rate<43.0 }
-												add_permanent_province_modifier = { name = pop_growth42}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growth43}
-											}
-										}
-									}
-								}
-								else = { 
-									if = { limit = {growth_rate<47.0 }
-										if = { limit = {growth_rate<45.0 }
-											add_permanent_province_modifier = { name = pop_growth44}
-										}
-										else = { 
-											if = { limit = {growth_rate<46.0 }
-												add_permanent_province_modifier = { name = pop_growth45}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growth46}
-											}
-										}
-									}
-									else = { 
-										if = { limit = {growth_rate<49.0 }
-											if = { limit = {growth_rate<48.0 }
-												add_permanent_province_modifier = { name = pop_growth47}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growth48}
-											}
-										}
-										else = { 
-											if = { limit = {growth_rate<50.0 }
-												add_permanent_province_modifier = { name = pop_growth49}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growth50}
-											}
-										}
-									}
-								}
-							}
-						}
-					}
-					else = { 
-						if = { limit = {growth_rate<76.0 }
-							if = { limit = {growth_rate<63.0 }
-								if = { limit = {growth_rate<57.0 }
-									if = { limit = {growth_rate<54.0 }
-										if = { limit = {growth_rate<52.0 }
-											add_permanent_province_modifier = { name = pop_growth51}
-										}
-										else = { 
-											if = { limit = {growth_rate<53.0 }
-												add_permanent_province_modifier = { name = pop_growth52}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growth53}
-											}
-										}
-									}
-									else = { 
-										if = { limit = {growth_rate<55.0 }
-											add_permanent_province_modifier = { name = pop_growth54}
-										}
-										else = { 
-											if = { limit = {growth_rate<56.0 }
-												add_permanent_province_modifier = { name = pop_growth55}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growth56}
-											}
-										}
-									}
-								}
-								else = { 
-									if = { limit = {growth_rate<60.0 }
-										if = { limit = {growth_rate<58.0 }
-											add_permanent_province_modifier = { name = pop_growth57}
-										}
-										else = { 
-											if = { limit = {growth_rate<59.0 }
-												add_permanent_province_modifier = { name = pop_growth58}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growth59}
-											}
-										}
-									}
-									else = { 
-										if = { limit = {growth_rate<61.0 }
-											add_permanent_province_modifier = { name = pop_growth60}
-										}
-										else = { 
-											if = { limit = {growth_rate<62.0 }
-												add_permanent_province_modifier = { name = pop_growth61}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growth62}
-											}
-										}
-									}
-								}
-							}
-							else = { 
-								if = { limit = {growth_rate<69.0 }
-									if = { limit = {growth_rate<66.0 }
-										if = { limit = {growth_rate<64.0 }
-											add_permanent_province_modifier = { name = pop_growth63}
-										}
-										else = { 
-											if = { limit = {growth_rate<65.0 }
-												add_permanent_province_modifier = { name = pop_growth64}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growth65}
-											}
-										}
-									}
-									else = { 
-										if = { limit = {growth_rate<67.0 }
-											add_permanent_province_modifier = { name = pop_growth66}
-										}
-										else = { 
-											if = { limit = {growth_rate<68.0 }
-												add_permanent_province_modifier = { name = pop_growth67}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growth68}
-											}
-										}
-									}
-								}
-								else = { 
-									if = { limit = {growth_rate<72.0 }
-										if = { limit = {growth_rate<70.0 }
-											add_permanent_province_modifier = { name = pop_growth69}
-										}
-										else = { 
-											if = { limit = {growth_rate<71.0 }
-												add_permanent_province_modifier = { name = pop_growth70}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growth71}
-											}
-										}
-									}
-									else = { 
-										if = { limit = {growth_rate<74.0 }
-											if = { limit = {growth_rate<73.0 }
-												add_permanent_province_modifier = { name = pop_growth72}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growth73}
-											}
-										}
-										else = { 
-											if = { limit = {growth_rate<75.0 }
-												add_permanent_province_modifier = { name = pop_growth74}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growth75}
-											}
-										}
-									}
-								}
-							}
-						}
-						else = { 
-							if = { limit = {growth_rate<88.0 }
-								if = { limit = {growth_rate<82.0 }
-									if = { limit = {growth_rate<79.0 }
-										if = { limit = {growth_rate<77.0 }
-											add_permanent_province_modifier = { name = pop_growth76}
-										}
-										else = { 
-											if = { limit = {growth_rate<78.0 }
-												add_permanent_province_modifier = { name = pop_growth77}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growth78}
-											}
-										}
-									}
-									else = { 
-										if = { limit = {growth_rate<80.0 }
-											add_permanent_province_modifier = { name = pop_growth79}
-										}
-										else = { 
-											if = { limit = {growth_rate<81.0 }
-												add_permanent_province_modifier = { name = pop_growth80}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growth81}
-											}
-										}
-									}
-								}
-								else = { 
-									if = { limit = {growth_rate<85.0 }
-										if = { limit = {growth_rate<83.0 }
-											add_permanent_province_modifier = { name = pop_growth82}
-										}
-										else = { 
-											if = { limit = {growth_rate<84.0 }
-												add_permanent_province_modifier = { name = pop_growth83}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growth84}
-											}
-										}
-									}
-									else = { 
-										if = { limit = {growth_rate<86.0 }
-											add_permanent_province_modifier = { name = pop_growth85}
-										}
-										else = { 
-											if = { limit = {growth_rate<87.0 }
-												add_permanent_province_modifier = { name = pop_growth86}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growth87}
-											}
-										}
-									}
-								}
-							}
-							else = { 
-								if = { limit = {growth_rate<94.0 }
-									if = { limit = {growth_rate<91.0 }
-										if = { limit = {growth_rate<89.0 }
-											add_permanent_province_modifier = { name = pop_growth88}
-										}
-										else = { 
-											if = { limit = {growth_rate<90.0 }
-												add_permanent_province_modifier = { name = pop_growth89}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growth90}
-											}
-										}
-									}
-									else = { 
-										if = { limit = {growth_rate<92.0 }
-											add_permanent_province_modifier = { name = pop_growth91}
-										}
-										else = { 
-											if = { limit = {growth_rate<93.0 }
-												add_permanent_province_modifier = { name = pop_growth92}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growth93}
-											}
-										}
-									}
-								}
-								else = { 
-									if = { limit = {growth_rate<97.0 }
-										if = { limit = {growth_rate<95.0 }
-											add_permanent_province_modifier = { name = pop_growth94}
-										}
-										else = { 
-											if = { limit = {growth_rate<96.0 }
-												add_permanent_province_modifier = { name = pop_growth95}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growth96}
-											}
-										}
-									}
-									else = { 
-										if = { limit = {growth_rate<99.0 }
-											if = { limit = {growth_rate<98.0 }
-												add_permanent_province_modifier = { name = pop_growth97}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growth98}
-											}
-										}
-										else = { 
-											if = { limit = {growth_rate<100.0 }
-												add_permanent_province_modifier = { name = pop_growth99}
-											}
-											else = { 
-												add_permanent_province_modifier = { name = pop_growth100}
 											}
 										}
 									}

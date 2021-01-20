@@ -7,90 +7,60 @@ per_capita_wealth = {
 	divide = total_population
 }
 
-per_capita_infrastructure = {
-	value = var:province_infrastructure
+per_capita_farming_infrastructure = {
+	value = var:farming_infrastructure
 	divide = total_population
 }
 
-wealth_factor = {
+farming_wealth_factor = {
 	value = 0.1
-	multiply = per_capita_infrastructure
+	multiply = per_capita_farming_infrastructure
 	if = {
-		limit = {per_capita_infrastructure < 10}
+		limit = {per_capita_farming_infrastructure < 10}
 	}
 	else_if = {
-		limit = {per_capita_infrastructure < 30}
+		limit = {per_capita_farming_infrastructure < 30}
 		divide = 2.0
 		add = 0.5
 	}
 	else_if = {
-		limit = {per_capita_infrastructure < 60}
+		limit = {per_capita_farming_infrastructure < 60}
 		divide = 3.0
 		add = 1
 	}
 	else_if = {
-		limit = {per_capita_infrastructure < 100}
+		limit = {per_capita_farming_infrastructure < 100}
 		divide = 4.0
 		add = 1.5
 	}
 	else_if = {
-		limit = {per_capita_infrastructure < 150}
+		limit = {per_capita_farming_infrastructure < 150}
 		divide = 5.0
 		add = 2
 	}
 	else_if = {
-		limit = {per_capita_infrastructure < 210}
+		limit = {per_capita_farming_infrastructure < 210}
 		divide = 6.0
 		add = 2.5
 	}
 	else_if = {
-		limit = {per_capita_infrastructure < 280}
+		limit = {per_capita_farming_infrastructure < 280}
 		divide = 7.0
 		add = 3
 	}
 	else_if = {
-		limit = {per_capita_infrastructure < 360}
+		limit = {per_capita_farming_infrastructure < 360}
 		divide = 8.0
 		add = 3.5
 	}
 	else_if = {
-		limit = {per_capita_infrastructure < 450}
+		limit = {per_capita_farming_infrastructure < 450}
 		divide = 9.0
 		add = 4
 	}
-	else_if = {
-		limit = {per_capita_infrastructure < 550}
+	else= {
 		divide = 10.0
 		add = 4.5
-	}
-	else_if = {
-		limit = {per_capita_infrastructure < 660}
-		divide = 11.0
-		add = 5
-	}
-	else_if = {
-		limit = {per_capita_infrastructure < 780}
-		divide = 12.0
-		add = 5.5
-	}
-	else_if = {
-		limit = {per_capita_infrastructure < 910}
-		divide = 13.0
-		add = 6.0
-	}
-	else_if = {
-		limit = {per_capita_infrastructure < 1050}
-		divide = 14.0
-		add = 6.5
-	}
-	else_if = {
-		limit = {per_capita_infrastructure < 1200}
-		divide = 15.0
-		add = 7.0
-	}
-	else = {
-		multiply = 0
-		add = 15
 	}
 	multiply = 0.25
 	add = 0.25
@@ -227,7 +197,7 @@ low_pop_food_production = {
 		add = 0.1
 	}
 	subtract = high_pop_food_production
-	multiply = wealth_factor
+	multiply = farming_wealth_factor
 	multiply = crop_yield_modifier
 	add = high_pop_food_production
 }
@@ -650,17 +620,13 @@ overextension_change = {
 	divide = 60
 }
 
-net_food_surplus = {
+food_wealth_change = {
 	value = surplus_produced
 	subtract = {
 		value = 0.2
 		multiply = farming_population
 	}
-}
-
-food_wealth_change = {
-	value = net_food_surplus
-	multiply = 1
+	multiply = 0.5
 }
 
 trade_good_wealth_change = {
@@ -672,7 +638,7 @@ trade_good_wealth_change = {
 		value = num_goods_produced
 	}
 	multiply = 0.25
-	multiply = wealth_factor
+	#multiply = wealth_factor
 }
 
 urban_wealth_change = {
@@ -681,21 +647,20 @@ urban_wealth_change = {
 		value = 0
 	}
 	else = {
-		value = total_population
-	}
-	multiply = 1.5 #1.5 per pop per year - growth of 150 gold/pop/century without taxes or infrastructure decay
-	multiply = { #function that is approximately linear at low per_capita_infrastructure and caps at 20 at high per_capita_infrastructure
-		value = 20
-		subtract = {
-			value = 20
-			divide = {
-				value = 0.0002
-				multiply = per_capita_infrastructure
-				add = 1
+		value = var:production_infrastructure
+		multiply = {
+			value = total_population
+			multiply = 50
+		}
+		divide = {
+			value = var:production_infrastructure
+			add = {
+				value = total_population
+				multiply = 50
 			}
 		}
+		multiply = 0.005
 	}
-	divide = 12
 }
 
 taxes_change = {
@@ -888,27 +853,27 @@ wealth_decay_change = {
 	divide = 12
 }
 
-infrastructure_decay = {
+infrastructure_decay_rate = {
 	value = 0
 	if = {
 		limit = {civilization_value < 10}
-		add = -0.0015
+		add = -0.01
 	}
 	else_if = {
 		limit = {civilization_value < 20}
-		add = -0.0014
+		add = -0.008
 	}
 	else_if = {
 		limit = {civilization_value < 30}
-		add = -0.0013
+		add = -0.005
 	}
 	else_if = {
 		limit = {civilization_value < 35}
-		add = -0.0012
+		add = -0.003
 	}
 	else_if = {
 		limit = {civilization_value < 40}
-		add = -0.0011
+		add = -0.002
 	}
 	else_if = {
 		limit = {civilization_value < 45}
@@ -916,247 +881,35 @@ infrastructure_decay = {
 	}
 	else_if = {
 		limit = {civilization_value < 50}
-		add = -0.0009
-	}
-	else = {
 		add = -0.0008
 	}
+	else = {
+		add = -0.0005
+	}
+}
+
+political_infrastructure_decay_change = {
+	value = var:political_infrastructure
+	multiply = infrastructure_decay_rate
 	divide = 12
 }
 
-infrastructure_decay_change = {
-	value = var:province_infrastructure
-	multiply = infrastructure_decay
+production_infrastructure_decay_change = {
+	value = var:production_infrastructure
+	multiply = infrastructure_decay_rate
+	divide = 12
 }
 
-return_on_infrastructure_time = { #break-even time
-	if = {
-		limit = {has_province_rank = settlement}
-		value = per_capita_infrastructure
-		if = {
-			limit = {per_capita_infrastructure < 10}
-			add = 5
-			divide = {
-				value = 5
-				multiply = net_food_surplus
-				subtract = {
-					value = per_capita_infrastructure
-					add = 5
-					multiply = infrastructure_decay
-				}
-			}
-		}
-		else_if = {
-			limit = {per_capita_infrastructure < 30}
-			add = 20
-			divide = {
-				value = 5
-				multiply = net_food_surplus
-				subtract = {
-					value = per_capita_infrastructure
-					add = 20
-					multiply = infrastructure_decay
-				}
-			}
-		}
-		else_if = {
-			limit = {per_capita_infrastructure < 60}
-			add = 45
-			divide = {
-				value = 5
-				multiply = net_food_surplus
-				subtract = {
-					value = per_capita_infrastructure
-					add = 45
-					multiply = infrastructure_decay
-				}
-			}
-		}
-		else_if = {
-			limit = {per_capita_infrastructure < 100}
-			add = 80
-			divide = {
-				value = 5
-				multiply = net_food_surplus
-				subtract = {
-					value = per_capita_infrastructure
-					add = 80
-					multiply = infrastructure_decay
-				}
-			}
-		}
-		else_if = {
-			limit = {per_capita_infrastructure < 150}
-			add = 125
-			divide = {
-				value = 5
-				multiply = net_food_surplus
-				subtract = {
-					value = per_capita_infrastructure
-					add = 125
-					multiply = infrastructure_decay
-				}
-			}
-		}
-		else_if = {
-			limit = {per_capita_infrastructure < 210}
-			add = 180
-			divide = {
-				value = 5
-				multiply = net_food_surplus
-				subtract = {
-					value = per_capita_infrastructure
-					add = 180
-					multiply = infrastructure_decay
-				}
-			}
-		}
-		else_if = {
-			limit = {per_capita_infrastructure < 280}
-			add = 245
-			divide = {
-				value = 5
-				multiply = net_food_surplus
-				subtract = {
-					value = per_capita_infrastructure
-					add = 245
-					multiply = infrastructure_decay
-				}
-			}
-		}
-		else_if = {
-			limit = {per_capita_infrastructure < 360}
-			add = 320
-			divide = {
-				value = 5
-				multiply = net_food_surplus
-				subtract = {
-					value = per_capita_infrastructure
-					add = 320
-					multiply = infrastructure_decay
-				}
-			}
-		}
-		else_if = {
-			limit = {per_capita_infrastructure < 450}
-			add = 405
-			divide = {
-				value = 5
-				multiply = net_food_surplus
-				subtract = {
-					value = per_capita_infrastructure
-					add = 405
-					multiply = infrastructure_decay
-				}
-			}
-		}
-		else_if = {
-			limit = {per_capita_infrastructure < 550}
-			add = 500
-			divide = {
-				value = 5
-				multiply = net_food_surplus
-				subtract = {
-					value = per_capita_infrastructure
-					add = 500
-					multiply = infrastructure_decay
-				}
-			}
-		}
-		else_if = {
-			limit = {per_capita_infrastructure < 660}
-			add = 605
-			divide = {
-				value = 5
-				multiply = net_food_surplus
-				subtract = {
-					value = per_capita_infrastructure
-					add = 605
-					multiply = infrastructure_decay
-				}
-			}
-		}
-		else_if = {
-			limit = {per_capita_infrastructure < 780}
-			add = 720
-			divide = {
-				value = 5
-				multiply = net_food_surplus
-				subtract = {
-					value = per_capita_infrastructure
-					add = 720
-					multiply = infrastructure_decay
-				}
-			}
-		}
-		else_if = {
-			limit = {per_capita_infrastructure < 910}
-			add = 845
-			divide = {
-				value = 5
-				multiply = net_food_surplus
-				subtract = {
-					value = per_capita_infrastructure
-					add = 845
-					multiply = infrastructure_decay
-				}
-			}
-		}
-		else_if = {
-			limit = {per_capita_infrastructure < 1050}
-			add = 980
-			divide = {
-				value = 5
-				multiply = net_food_surplus
-				subtract = {
-					value = per_capita_infrastructure
-					add = 980
-					multiply = infrastructure_decay
-				}
-			}
-		}
-		else_if = {
-			limit = {per_capita_infrastructure < 1200}
-			add = 1125
-			divide = {
-				value = 5
-				multiply = net_food_surplus
-				subtract = {
-					value = per_capita_infrastructure
-					add = 1125
-					multiply = infrastructure_decay
-				}
-			}
-		}
-		else = {
-			subtract = 1
-			subtract = per_capita_infrastructure
-			divide = infrastructure_decay
-		}
-	}
-	else = {
-		value = 1
-		divide = {
-			value = infrastructure_decay
-			add = {
-				value = 0.006
-				divide = {
-					value = 1
-					add = {
-						value = 0.0002
-						multiply = per_capita_infrastructure
-					}
-				}
-				divide = {
-					value = 1
-					add = {
-						value = 0.0002
-						multiply = per_capita_infrastructure
-					}
-				}
-			}
-		}
-	}
+urban_infrastructure_decay_change = {
+	value = var:urban_infrastructure
+	multiply = infrastructure_decay_rate
+	divide = 12
+}
+
+farming_infrastructure_decay_change = {
+	value = var:farming_infrastructure
+	multiply = infrastructure_decay_rate
+	divide = 12
 }
 
 neighbor_change = {
@@ -1179,13 +932,7 @@ neighbor_change = {
 }
 
 capital_wealth_extraction = {
-	if = {
-		limit = {has_variable = taxes_change}
-		value = var:taxes_change
-	}
-	else = {
-		value = 0
-	}
+	value = var:taxes_change
 	multiply = tax_efficiency
 	multiply = {
 		if = {
@@ -1211,54 +958,9 @@ capital_wealth_extraction = {
 	min = 0
 }
 
-extra_infra_investment = {
-	value = var:province_wealth
-	if = {
-		limit = {var:return_on_infrastructure_time < 0} #income decreases with increasing infrastructure, it's not paying for itself, don't invest in infrastructure
-		multiply = 0
-	}
-	else_if = {
-		limit = {var:return_on_infrastructure_time < 600}
-		multiply = 0.01
-	}
-	else = {
-		multiply = 0.001
-	}
-	divide = 12
-}
-
-max_infra_investment = {
-	value = var:province_wealth
-	multiply = 0.25
-	divide = 12.0
-}
-
 province_infrastrucure_investment = {
-	value = infrastructure_decay_change
-	multiply = -1
-	add = extra_infra_investment
-	min = 0
-	max = max_infra_investment
-}
-
-trade_route_wealth_change = {
-	value = 5
-	multiply = {
-		state = {
-			value = outgoing_trade_routes
-			multiply = 3
-			subtract = incoming_trade_routes
-		}
-	}
-	multiply = total_population
-	divide = {
-		value = 0
-		state = {
-			every_state_province = {
-				add = total_population
-			}
-		}
-	}
+	value = var:province_wealth
+	multiply = 0.05
 	divide = 12
 }
 
@@ -1280,9 +982,69 @@ province_wealth_change = {
 	}
 }
 
-province_infrastructure_change = {
-	value = infrastructure_decay_change
-	add = province_infrastrucure_investment
+political_infrastructure_score = {
+	value = 0
+}
+
+production_infrastructure_score = {
+	value = 5
+	if = {
+		limit = { NOT = { has_province_rank = settlement } }
+		add = {
+			value = total_population
+			subtract = farming_population
+		}
+	}
+}
+
+farming_infrastructure_score = {
+	value = 25
+	if = {
+		limit = {state = {state_monthly_food_income < 0}}
+		add = 75
+	}
+}
+
+urban_infrastructure_score = {
+	value = 0
+	if = {
+		limit = { NOT = { has_province_rank = settlement } }
+		add = {
+			value = total_population
+			subtract = farming_population
+		}
+	}
+}
+
+total_score = {
+	value = farming_infrastructure_score
+	add = political_infrastructure_score
+	add = production_infrastructure_score
+	add = urban_infrastructure_score
+}
+
+political_infrastructure_change = {
+	value = political_infrastructure_score
+	divide = total_score
+	multiply = production_infrastructure_change
+}
+
+farming_infrastructure_change = {
+	value = farming_infrastructure_score
+	divide = total_score
+	multiply = production_infrastructure_change
+}
+
+production_infrastructure_change = {
+	value = production_infrastructure_score
+	divide = total_score
+	multiply = production_infrastructure_change
+}
+
+urban_infrastructure_change = {
+	value = urban_infrastructure_score
+	divide = total_score
+	multiply = production_infrastructure_change
 }
 
 troop_maintenance = {
@@ -1293,7 +1055,7 @@ troop_maintenance = {
 }
 looting_infrastructure_damage = 0.05
 province_loot_amount = 0.75
-civil_war_loot_amount = 0.333
+civil_war_loot_amount = 0.20
 general_wealth_gain = 0.10
 state_wealth_gain = 0.25
 provinces_wealth_gain = {
@@ -1337,9 +1099,4 @@ capital_wealth_gain = {
 	else = {
 		value = 0.15
 	}
-}
-
-investment_amount = {
-	value = num_of_foundry_building
-	multiply = 450
 }

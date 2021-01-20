@@ -61,7 +61,7 @@ def binary_search_output(levels, indentation, modifier_prefix, variable, command
 
 modifier_output = ''
 
-levels = [str(x)[:5] for x in range(-100, -10)] + [str(0.1 * x)[:5] for x in range(-100, -15)] + [str(0.01 * x)[:5] for x in range(-150, 151)] + [str(0.1 * x)[:5] for x in range(16, 251)] + [str(1 * x)[:5] for x in range(26, 101)]
+levels = [str(x)[:5] for x in range(-100, -10)] + [str(0.1 * x)[:5] for x in range(-100, -15)] + [str(0.01 * x)[:5] for x in range(-150, 151)] + [str(0.1 * x)[:5] for x in range(16, 250)]
 food_levels = [str(0.01 * x)[:5] for x in range(1001)] + [str(0.1 * x)[:5] for x in range(101, 1001)]
 mig_levels = [str(0.25 * x)[:5] for x in range(-400, 401)]
 travel_levels = [str(0.5 * x)[:5] for x in range(201)]
@@ -125,30 +125,6 @@ update_pop_growth.1 = {
     trigger = {has_owner = yes}
 	
 	immediate = {   
-        set_variable = {
-            name = annual_growth_rate
-            value = annual_growth_rate
-        }             
-        set_variable = {
-            name = low_pop_food_production
-            value = low_pop_food_production
-        }
-        set_variable = {
-            name = marginal_food_production
-            value = marginal_food_production
-        }
-        set_variable = {
-            name = crop_yield_modifier
-            value = crop_yield_modifier
-        }
-        set_variable = {
-            name = farming_population
-            value = farming_population
-        }
-        set_variable = {
-            name = return_on_infrastructure_time
-            value = return_on_infrastructure_time
-        }
 '''
                      
     for level_num in range(len(levels)):
@@ -221,15 +197,7 @@ troop_maintenance.1 = {
             value = 0
         }
         every_army = {
-            limit = {
-                OR = {
-                    AND = {
-                        has_commander = yes
-                        commander = {is_mercenary = no}
-                    }
-                    has_commander = no
-                }
-            }
+                limit = {is_mercenary = no}
             root = {
                 change_variable ={
                     name = troop_count
@@ -316,14 +284,14 @@ if run_wealth:
     for level in wealth_levels:
         level_name = level.replace('.', '_').replace('-','n')
         modifier = "province_wealth" + level_name + ' = {'
-        modifier += "\n\tlocal_migration_attraction = " + str(0.0025 * float(level))
+        modifier += "\n\tlocal_migration_attraction = " + str(0.01 * float(level))
         modifier += '\n}'
         modifier_output += '\n' + modifier  
         
     for level in wealth_levels:
         level_name = level.replace('.', '_').replace('-','n')
-        modifier = "province_infrastructure" + level_name + ' = {'
-        modifier += "\n\tlocal_population_capacity = " + str(0.1 * float(level)**0.5)
+        modifier = "urban_infrastructure" + level_name + ' = {'
+        modifier += "\n\tlocal_population_capacity = " + str(0.005 * float(level))
         modifier += "\n\tlocal_building_slot = " + str(int(0.001 * float(level)))
         modifier += '\n}'
         modifier_output += '\n' + modifier  
@@ -358,31 +326,49 @@ province_wealth.1 = {
             }
         }
         if = {
-            limit = {NOT = {has_variable = province_infrastructure}}
+            limit = {NOT = {has_variable = political_infrastructure}}
             set_variable = {
-                name = province_infrastructure
+                name = political_infrastructure
                 value = 0
             }
         }
         if = {
-            limit = {NOT = {has_variable = last_province_wealth}}
+            limit = {NOT = {has_variable = production_infrastructure}}
             set_variable = {
-                name = last_province_wealth
+                name = production_infrastructure
                 value = 0
             }
         }
-        set_variable = {
-            name = cached_province_wealth
-            value = var:province_wealth
+        if = {
+            limit = {NOT = {has_variable = farming_infrastructure}}
+            set_variable = {
+                name = farming_infrastructure
+                value = 0
+            }
         }
-        set_variable = {
-            name = infrastructure_change
-            value = province_infrastructure_change
+        if = {
+            limit = {NOT = {has_variable = urban_infrastructure}}
+            set_variable = {
+                name = urban_infrastructure
+                value = 0
+            }
         }
         change_variable = {
-            name = province_infrastructure
-            add = var:infrastructure_change
-        }            
+            name = political_infrastructure
+            add = political_infrastructure_change
+        }     
+        change_variable = {
+            name = production_infrastructure
+            add = production_infrastructure_change
+        } 
+        change_variable = {
+            name = farming_infrastructure
+            add = farming_infrastructure_change
+        } 
+        change_variable = {
+            name = urban_infrastructure
+            add = urban_infrastructure_change
+        } 
         set_variable = {
             name = taxes_change
             value = taxes_change
@@ -407,10 +393,6 @@ province_wealth.1 = {
             name = per_capita_wealth
             divide = total_population
         }
-        set_variable = {
-            name = wealth_factor
-            value = wealth_factor
-        }
         change_variable = {
             name = taxes_change
             multiply = tax_efficiency
@@ -430,10 +412,6 @@ province_wealth.1 = {
                     add = ROOT.capital_wealth_extraction
                 }
             }
-        }
-        set_variable = {
-            name = last_province_wealth
-            value = var:cached_province_wealth
         }
     }
 }
@@ -455,7 +433,7 @@ province_wealth.2 = {
     for level_num in range(len(wealth_levels)):
         level = wealth_levels[level_num]
         level_name = level.replace('.', '_').replace('-','n')
-        event_output += '\n\t\t\tif = {limit = {has_province_modifier = province_infrastructure'+level_name+'} remove_province_modifier = province_infrastructure'+level_name+'}'
+        event_output += '\n\t\t\tif = {limit = {has_province_modifier = urban_infrastructure'+level_name+'} remove_province_modifier = urban_infrastructure'+level_name+'}'
     
     for level_num in range(len(income_levels)):
         level = income_levels[level_num]
@@ -464,7 +442,7 @@ province_wealth.2 = {
    
     event_output += binary_search_output(wealth_levels, 2, 'province_wealth', 'var:province_wealth', 'add_permanent_province_modifier')
     
-    event_output += binary_search_output(wealth_levels, 2, 'province_infrastructure', 'var:province_infrastructure', 'add_permanent_province_modifier')
+    event_output += binary_search_output(wealth_levels, 2, 'urban_infrastructure', 'var:urban_infrastructure', 'add_permanent_province_modifier')
     
     event_output += binary_search_output(income_levels, 2, 'province_taxes', 'var:taxes_change', 'add_permanent_province_modifier')
     
@@ -522,7 +500,7 @@ province_wealth.3 = {
             }
             else = {
             '''
-    event_output += binary_search_output(list(map(str, range(100, -1, -1))), 4, 'map_mode', 'var:per_capita_wealth', 'set_trade_goods', pre_modifier = ' = ', post_modifier = '', mapping_func = lambda x: 100 - x * 1)
+    event_output += binary_search_output(list(map(str, range(100, -1, -1))), 4, 'map_mode', 'var:per_capita_wealth', 'set_trade_goods', pre_modifier = ' = ', post_modifier = '', mapping_func = lambda x: 50 - x * 0.5)
     event_output += '''    
             }    
         }
@@ -599,7 +577,7 @@ province_wealth.5 = {
         every_province = {
             set_variable = {
                 name = plotting_wealth
-                value = var:province_infrastructure
+                value = var:urban_infrastructure
             }
             switch = {
 				trigger = trade_goods
@@ -1338,6 +1316,15 @@ if run_overextension:
         modifier += '\n}'
         modifier_output += '\n' + modifier       
         
+    for level in overextension_levels:
+        level_name = level.replace('.', '_').replace('-','n')
+        modifier = "admin_ratio" + level_name + ' = {'
+        modifier += "\n\tstability_monthly_change = " + str(-float(level)/10)
+        if float(level) < 0:
+            modifier += "\n\tmonthly_political_influence = " + str(-float(level))
+        modifier += '\n}'
+        modifier_output += '\n' + modifier    
+        
     f = open(overextension_modifers_file, 'w', encoding='utf-8')
     f.write('\ufeff')
     f.write(modifier_output)
@@ -1356,7 +1343,18 @@ overextension.1 = {
         }
         set_variable = {
             name = admin_capacity
-            value = 100
+            value = 1
+        }
+        every_owned_province = {
+            ROOT = {
+                change_variable = {
+                    name = admin_capacity
+                    add = {
+                        value = PREV.var:political_infrastructure
+                        multiply = 0.01
+                    }
+                }
+            }
         }
         every_country_culture = {
             limit = {
@@ -1375,7 +1373,7 @@ overextension.1 = {
                             ROOT = {
                                 change_variable = {
                                     name = admin_capacity
-                                    add = 10
+                                    add = 5
                                 }
                             }
                         }
@@ -1384,13 +1382,25 @@ overextension.1 = {
                             ROOT = {
                                 change_variable = {
                                     name = admin_capacity
-                                    add = 2
+                                    add = 1
                                 }
                             }
                         }
                     }
                 }
             }
+        }
+        set_variable = {
+            name = admin_ratio
+            value = admin_demand
+        }
+        change_variable = {
+            name = admin_ratio
+            divide = var:admin_capacity
+        }
+        change_variable = {
+            name = admin_ratio
+            subtract = 1
         }
 '''
                      
@@ -1400,6 +1410,14 @@ overextension.1 = {
         event_output += '\n\t\tif = {limit = {has_country_modifier = overextension_change'+level_name+'} remove_country_modifier = overextension_change'+level_name+'}'
     
     event_output += binary_search_output(overextension_levels, 2, 'overextension_change', 'overextension_change', 'add_country_modifier')
+    
+    for level_num in range(len(overextension_levels)):
+        level = overextension_levels[level_num]
+        level_name = level.replace('.', '_').replace('-','n')
+        event_output += '\n\t\tif = {limit = {has_country_modifier = admin_ratio'+level_name+'} remove_country_modifier = admin_ratio'+level_name+'}'
+    
+    event_output += binary_search_output(overextension_levels, 2, 'admin_ratio', 'var:admin_ratio', 'add_country_modifier')
+    
     
     event_output += '''
     }
@@ -1443,8 +1461,8 @@ if run_localization:
         level_name = level.replace('.', '_').replace('-','n')
         localization += '\nprovince_wealth'+level_name+':0 "Local Wealth: '+str(level)+'"'
         localization += '\ndesc_province_wealth'+level_name+':0 "The local wealth in the province in gold."'
-        localization += '\nprovince_infrastructure'+level_name+':0 "Local Infrastructure: '+str(level)+'"'
-        localization += '\ndesc_province_infrastructure'+level_name+':0 "The local infrastructure in the province, whether it be in tools, buildings, or irrigation canals."'
+        localization += '\nurban_infrastructure'+level_name+':0 "Local Urban Infrastructure: '+str(level)+'"'
+        localization += '\ndesc_urban_infrastructure'+level_name+':0 "The local urban infrastructure in the province. This is the infrastructure needed to support a large urban population.."'
         
     for level in income_levels:
         level_name = level.replace('.', '_').replace('-','n')
@@ -1454,7 +1472,7 @@ if run_localization:
     for level in overextension_levels:
         level_name = level.replace('.', '_').replace('-','n')
         localization += '\noverextension_change'+level_name+''':0 "Administrative Burden: (#R [Player.MakeScope.GetVariable('admin_demand').GetValue|1]#!/#G [Player.MakeScope.GetVariable('admin_capacity').GetValue|1]#!)"'''
-        localization += '\ndesc_overextension_change'+level_name+':0 "This is based on the relative values of our administrative capacity and administrative demand. Each noble pop of an integrated culture provides 5 administrative capacity and each citizen of an integrated culture provides 1 administrative capacity. Every pop in our empire costs administrative demand depending on our laws. If our administrative demand is, for example, 50% higher than our administrative capacity, our overextension will tend towards 50."'
+        localization += '\ndesc_overextension_change'+level_name+':0 "This is based on the relative values of our administrative capacity and administrative demand. Each noble pop of an integrated culture provides 5 administrative capacity and each citizen of an integrated culture provides 1 administrative capacity. Additionally, every 100 gold in political infrastructure gives 1 administrative capacity. Every pop in our empire costs administrative demand depending on our laws. If our administrative demand is, for example, 50% higher than our administrative capacity, our overextension will tend towards 50."'
         
     for level in troop_maintenance_levels:
         level_name = level.replace('.', '_').replace('-','n')

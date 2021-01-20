@@ -1,0 +1,7342 @@
+﻿
+pop_growthn100 = {
+	local_population_growth = -100
+}
+pop_growthn99 = {
+	local_population_growth = -99
+}
+pop_growthn98 = {
+	local_population_growth = -98
+}
+pop_growthn97 = {
+	local_population_growth = -97
+}
+pop_growthn96 = {
+	local_population_growth = -96
+}
+pop_growthn95 = {
+	local_population_growth = -95
+}
+pop_growthn94 = {
+	local_population_growth = -94
+}
+pop_growthn93 = {
+	local_population_growth = -93
+}
+pop_growthn92 = {
+	local_population_growth = -92
+}
+pop_growthn91 = {
+	local_population_growth = -91
+}
+pop_growthn90 = {
+	local_population_growth = -90
+}
+pop_growthn89 = {
+	local_population_growth = -89
+}
+pop_growthn88 = {
+	local_population_growth = -88
+}
+pop_growthn87 = {
+	local_population_growth = -87
+}
+pop_growthn86 = {
+	local_population_growth = -86
+}
+pop_growthn85 = {
+	local_population_growth = -85
+}
+pop_growthn84 = {
+	local_population_growth = -84
+}
+pop_growthn83 = {
+	local_population_growth = -83
+}
+pop_growthn82 = {
+	local_population_growth = -82
+}
+pop_growthn81 = {
+	local_population_growth = -81
+}
+pop_growthn80 = {
+	local_population_growth = -80
+}
+pop_growthn79 = {
+	local_population_growth = -79
+}
+pop_growthn78 = {
+	local_population_growth = -78
+}
+pop_growthn77 = {
+	local_population_growth = -77
+}
+pop_growthn76 = {
+	local_population_growth = -76
+}
+pop_growthn75 = {
+	local_population_growth = -75
+}
+pop_growthn74 = {
+	local_population_growth = -74
+}
+pop_growthn73 = {
+	local_population_growth = -73
+}
+pop_growthn72 = {
+	local_population_growth = -72
+}
+pop_growthn71 = {
+	local_population_growth = -71
+}
+pop_growthn70 = {
+	local_population_growth = -70
+}
+pop_growthn69 = {
+	local_population_growth = -69
+}
+pop_growthn68 = {
+	local_population_growth = -68
+}
+pop_growthn67 = {
+	local_population_growth = -67
+}
+pop_growthn66 = {
+	local_population_growth = -66
+}
+pop_growthn65 = {
+	local_population_growth = -65
+}
+pop_growthn64 = {
+	local_population_growth = -64
+}
+pop_growthn63 = {
+	local_population_growth = -63
+}
+pop_growthn62 = {
+	local_population_growth = -62
+}
+pop_growthn61 = {
+	local_population_growth = -61
+}
+pop_growthn60 = {
+	local_population_growth = -60
+}
+pop_growthn59 = {
+	local_population_growth = -59
+}
+pop_growthn58 = {
+	local_population_growth = -58
+}
+pop_growthn57 = {
+	local_population_growth = -57
+}
+pop_growthn56 = {
+	local_population_growth = -56
+}
+pop_growthn55 = {
+	local_population_growth = -55
+}
+pop_growthn54 = {
+	local_population_growth = -54
+}
+pop_growthn53 = {
+	local_population_growth = -53
+}
+pop_growthn52 = {
+	local_population_growth = -52
+}
+pop_growthn51 = {
+	local_population_growth = -51
+}
+pop_growthn50 = {
+	local_population_growth = -50
+}
+pop_growthn49 = {
+	local_population_growth = -49
+}
+pop_growthn48 = {
+	local_population_growth = -48
+}
+pop_growthn47 = {
+	local_population_growth = -47
+}
+pop_growthn46 = {
+	local_population_growth = -46
+}
+pop_growthn45 = {
+	local_population_growth = -45
+}
+pop_growthn44 = {
+	local_population_growth = -44
+}
+pop_growthn43 = {
+	local_population_growth = -43
+}
+pop_growthn42 = {
+	local_population_growth = -42
+}
+pop_growthn41 = {
+	local_population_growth = -41
+}
+pop_growthn40 = {
+	local_population_growth = -40
+}
+pop_growthn39 = {
+	local_population_growth = -39
+}
+pop_growthn38 = {
+	local_population_growth = -38
+}
+pop_growthn37 = {
+	local_population_growth = -37
+}
+pop_growthn36 = {
+	local_population_growth = -36
+}
+pop_growthn35 = {
+	local_population_growth = -35
+}
+pop_growthn34 = {
+	local_population_growth = -34
+}
+pop_growthn33 = {
+	local_population_growth = -33
+}
+pop_growthn32 = {
+	local_population_growth = -32
+}
+pop_growthn31 = {
+	local_population_growth = -31
+}
+pop_growthn30 = {
+	local_population_growth = -30
+}
+pop_growthn29 = {
+	local_population_growth = -29
+}
+pop_growthn28 = {
+	local_population_growth = -28
+}
+pop_growthn27 = {
+	local_population_growth = -27
+}
+pop_growthn26 = {
+	local_population_growth = -26
+}
+pop_growthn25 = {
+	local_population_growth = -25
+}
+pop_growthn24 = {
+	local_population_growth = -24
+}
+pop_growthn23 = {
+	local_population_growth = -23
+}
+pop_growthn22 = {
+	local_population_growth = -22
+}
+pop_growthn21 = {
+	local_population_growth = -21
+}
+pop_growthn20 = {
+	local_population_growth = -20
+}
+pop_growthn19 = {
+	local_population_growth = -19
+}
+pop_growthn18 = {
+	local_population_growth = -18
+}
+pop_growthn17 = {
+	local_population_growth = -17
+}
+pop_growthn16 = {
+	local_population_growth = -16
+}
+pop_growthn15 = {
+	local_population_growth = -15
+}
+pop_growthn14 = {
+	local_population_growth = -14
+}
+pop_growthn13 = {
+	local_population_growth = -13
+}
+pop_growthn12 = {
+	local_population_growth = -12
+}
+pop_growthn11 = {
+	local_population_growth = -11
+}
+pop_growthn10_0 = {
+	local_population_growth = -10.0
+}
+pop_growthn9_9 = {
+	local_population_growth = -9.9
+}
+pop_growthn9_8 = {
+	local_population_growth = -9.8
+}
+pop_growthn9_70 = {
+	local_population_growth = -9.70
+}
+pop_growthn9_60 = {
+	local_population_growth = -9.60
+}
+pop_growthn9_5 = {
+	local_population_growth = -9.5
+}
+pop_growthn9_4 = {
+	local_population_growth = -9.4
+}
+pop_growthn9_3 = {
+	local_population_growth = -9.3
+}
+pop_growthn9_20 = {
+	local_population_growth = -9.20
+}
+pop_growthn9_1 = {
+	local_population_growth = -9.1
+}
+pop_growthn9_0 = {
+	local_population_growth = -9.0
+}
+pop_growthn8_9 = {
+	local_population_growth = -8.9
+}
+pop_growthn8_8 = {
+	local_population_growth = -8.8
+}
+pop_growthn8_70 = {
+	local_population_growth = -8.70
+}
+pop_growthn8_6 = {
+	local_population_growth = -8.6
+}
+pop_growthn8_5 = {
+	local_population_growth = -8.5
+}
+pop_growthn8_4 = {
+	local_population_growth = -8.4
+}
+pop_growthn8_3 = {
+	local_population_growth = -8.3
+}
+pop_growthn8_20 = {
+	local_population_growth = -8.20
+}
+pop_growthn8_1 = {
+	local_population_growth = -8.1
+}
+pop_growthn8_0 = {
+	local_population_growth = -8.0
+}
+pop_growthn7_9 = {
+	local_population_growth = -7.9
+}
+pop_growthn7_80 = {
+	local_population_growth = -7.80
+}
+pop_growthn7_7 = {
+	local_population_growth = -7.7
+}
+pop_growthn7_60 = {
+	local_population_growth = -7.60
+}
+pop_growthn7_5 = {
+	local_population_growth = -7.5
+}
+pop_growthn7_4 = {
+	local_population_growth = -7.4
+}
+pop_growthn7_30 = {
+	local_population_growth = -7.30
+}
+pop_growthn7_2 = {
+	local_population_growth = -7.2
+}
+pop_growthn7_10 = {
+	local_population_growth = -7.10
+}
+pop_growthn7_0 = {
+	local_population_growth = -7.0
+}
+pop_growthn6_9 = {
+	local_population_growth = -6.9
+}
+pop_growthn6_80 = {
+	local_population_growth = -6.80
+}
+pop_growthn6_7 = {
+	local_population_growth = -6.7
+}
+pop_growthn6_60 = {
+	local_population_growth = -6.60
+}
+pop_growthn6_5 = {
+	local_population_growth = -6.5
+}
+pop_growthn6_4 = {
+	local_population_growth = -6.4
+}
+pop_growthn6_30 = {
+	local_population_growth = -6.30
+}
+pop_growthn6_2 = {
+	local_population_growth = -6.2
+}
+pop_growthn6_10 = {
+	local_population_growth = -6.10
+}
+pop_growthn6_0 = {
+	local_population_growth = -6.0
+}
+pop_growthn5_9 = {
+	local_population_growth = -5.9
+}
+pop_growthn5_80 = {
+	local_population_growth = -5.80
+}
+pop_growthn5_7 = {
+	local_population_growth = -5.7
+}
+pop_growthn5_60 = {
+	local_population_growth = -5.60
+}
+pop_growthn5_5 = {
+	local_population_growth = -5.5
+}
+pop_growthn5_4 = {
+	local_population_growth = -5.4
+}
+pop_growthn5_30 = {
+	local_population_growth = -5.30
+}
+pop_growthn5_2 = {
+	local_population_growth = -5.2
+}
+pop_growthn5_10 = {
+	local_population_growth = -5.10
+}
+pop_growthn5_0 = {
+	local_population_growth = -5.0
+}
+pop_growthn4_9 = {
+	local_population_growth = -4.9
+}
+pop_growthn4_80 = {
+	local_population_growth = -4.80
+}
+pop_growthn4_7 = {
+	local_population_growth = -4.7
+}
+pop_growthn4_60 = {
+	local_population_growth = -4.60
+}
+pop_growthn4_5 = {
+	local_population_growth = -4.5
+}
+pop_growthn4_4 = {
+	local_population_growth = -4.4
+}
+pop_growthn4_3 = {
+	local_population_growth = -4.3
+}
+pop_growthn4_2 = {
+	local_population_growth = -4.2
+}
+pop_growthn4_10 = {
+	local_population_growth = -4.10
+}
+pop_growthn4_0 = {
+	local_population_growth = -4.0
+}
+pop_growthn3_90 = {
+	local_population_growth = -3.90
+}
+pop_growthn3_80 = {
+	local_population_growth = -3.80
+}
+pop_growthn3_7 = {
+	local_population_growth = -3.7
+}
+pop_growthn3_6 = {
+	local_population_growth = -3.6
+}
+pop_growthn3_5 = {
+	local_population_growth = -3.5
+}
+pop_growthn3_40 = {
+	local_population_growth = -3.40
+}
+pop_growthn3_30 = {
+	local_population_growth = -3.30
+}
+pop_growthn3_2 = {
+	local_population_growth = -3.2
+}
+pop_growthn3_1 = {
+	local_population_growth = -3.1
+}
+pop_growthn3_0 = {
+	local_population_growth = -3.0
+}
+pop_growthn2_90 = {
+	local_population_growth = -2.90
+}
+pop_growthn2_80 = {
+	local_population_growth = -2.80
+}
+pop_growthn2_7 = {
+	local_population_growth = -2.7
+}
+pop_growthn2_6 = {
+	local_population_growth = -2.6
+}
+pop_growthn2_5 = {
+	local_population_growth = -2.5
+}
+pop_growthn2_40 = {
+	local_population_growth = -2.40
+}
+pop_growthn2_30 = {
+	local_population_growth = -2.30
+}
+pop_growthn2_2 = {
+	local_population_growth = -2.2
+}
+pop_growthn2_1 = {
+	local_population_growth = -2.1
+}
+pop_growthn2_0 = {
+	local_population_growth = -2.0
+}
+pop_growthn1_90 = {
+	local_population_growth = -1.90
+}
+pop_growthn1_8 = {
+	local_population_growth = -1.8
+}
+pop_growthn1_70 = {
+	local_population_growth = -1.70
+}
+pop_growthn1_6 = {
+	local_population_growth = -1.6
+}
+pop_growthn1_5 = {
+	local_population_growth = -1.5
+}
+pop_growthn1_49 = {
+	local_population_growth = -1.49
+}
+pop_growthn1_48 = {
+	local_population_growth = -1.48
+}
+pop_growthn1_47 = {
+	local_population_growth = -1.47
+}
+pop_growthn1_46 = {
+	local_population_growth = -1.46
+}
+pop_growthn1_45 = {
+	local_population_growth = -1.45
+}
+pop_growthn1_44 = {
+	local_population_growth = -1.44
+}
+pop_growthn1_43 = {
+	local_population_growth = -1.43
+}
+pop_growthn1_42 = {
+	local_population_growth = -1.42
+}
+pop_growthn1_41 = {
+	local_population_growth = -1.41
+}
+pop_growthn1_40 = {
+	local_population_growth = -1.40
+}
+pop_growthn1_39 = {
+	local_population_growth = -1.39
+}
+pop_growthn1_38 = {
+	local_population_growth = -1.38
+}
+pop_growthn1_37 = {
+	local_population_growth = -1.37
+}
+pop_growthn1_36 = {
+	local_population_growth = -1.36
+}
+pop_growthn1_35 = {
+	local_population_growth = -1.35
+}
+pop_growthn1_34 = {
+	local_population_growth = -1.34
+}
+pop_growthn1_33 = {
+	local_population_growth = -1.33
+}
+pop_growthn1_32 = {
+	local_population_growth = -1.32
+}
+pop_growthn1_31 = {
+	local_population_growth = -1.31
+}
+pop_growthn1_3 = {
+	local_population_growth = -1.3
+}
+pop_growthn1_29 = {
+	local_population_growth = -1.29
+}
+pop_growthn1_28 = {
+	local_population_growth = -1.28
+}
+pop_growthn1_27 = {
+	local_population_growth = -1.27
+}
+pop_growthn1_26 = {
+	local_population_growth = -1.26
+}
+pop_growthn1_25 = {
+	local_population_growth = -1.25
+}
+pop_growthn1_24 = {
+	local_population_growth = -1.24
+}
+pop_growthn1_23 = {
+	local_population_growth = -1.23
+}
+pop_growthn1_22 = {
+	local_population_growth = -1.22
+}
+pop_growthn1_21 = {
+	local_population_growth = -1.21
+}
+pop_growthn1_2 = {
+	local_population_growth = -1.2
+}
+pop_growthn1_19 = {
+	local_population_growth = -1.19
+}
+pop_growthn1_18 = {
+	local_population_growth = -1.18
+}
+pop_growthn1_17 = {
+	local_population_growth = -1.17
+}
+pop_growthn1_16 = {
+	local_population_growth = -1.16
+}
+pop_growthn1_15 = {
+	local_population_growth = -1.15
+}
+pop_growthn1_14 = {
+	local_population_growth = -1.14
+}
+pop_growthn1_13 = {
+	local_population_growth = -1.13
+}
+pop_growthn1_12 = {
+	local_population_growth = -1.12
+}
+pop_growthn1_11 = {
+	local_population_growth = -1.11
+}
+pop_growthn1_1 = {
+	local_population_growth = -1.1
+}
+pop_growthn1_09 = {
+	local_population_growth = -1.09
+}
+pop_growthn1_08 = {
+	local_population_growth = -1.08
+}
+pop_growthn1_07 = {
+	local_population_growth = -1.07
+}
+pop_growthn1_06 = {
+	local_population_growth = -1.06
+}
+pop_growthn1_05 = {
+	local_population_growth = -1.05
+}
+pop_growthn1_04 = {
+	local_population_growth = -1.04
+}
+pop_growthn1_03 = {
+	local_population_growth = -1.03
+}
+pop_growthn1_02 = {
+	local_population_growth = -1.02
+}
+pop_growthn1_01 = {
+	local_population_growth = -1.01
+}
+pop_growthn1_0 = {
+	local_population_growth = -1.0
+}
+pop_growthn0_99 = {
+	local_population_growth = -0.99
+}
+pop_growthn0_98 = {
+	local_population_growth = -0.98
+}
+pop_growthn0_97 = {
+	local_population_growth = -0.97
+}
+pop_growthn0_96 = {
+	local_population_growth = -0.96
+}
+pop_growthn0_95 = {
+	local_population_growth = -0.95
+}
+pop_growthn0_94 = {
+	local_population_growth = -0.94
+}
+pop_growthn0_93 = {
+	local_population_growth = -0.93
+}
+pop_growthn0_92 = {
+	local_population_growth = -0.92
+}
+pop_growthn0_91 = {
+	local_population_growth = -0.91
+}
+pop_growthn0_9 = {
+	local_population_growth = -0.9
+}
+pop_growthn0_89 = {
+	local_population_growth = -0.89
+}
+pop_growthn0_88 = {
+	local_population_growth = -0.88
+}
+pop_growthn0_87 = {
+	local_population_growth = -0.87
+}
+pop_growthn0_86 = {
+	local_population_growth = -0.86
+}
+pop_growthn0_85 = {
+	local_population_growth = -0.85
+}
+pop_growthn0_84 = {
+	local_population_growth = -0.84
+}
+pop_growthn0_83 = {
+	local_population_growth = -0.83
+}
+pop_growthn0_82 = {
+	local_population_growth = -0.82
+}
+pop_growthn0_81 = {
+	local_population_growth = -0.81
+}
+pop_growthn0_8 = {
+	local_population_growth = -0.8
+}
+pop_growthn0_79 = {
+	local_population_growth = -0.79
+}
+pop_growthn0_78 = {
+	local_population_growth = -0.78
+}
+pop_growthn0_77 = {
+	local_population_growth = -0.77
+}
+pop_growthn0_76 = {
+	local_population_growth = -0.76
+}
+pop_growthn0_75 = {
+	local_population_growth = -0.75
+}
+pop_growthn0_74 = {
+	local_population_growth = -0.74
+}
+pop_growthn0_73 = {
+	local_population_growth = -0.73
+}
+pop_growthn0_72 = {
+	local_population_growth = -0.72
+}
+pop_growthn0_71 = {
+	local_population_growth = -0.71
+}
+pop_growthn0_70 = {
+	local_population_growth = -0.70
+}
+pop_growthn0_69 = {
+	local_population_growth = -0.69
+}
+pop_growthn0_68 = {
+	local_population_growth = -0.68
+}
+pop_growthn0_67 = {
+	local_population_growth = -0.67
+}
+pop_growthn0_66 = {
+	local_population_growth = -0.66
+}
+pop_growthn0_65 = {
+	local_population_growth = -0.65
+}
+pop_growthn0_64 = {
+	local_population_growth = -0.64
+}
+pop_growthn0_63 = {
+	local_population_growth = -0.63
+}
+pop_growthn0_62 = {
+	local_population_growth = -0.62
+}
+pop_growthn0_61 = {
+	local_population_growth = -0.61
+}
+pop_growthn0_6 = {
+	local_population_growth = -0.6
+}
+pop_growthn0_59 = {
+	local_population_growth = -0.59
+}
+pop_growthn0_58 = {
+	local_population_growth = -0.58
+}
+pop_growthn0_57 = {
+	local_population_growth = -0.57
+}
+pop_growthn0_56 = {
+	local_population_growth = -0.56
+}
+pop_growthn0_55 = {
+	local_population_growth = -0.55
+}
+pop_growthn0_54 = {
+	local_population_growth = -0.54
+}
+pop_growthn0_53 = {
+	local_population_growth = -0.53
+}
+pop_growthn0_52 = {
+	local_population_growth = -0.52
+}
+pop_growthn0_51 = {
+	local_population_growth = -0.51
+}
+pop_growthn0_5 = {
+	local_population_growth = -0.5
+}
+pop_growthn0_49 = {
+	local_population_growth = -0.49
+}
+pop_growthn0_48 = {
+	local_population_growth = -0.48
+}
+pop_growthn0_47 = {
+	local_population_growth = -0.47
+}
+pop_growthn0_46 = {
+	local_population_growth = -0.46
+}
+pop_growthn0_45 = {
+	local_population_growth = -0.45
+}
+pop_growthn0_44 = {
+	local_population_growth = -0.44
+}
+pop_growthn0_43 = {
+	local_population_growth = -0.43
+}
+pop_growthn0_42 = {
+	local_population_growth = -0.42
+}
+pop_growthn0_41 = {
+	local_population_growth = -0.41
+}
+pop_growthn0_4 = {
+	local_population_growth = -0.4
+}
+pop_growthn0_39 = {
+	local_population_growth = -0.39
+}
+pop_growthn0_38 = {
+	local_population_growth = -0.38
+}
+pop_growthn0_37 = {
+	local_population_growth = -0.37
+}
+pop_growthn0_36 = {
+	local_population_growth = -0.36
+}
+pop_growthn0_35 = {
+	local_population_growth = -0.35
+}
+pop_growthn0_34 = {
+	local_population_growth = -0.34
+}
+pop_growthn0_33 = {
+	local_population_growth = -0.33
+}
+pop_growthn0_32 = {
+	local_population_growth = -0.32
+}
+pop_growthn0_31 = {
+	local_population_growth = -0.31
+}
+pop_growthn0_3 = {
+	local_population_growth = -0.3
+}
+pop_growthn0_29 = {
+	local_population_growth = -0.29
+}
+pop_growthn0_28 = {
+	local_population_growth = -0.28
+}
+pop_growthn0_27 = {
+	local_population_growth = -0.27
+}
+pop_growthn0_26 = {
+	local_population_growth = -0.26
+}
+pop_growthn0_25 = {
+	local_population_growth = -0.25
+}
+pop_growthn0_24 = {
+	local_population_growth = -0.24
+}
+pop_growthn0_23 = {
+	local_population_growth = -0.23
+}
+pop_growthn0_22 = {
+	local_population_growth = -0.22
+}
+pop_growthn0_21 = {
+	local_population_growth = -0.21
+}
+pop_growthn0_2 = {
+	local_population_growth = -0.2
+}
+pop_growthn0_19 = {
+	local_population_growth = -0.19
+}
+pop_growthn0_18 = {
+	local_population_growth = -0.18
+}
+pop_growthn0_17 = {
+	local_population_growth = -0.17
+}
+pop_growthn0_16 = {
+	local_population_growth = -0.16
+}
+pop_growthn0_15 = {
+	local_population_growth = -0.15
+}
+pop_growthn0_14 = {
+	local_population_growth = -0.14
+}
+pop_growthn0_13 = {
+	local_population_growth = -0.13
+}
+pop_growthn0_12 = {
+	local_population_growth = -0.12
+}
+pop_growthn0_11 = {
+	local_population_growth = -0.11
+}
+pop_growthn0_1 = {
+	local_population_growth = -0.1
+}
+pop_growthn0_09 = {
+	local_population_growth = -0.09
+}
+pop_growthn0_08 = {
+	local_population_growth = -0.08
+}
+pop_growthn0_07 = {
+	local_population_growth = -0.07
+}
+pop_growthn0_06 = {
+	local_population_growth = -0.06
+}
+pop_growthn0_05 = {
+	local_population_growth = -0.05
+}
+pop_growthn0_04 = {
+	local_population_growth = -0.04
+}
+pop_growthn0_03 = {
+	local_population_growth = -0.03
+}
+pop_growthn0_02 = {
+	local_population_growth = -0.02
+}
+pop_growthn0_01 = {
+	local_population_growth = -0.01
+}
+pop_growth0_0 = {
+	local_population_growth = 0.0
+}
+pop_growth0_01 = {
+	local_population_growth = 0.01
+}
+pop_growth0_02 = {
+	local_population_growth = 0.02
+}
+pop_growth0_03 = {
+	local_population_growth = 0.03
+}
+pop_growth0_04 = {
+	local_population_growth = 0.04
+}
+pop_growth0_05 = {
+	local_population_growth = 0.05
+}
+pop_growth0_06 = {
+	local_population_growth = 0.06
+}
+pop_growth0_07 = {
+	local_population_growth = 0.07
+}
+pop_growth0_08 = {
+	local_population_growth = 0.08
+}
+pop_growth0_09 = {
+	local_population_growth = 0.09
+}
+pop_growth0_1 = {
+	local_population_growth = 0.1
+}
+pop_growth0_11 = {
+	local_population_growth = 0.11
+}
+pop_growth0_12 = {
+	local_population_growth = 0.12
+}
+pop_growth0_13 = {
+	local_population_growth = 0.13
+}
+pop_growth0_14 = {
+	local_population_growth = 0.14
+}
+pop_growth0_15 = {
+	local_population_growth = 0.15
+}
+pop_growth0_16 = {
+	local_population_growth = 0.16
+}
+pop_growth0_17 = {
+	local_population_growth = 0.17
+}
+pop_growth0_18 = {
+	local_population_growth = 0.18
+}
+pop_growth0_19 = {
+	local_population_growth = 0.19
+}
+pop_growth0_2 = {
+	local_population_growth = 0.2
+}
+pop_growth0_21 = {
+	local_population_growth = 0.21
+}
+pop_growth0_22 = {
+	local_population_growth = 0.22
+}
+pop_growth0_23 = {
+	local_population_growth = 0.23
+}
+pop_growth0_24 = {
+	local_population_growth = 0.24
+}
+pop_growth0_25 = {
+	local_population_growth = 0.25
+}
+pop_growth0_26 = {
+	local_population_growth = 0.26
+}
+pop_growth0_27 = {
+	local_population_growth = 0.27
+}
+pop_growth0_28 = {
+	local_population_growth = 0.28
+}
+pop_growth0_29 = {
+	local_population_growth = 0.29
+}
+pop_growth0_3 = {
+	local_population_growth = 0.3
+}
+pop_growth0_31 = {
+	local_population_growth = 0.31
+}
+pop_growth0_32 = {
+	local_population_growth = 0.32
+}
+pop_growth0_33 = {
+	local_population_growth = 0.33
+}
+pop_growth0_34 = {
+	local_population_growth = 0.34
+}
+pop_growth0_350 = {
+	local_population_growth = 0.350
+}
+pop_growth0_36 = {
+	local_population_growth = 0.36
+}
+pop_growth0_37 = {
+	local_population_growth = 0.37
+}
+pop_growth0_38 = {
+	local_population_growth = 0.38
+}
+pop_growth0_39 = {
+	local_population_growth = 0.39
+}
+pop_growth0_4 = {
+	local_population_growth = 0.4
+}
+pop_growth0_410 = {
+	local_population_growth = 0.410
+}
+pop_growth0_42 = {
+	local_population_growth = 0.42
+}
+pop_growth0_43 = {
+	local_population_growth = 0.43
+}
+pop_growth0_44 = {
+	local_population_growth = 0.44
+}
+pop_growth0_45 = {
+	local_population_growth = 0.45
+}
+pop_growth0_46 = {
+	local_population_growth = 0.46
+}
+pop_growth0_470 = {
+	local_population_growth = 0.470
+}
+pop_growth0_48 = {
+	local_population_growth = 0.48
+}
+pop_growth0_49 = {
+	local_population_growth = 0.49
+}
+pop_growth0_5 = {
+	local_population_growth = 0.5
+}
+pop_growth0_51 = {
+	local_population_growth = 0.51
+}
+pop_growth0_52 = {
+	local_population_growth = 0.52
+}
+pop_growth0_53 = {
+	local_population_growth = 0.53
+}
+pop_growth0_54 = {
+	local_population_growth = 0.54
+}
+pop_growth0_55 = {
+	local_population_growth = 0.55
+}
+pop_growth0_56 = {
+	local_population_growth = 0.56
+}
+pop_growth0_570 = {
+	local_population_growth = 0.570
+}
+pop_growth0_58 = {
+	local_population_growth = 0.58
+}
+pop_growth0_59 = {
+	local_population_growth = 0.59
+}
+pop_growth0_6 = {
+	local_population_growth = 0.6
+}
+pop_growth0_61 = {
+	local_population_growth = 0.61
+}
+pop_growth0_62 = {
+	local_population_growth = 0.62
+}
+pop_growth0_63 = {
+	local_population_growth = 0.63
+}
+pop_growth0_64 = {
+	local_population_growth = 0.64
+}
+pop_growth0_65 = {
+	local_population_growth = 0.65
+}
+pop_growth0_66 = {
+	local_population_growth = 0.66
+}
+pop_growth0_67 = {
+	local_population_growth = 0.67
+}
+pop_growth0_68 = {
+	local_population_growth = 0.68
+}
+pop_growth0_690 = {
+	local_population_growth = 0.690
+}
+pop_growth0_700 = {
+	local_population_growth = 0.700
+}
+pop_growth0_71 = {
+	local_population_growth = 0.71
+}
+pop_growth0_72 = {
+	local_population_growth = 0.72
+}
+pop_growth0_73 = {
+	local_population_growth = 0.73
+}
+pop_growth0_74 = {
+	local_population_growth = 0.74
+}
+pop_growth0_75 = {
+	local_population_growth = 0.75
+}
+pop_growth0_76 = {
+	local_population_growth = 0.76
+}
+pop_growth0_77 = {
+	local_population_growth = 0.77
+}
+pop_growth0_78 = {
+	local_population_growth = 0.78
+}
+pop_growth0_79 = {
+	local_population_growth = 0.79
+}
+pop_growth0_8 = {
+	local_population_growth = 0.8
+}
+pop_growth0_81 = {
+	local_population_growth = 0.81
+}
+pop_growth0_820 = {
+	local_population_growth = 0.820
+}
+pop_growth0_830 = {
+	local_population_growth = 0.830
+}
+pop_growth0_84 = {
+	local_population_growth = 0.84
+}
+pop_growth0_85 = {
+	local_population_growth = 0.85
+}
+pop_growth0_86 = {
+	local_population_growth = 0.86
+}
+pop_growth0_87 = {
+	local_population_growth = 0.87
+}
+pop_growth0_88 = {
+	local_population_growth = 0.88
+}
+pop_growth0_89 = {
+	local_population_growth = 0.89
+}
+pop_growth0_9 = {
+	local_population_growth = 0.9
+}
+pop_growth0_91 = {
+	local_population_growth = 0.91
+}
+pop_growth0_92 = {
+	local_population_growth = 0.92
+}
+pop_growth0_93 = {
+	local_population_growth = 0.93
+}
+pop_growth0_940 = {
+	local_population_growth = 0.940
+}
+pop_growth0_950 = {
+	local_population_growth = 0.950
+}
+pop_growth0_96 = {
+	local_population_growth = 0.96
+}
+pop_growth0_97 = {
+	local_population_growth = 0.97
+}
+pop_growth0_98 = {
+	local_population_growth = 0.98
+}
+pop_growth0_99 = {
+	local_population_growth = 0.99
+}
+pop_growth1_0 = {
+	local_population_growth = 1.0
+}
+pop_growth1_01 = {
+	local_population_growth = 1.01
+}
+pop_growth1_02 = {
+	local_population_growth = 1.02
+}
+pop_growth1_03 = {
+	local_population_growth = 1.03
+}
+pop_growth1_04 = {
+	local_population_growth = 1.04
+}
+pop_growth1_05 = {
+	local_population_growth = 1.05
+}
+pop_growth1_06 = {
+	local_population_growth = 1.06
+}
+pop_growth1_07 = {
+	local_population_growth = 1.07
+}
+pop_growth1_08 = {
+	local_population_growth = 1.08
+}
+pop_growth1_09 = {
+	local_population_growth = 1.09
+}
+pop_growth1_1 = {
+	local_population_growth = 1.1
+}
+pop_growth1_11 = {
+	local_population_growth = 1.11
+}
+pop_growth1_12 = {
+	local_population_growth = 1.12
+}
+pop_growth1_130 = {
+	local_population_growth = 1.130
+}
+pop_growth1_140 = {
+	local_population_growth = 1.140
+}
+pop_growth1_150 = {
+	local_population_growth = 1.150
+}
+pop_growth1_16 = {
+	local_population_growth = 1.16
+}
+pop_growth1_17 = {
+	local_population_growth = 1.17
+}
+pop_growth1_18 = {
+	local_population_growth = 1.18
+}
+pop_growth1_19 = {
+	local_population_growth = 1.19
+}
+pop_growth1_2 = {
+	local_population_growth = 1.2
+}
+pop_growth1_21 = {
+	local_population_growth = 1.21
+}
+pop_growth1_22 = {
+	local_population_growth = 1.22
+}
+pop_growth1_23 = {
+	local_population_growth = 1.23
+}
+pop_growth1_24 = {
+	local_population_growth = 1.24
+}
+pop_growth1_25 = {
+	local_population_growth = 1.25
+}
+pop_growth1_26 = {
+	local_population_growth = 1.26
+}
+pop_growth1_27 = {
+	local_population_growth = 1.27
+}
+pop_growth1_28 = {
+	local_population_growth = 1.28
+}
+pop_growth1_29 = {
+	local_population_growth = 1.29
+}
+pop_growth1_3 = {
+	local_population_growth = 1.3
+}
+pop_growth1_31 = {
+	local_population_growth = 1.31
+}
+pop_growth1_32 = {
+	local_population_growth = 1.32
+}
+pop_growth1_33 = {
+	local_population_growth = 1.33
+}
+pop_growth1_34 = {
+	local_population_growth = 1.34
+}
+pop_growth1_35 = {
+	local_population_growth = 1.35
+}
+pop_growth1_36 = {
+	local_population_growth = 1.36
+}
+pop_growth1_37 = {
+	local_population_growth = 1.37
+}
+pop_growth1_380 = {
+	local_population_growth = 1.380
+}
+pop_growth1_390 = {
+	local_population_growth = 1.390
+}
+pop_growth1_400 = {
+	local_population_growth = 1.400
+}
+pop_growth1_41 = {
+	local_population_growth = 1.41
+}
+pop_growth1_42 = {
+	local_population_growth = 1.42
+}
+pop_growth1_43 = {
+	local_population_growth = 1.43
+}
+pop_growth1_44 = {
+	local_population_growth = 1.44
+}
+pop_growth1_45 = {
+	local_population_growth = 1.45
+}
+pop_growth1_46 = {
+	local_population_growth = 1.46
+}
+pop_growth1_47 = {
+	local_population_growth = 1.47
+}
+pop_growth1_48 = {
+	local_population_growth = 1.48
+}
+pop_growth1_49 = {
+	local_population_growth = 1.49
+}
+pop_growth1_5 = {
+	local_population_growth = 1.5
+}
+pop_growth1_6 = {
+	local_population_growth = 1.6
+}
+pop_growth1_700 = {
+	local_population_growth = 1.700
+}
+pop_growth1_8 = {
+	local_population_growth = 1.8
+}
+pop_growth1_900 = {
+	local_population_growth = 1.900
+}
+pop_growth2_0 = {
+	local_population_growth = 2.0
+}
+pop_growth2_1 = {
+	local_population_growth = 2.1
+}
+pop_growth2_2 = {
+	local_population_growth = 2.2
+}
+pop_growth2_300 = {
+	local_population_growth = 2.300
+}
+pop_growth2_400 = {
+	local_population_growth = 2.400
+}
+pop_growth2_5 = {
+	local_population_growth = 2.5
+}
+pop_growth2_6 = {
+	local_population_growth = 2.6
+}
+pop_growth2_7 = {
+	local_population_growth = 2.7
+}
+pop_growth2_800 = {
+	local_population_growth = 2.800
+}
+pop_growth2_900 = {
+	local_population_growth = 2.900
+}
+pop_growth3_0 = {
+	local_population_growth = 3.0
+}
+pop_growth3_1 = {
+	local_population_growth = 3.1
+}
+pop_growth3_2 = {
+	local_population_growth = 3.2
+}
+pop_growth3_300 = {
+	local_population_growth = 3.300
+}
+pop_growth3_400 = {
+	local_population_growth = 3.400
+}
+pop_growth3_5 = {
+	local_population_growth = 3.5
+}
+pop_growth3_6 = {
+	local_population_growth = 3.6
+}
+pop_growth3_7 = {
+	local_population_growth = 3.7
+}
+pop_growth3_800 = {
+	local_population_growth = 3.800
+}
+pop_growth3_900 = {
+	local_population_growth = 3.900
+}
+pop_growth4_0 = {
+	local_population_growth = 4.0
+}
+pop_growth4_100 = {
+	local_population_growth = 4.100
+}
+pop_growth4_2 = {
+	local_population_growth = 4.2
+}
+pop_growth4_3 = {
+	local_population_growth = 4.3
+}
+pop_growth4_4 = {
+	local_population_growth = 4.4
+}
+pop_growth4_5 = {
+	local_population_growth = 4.5
+}
+pop_growth4_600 = {
+	local_population_growth = 4.600
+}
+pop_growth4_7 = {
+	local_population_growth = 4.7
+}
+pop_growth4_800 = {
+	local_population_growth = 4.800
+}
+pop_growth4_9 = {
+	local_population_growth = 4.9
+}
+pop_growth5_0 = {
+	local_population_growth = 5.0
+}
+pop_growth5_100 = {
+	local_population_growth = 5.100
+}
+pop_growth5_2 = {
+	local_population_growth = 5.2
+}
+pop_growth5_300 = {
+	local_population_growth = 5.300
+}
+pop_growth5_4 = {
+	local_population_growth = 5.4
+}
+pop_growth5_5 = {
+	local_population_growth = 5.5
+}
+pop_growth5_600 = {
+	local_population_growth = 5.600
+}
+pop_growth5_7 = {
+	local_population_growth = 5.7
+}
+pop_growth5_800 = {
+	local_population_growth = 5.800
+}
+pop_growth5_9 = {
+	local_population_growth = 5.9
+}
+pop_growth6_0 = {
+	local_population_growth = 6.0
+}
+pop_growth6_100 = {
+	local_population_growth = 6.100
+}
+pop_growth6_2 = {
+	local_population_growth = 6.2
+}
+pop_growth6_300 = {
+	local_population_growth = 6.300
+}
+pop_growth6_4 = {
+	local_population_growth = 6.4
+}
+pop_growth6_5 = {
+	local_population_growth = 6.5
+}
+pop_growth6_600 = {
+	local_population_growth = 6.600
+}
+pop_growth6_7 = {
+	local_population_growth = 6.7
+}
+pop_growth6_800 = {
+	local_population_growth = 6.800
+}
+pop_growth6_9 = {
+	local_population_growth = 6.9
+}
+pop_growth7_0 = {
+	local_population_growth = 7.0
+}
+pop_growth7_100 = {
+	local_population_growth = 7.100
+}
+pop_growth7_2 = {
+	local_population_growth = 7.2
+}
+pop_growth7_300 = {
+	local_population_growth = 7.300
+}
+pop_growth7_4 = {
+	local_population_growth = 7.4
+}
+pop_growth7_5 = {
+	local_population_growth = 7.5
+}
+pop_growth7_600 = {
+	local_population_growth = 7.600
+}
+pop_growth7_7 = {
+	local_population_growth = 7.7
+}
+pop_growth7_800 = {
+	local_population_growth = 7.800
+}
+pop_growth7_9 = {
+	local_population_growth = 7.9
+}
+pop_growth8_0 = {
+	local_population_growth = 8.0
+}
+pop_growth8_1 = {
+	local_population_growth = 8.1
+}
+pop_growth8_200 = {
+	local_population_growth = 8.200
+}
+pop_growth8_3 = {
+	local_population_growth = 8.3
+}
+pop_growth8_4 = {
+	local_population_growth = 8.4
+}
+pop_growth8_5 = {
+	local_population_growth = 8.5
+}
+pop_growth8_6 = {
+	local_population_growth = 8.6
+}
+pop_growth8_700 = {
+	local_population_growth = 8.700
+}
+pop_growth8_8 = {
+	local_population_growth = 8.8
+}
+pop_growth8_9 = {
+	local_population_growth = 8.9
+}
+pop_growth9_0 = {
+	local_population_growth = 9.0
+}
+pop_growth9_1 = {
+	local_population_growth = 9.1
+}
+pop_growth9_200 = {
+	local_population_growth = 9.200
+}
+pop_growth9_3 = {
+	local_population_growth = 9.3
+}
+pop_growth9_4 = {
+	local_population_growth = 9.4
+}
+pop_growth9_5 = {
+	local_population_growth = 9.5
+}
+pop_growth9_600 = {
+	local_population_growth = 9.600
+}
+pop_growth9_700 = {
+	local_population_growth = 9.700
+}
+pop_growth9_8 = {
+	local_population_growth = 9.8
+}
+pop_growth9_9 = {
+	local_population_growth = 9.9
+}
+pop_growth10_0 = {
+	local_population_growth = 10.0
+}
+pop_growth10_10 = {
+	local_population_growth = 10.10
+}
+pop_growth10_20 = {
+	local_population_growth = 10.20
+}
+pop_growth10_3 = {
+	local_population_growth = 10.3
+}
+pop_growth10_4 = {
+	local_population_growth = 10.4
+}
+pop_growth10_5 = {
+	local_population_growth = 10.5
+}
+pop_growth10_60 = {
+	local_population_growth = 10.60
+}
+pop_growth10_70 = {
+	local_population_growth = 10.70
+}
+pop_growth10_8 = {
+	local_population_growth = 10.8
+}
+pop_growth10_9 = {
+	local_population_growth = 10.9
+}
+pop_growth11_0 = {
+	local_population_growth = 11.0
+}
+pop_growth11_10 = {
+	local_population_growth = 11.10
+}
+pop_growth11_20 = {
+	local_population_growth = 11.20
+}
+pop_growth11_3 = {
+	local_population_growth = 11.3
+}
+pop_growth11_4 = {
+	local_population_growth = 11.4
+}
+pop_growth11_5 = {
+	local_population_growth = 11.5
+}
+pop_growth11_60 = {
+	local_population_growth = 11.60
+}
+pop_growth11_70 = {
+	local_population_growth = 11.70
+}
+pop_growth11_8 = {
+	local_population_growth = 11.8
+}
+pop_growth11_9 = {
+	local_population_growth = 11.9
+}
+pop_growth12_0 = {
+	local_population_growth = 12.0
+}
+pop_growth12_10 = {
+	local_population_growth = 12.10
+}
+pop_growth12_20 = {
+	local_population_growth = 12.20
+}
+pop_growth12_3 = {
+	local_population_growth = 12.3
+}
+pop_growth12_4 = {
+	local_population_growth = 12.4
+}
+pop_growth12_5 = {
+	local_population_growth = 12.5
+}
+pop_growth12_60 = {
+	local_population_growth = 12.60
+}
+pop_growth12_70 = {
+	local_population_growth = 12.70
+}
+pop_growth12_8 = {
+	local_population_growth = 12.8
+}
+pop_growth12_9 = {
+	local_population_growth = 12.9
+}
+pop_growth13_0 = {
+	local_population_growth = 13.0
+}
+pop_growth13_10 = {
+	local_population_growth = 13.10
+}
+pop_growth13_20 = {
+	local_population_growth = 13.20
+}
+pop_growth13_3 = {
+	local_population_growth = 13.3
+}
+pop_growth13_4 = {
+	local_population_growth = 13.4
+}
+pop_growth13_5 = {
+	local_population_growth = 13.5
+}
+pop_growth13_60 = {
+	local_population_growth = 13.60
+}
+pop_growth13_70 = {
+	local_population_growth = 13.70
+}
+pop_growth13_8 = {
+	local_population_growth = 13.8
+}
+pop_growth13_9 = {
+	local_population_growth = 13.9
+}
+pop_growth14_0 = {
+	local_population_growth = 14.0
+}
+pop_growth14_10 = {
+	local_population_growth = 14.10
+}
+pop_growth14_20 = {
+	local_population_growth = 14.20
+}
+pop_growth14_3 = {
+	local_population_growth = 14.3
+}
+pop_growth14_4 = {
+	local_population_growth = 14.4
+}
+pop_growth14_5 = {
+	local_population_growth = 14.5
+}
+pop_growth14_60 = {
+	local_population_growth = 14.60
+}
+pop_growth14_70 = {
+	local_population_growth = 14.70
+}
+pop_growth14_8 = {
+	local_population_growth = 14.8
+}
+pop_growth14_9 = {
+	local_population_growth = 14.9
+}
+pop_growth15_0 = {
+	local_population_growth = 15.0
+}
+pop_growth15_10 = {
+	local_population_growth = 15.10
+}
+pop_growth15_20 = {
+	local_population_growth = 15.20
+}
+pop_growth15_3 = {
+	local_population_growth = 15.3
+}
+pop_growth15_4 = {
+	local_population_growth = 15.4
+}
+pop_growth15_5 = {
+	local_population_growth = 15.5
+}
+pop_growth15_60 = {
+	local_population_growth = 15.60
+}
+pop_growth15_70 = {
+	local_population_growth = 15.70
+}
+pop_growth15_8 = {
+	local_population_growth = 15.8
+}
+pop_growth15_9 = {
+	local_population_growth = 15.9
+}
+pop_growth16_0 = {
+	local_population_growth = 16.0
+}
+pop_growth16_1 = {
+	local_population_growth = 16.1
+}
+pop_growth16_2 = {
+	local_population_growth = 16.2
+}
+pop_growth16_3 = {
+	local_population_growth = 16.3
+}
+pop_growth16_40 = {
+	local_population_growth = 16.40
+}
+pop_growth16_5 = {
+	local_population_growth = 16.5
+}
+pop_growth16_6 = {
+	local_population_growth = 16.6
+}
+pop_growth16_7 = {
+	local_population_growth = 16.7
+}
+pop_growth16_8 = {
+	local_population_growth = 16.8
+}
+pop_growth16_90 = {
+	local_population_growth = 16.90
+}
+pop_growth17_0 = {
+	local_population_growth = 17.0
+}
+pop_growth17_1 = {
+	local_population_growth = 17.1
+}
+pop_growth17_2 = {
+	local_population_growth = 17.2
+}
+pop_growth17_3 = {
+	local_population_growth = 17.3
+}
+pop_growth17_40 = {
+	local_population_growth = 17.40
+}
+pop_growth17_5 = {
+	local_population_growth = 17.5
+}
+pop_growth17_6 = {
+	local_population_growth = 17.6
+}
+pop_growth17_7 = {
+	local_population_growth = 17.7
+}
+pop_growth17_8 = {
+	local_population_growth = 17.8
+}
+pop_growth17_90 = {
+	local_population_growth = 17.90
+}
+pop_growth18_0 = {
+	local_population_growth = 18.0
+}
+pop_growth18_1 = {
+	local_population_growth = 18.1
+}
+pop_growth18_2 = {
+	local_population_growth = 18.2
+}
+pop_growth18_3 = {
+	local_population_growth = 18.3
+}
+pop_growth18_40 = {
+	local_population_growth = 18.40
+}
+pop_growth18_5 = {
+	local_population_growth = 18.5
+}
+pop_growth18_6 = {
+	local_population_growth = 18.6
+}
+pop_growth18_7 = {
+	local_population_growth = 18.7
+}
+pop_growth18_8 = {
+	local_population_growth = 18.8
+}
+pop_growth18_90 = {
+	local_population_growth = 18.90
+}
+pop_growth19_0 = {
+	local_population_growth = 19.0
+}
+pop_growth19_1 = {
+	local_population_growth = 19.1
+}
+pop_growth19_20 = {
+	local_population_growth = 19.20
+}
+pop_growth19_3 = {
+	local_population_growth = 19.3
+}
+pop_growth19_40 = {
+	local_population_growth = 19.40
+}
+pop_growth19_5 = {
+	local_population_growth = 19.5
+}
+pop_growth19_6 = {
+	local_population_growth = 19.6
+}
+pop_growth19_70 = {
+	local_population_growth = 19.70
+}
+pop_growth19_8 = {
+	local_population_growth = 19.8
+}
+pop_growth19_90 = {
+	local_population_growth = 19.90
+}
+pop_growth20_0 = {
+	local_population_growth = 20.0
+}
+pop_growth20_1 = {
+	local_population_growth = 20.1
+}
+pop_growth20_20 = {
+	local_population_growth = 20.20
+}
+pop_growth20_3 = {
+	local_population_growth = 20.3
+}
+pop_growth20_40 = {
+	local_population_growth = 20.40
+}
+pop_growth20_5 = {
+	local_population_growth = 20.5
+}
+pop_growth20_6 = {
+	local_population_growth = 20.6
+}
+pop_growth20_70 = {
+	local_population_growth = 20.70
+}
+pop_growth20_8 = {
+	local_population_growth = 20.8
+}
+pop_growth20_90 = {
+	local_population_growth = 20.90
+}
+pop_growth21_0 = {
+	local_population_growth = 21.0
+}
+pop_growth21_1 = {
+	local_population_growth = 21.1
+}
+pop_growth21_20 = {
+	local_population_growth = 21.20
+}
+pop_growth21_3 = {
+	local_population_growth = 21.3
+}
+pop_growth21_40 = {
+	local_population_growth = 21.40
+}
+pop_growth21_5 = {
+	local_population_growth = 21.5
+}
+pop_growth21_6 = {
+	local_population_growth = 21.6
+}
+pop_growth21_70 = {
+	local_population_growth = 21.70
+}
+pop_growth21_8 = {
+	local_population_growth = 21.8
+}
+pop_growth21_90 = {
+	local_population_growth = 21.90
+}
+pop_growth22_0 = {
+	local_population_growth = 22.0
+}
+pop_growth22_1 = {
+	local_population_growth = 22.1
+}
+pop_growth22_20 = {
+	local_population_growth = 22.20
+}
+pop_growth22_3 = {
+	local_population_growth = 22.3
+}
+pop_growth22_40 = {
+	local_population_growth = 22.40
+}
+pop_growth22_5 = {
+	local_population_growth = 22.5
+}
+pop_growth22_6 = {
+	local_population_growth = 22.6
+}
+pop_growth22_70 = {
+	local_population_growth = 22.70
+}
+pop_growth22_8 = {
+	local_population_growth = 22.8
+}
+pop_growth22_90 = {
+	local_population_growth = 22.90
+}
+pop_growth23_0 = {
+	local_population_growth = 23.0
+}
+pop_growth23_1 = {
+	local_population_growth = 23.1
+}
+pop_growth23_20 = {
+	local_population_growth = 23.20
+}
+pop_growth23_3 = {
+	local_population_growth = 23.3
+}
+pop_growth23_40 = {
+	local_population_growth = 23.40
+}
+pop_growth23_5 = {
+	local_population_growth = 23.5
+}
+pop_growth23_6 = {
+	local_population_growth = 23.6
+}
+pop_growth23_70 = {
+	local_population_growth = 23.70
+}
+pop_growth23_8 = {
+	local_population_growth = 23.8
+}
+pop_growth23_90 = {
+	local_population_growth = 23.90
+}
+pop_growth24_0 = {
+	local_population_growth = 24.0
+}
+pop_growth24_1 = {
+	local_population_growth = 24.1
+}
+pop_growth24_20 = {
+	local_population_growth = 24.20
+}
+pop_growth24_3 = {
+	local_population_growth = 24.3
+}
+pop_growth24_40 = {
+	local_population_growth = 24.40
+}
+pop_growth24_5 = {
+	local_population_growth = 24.5
+}
+pop_growth24_6 = {
+	local_population_growth = 24.6
+}
+pop_growth24_70 = {
+	local_population_growth = 24.70
+}
+pop_growth24_8 = {
+	local_population_growth = 24.8
+}
+pop_growth24_90 = {
+	local_population_growth = 24.90
+}
+surplus_produced0_0 = {
+	local_monthly_food = 0.0
+}
+surplus_produced0_01 = {
+	local_monthly_food = 0.01
+}
+surplus_produced0_02 = {
+	local_monthly_food = 0.02
+}
+surplus_produced0_03 = {
+	local_monthly_food = 0.03
+}
+surplus_produced0_04 = {
+	local_monthly_food = 0.04
+}
+surplus_produced0_05 = {
+	local_monthly_food = 0.05
+}
+surplus_produced0_06 = {
+	local_monthly_food = 0.06
+}
+surplus_produced0_07 = {
+	local_monthly_food = 0.07
+}
+surplus_produced0_08 = {
+	local_monthly_food = 0.08
+}
+surplus_produced0_09 = {
+	local_monthly_food = 0.09
+}
+surplus_produced0_1 = {
+	local_monthly_food = 0.1
+}
+surplus_produced0_11 = {
+	local_monthly_food = 0.11
+}
+surplus_produced0_12 = {
+	local_monthly_food = 0.12
+}
+surplus_produced0_13 = {
+	local_monthly_food = 0.13
+}
+surplus_produced0_14 = {
+	local_monthly_food = 0.14
+}
+surplus_produced0_15 = {
+	local_monthly_food = 0.15
+}
+surplus_produced0_16 = {
+	local_monthly_food = 0.16
+}
+surplus_produced0_17 = {
+	local_monthly_food = 0.17
+}
+surplus_produced0_18 = {
+	local_monthly_food = 0.18
+}
+surplus_produced0_19 = {
+	local_monthly_food = 0.19
+}
+surplus_produced0_2 = {
+	local_monthly_food = 0.2
+}
+surplus_produced0_21 = {
+	local_monthly_food = 0.21
+}
+surplus_produced0_22 = {
+	local_monthly_food = 0.22
+}
+surplus_produced0_23 = {
+	local_monthly_food = 0.23
+}
+surplus_produced0_24 = {
+	local_monthly_food = 0.24
+}
+surplus_produced0_25 = {
+	local_monthly_food = 0.25
+}
+surplus_produced0_26 = {
+	local_monthly_food = 0.26
+}
+surplus_produced0_27 = {
+	local_monthly_food = 0.27
+}
+surplus_produced0_28 = {
+	local_monthly_food = 0.28
+}
+surplus_produced0_29 = {
+	local_monthly_food = 0.29
+}
+surplus_produced0_3 = {
+	local_monthly_food = 0.3
+}
+surplus_produced0_31 = {
+	local_monthly_food = 0.31
+}
+surplus_produced0_32 = {
+	local_monthly_food = 0.32
+}
+surplus_produced0_33 = {
+	local_monthly_food = 0.33
+}
+surplus_produced0_34 = {
+	local_monthly_food = 0.34
+}
+surplus_produced0_350 = {
+	local_monthly_food = 0.350
+}
+surplus_produced0_36 = {
+	local_monthly_food = 0.36
+}
+surplus_produced0_37 = {
+	local_monthly_food = 0.37
+}
+surplus_produced0_38 = {
+	local_monthly_food = 0.38
+}
+surplus_produced0_39 = {
+	local_monthly_food = 0.39
+}
+surplus_produced0_4 = {
+	local_monthly_food = 0.4
+}
+surplus_produced0_410 = {
+	local_monthly_food = 0.410
+}
+surplus_produced0_42 = {
+	local_monthly_food = 0.42
+}
+surplus_produced0_43 = {
+	local_monthly_food = 0.43
+}
+surplus_produced0_44 = {
+	local_monthly_food = 0.44
+}
+surplus_produced0_45 = {
+	local_monthly_food = 0.45
+}
+surplus_produced0_46 = {
+	local_monthly_food = 0.46
+}
+surplus_produced0_470 = {
+	local_monthly_food = 0.470
+}
+surplus_produced0_48 = {
+	local_monthly_food = 0.48
+}
+surplus_produced0_49 = {
+	local_monthly_food = 0.49
+}
+surplus_produced0_5 = {
+	local_monthly_food = 0.5
+}
+surplus_produced0_51 = {
+	local_monthly_food = 0.51
+}
+surplus_produced0_52 = {
+	local_monthly_food = 0.52
+}
+surplus_produced0_53 = {
+	local_monthly_food = 0.53
+}
+surplus_produced0_54 = {
+	local_monthly_food = 0.54
+}
+surplus_produced0_55 = {
+	local_monthly_food = 0.55
+}
+surplus_produced0_56 = {
+	local_monthly_food = 0.56
+}
+surplus_produced0_570 = {
+	local_monthly_food = 0.570
+}
+surplus_produced0_58 = {
+	local_monthly_food = 0.58
+}
+surplus_produced0_59 = {
+	local_monthly_food = 0.59
+}
+surplus_produced0_6 = {
+	local_monthly_food = 0.6
+}
+surplus_produced0_61 = {
+	local_monthly_food = 0.61
+}
+surplus_produced0_62 = {
+	local_monthly_food = 0.62
+}
+surplus_produced0_63 = {
+	local_monthly_food = 0.63
+}
+surplus_produced0_64 = {
+	local_monthly_food = 0.64
+}
+surplus_produced0_65 = {
+	local_monthly_food = 0.65
+}
+surplus_produced0_66 = {
+	local_monthly_food = 0.66
+}
+surplus_produced0_67 = {
+	local_monthly_food = 0.67
+}
+surplus_produced0_68 = {
+	local_monthly_food = 0.68
+}
+surplus_produced0_690 = {
+	local_monthly_food = 0.690
+}
+surplus_produced0_700 = {
+	local_monthly_food = 0.700
+}
+surplus_produced0_71 = {
+	local_monthly_food = 0.71
+}
+surplus_produced0_72 = {
+	local_monthly_food = 0.72
+}
+surplus_produced0_73 = {
+	local_monthly_food = 0.73
+}
+surplus_produced0_74 = {
+	local_monthly_food = 0.74
+}
+surplus_produced0_75 = {
+	local_monthly_food = 0.75
+}
+surplus_produced0_76 = {
+	local_monthly_food = 0.76
+}
+surplus_produced0_77 = {
+	local_monthly_food = 0.77
+}
+surplus_produced0_78 = {
+	local_monthly_food = 0.78
+}
+surplus_produced0_79 = {
+	local_monthly_food = 0.79
+}
+surplus_produced0_8 = {
+	local_monthly_food = 0.8
+}
+surplus_produced0_81 = {
+	local_monthly_food = 0.81
+}
+surplus_produced0_820 = {
+	local_monthly_food = 0.820
+}
+surplus_produced0_830 = {
+	local_monthly_food = 0.830
+}
+surplus_produced0_84 = {
+	local_monthly_food = 0.84
+}
+surplus_produced0_85 = {
+	local_monthly_food = 0.85
+}
+surplus_produced0_86 = {
+	local_monthly_food = 0.86
+}
+surplus_produced0_87 = {
+	local_monthly_food = 0.87
+}
+surplus_produced0_88 = {
+	local_monthly_food = 0.88
+}
+surplus_produced0_89 = {
+	local_monthly_food = 0.89
+}
+surplus_produced0_9 = {
+	local_monthly_food = 0.9
+}
+surplus_produced0_91 = {
+	local_monthly_food = 0.91
+}
+surplus_produced0_92 = {
+	local_monthly_food = 0.92
+}
+surplus_produced0_93 = {
+	local_monthly_food = 0.93
+}
+surplus_produced0_940 = {
+	local_monthly_food = 0.940
+}
+surplus_produced0_950 = {
+	local_monthly_food = 0.950
+}
+surplus_produced0_96 = {
+	local_monthly_food = 0.96
+}
+surplus_produced0_97 = {
+	local_monthly_food = 0.97
+}
+surplus_produced0_98 = {
+	local_monthly_food = 0.98
+}
+surplus_produced0_99 = {
+	local_monthly_food = 0.99
+}
+surplus_produced1_0 = {
+	local_monthly_food = 1.0
+}
+surplus_produced1_01 = {
+	local_monthly_food = 1.01
+}
+surplus_produced1_02 = {
+	local_monthly_food = 1.02
+}
+surplus_produced1_03 = {
+	local_monthly_food = 1.03
+}
+surplus_produced1_04 = {
+	local_monthly_food = 1.04
+}
+surplus_produced1_05 = {
+	local_monthly_food = 1.05
+}
+surplus_produced1_06 = {
+	local_monthly_food = 1.06
+}
+surplus_produced1_07 = {
+	local_monthly_food = 1.07
+}
+surplus_produced1_08 = {
+	local_monthly_food = 1.08
+}
+surplus_produced1_09 = {
+	local_monthly_food = 1.09
+}
+surplus_produced1_1 = {
+	local_monthly_food = 1.1
+}
+surplus_produced1_11 = {
+	local_monthly_food = 1.11
+}
+surplus_produced1_12 = {
+	local_monthly_food = 1.12
+}
+surplus_produced1_130 = {
+	local_monthly_food = 1.130
+}
+surplus_produced1_140 = {
+	local_monthly_food = 1.140
+}
+surplus_produced1_150 = {
+	local_monthly_food = 1.150
+}
+surplus_produced1_16 = {
+	local_monthly_food = 1.16
+}
+surplus_produced1_17 = {
+	local_monthly_food = 1.17
+}
+surplus_produced1_18 = {
+	local_monthly_food = 1.18
+}
+surplus_produced1_19 = {
+	local_monthly_food = 1.19
+}
+surplus_produced1_2 = {
+	local_monthly_food = 1.2
+}
+surplus_produced1_21 = {
+	local_monthly_food = 1.21
+}
+surplus_produced1_22 = {
+	local_monthly_food = 1.22
+}
+surplus_produced1_23 = {
+	local_monthly_food = 1.23
+}
+surplus_produced1_24 = {
+	local_monthly_food = 1.24
+}
+surplus_produced1_25 = {
+	local_monthly_food = 1.25
+}
+surplus_produced1_26 = {
+	local_monthly_food = 1.26
+}
+surplus_produced1_27 = {
+	local_monthly_food = 1.27
+}
+surplus_produced1_28 = {
+	local_monthly_food = 1.28
+}
+surplus_produced1_29 = {
+	local_monthly_food = 1.29
+}
+surplus_produced1_3 = {
+	local_monthly_food = 1.3
+}
+surplus_produced1_31 = {
+	local_monthly_food = 1.31
+}
+surplus_produced1_32 = {
+	local_monthly_food = 1.32
+}
+surplus_produced1_33 = {
+	local_monthly_food = 1.33
+}
+surplus_produced1_34 = {
+	local_monthly_food = 1.34
+}
+surplus_produced1_35 = {
+	local_monthly_food = 1.35
+}
+surplus_produced1_36 = {
+	local_monthly_food = 1.36
+}
+surplus_produced1_37 = {
+	local_monthly_food = 1.37
+}
+surplus_produced1_380 = {
+	local_monthly_food = 1.380
+}
+surplus_produced1_390 = {
+	local_monthly_food = 1.390
+}
+surplus_produced1_400 = {
+	local_monthly_food = 1.400
+}
+surplus_produced1_41 = {
+	local_monthly_food = 1.41
+}
+surplus_produced1_42 = {
+	local_monthly_food = 1.42
+}
+surplus_produced1_43 = {
+	local_monthly_food = 1.43
+}
+surplus_produced1_44 = {
+	local_monthly_food = 1.44
+}
+surplus_produced1_45 = {
+	local_monthly_food = 1.45
+}
+surplus_produced1_46 = {
+	local_monthly_food = 1.46
+}
+surplus_produced1_47 = {
+	local_monthly_food = 1.47
+}
+surplus_produced1_48 = {
+	local_monthly_food = 1.48
+}
+surplus_produced1_49 = {
+	local_monthly_food = 1.49
+}
+surplus_produced1_5 = {
+	local_monthly_food = 1.5
+}
+surplus_produced1_51 = {
+	local_monthly_food = 1.51
+}
+surplus_produced1_52 = {
+	local_monthly_food = 1.52
+}
+surplus_produced1_53 = {
+	local_monthly_food = 1.53
+}
+surplus_produced1_54 = {
+	local_monthly_food = 1.54
+}
+surplus_produced1_55 = {
+	local_monthly_food = 1.55
+}
+surplus_produced1_56 = {
+	local_monthly_food = 1.56
+}
+surplus_produced1_57 = {
+	local_monthly_food = 1.57
+}
+surplus_produced1_58 = {
+	local_monthly_food = 1.58
+}
+surplus_produced1_59 = {
+	local_monthly_food = 1.59
+}
+surplus_produced1_6 = {
+	local_monthly_food = 1.6
+}
+surplus_produced1_61 = {
+	local_monthly_food = 1.61
+}
+surplus_produced1_62 = {
+	local_monthly_food = 1.62
+}
+surplus_produced1_630 = {
+	local_monthly_food = 1.630
+}
+surplus_produced1_640 = {
+	local_monthly_food = 1.640
+}
+surplus_produced1_650 = {
+	local_monthly_food = 1.650
+}
+surplus_produced1_660 = {
+	local_monthly_food = 1.660
+}
+surplus_produced1_67 = {
+	local_monthly_food = 1.67
+}
+surplus_produced1_68 = {
+	local_monthly_food = 1.68
+}
+surplus_produced1_69 = {
+	local_monthly_food = 1.69
+}
+surplus_produced1_7 = {
+	local_monthly_food = 1.7
+}
+surplus_produced1_71 = {
+	local_monthly_food = 1.71
+}
+surplus_produced1_72 = {
+	local_monthly_food = 1.72
+}
+surplus_produced1_73 = {
+	local_monthly_food = 1.73
+}
+surplus_produced1_74 = {
+	local_monthly_food = 1.74
+}
+surplus_produced1_75 = {
+	local_monthly_food = 1.75
+}
+surplus_produced1_76 = {
+	local_monthly_food = 1.76
+}
+surplus_produced1_77 = {
+	local_monthly_food = 1.77
+}
+surplus_produced1_78 = {
+	local_monthly_food = 1.78
+}
+surplus_produced1_79 = {
+	local_monthly_food = 1.79
+}
+surplus_produced1_8 = {
+	local_monthly_food = 1.8
+}
+surplus_produced1_81 = {
+	local_monthly_food = 1.81
+}
+surplus_produced1_82 = {
+	local_monthly_food = 1.82
+}
+surplus_produced1_83 = {
+	local_monthly_food = 1.83
+}
+surplus_produced1_84 = {
+	local_monthly_food = 1.84
+}
+surplus_produced1_85 = {
+	local_monthly_food = 1.85
+}
+surplus_produced1_86 = {
+	local_monthly_food = 1.86
+}
+surplus_produced1_87 = {
+	local_monthly_food = 1.87
+}
+surplus_produced1_880 = {
+	local_monthly_food = 1.880
+}
+surplus_produced1_890 = {
+	local_monthly_food = 1.890
+}
+surplus_produced1_900 = {
+	local_monthly_food = 1.900
+}
+surplus_produced1_910 = {
+	local_monthly_food = 1.910
+}
+surplus_produced1_92 = {
+	local_monthly_food = 1.92
+}
+surplus_produced1_93 = {
+	local_monthly_food = 1.93
+}
+surplus_produced1_94 = {
+	local_monthly_food = 1.94
+}
+surplus_produced1_95 = {
+	local_monthly_food = 1.95
+}
+surplus_produced1_96 = {
+	local_monthly_food = 1.96
+}
+surplus_produced1_97 = {
+	local_monthly_food = 1.97
+}
+surplus_produced1_98 = {
+	local_monthly_food = 1.98
+}
+surplus_produced1_99 = {
+	local_monthly_food = 1.99
+}
+surplus_produced2_0 = {
+	local_monthly_food = 2.0
+}
+surplus_produced2_010 = {
+	local_monthly_food = 2.010
+}
+surplus_produced2_02 = {
+	local_monthly_food = 2.02
+}
+surplus_produced2_030 = {
+	local_monthly_food = 2.030
+}
+surplus_produced2_04 = {
+	local_monthly_food = 2.04
+}
+surplus_produced2_05 = {
+	local_monthly_food = 2.05
+}
+surplus_produced2_06 = {
+	local_monthly_food = 2.06
+}
+surplus_produced2_07 = {
+	local_monthly_food = 2.07
+}
+surplus_produced2_08 = {
+	local_monthly_food = 2.08
+}
+surplus_produced2_09 = {
+	local_monthly_food = 2.09
+}
+surplus_produced2_1 = {
+	local_monthly_food = 2.1
+}
+surplus_produced2_11 = {
+	local_monthly_food = 2.11
+}
+surplus_produced2_12 = {
+	local_monthly_food = 2.12
+}
+surplus_produced2_13 = {
+	local_monthly_food = 2.13
+}
+surplus_produced2_14 = {
+	local_monthly_food = 2.14
+}
+surplus_produced2_15 = {
+	local_monthly_food = 2.15
+}
+surplus_produced2_16 = {
+	local_monthly_food = 2.16
+}
+surplus_produced2_17 = {
+	local_monthly_food = 2.17
+}
+surplus_produced2_18 = {
+	local_monthly_food = 2.18
+}
+surplus_produced2_19 = {
+	local_monthly_food = 2.19
+}
+surplus_produced2_2 = {
+	local_monthly_food = 2.2
+}
+surplus_produced2_21 = {
+	local_monthly_food = 2.21
+}
+surplus_produced2_22 = {
+	local_monthly_food = 2.22
+}
+surplus_produced2_23 = {
+	local_monthly_food = 2.23
+}
+surplus_produced2_24 = {
+	local_monthly_food = 2.24
+}
+surplus_produced2_25 = {
+	local_monthly_food = 2.25
+}
+surplus_produced2_260 = {
+	local_monthly_food = 2.260
+}
+surplus_produced2_27 = {
+	local_monthly_food = 2.27
+}
+surplus_produced2_280 = {
+	local_monthly_food = 2.280
+}
+surplus_produced2_29 = {
+	local_monthly_food = 2.29
+}
+surplus_produced2_300 = {
+	local_monthly_food = 2.300
+}
+surplus_produced2_31 = {
+	local_monthly_food = 2.31
+}
+surplus_produced2_32 = {
+	local_monthly_food = 2.32
+}
+surplus_produced2_33 = {
+	local_monthly_food = 2.33
+}
+surplus_produced2_34 = {
+	local_monthly_food = 2.34
+}
+surplus_produced2_35 = {
+	local_monthly_food = 2.35
+}
+surplus_produced2_36 = {
+	local_monthly_food = 2.36
+}
+surplus_produced2_37 = {
+	local_monthly_food = 2.37
+}
+surplus_produced2_38 = {
+	local_monthly_food = 2.38
+}
+surplus_produced2_39 = {
+	local_monthly_food = 2.39
+}
+surplus_produced2_4 = {
+	local_monthly_food = 2.4
+}
+surplus_produced2_41 = {
+	local_monthly_food = 2.41
+}
+surplus_produced2_42 = {
+	local_monthly_food = 2.42
+}
+surplus_produced2_43 = {
+	local_monthly_food = 2.43
+}
+surplus_produced2_44 = {
+	local_monthly_food = 2.44
+}
+surplus_produced2_45 = {
+	local_monthly_food = 2.45
+}
+surplus_produced2_46 = {
+	local_monthly_food = 2.46
+}
+surplus_produced2_47 = {
+	local_monthly_food = 2.47
+}
+surplus_produced2_48 = {
+	local_monthly_food = 2.48
+}
+surplus_produced2_49 = {
+	local_monthly_food = 2.49
+}
+surplus_produced2_5 = {
+	local_monthly_food = 2.5
+}
+surplus_produced2_510 = {
+	local_monthly_food = 2.510
+}
+surplus_produced2_52 = {
+	local_monthly_food = 2.52
+}
+surplus_produced2_530 = {
+	local_monthly_food = 2.530
+}
+surplus_produced2_54 = {
+	local_monthly_food = 2.54
+}
+surplus_produced2_550 = {
+	local_monthly_food = 2.550
+}
+surplus_produced2_56 = {
+	local_monthly_food = 2.56
+}
+surplus_produced2_57 = {
+	local_monthly_food = 2.57
+}
+surplus_produced2_58 = {
+	local_monthly_food = 2.58
+}
+surplus_produced2_59 = {
+	local_monthly_food = 2.59
+}
+surplus_produced2_6 = {
+	local_monthly_food = 2.6
+}
+surplus_produced2_61 = {
+	local_monthly_food = 2.61
+}
+surplus_produced2_62 = {
+	local_monthly_food = 2.62
+}
+surplus_produced2_63 = {
+	local_monthly_food = 2.63
+}
+surplus_produced2_64 = {
+	local_monthly_food = 2.64
+}
+surplus_produced2_65 = {
+	local_monthly_food = 2.65
+}
+surplus_produced2_66 = {
+	local_monthly_food = 2.66
+}
+surplus_produced2_67 = {
+	local_monthly_food = 2.67
+}
+surplus_produced2_68 = {
+	local_monthly_food = 2.68
+}
+surplus_produced2_69 = {
+	local_monthly_food = 2.69
+}
+surplus_produced2_7 = {
+	local_monthly_food = 2.7
+}
+surplus_produced2_71 = {
+	local_monthly_food = 2.71
+}
+surplus_produced2_72 = {
+	local_monthly_food = 2.72
+}
+surplus_produced2_73 = {
+	local_monthly_food = 2.73
+}
+surplus_produced2_74 = {
+	local_monthly_food = 2.74
+}
+surplus_produced2_75 = {
+	local_monthly_food = 2.75
+}
+surplus_produced2_760 = {
+	local_monthly_food = 2.760
+}
+surplus_produced2_77 = {
+	local_monthly_food = 2.77
+}
+surplus_produced2_780 = {
+	local_monthly_food = 2.780
+}
+surplus_produced2_79 = {
+	local_monthly_food = 2.79
+}
+surplus_produced2_800 = {
+	local_monthly_food = 2.800
+}
+surplus_produced2_81 = {
+	local_monthly_food = 2.81
+}
+surplus_produced2_82 = {
+	local_monthly_food = 2.82
+}
+surplus_produced2_83 = {
+	local_monthly_food = 2.83
+}
+surplus_produced2_84 = {
+	local_monthly_food = 2.84
+}
+surplus_produced2_85 = {
+	local_monthly_food = 2.85
+}
+surplus_produced2_86 = {
+	local_monthly_food = 2.86
+}
+surplus_produced2_87 = {
+	local_monthly_food = 2.87
+}
+surplus_produced2_88 = {
+	local_monthly_food = 2.88
+}
+surplus_produced2_89 = {
+	local_monthly_food = 2.89
+}
+surplus_produced2_9 = {
+	local_monthly_food = 2.9
+}
+surplus_produced2_91 = {
+	local_monthly_food = 2.91
+}
+surplus_produced2_92 = {
+	local_monthly_food = 2.92
+}
+surplus_produced2_93 = {
+	local_monthly_food = 2.93
+}
+surplus_produced2_94 = {
+	local_monthly_food = 2.94
+}
+surplus_produced2_95 = {
+	local_monthly_food = 2.95
+}
+surplus_produced2_96 = {
+	local_monthly_food = 2.96
+}
+surplus_produced2_97 = {
+	local_monthly_food = 2.97
+}
+surplus_produced2_98 = {
+	local_monthly_food = 2.98
+}
+surplus_produced2_99 = {
+	local_monthly_food = 2.99
+}
+surplus_produced3_0 = {
+	local_monthly_food = 3.0
+}
+surplus_produced3_010 = {
+	local_monthly_food = 3.010
+}
+surplus_produced3_02 = {
+	local_monthly_food = 3.02
+}
+surplus_produced3_030 = {
+	local_monthly_food = 3.030
+}
+surplus_produced3_04 = {
+	local_monthly_food = 3.04
+}
+surplus_produced3_050 = {
+	local_monthly_food = 3.050
+}
+surplus_produced3_06 = {
+	local_monthly_food = 3.06
+}
+surplus_produced3_070 = {
+	local_monthly_food = 3.070
+}
+surplus_produced3_08 = {
+	local_monthly_food = 3.08
+}
+surplus_produced3_09 = {
+	local_monthly_food = 3.09
+}
+surplus_produced3_1 = {
+	local_monthly_food = 3.1
+}
+surplus_produced3_11 = {
+	local_monthly_food = 3.11
+}
+surplus_produced3_12 = {
+	local_monthly_food = 3.12
+}
+surplus_produced3_13 = {
+	local_monthly_food = 3.13
+}
+surplus_produced3_14 = {
+	local_monthly_food = 3.14
+}
+surplus_produced3_15 = {
+	local_monthly_food = 3.15
+}
+surplus_produced3_16 = {
+	local_monthly_food = 3.16
+}
+surplus_produced3_17 = {
+	local_monthly_food = 3.17
+}
+surplus_produced3_18 = {
+	local_monthly_food = 3.18
+}
+surplus_produced3_19 = {
+	local_monthly_food = 3.19
+}
+surplus_produced3_2 = {
+	local_monthly_food = 3.2
+}
+surplus_produced3_21 = {
+	local_monthly_food = 3.21
+}
+surplus_produced3_22 = {
+	local_monthly_food = 3.22
+}
+surplus_produced3_23 = {
+	local_monthly_food = 3.23
+}
+surplus_produced3_24 = {
+	local_monthly_food = 3.24
+}
+surplus_produced3_25 = {
+	local_monthly_food = 3.25
+}
+surplus_produced3_260 = {
+	local_monthly_food = 3.260
+}
+surplus_produced3_27 = {
+	local_monthly_food = 3.27
+}
+surplus_produced3_280 = {
+	local_monthly_food = 3.280
+}
+surplus_produced3_29 = {
+	local_monthly_food = 3.29
+}
+surplus_produced3_300 = {
+	local_monthly_food = 3.300
+}
+surplus_produced3_31 = {
+	local_monthly_food = 3.31
+}
+surplus_produced3_320 = {
+	local_monthly_food = 3.320
+}
+surplus_produced3_33 = {
+	local_monthly_food = 3.33
+}
+surplus_produced3_34 = {
+	local_monthly_food = 3.34
+}
+surplus_produced3_35 = {
+	local_monthly_food = 3.35
+}
+surplus_produced3_36 = {
+	local_monthly_food = 3.36
+}
+surplus_produced3_37 = {
+	local_monthly_food = 3.37
+}
+surplus_produced3_38 = {
+	local_monthly_food = 3.38
+}
+surplus_produced3_39 = {
+	local_monthly_food = 3.39
+}
+surplus_produced3_4 = {
+	local_monthly_food = 3.4
+}
+surplus_produced3_41 = {
+	local_monthly_food = 3.41
+}
+surplus_produced3_42 = {
+	local_monthly_food = 3.42
+}
+surplus_produced3_43 = {
+	local_monthly_food = 3.43
+}
+surplus_produced3_44 = {
+	local_monthly_food = 3.44
+}
+surplus_produced3_45 = {
+	local_monthly_food = 3.45
+}
+surplus_produced3_46 = {
+	local_monthly_food = 3.46
+}
+surplus_produced3_47 = {
+	local_monthly_food = 3.47
+}
+surplus_produced3_48 = {
+	local_monthly_food = 3.48
+}
+surplus_produced3_49 = {
+	local_monthly_food = 3.49
+}
+surplus_produced3_5 = {
+	local_monthly_food = 3.5
+}
+surplus_produced3_510 = {
+	local_monthly_food = 3.510
+}
+surplus_produced3_52 = {
+	local_monthly_food = 3.52
+}
+surplus_produced3_530 = {
+	local_monthly_food = 3.530
+}
+surplus_produced3_54 = {
+	local_monthly_food = 3.54
+}
+surplus_produced3_550 = {
+	local_monthly_food = 3.550
+}
+surplus_produced3_56 = {
+	local_monthly_food = 3.56
+}
+surplus_produced3_570 = {
+	local_monthly_food = 3.570
+}
+surplus_produced3_58 = {
+	local_monthly_food = 3.58
+}
+surplus_produced3_59 = {
+	local_monthly_food = 3.59
+}
+surplus_produced3_6 = {
+	local_monthly_food = 3.6
+}
+surplus_produced3_61 = {
+	local_monthly_food = 3.61
+}
+surplus_produced3_62 = {
+	local_monthly_food = 3.62
+}
+surplus_produced3_63 = {
+	local_monthly_food = 3.63
+}
+surplus_produced3_64 = {
+	local_monthly_food = 3.64
+}
+surplus_produced3_65 = {
+	local_monthly_food = 3.65
+}
+surplus_produced3_66 = {
+	local_monthly_food = 3.66
+}
+surplus_produced3_67 = {
+	local_monthly_food = 3.67
+}
+surplus_produced3_68 = {
+	local_monthly_food = 3.68
+}
+surplus_produced3_69 = {
+	local_monthly_food = 3.69
+}
+surplus_produced3_7 = {
+	local_monthly_food = 3.7
+}
+surplus_produced3_71 = {
+	local_monthly_food = 3.71
+}
+surplus_produced3_72 = {
+	local_monthly_food = 3.72
+}
+surplus_produced3_73 = {
+	local_monthly_food = 3.73
+}
+surplus_produced3_74 = {
+	local_monthly_food = 3.74
+}
+surplus_produced3_75 = {
+	local_monthly_food = 3.75
+}
+surplus_produced3_760 = {
+	local_monthly_food = 3.760
+}
+surplus_produced3_77 = {
+	local_monthly_food = 3.77
+}
+surplus_produced3_780 = {
+	local_monthly_food = 3.780
+}
+surplus_produced3_79 = {
+	local_monthly_food = 3.79
+}
+surplus_produced3_800 = {
+	local_monthly_food = 3.800
+}
+surplus_produced3_81 = {
+	local_monthly_food = 3.81
+}
+surplus_produced3_820 = {
+	local_monthly_food = 3.820
+}
+surplus_produced3_83 = {
+	local_monthly_food = 3.83
+}
+surplus_produced3_84 = {
+	local_monthly_food = 3.84
+}
+surplus_produced3_85 = {
+	local_monthly_food = 3.85
+}
+surplus_produced3_86 = {
+	local_monthly_food = 3.86
+}
+surplus_produced3_87 = {
+	local_monthly_food = 3.87
+}
+surplus_produced3_88 = {
+	local_monthly_food = 3.88
+}
+surplus_produced3_89 = {
+	local_monthly_food = 3.89
+}
+surplus_produced3_9 = {
+	local_monthly_food = 3.9
+}
+surplus_produced3_91 = {
+	local_monthly_food = 3.91
+}
+surplus_produced3_92 = {
+	local_monthly_food = 3.92
+}
+surplus_produced3_93 = {
+	local_monthly_food = 3.93
+}
+surplus_produced3_94 = {
+	local_monthly_food = 3.94
+}
+surplus_produced3_95 = {
+	local_monthly_food = 3.95
+}
+surplus_produced3_96 = {
+	local_monthly_food = 3.96
+}
+surplus_produced3_97 = {
+	local_monthly_food = 3.97
+}
+surplus_produced3_98 = {
+	local_monthly_food = 3.98
+}
+surplus_produced3_99 = {
+	local_monthly_food = 3.99
+}
+surplus_produced4_0 = {
+	local_monthly_food = 4.0
+}
+surplus_produced4_01 = {
+	local_monthly_food = 4.01
+}
+surplus_produced4_020 = {
+	local_monthly_food = 4.020
+}
+surplus_produced4_03 = {
+	local_monthly_food = 4.03
+}
+surplus_produced4_04 = {
+	local_monthly_food = 4.04
+}
+surplus_produced4_05 = {
+	local_monthly_food = 4.05
+}
+surplus_produced4_060 = {
+	local_monthly_food = 4.060
+}
+surplus_produced4_07 = {
+	local_monthly_food = 4.07
+}
+surplus_produced4_08 = {
+	local_monthly_food = 4.08
+}
+surplus_produced4_09 = {
+	local_monthly_food = 4.09
+}
+surplus_produced4_1 = {
+	local_monthly_food = 4.1
+}
+surplus_produced4_11 = {
+	local_monthly_food = 4.11
+}
+surplus_produced4_12 = {
+	local_monthly_food = 4.12
+}
+surplus_produced4_13 = {
+	local_monthly_food = 4.13
+}
+surplus_produced4_14 = {
+	local_monthly_food = 4.14
+}
+surplus_produced4_15 = {
+	local_monthly_food = 4.15
+}
+surplus_produced4_16 = {
+	local_monthly_food = 4.16
+}
+surplus_produced4_17 = {
+	local_monthly_food = 4.17
+}
+surplus_produced4_18 = {
+	local_monthly_food = 4.18
+}
+surplus_produced4_19 = {
+	local_monthly_food = 4.19
+}
+surplus_produced4_2 = {
+	local_monthly_food = 4.2
+}
+surplus_produced4_21 = {
+	local_monthly_food = 4.21
+}
+surplus_produced4_22 = {
+	local_monthly_food = 4.22
+}
+surplus_produced4_23 = {
+	local_monthly_food = 4.23
+}
+surplus_produced4_24 = {
+	local_monthly_food = 4.24
+}
+surplus_produced4_25 = {
+	local_monthly_food = 4.25
+}
+surplus_produced4_26 = {
+	local_monthly_food = 4.26
+}
+surplus_produced4_270 = {
+	local_monthly_food = 4.270
+}
+surplus_produced4_28 = {
+	local_monthly_food = 4.28
+}
+surplus_produced4_29 = {
+	local_monthly_food = 4.29
+}
+surplus_produced4_3 = {
+	local_monthly_food = 4.3
+}
+surplus_produced4_310 = {
+	local_monthly_food = 4.310
+}
+surplus_produced4_32 = {
+	local_monthly_food = 4.32
+}
+surplus_produced4_33 = {
+	local_monthly_food = 4.33
+}
+surplus_produced4_34 = {
+	local_monthly_food = 4.34
+}
+surplus_produced4_350 = {
+	local_monthly_food = 4.350
+}
+surplus_produced4_36 = {
+	local_monthly_food = 4.36
+}
+surplus_produced4_37 = {
+	local_monthly_food = 4.37
+}
+surplus_produced4_38 = {
+	local_monthly_food = 4.38
+}
+surplus_produced4_39 = {
+	local_monthly_food = 4.39
+}
+surplus_produced4_4 = {
+	local_monthly_food = 4.4
+}
+surplus_produced4_41 = {
+	local_monthly_food = 4.41
+}
+surplus_produced4_42 = {
+	local_monthly_food = 4.42
+}
+surplus_produced4_43 = {
+	local_monthly_food = 4.43
+}
+surplus_produced4_44 = {
+	local_monthly_food = 4.44
+}
+surplus_produced4_45 = {
+	local_monthly_food = 4.45
+}
+surplus_produced4_46 = {
+	local_monthly_food = 4.46
+}
+surplus_produced4_47 = {
+	local_monthly_food = 4.47
+}
+surplus_produced4_48 = {
+	local_monthly_food = 4.48
+}
+surplus_produced4_49 = {
+	local_monthly_food = 4.49
+}
+surplus_produced4_5 = {
+	local_monthly_food = 4.5
+}
+surplus_produced4_51 = {
+	local_monthly_food = 4.51
+}
+surplus_produced4_520 = {
+	local_monthly_food = 4.520
+}
+surplus_produced4_53 = {
+	local_monthly_food = 4.53
+}
+surplus_produced4_54 = {
+	local_monthly_food = 4.54
+}
+surplus_produced4_55 = {
+	local_monthly_food = 4.55
+}
+surplus_produced4_560 = {
+	local_monthly_food = 4.560
+}
+surplus_produced4_57 = {
+	local_monthly_food = 4.57
+}
+surplus_produced4_58 = {
+	local_monthly_food = 4.58
+}
+surplus_produced4_59 = {
+	local_monthly_food = 4.59
+}
+surplus_produced4_600 = {
+	local_monthly_food = 4.600
+}
+surplus_produced4_61 = {
+	local_monthly_food = 4.61
+}
+surplus_produced4_62 = {
+	local_monthly_food = 4.62
+}
+surplus_produced4_63 = {
+	local_monthly_food = 4.63
+}
+surplus_produced4_64 = {
+	local_monthly_food = 4.64
+}
+surplus_produced4_65 = {
+	local_monthly_food = 4.65
+}
+surplus_produced4_66 = {
+	local_monthly_food = 4.66
+}
+surplus_produced4_67 = {
+	local_monthly_food = 4.67
+}
+surplus_produced4_68 = {
+	local_monthly_food = 4.68
+}
+surplus_produced4_69 = {
+	local_monthly_food = 4.69
+}
+surplus_produced4_7 = {
+	local_monthly_food = 4.7
+}
+surplus_produced4_71 = {
+	local_monthly_food = 4.71
+}
+surplus_produced4_72 = {
+	local_monthly_food = 4.72
+}
+surplus_produced4_73 = {
+	local_monthly_food = 4.73
+}
+surplus_produced4_74 = {
+	local_monthly_food = 4.74
+}
+surplus_produced4_75 = {
+	local_monthly_food = 4.75
+}
+surplus_produced4_76 = {
+	local_monthly_food = 4.76
+}
+surplus_produced4_770 = {
+	local_monthly_food = 4.770
+}
+surplus_produced4_78 = {
+	local_monthly_food = 4.78
+}
+surplus_produced4_79 = {
+	local_monthly_food = 4.79
+}
+surplus_produced4_8 = {
+	local_monthly_food = 4.8
+}
+surplus_produced4_810 = {
+	local_monthly_food = 4.810
+}
+surplus_produced4_82 = {
+	local_monthly_food = 4.82
+}
+surplus_produced4_83 = {
+	local_monthly_food = 4.83
+}
+surplus_produced4_84 = {
+	local_monthly_food = 4.84
+}
+surplus_produced4_850 = {
+	local_monthly_food = 4.850
+}
+surplus_produced4_86 = {
+	local_monthly_food = 4.86
+}
+surplus_produced4_87 = {
+	local_monthly_food = 4.87
+}
+surplus_produced4_88 = {
+	local_monthly_food = 4.88
+}
+surplus_produced4_89 = {
+	local_monthly_food = 4.89
+}
+surplus_produced4_9 = {
+	local_monthly_food = 4.9
+}
+surplus_produced4_91 = {
+	local_monthly_food = 4.91
+}
+surplus_produced4_92 = {
+	local_monthly_food = 4.92
+}
+surplus_produced4_93 = {
+	local_monthly_food = 4.93
+}
+surplus_produced4_94 = {
+	local_monthly_food = 4.94
+}
+surplus_produced4_95 = {
+	local_monthly_food = 4.95
+}
+surplus_produced4_96 = {
+	local_monthly_food = 4.96
+}
+surplus_produced4_97 = {
+	local_monthly_food = 4.97
+}
+surplus_produced4_98 = {
+	local_monthly_food = 4.98
+}
+surplus_produced4_99 = {
+	local_monthly_food = 4.99
+}
+surplus_produced5_0 = {
+	local_monthly_food = 5.0
+}
+surplus_produced5_01 = {
+	local_monthly_food = 5.01
+}
+surplus_produced5_020 = {
+	local_monthly_food = 5.020
+}
+surplus_produced5_03 = {
+	local_monthly_food = 5.03
+}
+surplus_produced5_04 = {
+	local_monthly_food = 5.04
+}
+surplus_produced5_05 = {
+	local_monthly_food = 5.05
+}
+surplus_produced5_060 = {
+	local_monthly_food = 5.060
+}
+surplus_produced5_07 = {
+	local_monthly_food = 5.07
+}
+surplus_produced5_08 = {
+	local_monthly_food = 5.08
+}
+surplus_produced5_09 = {
+	local_monthly_food = 5.09
+}
+surplus_produced5_100 = {
+	local_monthly_food = 5.100
+}
+surplus_produced5_11 = {
+	local_monthly_food = 5.11
+}
+surplus_produced5_12 = {
+	local_monthly_food = 5.12
+}
+surplus_produced5_13 = {
+	local_monthly_food = 5.13
+}
+surplus_produced5_14 = {
+	local_monthly_food = 5.14
+}
+surplus_produced5_15 = {
+	local_monthly_food = 5.15
+}
+surplus_produced5_16 = {
+	local_monthly_food = 5.16
+}
+surplus_produced5_17 = {
+	local_monthly_food = 5.17
+}
+surplus_produced5_18 = {
+	local_monthly_food = 5.18
+}
+surplus_produced5_19 = {
+	local_monthly_food = 5.19
+}
+surplus_produced5_2 = {
+	local_monthly_food = 5.2
+}
+surplus_produced5_21 = {
+	local_monthly_food = 5.21
+}
+surplus_produced5_22 = {
+	local_monthly_food = 5.22
+}
+surplus_produced5_23 = {
+	local_monthly_food = 5.23
+}
+surplus_produced5_24 = {
+	local_monthly_food = 5.24
+}
+surplus_produced5_25 = {
+	local_monthly_food = 5.25
+}
+surplus_produced5_26 = {
+	local_monthly_food = 5.26
+}
+surplus_produced5_270 = {
+	local_monthly_food = 5.270
+}
+surplus_produced5_28 = {
+	local_monthly_food = 5.28
+}
+surplus_produced5_29 = {
+	local_monthly_food = 5.29
+}
+surplus_produced5_3 = {
+	local_monthly_food = 5.3
+}
+surplus_produced5_310 = {
+	local_monthly_food = 5.310
+}
+surplus_produced5_32 = {
+	local_monthly_food = 5.32
+}
+surplus_produced5_33 = {
+	local_monthly_food = 5.33
+}
+surplus_produced5_34 = {
+	local_monthly_food = 5.34
+}
+surplus_produced5_350 = {
+	local_monthly_food = 5.350
+}
+surplus_produced5_36 = {
+	local_monthly_food = 5.36
+}
+surplus_produced5_37 = {
+	local_monthly_food = 5.37
+}
+surplus_produced5_38 = {
+	local_monthly_food = 5.38
+}
+surplus_produced5_39 = {
+	local_monthly_food = 5.39
+}
+surplus_produced5_4 = {
+	local_monthly_food = 5.4
+}
+surplus_produced5_41 = {
+	local_monthly_food = 5.41
+}
+surplus_produced5_42 = {
+	local_monthly_food = 5.42
+}
+surplus_produced5_43 = {
+	local_monthly_food = 5.43
+}
+surplus_produced5_44 = {
+	local_monthly_food = 5.44
+}
+surplus_produced5_45 = {
+	local_monthly_food = 5.45
+}
+surplus_produced5_46 = {
+	local_monthly_food = 5.46
+}
+surplus_produced5_47 = {
+	local_monthly_food = 5.47
+}
+surplus_produced5_48 = {
+	local_monthly_food = 5.48
+}
+surplus_produced5_49 = {
+	local_monthly_food = 5.49
+}
+surplus_produced5_5 = {
+	local_monthly_food = 5.5
+}
+surplus_produced5_51 = {
+	local_monthly_food = 5.51
+}
+surplus_produced5_520 = {
+	local_monthly_food = 5.520
+}
+surplus_produced5_53 = {
+	local_monthly_food = 5.53
+}
+surplus_produced5_54 = {
+	local_monthly_food = 5.54
+}
+surplus_produced5_55 = {
+	local_monthly_food = 5.55
+}
+surplus_produced5_560 = {
+	local_monthly_food = 5.560
+}
+surplus_produced5_57 = {
+	local_monthly_food = 5.57
+}
+surplus_produced5_58 = {
+	local_monthly_food = 5.58
+}
+surplus_produced5_59 = {
+	local_monthly_food = 5.59
+}
+surplus_produced5_600 = {
+	local_monthly_food = 5.600
+}
+surplus_produced5_61 = {
+	local_monthly_food = 5.61
+}
+surplus_produced5_62 = {
+	local_monthly_food = 5.62
+}
+surplus_produced5_63 = {
+	local_monthly_food = 5.63
+}
+surplus_produced5_64 = {
+	local_monthly_food = 5.64
+}
+surplus_produced5_65 = {
+	local_monthly_food = 5.65
+}
+surplus_produced5_66 = {
+	local_monthly_food = 5.66
+}
+surplus_produced5_67 = {
+	local_monthly_food = 5.67
+}
+surplus_produced5_68 = {
+	local_monthly_food = 5.68
+}
+surplus_produced5_69 = {
+	local_monthly_food = 5.69
+}
+surplus_produced5_7 = {
+	local_monthly_food = 5.7
+}
+surplus_produced5_71 = {
+	local_monthly_food = 5.71
+}
+surplus_produced5_72 = {
+	local_monthly_food = 5.72
+}
+surplus_produced5_73 = {
+	local_monthly_food = 5.73
+}
+surplus_produced5_74 = {
+	local_monthly_food = 5.74
+}
+surplus_produced5_75 = {
+	local_monthly_food = 5.75
+}
+surplus_produced5_76 = {
+	local_monthly_food = 5.76
+}
+surplus_produced5_770 = {
+	local_monthly_food = 5.770
+}
+surplus_produced5_78 = {
+	local_monthly_food = 5.78
+}
+surplus_produced5_79 = {
+	local_monthly_food = 5.79
+}
+surplus_produced5_8 = {
+	local_monthly_food = 5.8
+}
+surplus_produced5_810 = {
+	local_monthly_food = 5.810
+}
+surplus_produced5_82 = {
+	local_monthly_food = 5.82
+}
+surplus_produced5_83 = {
+	local_monthly_food = 5.83
+}
+surplus_produced5_84 = {
+	local_monthly_food = 5.84
+}
+surplus_produced5_850 = {
+	local_monthly_food = 5.850
+}
+surplus_produced5_86 = {
+	local_monthly_food = 5.86
+}
+surplus_produced5_87 = {
+	local_monthly_food = 5.87
+}
+surplus_produced5_88 = {
+	local_monthly_food = 5.88
+}
+surplus_produced5_89 = {
+	local_monthly_food = 5.89
+}
+surplus_produced5_9 = {
+	local_monthly_food = 5.9
+}
+surplus_produced5_91 = {
+	local_monthly_food = 5.91
+}
+surplus_produced5_92 = {
+	local_monthly_food = 5.92
+}
+surplus_produced5_93 = {
+	local_monthly_food = 5.93
+}
+surplus_produced5_94 = {
+	local_monthly_food = 5.94
+}
+surplus_produced5_95 = {
+	local_monthly_food = 5.95
+}
+surplus_produced5_96 = {
+	local_monthly_food = 5.96
+}
+surplus_produced5_97 = {
+	local_monthly_food = 5.97
+}
+surplus_produced5_98 = {
+	local_monthly_food = 5.98
+}
+surplus_produced5_99 = {
+	local_monthly_food = 5.99
+}
+surplus_produced6_0 = {
+	local_monthly_food = 6.0
+}
+surplus_produced6_01 = {
+	local_monthly_food = 6.01
+}
+surplus_produced6_020 = {
+	local_monthly_food = 6.020
+}
+surplus_produced6_03 = {
+	local_monthly_food = 6.03
+}
+surplus_produced6_04 = {
+	local_monthly_food = 6.04
+}
+surplus_produced6_05 = {
+	local_monthly_food = 6.05
+}
+surplus_produced6_060 = {
+	local_monthly_food = 6.060
+}
+surplus_produced6_07 = {
+	local_monthly_food = 6.07
+}
+surplus_produced6_08 = {
+	local_monthly_food = 6.08
+}
+surplus_produced6_09 = {
+	local_monthly_food = 6.09
+}
+surplus_produced6_100 = {
+	local_monthly_food = 6.100
+}
+surplus_produced6_11 = {
+	local_monthly_food = 6.11
+}
+surplus_produced6_12 = {
+	local_monthly_food = 6.12
+}
+surplus_produced6_13 = {
+	local_monthly_food = 6.13
+}
+surplus_produced6_140 = {
+	local_monthly_food = 6.140
+}
+surplus_produced6_15 = {
+	local_monthly_food = 6.15
+}
+surplus_produced6_16 = {
+	local_monthly_food = 6.16
+}
+surplus_produced6_17 = {
+	local_monthly_food = 6.17
+}
+surplus_produced6_18 = {
+	local_monthly_food = 6.18
+}
+surplus_produced6_19 = {
+	local_monthly_food = 6.19
+}
+surplus_produced6_2 = {
+	local_monthly_food = 6.2
+}
+surplus_produced6_21 = {
+	local_monthly_food = 6.21
+}
+surplus_produced6_22 = {
+	local_monthly_food = 6.22
+}
+surplus_produced6_23 = {
+	local_monthly_food = 6.23
+}
+surplus_produced6_24 = {
+	local_monthly_food = 6.24
+}
+surplus_produced6_25 = {
+	local_monthly_food = 6.25
+}
+surplus_produced6_26 = {
+	local_monthly_food = 6.26
+}
+surplus_produced6_270 = {
+	local_monthly_food = 6.270
+}
+surplus_produced6_28 = {
+	local_monthly_food = 6.28
+}
+surplus_produced6_29 = {
+	local_monthly_food = 6.29
+}
+surplus_produced6_3 = {
+	local_monthly_food = 6.3
+}
+surplus_produced6_310 = {
+	local_monthly_food = 6.310
+}
+surplus_produced6_32 = {
+	local_monthly_food = 6.32
+}
+surplus_produced6_33 = {
+	local_monthly_food = 6.33
+}
+surplus_produced6_34 = {
+	local_monthly_food = 6.34
+}
+surplus_produced6_350 = {
+	local_monthly_food = 6.350
+}
+surplus_produced6_36 = {
+	local_monthly_food = 6.36
+}
+surplus_produced6_37 = {
+	local_monthly_food = 6.37
+}
+surplus_produced6_38 = {
+	local_monthly_food = 6.38
+}
+surplus_produced6_390 = {
+	local_monthly_food = 6.390
+}
+surplus_produced6_4 = {
+	local_monthly_food = 6.4
+}
+surplus_produced6_41 = {
+	local_monthly_food = 6.41
+}
+surplus_produced6_42 = {
+	local_monthly_food = 6.42
+}
+surplus_produced6_43 = {
+	local_monthly_food = 6.43
+}
+surplus_produced6_44 = {
+	local_monthly_food = 6.44
+}
+surplus_produced6_45 = {
+	local_monthly_food = 6.45
+}
+surplus_produced6_46 = {
+	local_monthly_food = 6.46
+}
+surplus_produced6_47 = {
+	local_monthly_food = 6.47
+}
+surplus_produced6_48 = {
+	local_monthly_food = 6.48
+}
+surplus_produced6_49 = {
+	local_monthly_food = 6.49
+}
+surplus_produced6_5 = {
+	local_monthly_food = 6.5
+}
+surplus_produced6_51 = {
+	local_monthly_food = 6.51
+}
+surplus_produced6_520 = {
+	local_monthly_food = 6.520
+}
+surplus_produced6_53 = {
+	local_monthly_food = 6.53
+}
+surplus_produced6_54 = {
+	local_monthly_food = 6.54
+}
+surplus_produced6_55 = {
+	local_monthly_food = 6.55
+}
+surplus_produced6_560 = {
+	local_monthly_food = 6.560
+}
+surplus_produced6_57 = {
+	local_monthly_food = 6.57
+}
+surplus_produced6_58 = {
+	local_monthly_food = 6.58
+}
+surplus_produced6_59 = {
+	local_monthly_food = 6.59
+}
+surplus_produced6_600 = {
+	local_monthly_food = 6.600
+}
+surplus_produced6_61 = {
+	local_monthly_food = 6.61
+}
+surplus_produced6_62 = {
+	local_monthly_food = 6.62
+}
+surplus_produced6_63 = {
+	local_monthly_food = 6.63
+}
+surplus_produced6_640 = {
+	local_monthly_food = 6.640
+}
+surplus_produced6_65 = {
+	local_monthly_food = 6.65
+}
+surplus_produced6_66 = {
+	local_monthly_food = 6.66
+}
+surplus_produced6_67 = {
+	local_monthly_food = 6.67
+}
+surplus_produced6_68 = {
+	local_monthly_food = 6.68
+}
+surplus_produced6_69 = {
+	local_monthly_food = 6.69
+}
+surplus_produced6_7 = {
+	local_monthly_food = 6.7
+}
+surplus_produced6_71 = {
+	local_monthly_food = 6.71
+}
+surplus_produced6_72 = {
+	local_monthly_food = 6.72
+}
+surplus_produced6_73 = {
+	local_monthly_food = 6.73
+}
+surplus_produced6_74 = {
+	local_monthly_food = 6.74
+}
+surplus_produced6_75 = {
+	local_monthly_food = 6.75
+}
+surplus_produced6_76 = {
+	local_monthly_food = 6.76
+}
+surplus_produced6_770 = {
+	local_monthly_food = 6.770
+}
+surplus_produced6_78 = {
+	local_monthly_food = 6.78
+}
+surplus_produced6_79 = {
+	local_monthly_food = 6.79
+}
+surplus_produced6_8 = {
+	local_monthly_food = 6.8
+}
+surplus_produced6_810 = {
+	local_monthly_food = 6.810
+}
+surplus_produced6_82 = {
+	local_monthly_food = 6.82
+}
+surplus_produced6_83 = {
+	local_monthly_food = 6.83
+}
+surplus_produced6_84 = {
+	local_monthly_food = 6.84
+}
+surplus_produced6_850 = {
+	local_monthly_food = 6.850
+}
+surplus_produced6_86 = {
+	local_monthly_food = 6.86
+}
+surplus_produced6_87 = {
+	local_monthly_food = 6.87
+}
+surplus_produced6_88 = {
+	local_monthly_food = 6.88
+}
+surplus_produced6_890 = {
+	local_monthly_food = 6.890
+}
+surplus_produced6_9 = {
+	local_monthly_food = 6.9
+}
+surplus_produced6_91 = {
+	local_monthly_food = 6.91
+}
+surplus_produced6_92 = {
+	local_monthly_food = 6.92
+}
+surplus_produced6_93 = {
+	local_monthly_food = 6.93
+}
+surplus_produced6_94 = {
+	local_monthly_food = 6.94
+}
+surplus_produced6_95 = {
+	local_monthly_food = 6.95
+}
+surplus_produced6_96 = {
+	local_monthly_food = 6.96
+}
+surplus_produced6_97 = {
+	local_monthly_food = 6.97
+}
+surplus_produced6_98 = {
+	local_monthly_food = 6.98
+}
+surplus_produced6_99 = {
+	local_monthly_food = 6.99
+}
+surplus_produced7_0 = {
+	local_monthly_food = 7.0
+}
+surplus_produced7_01 = {
+	local_monthly_food = 7.01
+}
+surplus_produced7_020 = {
+	local_monthly_food = 7.020
+}
+surplus_produced7_03 = {
+	local_monthly_food = 7.03
+}
+surplus_produced7_04 = {
+	local_monthly_food = 7.04
+}
+surplus_produced7_05 = {
+	local_monthly_food = 7.05
+}
+surplus_produced7_060 = {
+	local_monthly_food = 7.060
+}
+surplus_produced7_07 = {
+	local_monthly_food = 7.07
+}
+surplus_produced7_08 = {
+	local_monthly_food = 7.08
+}
+surplus_produced7_09 = {
+	local_monthly_food = 7.09
+}
+surplus_produced7_100 = {
+	local_monthly_food = 7.100
+}
+surplus_produced7_11 = {
+	local_monthly_food = 7.11
+}
+surplus_produced7_12 = {
+	local_monthly_food = 7.12
+}
+surplus_produced7_13 = {
+	local_monthly_food = 7.13
+}
+surplus_produced7_140 = {
+	local_monthly_food = 7.140
+}
+surplus_produced7_15 = {
+	local_monthly_food = 7.15
+}
+surplus_produced7_16 = {
+	local_monthly_food = 7.16
+}
+surplus_produced7_17 = {
+	local_monthly_food = 7.17
+}
+surplus_produced7_18 = {
+	local_monthly_food = 7.18
+}
+surplus_produced7_19 = {
+	local_monthly_food = 7.19
+}
+surplus_produced7_2 = {
+	local_monthly_food = 7.2
+}
+surplus_produced7_21 = {
+	local_monthly_food = 7.21
+}
+surplus_produced7_22 = {
+	local_monthly_food = 7.22
+}
+surplus_produced7_23 = {
+	local_monthly_food = 7.23
+}
+surplus_produced7_24 = {
+	local_monthly_food = 7.24
+}
+surplus_produced7_25 = {
+	local_monthly_food = 7.25
+}
+surplus_produced7_26 = {
+	local_monthly_food = 7.26
+}
+surplus_produced7_270 = {
+	local_monthly_food = 7.270
+}
+surplus_produced7_28 = {
+	local_monthly_food = 7.28
+}
+surplus_produced7_29 = {
+	local_monthly_food = 7.29
+}
+surplus_produced7_3 = {
+	local_monthly_food = 7.3
+}
+surplus_produced7_310 = {
+	local_monthly_food = 7.310
+}
+surplus_produced7_32 = {
+	local_monthly_food = 7.32
+}
+surplus_produced7_33 = {
+	local_monthly_food = 7.33
+}
+surplus_produced7_34 = {
+	local_monthly_food = 7.34
+}
+surplus_produced7_350 = {
+	local_monthly_food = 7.350
+}
+surplus_produced7_36 = {
+	local_monthly_food = 7.36
+}
+surplus_produced7_37 = {
+	local_monthly_food = 7.37
+}
+surplus_produced7_38 = {
+	local_monthly_food = 7.38
+}
+surplus_produced7_390 = {
+	local_monthly_food = 7.390
+}
+surplus_produced7_4 = {
+	local_monthly_food = 7.4
+}
+surplus_produced7_41 = {
+	local_monthly_food = 7.41
+}
+surplus_produced7_42 = {
+	local_monthly_food = 7.42
+}
+surplus_produced7_43 = {
+	local_monthly_food = 7.43
+}
+surplus_produced7_44 = {
+	local_monthly_food = 7.44
+}
+surplus_produced7_45 = {
+	local_monthly_food = 7.45
+}
+surplus_produced7_46 = {
+	local_monthly_food = 7.46
+}
+surplus_produced7_47 = {
+	local_monthly_food = 7.47
+}
+surplus_produced7_48 = {
+	local_monthly_food = 7.48
+}
+surplus_produced7_49 = {
+	local_monthly_food = 7.49
+}
+surplus_produced7_5 = {
+	local_monthly_food = 7.5
+}
+surplus_produced7_51 = {
+	local_monthly_food = 7.51
+}
+surplus_produced7_520 = {
+	local_monthly_food = 7.520
+}
+surplus_produced7_53 = {
+	local_monthly_food = 7.53
+}
+surplus_produced7_54 = {
+	local_monthly_food = 7.54
+}
+surplus_produced7_55 = {
+	local_monthly_food = 7.55
+}
+surplus_produced7_560 = {
+	local_monthly_food = 7.560
+}
+surplus_produced7_57 = {
+	local_monthly_food = 7.57
+}
+surplus_produced7_58 = {
+	local_monthly_food = 7.58
+}
+surplus_produced7_59 = {
+	local_monthly_food = 7.59
+}
+surplus_produced7_600 = {
+	local_monthly_food = 7.600
+}
+surplus_produced7_61 = {
+	local_monthly_food = 7.61
+}
+surplus_produced7_62 = {
+	local_monthly_food = 7.62
+}
+surplus_produced7_63 = {
+	local_monthly_food = 7.63
+}
+surplus_produced7_640 = {
+	local_monthly_food = 7.640
+}
+surplus_produced7_65 = {
+	local_monthly_food = 7.65
+}
+surplus_produced7_66 = {
+	local_monthly_food = 7.66
+}
+surplus_produced7_67 = {
+	local_monthly_food = 7.67
+}
+surplus_produced7_68 = {
+	local_monthly_food = 7.68
+}
+surplus_produced7_69 = {
+	local_monthly_food = 7.69
+}
+surplus_produced7_7 = {
+	local_monthly_food = 7.7
+}
+surplus_produced7_71 = {
+	local_monthly_food = 7.71
+}
+surplus_produced7_72 = {
+	local_monthly_food = 7.72
+}
+surplus_produced7_73 = {
+	local_monthly_food = 7.73
+}
+surplus_produced7_74 = {
+	local_monthly_food = 7.74
+}
+surplus_produced7_75 = {
+	local_monthly_food = 7.75
+}
+surplus_produced7_76 = {
+	local_monthly_food = 7.76
+}
+surplus_produced7_770 = {
+	local_monthly_food = 7.770
+}
+surplus_produced7_78 = {
+	local_monthly_food = 7.78
+}
+surplus_produced7_79 = {
+	local_monthly_food = 7.79
+}
+surplus_produced7_8 = {
+	local_monthly_food = 7.8
+}
+surplus_produced7_810 = {
+	local_monthly_food = 7.810
+}
+surplus_produced7_82 = {
+	local_monthly_food = 7.82
+}
+surplus_produced7_83 = {
+	local_monthly_food = 7.83
+}
+surplus_produced7_84 = {
+	local_monthly_food = 7.84
+}
+surplus_produced7_850 = {
+	local_monthly_food = 7.850
+}
+surplus_produced7_86 = {
+	local_monthly_food = 7.86
+}
+surplus_produced7_87 = {
+	local_monthly_food = 7.87
+}
+surplus_produced7_88 = {
+	local_monthly_food = 7.88
+}
+surplus_produced7_890 = {
+	local_monthly_food = 7.890
+}
+surplus_produced7_9 = {
+	local_monthly_food = 7.9
+}
+surplus_produced7_91 = {
+	local_monthly_food = 7.91
+}
+surplus_produced7_92 = {
+	local_monthly_food = 7.92
+}
+surplus_produced7_930 = {
+	local_monthly_food = 7.930
+}
+surplus_produced7_94 = {
+	local_monthly_food = 7.94
+}
+surplus_produced7_95 = {
+	local_monthly_food = 7.95
+}
+surplus_produced7_96 = {
+	local_monthly_food = 7.96
+}
+surplus_produced7_97 = {
+	local_monthly_food = 7.97
+}
+surplus_produced7_98 = {
+	local_monthly_food = 7.98
+}
+surplus_produced7_99 = {
+	local_monthly_food = 7.99
+}
+surplus_produced8_0 = {
+	local_monthly_food = 8.0
+}
+surplus_produced8_01 = {
+	local_monthly_food = 8.01
+}
+surplus_produced8_02 = {
+	local_monthly_food = 8.02
+}
+surplus_produced8_03 = {
+	local_monthly_food = 8.03
+}
+surplus_produced8_040 = {
+	local_monthly_food = 8.040
+}
+surplus_produced8_05 = {
+	local_monthly_food = 8.05
+}
+surplus_produced8_06 = {
+	local_monthly_food = 8.06
+}
+surplus_produced8_07 = {
+	local_monthly_food = 8.07
+}
+surplus_produced8_08 = {
+	local_monthly_food = 8.08
+}
+surplus_produced8_09 = {
+	local_monthly_food = 8.09
+}
+surplus_produced8_1 = {
+	local_monthly_food = 8.1
+}
+surplus_produced8_11 = {
+	local_monthly_food = 8.11
+}
+surplus_produced8_120 = {
+	local_monthly_food = 8.120
+}
+surplus_produced8_13 = {
+	local_monthly_food = 8.13
+}
+surplus_produced8_14 = {
+	local_monthly_food = 8.14
+}
+surplus_produced8_15 = {
+	local_monthly_food = 8.15
+}
+surplus_produced8_16 = {
+	local_monthly_food = 8.16
+}
+surplus_produced8_17 = {
+	local_monthly_food = 8.17
+}
+surplus_produced8_18 = {
+	local_monthly_food = 8.18
+}
+surplus_produced8_19 = {
+	local_monthly_food = 8.19
+}
+surplus_produced8_2 = {
+	local_monthly_food = 8.2
+}
+surplus_produced8_21 = {
+	local_monthly_food = 8.21
+}
+surplus_produced8_22 = {
+	local_monthly_food = 8.22
+}
+surplus_produced8_23 = {
+	local_monthly_food = 8.23
+}
+surplus_produced8_24 = {
+	local_monthly_food = 8.24
+}
+surplus_produced8_25 = {
+	local_monthly_food = 8.25
+}
+surplus_produced8_26 = {
+	local_monthly_food = 8.26
+}
+surplus_produced8_27 = {
+	local_monthly_food = 8.27
+}
+surplus_produced8_28 = {
+	local_monthly_food = 8.28
+}
+surplus_produced8_290 = {
+	local_monthly_food = 8.290
+}
+surplus_produced8_3 = {
+	local_monthly_food = 8.3
+}
+surplus_produced8_31 = {
+	local_monthly_food = 8.31
+}
+surplus_produced8_32 = {
+	local_monthly_food = 8.32
+}
+surplus_produced8_33 = {
+	local_monthly_food = 8.33
+}
+surplus_produced8_34 = {
+	local_monthly_food = 8.34
+}
+surplus_produced8_35 = {
+	local_monthly_food = 8.35
+}
+surplus_produced8_36 = {
+	local_monthly_food = 8.36
+}
+surplus_produced8_370 = {
+	local_monthly_food = 8.370
+}
+surplus_produced8_38 = {
+	local_monthly_food = 8.38
+}
+surplus_produced8_39 = {
+	local_monthly_food = 8.39
+}
+surplus_produced8_4 = {
+	local_monthly_food = 8.4
+}
+surplus_produced8_41 = {
+	local_monthly_food = 8.41
+}
+surplus_produced8_42 = {
+	local_monthly_food = 8.42
+}
+surplus_produced8_43 = {
+	local_monthly_food = 8.43
+}
+surplus_produced8_44 = {
+	local_monthly_food = 8.44
+}
+surplus_produced8_45 = {
+	local_monthly_food = 8.45
+}
+surplus_produced8_46 = {
+	local_monthly_food = 8.46
+}
+surplus_produced8_47 = {
+	local_monthly_food = 8.47
+}
+surplus_produced8_48 = {
+	local_monthly_food = 8.48
+}
+surplus_produced8_49 = {
+	local_monthly_food = 8.49
+}
+surplus_produced8_5 = {
+	local_monthly_food = 8.5
+}
+surplus_produced8_51 = {
+	local_monthly_food = 8.51
+}
+surplus_produced8_52 = {
+	local_monthly_food = 8.52
+}
+surplus_produced8_53 = {
+	local_monthly_food = 8.53
+}
+surplus_produced8_540 = {
+	local_monthly_food = 8.540
+}
+surplus_produced8_55 = {
+	local_monthly_food = 8.55
+}
+surplus_produced8_56 = {
+	local_monthly_food = 8.56
+}
+surplus_produced8_57 = {
+	local_monthly_food = 8.57
+}
+surplus_produced8_58 = {
+	local_monthly_food = 8.58
+}
+surplus_produced8_59 = {
+	local_monthly_food = 8.59
+}
+surplus_produced8_6 = {
+	local_monthly_food = 8.6
+}
+surplus_produced8_61 = {
+	local_monthly_food = 8.61
+}
+surplus_produced8_620 = {
+	local_monthly_food = 8.620
+}
+surplus_produced8_63 = {
+	local_monthly_food = 8.63
+}
+surplus_produced8_64 = {
+	local_monthly_food = 8.64
+}
+surplus_produced8_65 = {
+	local_monthly_food = 8.65
+}
+surplus_produced8_66 = {
+	local_monthly_food = 8.66
+}
+surplus_produced8_67 = {
+	local_monthly_food = 8.67
+}
+surplus_produced8_68 = {
+	local_monthly_food = 8.68
+}
+surplus_produced8_69 = {
+	local_monthly_food = 8.69
+}
+surplus_produced8_700 = {
+	local_monthly_food = 8.700
+}
+surplus_produced8_71 = {
+	local_monthly_food = 8.71
+}
+surplus_produced8_72 = {
+	local_monthly_food = 8.72
+}
+surplus_produced8_73 = {
+	local_monthly_food = 8.73
+}
+surplus_produced8_74 = {
+	local_monthly_food = 8.74
+}
+surplus_produced8_75 = {
+	local_monthly_food = 8.75
+}
+surplus_produced8_76 = {
+	local_monthly_food = 8.76
+}
+surplus_produced8_77 = {
+	local_monthly_food = 8.77
+}
+surplus_produced8_78 = {
+	local_monthly_food = 8.78
+}
+surplus_produced8_790 = {
+	local_monthly_food = 8.790
+}
+surplus_produced8_8 = {
+	local_monthly_food = 8.8
+}
+surplus_produced8_81 = {
+	local_monthly_food = 8.81
+}
+surplus_produced8_82 = {
+	local_monthly_food = 8.82
+}
+surplus_produced8_83 = {
+	local_monthly_food = 8.83
+}
+surplus_produced8_84 = {
+	local_monthly_food = 8.84
+}
+surplus_produced8_85 = {
+	local_monthly_food = 8.85
+}
+surplus_produced8_86 = {
+	local_monthly_food = 8.86
+}
+surplus_produced8_870 = {
+	local_monthly_food = 8.870
+}
+surplus_produced8_88 = {
+	local_monthly_food = 8.88
+}
+surplus_produced8_89 = {
+	local_monthly_food = 8.89
+}
+surplus_produced8_9 = {
+	local_monthly_food = 8.9
+}
+surplus_produced8_91 = {
+	local_monthly_food = 8.91
+}
+surplus_produced8_92 = {
+	local_monthly_food = 8.92
+}
+surplus_produced8_93 = {
+	local_monthly_food = 8.93
+}
+surplus_produced8_94 = {
+	local_monthly_food = 8.94
+}
+surplus_produced8_950 = {
+	local_monthly_food = 8.950
+}
+surplus_produced8_96 = {
+	local_monthly_food = 8.96
+}
+surplus_produced8_97 = {
+	local_monthly_food = 8.97
+}
+surplus_produced8_98 = {
+	local_monthly_food = 8.98
+}
+surplus_produced8_99 = {
+	local_monthly_food = 8.99
+}
+surplus_produced9_0 = {
+	local_monthly_food = 9.0
+}
+surplus_produced9_01 = {
+	local_monthly_food = 9.01
+}
+surplus_produced9_02 = {
+	local_monthly_food = 9.02
+}
+surplus_produced9_03 = {
+	local_monthly_food = 9.03
+}
+surplus_produced9_040 = {
+	local_monthly_food = 9.040
+}
+surplus_produced9_05 = {
+	local_monthly_food = 9.05
+}
+surplus_produced9_06 = {
+	local_monthly_food = 9.06
+}
+surplus_produced9_07 = {
+	local_monthly_food = 9.07
+}
+surplus_produced9_08 = {
+	local_monthly_food = 9.08
+}
+surplus_produced9_09 = {
+	local_monthly_food = 9.09
+}
+surplus_produced9_1 = {
+	local_monthly_food = 9.1
+}
+surplus_produced9_11 = {
+	local_monthly_food = 9.11
+}
+surplus_produced9_120 = {
+	local_monthly_food = 9.120
+}
+surplus_produced9_13 = {
+	local_monthly_food = 9.13
+}
+surplus_produced9_14 = {
+	local_monthly_food = 9.14
+}
+surplus_produced9_15 = {
+	local_monthly_food = 9.15
+}
+surplus_produced9_16 = {
+	local_monthly_food = 9.16
+}
+surplus_produced9_17 = {
+	local_monthly_food = 9.17
+}
+surplus_produced9_18 = {
+	local_monthly_food = 9.18
+}
+surplus_produced9_19 = {
+	local_monthly_food = 9.19
+}
+surplus_produced9_200 = {
+	local_monthly_food = 9.200
+}
+surplus_produced9_21 = {
+	local_monthly_food = 9.21
+}
+surplus_produced9_22 = {
+	local_monthly_food = 9.22
+}
+surplus_produced9_23 = {
+	local_monthly_food = 9.23
+}
+surplus_produced9_24 = {
+	local_monthly_food = 9.24
+}
+surplus_produced9_25 = {
+	local_monthly_food = 9.25
+}
+surplus_produced9_26 = {
+	local_monthly_food = 9.26
+}
+surplus_produced9_27 = {
+	local_monthly_food = 9.27
+}
+surplus_produced9_28 = {
+	local_monthly_food = 9.28
+}
+surplus_produced9_290 = {
+	local_monthly_food = 9.290
+}
+surplus_produced9_3 = {
+	local_monthly_food = 9.3
+}
+surplus_produced9_31 = {
+	local_monthly_food = 9.31
+}
+surplus_produced9_32 = {
+	local_monthly_food = 9.32
+}
+surplus_produced9_33 = {
+	local_monthly_food = 9.33
+}
+surplus_produced9_34 = {
+	local_monthly_food = 9.34
+}
+surplus_produced9_35 = {
+	local_monthly_food = 9.35
+}
+surplus_produced9_36 = {
+	local_monthly_food = 9.36
+}
+surplus_produced9_370 = {
+	local_monthly_food = 9.370
+}
+surplus_produced9_38 = {
+	local_monthly_food = 9.38
+}
+surplus_produced9_39 = {
+	local_monthly_food = 9.39
+}
+surplus_produced9_4 = {
+	local_monthly_food = 9.4
+}
+surplus_produced9_41 = {
+	local_monthly_food = 9.41
+}
+surplus_produced9_42 = {
+	local_monthly_food = 9.42
+}
+surplus_produced9_43 = {
+	local_monthly_food = 9.43
+}
+surplus_produced9_44 = {
+	local_monthly_food = 9.44
+}
+surplus_produced9_450 = {
+	local_monthly_food = 9.450
+}
+surplus_produced9_46 = {
+	local_monthly_food = 9.46
+}
+surplus_produced9_47 = {
+	local_monthly_food = 9.47
+}
+surplus_produced9_48 = {
+	local_monthly_food = 9.48
+}
+surplus_produced9_49 = {
+	local_monthly_food = 9.49
+}
+surplus_produced9_5 = {
+	local_monthly_food = 9.5
+}
+surplus_produced9_51 = {
+	local_monthly_food = 9.51
+}
+surplus_produced9_52 = {
+	local_monthly_food = 9.52
+}
+surplus_produced9_53 = {
+	local_monthly_food = 9.53
+}
+surplus_produced9_540 = {
+	local_monthly_food = 9.540
+}
+surplus_produced9_55 = {
+	local_monthly_food = 9.55
+}
+surplus_produced9_56 = {
+	local_monthly_food = 9.56
+}
+surplus_produced9_57 = {
+	local_monthly_food = 9.57
+}
+surplus_produced9_58 = {
+	local_monthly_food = 9.58
+}
+surplus_produced9_59 = {
+	local_monthly_food = 9.59
+}
+surplus_produced9_6 = {
+	local_monthly_food = 9.6
+}
+surplus_produced9_61 = {
+	local_monthly_food = 9.61
+}
+surplus_produced9_620 = {
+	local_monthly_food = 9.620
+}
+surplus_produced9_63 = {
+	local_monthly_food = 9.63
+}
+surplus_produced9_64 = {
+	local_monthly_food = 9.64
+}
+surplus_produced9_65 = {
+	local_monthly_food = 9.65
+}
+surplus_produced9_66 = {
+	local_monthly_food = 9.66
+}
+surplus_produced9_67 = {
+	local_monthly_food = 9.67
+}
+surplus_produced9_68 = {
+	local_monthly_food = 9.68
+}
+surplus_produced9_69 = {
+	local_monthly_food = 9.69
+}
+surplus_produced9_700 = {
+	local_monthly_food = 9.700
+}
+surplus_produced9_71 = {
+	local_monthly_food = 9.71
+}
+surplus_produced9_72 = {
+	local_monthly_food = 9.72
+}
+surplus_produced9_73 = {
+	local_monthly_food = 9.73
+}
+surplus_produced9_74 = {
+	local_monthly_food = 9.74
+}
+surplus_produced9_75 = {
+	local_monthly_food = 9.75
+}
+surplus_produced9_76 = {
+	local_monthly_food = 9.76
+}
+surplus_produced9_77 = {
+	local_monthly_food = 9.77
+}
+surplus_produced9_78 = {
+	local_monthly_food = 9.78
+}
+surplus_produced9_790 = {
+	local_monthly_food = 9.790
+}
+surplus_produced9_8 = {
+	local_monthly_food = 9.8
+}
+surplus_produced9_81 = {
+	local_monthly_food = 9.81
+}
+surplus_produced9_82 = {
+	local_monthly_food = 9.82
+}
+surplus_produced9_83 = {
+	local_monthly_food = 9.83
+}
+surplus_produced9_84 = {
+	local_monthly_food = 9.84
+}
+surplus_produced9_85 = {
+	local_monthly_food = 9.85
+}
+surplus_produced9_86 = {
+	local_monthly_food = 9.86
+}
+surplus_produced9_870 = {
+	local_monthly_food = 9.870
+}
+surplus_produced9_88 = {
+	local_monthly_food = 9.88
+}
+surplus_produced9_89 = {
+	local_monthly_food = 9.89
+}
+surplus_produced9_9 = {
+	local_monthly_food = 9.9
+}
+surplus_produced9_91 = {
+	local_monthly_food = 9.91
+}
+surplus_produced9_92 = {
+	local_monthly_food = 9.92
+}
+surplus_produced9_93 = {
+	local_monthly_food = 9.93
+}
+surplus_produced9_94 = {
+	local_monthly_food = 9.94
+}
+surplus_produced9_950 = {
+	local_monthly_food = 9.950
+}
+surplus_produced9_96 = {
+	local_monthly_food = 9.96
+}
+surplus_produced9_97 = {
+	local_monthly_food = 9.97
+}
+surplus_produced9_98 = {
+	local_monthly_food = 9.98
+}
+surplus_produced9_99 = {
+	local_monthly_food = 9.99
+}
+surplus_produced10_0 = {
+	local_monthly_food = 10.0
+}
+migration_attractionn50_0 = {
+	local_migration_attraction = -50.0
+}
+migration_attractionn49_7 = {
+	local_migration_attraction = -49.7
+}
+migration_attractionn49_5 = {
+	local_migration_attraction = -49.5
+}
+migration_attractionn49_2 = {
+	local_migration_attraction = -49.2
+}
+migration_attractionn49_0 = {
+	local_migration_attraction = -49.0
+}
+migration_attractionn48_7 = {
+	local_migration_attraction = -48.7
+}
+migration_attractionn48_5 = {
+	local_migration_attraction = -48.5
+}
+migration_attractionn48_2 = {
+	local_migration_attraction = -48.2
+}
+migration_attractionn48_0 = {
+	local_migration_attraction = -48.0
+}
+migration_attractionn47_7 = {
+	local_migration_attraction = -47.7
+}
+migration_attractionn47_5 = {
+	local_migration_attraction = -47.5
+}
+migration_attractionn47_2 = {
+	local_migration_attraction = -47.2
+}
+migration_attractionn47_0 = {
+	local_migration_attraction = -47.0
+}
+migration_attractionn46_7 = {
+	local_migration_attraction = -46.7
+}
+migration_attractionn46_5 = {
+	local_migration_attraction = -46.5
+}
+migration_attractionn46_2 = {
+	local_migration_attraction = -46.2
+}
+migration_attractionn46_0 = {
+	local_migration_attraction = -46.0
+}
+migration_attractionn45_7 = {
+	local_migration_attraction = -45.7
+}
+migration_attractionn45_5 = {
+	local_migration_attraction = -45.5
+}
+migration_attractionn45_2 = {
+	local_migration_attraction = -45.2
+}
+migration_attractionn45_0 = {
+	local_migration_attraction = -45.0
+}
+migration_attractionn44_7 = {
+	local_migration_attraction = -44.7
+}
+migration_attractionn44_5 = {
+	local_migration_attraction = -44.5
+}
+migration_attractionn44_2 = {
+	local_migration_attraction = -44.2
+}
+migration_attractionn44_0 = {
+	local_migration_attraction = -44.0
+}
+migration_attractionn43_7 = {
+	local_migration_attraction = -43.7
+}
+migration_attractionn43_5 = {
+	local_migration_attraction = -43.5
+}
+migration_attractionn43_2 = {
+	local_migration_attraction = -43.2
+}
+migration_attractionn43_0 = {
+	local_migration_attraction = -43.0
+}
+migration_attractionn42_7 = {
+	local_migration_attraction = -42.7
+}
+migration_attractionn42_5 = {
+	local_migration_attraction = -42.5
+}
+migration_attractionn42_2 = {
+	local_migration_attraction = -42.2
+}
+migration_attractionn42_0 = {
+	local_migration_attraction = -42.0
+}
+migration_attractionn41_7 = {
+	local_migration_attraction = -41.7
+}
+migration_attractionn41_5 = {
+	local_migration_attraction = -41.5
+}
+migration_attractionn41_2 = {
+	local_migration_attraction = -41.2
+}
+migration_attractionn41_0 = {
+	local_migration_attraction = -41.0
+}
+migration_attractionn40_7 = {
+	local_migration_attraction = -40.7
+}
+migration_attractionn40_5 = {
+	local_migration_attraction = -40.5
+}
+migration_attractionn40_2 = {
+	local_migration_attraction = -40.2
+}
+migration_attractionn40_0 = {
+	local_migration_attraction = -40.0
+}
+migration_attractionn39_7 = {
+	local_migration_attraction = -39.7
+}
+migration_attractionn39_5 = {
+	local_migration_attraction = -39.5
+}
+migration_attractionn39_2 = {
+	local_migration_attraction = -39.2
+}
+migration_attractionn39_0 = {
+	local_migration_attraction = -39.0
+}
+migration_attractionn38_7 = {
+	local_migration_attraction = -38.7
+}
+migration_attractionn38_5 = {
+	local_migration_attraction = -38.5
+}
+migration_attractionn38_2 = {
+	local_migration_attraction = -38.2
+}
+migration_attractionn38_0 = {
+	local_migration_attraction = -38.0
+}
+migration_attractionn37_7 = {
+	local_migration_attraction = -37.7
+}
+migration_attractionn37_5 = {
+	local_migration_attraction = -37.5
+}
+migration_attractionn37_2 = {
+	local_migration_attraction = -37.2
+}
+migration_attractionn37_0 = {
+	local_migration_attraction = -37.0
+}
+migration_attractionn36_7 = {
+	local_migration_attraction = -36.7
+}
+migration_attractionn36_5 = {
+	local_migration_attraction = -36.5
+}
+migration_attractionn36_2 = {
+	local_migration_attraction = -36.2
+}
+migration_attractionn36_0 = {
+	local_migration_attraction = -36.0
+}
+migration_attractionn35_7 = {
+	local_migration_attraction = -35.7
+}
+migration_attractionn35_5 = {
+	local_migration_attraction = -35.5
+}
+migration_attractionn35_2 = {
+	local_migration_attraction = -35.2
+}
+migration_attractionn35_0 = {
+	local_migration_attraction = -35.0
+}
+migration_attractionn34_7 = {
+	local_migration_attraction = -34.7
+}
+migration_attractionn34_5 = {
+	local_migration_attraction = -34.5
+}
+migration_attractionn34_2 = {
+	local_migration_attraction = -34.2
+}
+migration_attractionn34_0 = {
+	local_migration_attraction = -34.0
+}
+migration_attractionn33_7 = {
+	local_migration_attraction = -33.7
+}
+migration_attractionn33_5 = {
+	local_migration_attraction = -33.5
+}
+migration_attractionn33_2 = {
+	local_migration_attraction = -33.2
+}
+migration_attractionn33_0 = {
+	local_migration_attraction = -33.0
+}
+migration_attractionn32_7 = {
+	local_migration_attraction = -32.7
+}
+migration_attractionn32_5 = {
+	local_migration_attraction = -32.5
+}
+migration_attractionn32_2 = {
+	local_migration_attraction = -32.2
+}
+migration_attractionn32_0 = {
+	local_migration_attraction = -32.0
+}
+migration_attractionn31_7 = {
+	local_migration_attraction = -31.7
+}
+migration_attractionn31_5 = {
+	local_migration_attraction = -31.5
+}
+migration_attractionn31_2 = {
+	local_migration_attraction = -31.2
+}
+migration_attractionn31_0 = {
+	local_migration_attraction = -31.0
+}
+migration_attractionn30_7 = {
+	local_migration_attraction = -30.7
+}
+migration_attractionn30_5 = {
+	local_migration_attraction = -30.5
+}
+migration_attractionn30_2 = {
+	local_migration_attraction = -30.2
+}
+migration_attractionn30_0 = {
+	local_migration_attraction = -30.0
+}
+migration_attractionn29_7 = {
+	local_migration_attraction = -29.7
+}
+migration_attractionn29_5 = {
+	local_migration_attraction = -29.5
+}
+migration_attractionn29_2 = {
+	local_migration_attraction = -29.2
+}
+migration_attractionn29_0 = {
+	local_migration_attraction = -29.0
+}
+migration_attractionn28_7 = {
+	local_migration_attraction = -28.7
+}
+migration_attractionn28_5 = {
+	local_migration_attraction = -28.5
+}
+migration_attractionn28_2 = {
+	local_migration_attraction = -28.2
+}
+migration_attractionn28_0 = {
+	local_migration_attraction = -28.0
+}
+migration_attractionn27_7 = {
+	local_migration_attraction = -27.7
+}
+migration_attractionn27_5 = {
+	local_migration_attraction = -27.5
+}
+migration_attractionn27_2 = {
+	local_migration_attraction = -27.2
+}
+migration_attractionn27_0 = {
+	local_migration_attraction = -27.0
+}
+migration_attractionn26_7 = {
+	local_migration_attraction = -26.7
+}
+migration_attractionn26_5 = {
+	local_migration_attraction = -26.5
+}
+migration_attractionn26_2 = {
+	local_migration_attraction = -26.2
+}
+migration_attractionn26_0 = {
+	local_migration_attraction = -26.0
+}
+migration_attractionn25_7 = {
+	local_migration_attraction = -25.7
+}
+migration_attractionn25_5 = {
+	local_migration_attraction = -25.5
+}
+migration_attractionn25_2 = {
+	local_migration_attraction = -25.2
+}
+migration_attractionn25_0 = {
+	local_migration_attraction = -25.0
+}
+migration_attractionn24_7 = {
+	local_migration_attraction = -24.7
+}
+migration_attractionn24_5 = {
+	local_migration_attraction = -24.5
+}
+migration_attractionn24_2 = {
+	local_migration_attraction = -24.2
+}
+migration_attractionn24_0 = {
+	local_migration_attraction = -24.0
+}
+migration_attractionn23_7 = {
+	local_migration_attraction = -23.7
+}
+migration_attractionn23_5 = {
+	local_migration_attraction = -23.5
+}
+migration_attractionn23_2 = {
+	local_migration_attraction = -23.2
+}
+migration_attractionn23_0 = {
+	local_migration_attraction = -23.0
+}
+migration_attractionn22_7 = {
+	local_migration_attraction = -22.7
+}
+migration_attractionn22_5 = {
+	local_migration_attraction = -22.5
+}
+migration_attractionn22_2 = {
+	local_migration_attraction = -22.2
+}
+migration_attractionn22_0 = {
+	local_migration_attraction = -22.0
+}
+migration_attractionn21_7 = {
+	local_migration_attraction = -21.7
+}
+migration_attractionn21_5 = {
+	local_migration_attraction = -21.5
+}
+migration_attractionn21_2 = {
+	local_migration_attraction = -21.2
+}
+migration_attractionn21_0 = {
+	local_migration_attraction = -21.0
+}
+migration_attractionn20_7 = {
+	local_migration_attraction = -20.7
+}
+migration_attractionn20_5 = {
+	local_migration_attraction = -20.5
+}
+migration_attractionn20_2 = {
+	local_migration_attraction = -20.2
+}
+migration_attractionn20_0 = {
+	local_migration_attraction = -20.0
+}
+migration_attractionn19_7 = {
+	local_migration_attraction = -19.7
+}
+migration_attractionn19_5 = {
+	local_migration_attraction = -19.5
+}
+migration_attractionn19_2 = {
+	local_migration_attraction = -19.2
+}
+migration_attractionn19_0 = {
+	local_migration_attraction = -19.0
+}
+migration_attractionn18_7 = {
+	local_migration_attraction = -18.7
+}
+migration_attractionn18_5 = {
+	local_migration_attraction = -18.5
+}
+migration_attractionn18_2 = {
+	local_migration_attraction = -18.2
+}
+migration_attractionn18_0 = {
+	local_migration_attraction = -18.0
+}
+migration_attractionn17_7 = {
+	local_migration_attraction = -17.7
+}
+migration_attractionn17_5 = {
+	local_migration_attraction = -17.5
+}
+migration_attractionn17_2 = {
+	local_migration_attraction = -17.2
+}
+migration_attractionn17_0 = {
+	local_migration_attraction = -17.0
+}
+migration_attractionn16_7 = {
+	local_migration_attraction = -16.7
+}
+migration_attractionn16_5 = {
+	local_migration_attraction = -16.5
+}
+migration_attractionn16_2 = {
+	local_migration_attraction = -16.2
+}
+migration_attractionn16_0 = {
+	local_migration_attraction = -16.0
+}
+migration_attractionn15_7 = {
+	local_migration_attraction = -15.7
+}
+migration_attractionn15_5 = {
+	local_migration_attraction = -15.5
+}
+migration_attractionn15_2 = {
+	local_migration_attraction = -15.2
+}
+migration_attractionn15_0 = {
+	local_migration_attraction = -15.0
+}
+migration_attractionn14_7 = {
+	local_migration_attraction = -14.7
+}
+migration_attractionn14_5 = {
+	local_migration_attraction = -14.5
+}
+migration_attractionn14_2 = {
+	local_migration_attraction = -14.2
+}
+migration_attractionn14_0 = {
+	local_migration_attraction = -14.0
+}
+migration_attractionn13_7 = {
+	local_migration_attraction = -13.7
+}
+migration_attractionn13_5 = {
+	local_migration_attraction = -13.5
+}
+migration_attractionn13_2 = {
+	local_migration_attraction = -13.2
+}
+migration_attractionn13_0 = {
+	local_migration_attraction = -13.0
+}
+migration_attractionn12_7 = {
+	local_migration_attraction = -12.7
+}
+migration_attractionn12_5 = {
+	local_migration_attraction = -12.5
+}
+migration_attractionn12_2 = {
+	local_migration_attraction = -12.2
+}
+migration_attractionn12_0 = {
+	local_migration_attraction = -12.0
+}
+migration_attractionn11_7 = {
+	local_migration_attraction = -11.7
+}
+migration_attractionn11_5 = {
+	local_migration_attraction = -11.5
+}
+migration_attractionn11_2 = {
+	local_migration_attraction = -11.2
+}
+migration_attractionn11_0 = {
+	local_migration_attraction = -11.0
+}
+migration_attractionn10_7 = {
+	local_migration_attraction = -10.7
+}
+migration_attractionn10_5 = {
+	local_migration_attraction = -10.5
+}
+migration_attractionn10_2 = {
+	local_migration_attraction = -10.2
+}
+migration_attractionn10_0 = {
+	local_migration_attraction = -10.0
+}
+migration_attractionn9_75 = {
+	local_migration_attraction = -9.75
+}
+migration_attractionn9_5 = {
+	local_migration_attraction = -9.5
+}
+migration_attractionn9_25 = {
+	local_migration_attraction = -9.25
+}
+migration_attractionn9_0 = {
+	local_migration_attraction = -9.0
+}
+migration_attractionn8_75 = {
+	local_migration_attraction = -8.75
+}
+migration_attractionn8_5 = {
+	local_migration_attraction = -8.5
+}
+migration_attractionn8_25 = {
+	local_migration_attraction = -8.25
+}
+migration_attractionn8_0 = {
+	local_migration_attraction = -8.0
+}
+migration_attractionn7_75 = {
+	local_migration_attraction = -7.75
+}
+migration_attractionn7_5 = {
+	local_migration_attraction = -7.5
+}
+migration_attractionn7_25 = {
+	local_migration_attraction = -7.25
+}
+migration_attractionn7_0 = {
+	local_migration_attraction = -7.0
+}
+migration_attractionn6_75 = {
+	local_migration_attraction = -6.75
+}
+migration_attractionn6_5 = {
+	local_migration_attraction = -6.5
+}
+migration_attractionn6_25 = {
+	local_migration_attraction = -6.25
+}
+migration_attractionn6_0 = {
+	local_migration_attraction = -6.0
+}
+migration_attractionn5_75 = {
+	local_migration_attraction = -5.75
+}
+migration_attractionn5_5 = {
+	local_migration_attraction = -5.5
+}
+migration_attractionn5_25 = {
+	local_migration_attraction = -5.25
+}
+migration_attractionn5_0 = {
+	local_migration_attraction = -5.0
+}
+migration_attractionn4_75 = {
+	local_migration_attraction = -4.75
+}
+migration_attractionn4_5 = {
+	local_migration_attraction = -4.5
+}
+migration_attractionn4_25 = {
+	local_migration_attraction = -4.25
+}
+migration_attractionn4_0 = {
+	local_migration_attraction = -4.0
+}
+migration_attractionn3_75 = {
+	local_migration_attraction = -3.75
+}
+migration_attractionn3_5 = {
+	local_migration_attraction = -3.5
+}
+migration_attractionn3_25 = {
+	local_migration_attraction = -3.25
+}
+migration_attractionn3_0 = {
+	local_migration_attraction = -3.0
+}
+migration_attractionn2_75 = {
+	local_migration_attraction = -2.75
+}
+migration_attractionn2_5 = {
+	local_migration_attraction = -2.5
+}
+migration_attractionn2_25 = {
+	local_migration_attraction = -2.25
+}
+migration_attractionn2_0 = {
+	local_migration_attraction = -2.0
+}
+migration_attractionn1_75 = {
+	local_migration_attraction = -1.75
+}
+migration_attractionn1_5 = {
+	local_migration_attraction = -1.5
+}
+migration_attractionn1_25 = {
+	local_migration_attraction = -1.25
+}
+migration_attractionn1_0 = {
+	local_migration_attraction = -1.0
+}
+migration_attractionn0_75 = {
+	local_migration_attraction = -0.75
+}
+migration_attractionn0_5 = {
+	local_migration_attraction = -0.5
+}
+migration_attractionn0_25 = {
+	local_migration_attraction = -0.25
+}
+migration_attraction0_0 = {
+	local_migration_attraction = 0.0
+}
+migration_attraction0_25 = {
+	local_migration_attraction = 0.25
+}
+migration_attraction0_5 = {
+	local_migration_attraction = 0.5
+}
+migration_attraction0_75 = {
+	local_migration_attraction = 0.75
+}
+migration_attraction1_0 = {
+	local_migration_attraction = 1.0
+}
+migration_attraction1_25 = {
+	local_migration_attraction = 1.25
+}
+migration_attraction1_5 = {
+	local_migration_attraction = 1.5
+}
+migration_attraction1_75 = {
+	local_migration_attraction = 1.75
+}
+migration_attraction2_0 = {
+	local_migration_attraction = 2.0
+}
+migration_attraction2_25 = {
+	local_migration_attraction = 2.25
+}
+migration_attraction2_5 = {
+	local_migration_attraction = 2.5
+}
+migration_attraction2_75 = {
+	local_migration_attraction = 2.75
+}
+migration_attraction3_0 = {
+	local_migration_attraction = 3.0
+}
+migration_attraction3_25 = {
+	local_migration_attraction = 3.25
+}
+migration_attraction3_5 = {
+	local_migration_attraction = 3.5
+}
+migration_attraction3_75 = {
+	local_migration_attraction = 3.75
+}
+migration_attraction4_0 = {
+	local_migration_attraction = 4.0
+}
+migration_attraction4_25 = {
+	local_migration_attraction = 4.25
+}
+migration_attraction4_5 = {
+	local_migration_attraction = 4.5
+}
+migration_attraction4_75 = {
+	local_migration_attraction = 4.75
+}
+migration_attraction5_0 = {
+	local_migration_attraction = 5.0
+}
+migration_attraction5_25 = {
+	local_migration_attraction = 5.25
+}
+migration_attraction5_5 = {
+	local_migration_attraction = 5.5
+}
+migration_attraction5_75 = {
+	local_migration_attraction = 5.75
+}
+migration_attraction6_0 = {
+	local_migration_attraction = 6.0
+}
+migration_attraction6_25 = {
+	local_migration_attraction = 6.25
+}
+migration_attraction6_5 = {
+	local_migration_attraction = 6.5
+}
+migration_attraction6_75 = {
+	local_migration_attraction = 6.75
+}
+migration_attraction7_0 = {
+	local_migration_attraction = 7.0
+}
+migration_attraction7_25 = {
+	local_migration_attraction = 7.25
+}
+migration_attraction7_5 = {
+	local_migration_attraction = 7.5
+}
+migration_attraction7_75 = {
+	local_migration_attraction = 7.75
+}
+migration_attraction8_0 = {
+	local_migration_attraction = 8.0
+}
+migration_attraction8_25 = {
+	local_migration_attraction = 8.25
+}
+migration_attraction8_5 = {
+	local_migration_attraction = 8.5
+}
+migration_attraction8_75 = {
+	local_migration_attraction = 8.75
+}
+migration_attraction9_0 = {
+	local_migration_attraction = 9.0
+}
+migration_attraction9_25 = {
+	local_migration_attraction = 9.25
+}
+migration_attraction9_5 = {
+	local_migration_attraction = 9.5
+}
+migration_attraction9_75 = {
+	local_migration_attraction = 9.75
+}
+migration_attraction10_0 = {
+	local_migration_attraction = 10.0
+}
+migration_attraction10_25 = {
+	local_migration_attraction = 10.25
+}
+migration_attraction10_5 = {
+	local_migration_attraction = 10.5
+}
+migration_attraction10_75 = {
+	local_migration_attraction = 10.75
+}
+migration_attraction11_0 = {
+	local_migration_attraction = 11.0
+}
+migration_attraction11_25 = {
+	local_migration_attraction = 11.25
+}
+migration_attraction11_5 = {
+	local_migration_attraction = 11.5
+}
+migration_attraction11_75 = {
+	local_migration_attraction = 11.75
+}
+migration_attraction12_0 = {
+	local_migration_attraction = 12.0
+}
+migration_attraction12_25 = {
+	local_migration_attraction = 12.25
+}
+migration_attraction12_5 = {
+	local_migration_attraction = 12.5
+}
+migration_attraction12_75 = {
+	local_migration_attraction = 12.75
+}
+migration_attraction13_0 = {
+	local_migration_attraction = 13.0
+}
+migration_attraction13_25 = {
+	local_migration_attraction = 13.25
+}
+migration_attraction13_5 = {
+	local_migration_attraction = 13.5
+}
+migration_attraction13_75 = {
+	local_migration_attraction = 13.75
+}
+migration_attraction14_0 = {
+	local_migration_attraction = 14.0
+}
+migration_attraction14_25 = {
+	local_migration_attraction = 14.25
+}
+migration_attraction14_5 = {
+	local_migration_attraction = 14.5
+}
+migration_attraction14_75 = {
+	local_migration_attraction = 14.75
+}
+migration_attraction15_0 = {
+	local_migration_attraction = 15.0
+}
+migration_attraction15_25 = {
+	local_migration_attraction = 15.25
+}
+migration_attraction15_5 = {
+	local_migration_attraction = 15.5
+}
+migration_attraction15_75 = {
+	local_migration_attraction = 15.75
+}
+migration_attraction16_0 = {
+	local_migration_attraction = 16.0
+}
+migration_attraction16_25 = {
+	local_migration_attraction = 16.25
+}
+migration_attraction16_5 = {
+	local_migration_attraction = 16.5
+}
+migration_attraction16_75 = {
+	local_migration_attraction = 16.75
+}
+migration_attraction17_0 = {
+	local_migration_attraction = 17.0
+}
+migration_attraction17_25 = {
+	local_migration_attraction = 17.25
+}
+migration_attraction17_5 = {
+	local_migration_attraction = 17.5
+}
+migration_attraction17_75 = {
+	local_migration_attraction = 17.75
+}
+migration_attraction18_0 = {
+	local_migration_attraction = 18.0
+}
+migration_attraction18_25 = {
+	local_migration_attraction = 18.25
+}
+migration_attraction18_5 = {
+	local_migration_attraction = 18.5
+}
+migration_attraction18_75 = {
+	local_migration_attraction = 18.75
+}
+migration_attraction19_0 = {
+	local_migration_attraction = 19.0
+}
+migration_attraction19_25 = {
+	local_migration_attraction = 19.25
+}
+migration_attraction19_5 = {
+	local_migration_attraction = 19.5
+}
+migration_attraction19_75 = {
+	local_migration_attraction = 19.75
+}
+migration_attraction20_0 = {
+	local_migration_attraction = 20.0
+}
+migration_attraction20_25 = {
+	local_migration_attraction = 20.25
+}
+migration_attraction20_5 = {
+	local_migration_attraction = 20.5
+}
+migration_attraction20_75 = {
+	local_migration_attraction = 20.75
+}
+migration_attraction21_0 = {
+	local_migration_attraction = 21.0
+}
+migration_attraction21_25 = {
+	local_migration_attraction = 21.25
+}
+migration_attraction21_5 = {
+	local_migration_attraction = 21.5
+}
+migration_attraction21_75 = {
+	local_migration_attraction = 21.75
+}
+migration_attraction22_0 = {
+	local_migration_attraction = 22.0
+}
+migration_attraction22_25 = {
+	local_migration_attraction = 22.25
+}
+migration_attraction22_5 = {
+	local_migration_attraction = 22.5
+}
+migration_attraction22_75 = {
+	local_migration_attraction = 22.75
+}
+migration_attraction23_0 = {
+	local_migration_attraction = 23.0
+}
+migration_attraction23_25 = {
+	local_migration_attraction = 23.25
+}
+migration_attraction23_5 = {
+	local_migration_attraction = 23.5
+}
+migration_attraction23_75 = {
+	local_migration_attraction = 23.75
+}
+migration_attraction24_0 = {
+	local_migration_attraction = 24.0
+}
+migration_attraction24_25 = {
+	local_migration_attraction = 24.25
+}
+migration_attraction24_5 = {
+	local_migration_attraction = 24.5
+}
+migration_attraction24_75 = {
+	local_migration_attraction = 24.75
+}
+migration_attraction25_0 = {
+	local_migration_attraction = 25.0
+}
+migration_attraction25_25 = {
+	local_migration_attraction = 25.25
+}
+migration_attraction25_5 = {
+	local_migration_attraction = 25.5
+}
+migration_attraction25_75 = {
+	local_migration_attraction = 25.75
+}
+migration_attraction26_0 = {
+	local_migration_attraction = 26.0
+}
+migration_attraction26_25 = {
+	local_migration_attraction = 26.25
+}
+migration_attraction26_5 = {
+	local_migration_attraction = 26.5
+}
+migration_attraction26_75 = {
+	local_migration_attraction = 26.75
+}
+migration_attraction27_0 = {
+	local_migration_attraction = 27.0
+}
+migration_attraction27_25 = {
+	local_migration_attraction = 27.25
+}
+migration_attraction27_5 = {
+	local_migration_attraction = 27.5
+}
+migration_attraction27_75 = {
+	local_migration_attraction = 27.75
+}
+migration_attraction28_0 = {
+	local_migration_attraction = 28.0
+}
+migration_attraction28_25 = {
+	local_migration_attraction = 28.25
+}
+migration_attraction28_5 = {
+	local_migration_attraction = 28.5
+}
+migration_attraction28_75 = {
+	local_migration_attraction = 28.75
+}
+migration_attraction29_0 = {
+	local_migration_attraction = 29.0
+}
+migration_attraction29_25 = {
+	local_migration_attraction = 29.25
+}
+migration_attraction29_5 = {
+	local_migration_attraction = 29.5
+}
+migration_attraction29_75 = {
+	local_migration_attraction = 29.75
+}
+migration_attraction30_0 = {
+	local_migration_attraction = 30.0
+}
+migration_attraction30_25 = {
+	local_migration_attraction = 30.25
+}
+migration_attraction30_5 = {
+	local_migration_attraction = 30.5
+}
+migration_attraction30_75 = {
+	local_migration_attraction = 30.75
+}
+migration_attraction31_0 = {
+	local_migration_attraction = 31.0
+}
+migration_attraction31_25 = {
+	local_migration_attraction = 31.25
+}
+migration_attraction31_5 = {
+	local_migration_attraction = 31.5
+}
+migration_attraction31_75 = {
+	local_migration_attraction = 31.75
+}
+migration_attraction32_0 = {
+	local_migration_attraction = 32.0
+}
+migration_attraction32_25 = {
+	local_migration_attraction = 32.25
+}
+migration_attraction32_5 = {
+	local_migration_attraction = 32.5
+}
+migration_attraction32_75 = {
+	local_migration_attraction = 32.75
+}
+migration_attraction33_0 = {
+	local_migration_attraction = 33.0
+}
+migration_attraction33_25 = {
+	local_migration_attraction = 33.25
+}
+migration_attraction33_5 = {
+	local_migration_attraction = 33.5
+}
+migration_attraction33_75 = {
+	local_migration_attraction = 33.75
+}
+migration_attraction34_0 = {
+	local_migration_attraction = 34.0
+}
+migration_attraction34_25 = {
+	local_migration_attraction = 34.25
+}
+migration_attraction34_5 = {
+	local_migration_attraction = 34.5
+}
+migration_attraction34_75 = {
+	local_migration_attraction = 34.75
+}
+migration_attraction35_0 = {
+	local_migration_attraction = 35.0
+}
+migration_attraction35_25 = {
+	local_migration_attraction = 35.25
+}
+migration_attraction35_5 = {
+	local_migration_attraction = 35.5
+}
+migration_attraction35_75 = {
+	local_migration_attraction = 35.75
+}
+migration_attraction36_0 = {
+	local_migration_attraction = 36.0
+}
+migration_attraction36_25 = {
+	local_migration_attraction = 36.25
+}
+migration_attraction36_5 = {
+	local_migration_attraction = 36.5
+}
+migration_attraction36_75 = {
+	local_migration_attraction = 36.75
+}
+migration_attraction37_0 = {
+	local_migration_attraction = 37.0
+}
+migration_attraction37_25 = {
+	local_migration_attraction = 37.25
+}
+migration_attraction37_5 = {
+	local_migration_attraction = 37.5
+}
+migration_attraction37_75 = {
+	local_migration_attraction = 37.75
+}
+migration_attraction38_0 = {
+	local_migration_attraction = 38.0
+}
+migration_attraction38_25 = {
+	local_migration_attraction = 38.25
+}
+migration_attraction38_5 = {
+	local_migration_attraction = 38.5
+}
+migration_attraction38_75 = {
+	local_migration_attraction = 38.75
+}
+migration_attraction39_0 = {
+	local_migration_attraction = 39.0
+}
+migration_attraction39_25 = {
+	local_migration_attraction = 39.25
+}
+migration_attraction39_5 = {
+	local_migration_attraction = 39.5
+}
+migration_attraction39_75 = {
+	local_migration_attraction = 39.75
+}
+migration_attraction40_0 = {
+	local_migration_attraction = 40.0
+}
+migration_attraction40_25 = {
+	local_migration_attraction = 40.25
+}
+migration_attraction40_5 = {
+	local_migration_attraction = 40.5
+}
+migration_attraction40_75 = {
+	local_migration_attraction = 40.75
+}
+migration_attraction41_0 = {
+	local_migration_attraction = 41.0
+}
+migration_attraction41_25 = {
+	local_migration_attraction = 41.25
+}
+migration_attraction41_5 = {
+	local_migration_attraction = 41.5
+}
+migration_attraction41_75 = {
+	local_migration_attraction = 41.75
+}
+migration_attraction42_0 = {
+	local_migration_attraction = 42.0
+}
+migration_attraction42_25 = {
+	local_migration_attraction = 42.25
+}
+migration_attraction42_5 = {
+	local_migration_attraction = 42.5
+}
+migration_attraction42_75 = {
+	local_migration_attraction = 42.75
+}
+migration_attraction43_0 = {
+	local_migration_attraction = 43.0
+}
+migration_attraction43_25 = {
+	local_migration_attraction = 43.25
+}
+migration_attraction43_5 = {
+	local_migration_attraction = 43.5
+}
+migration_attraction43_75 = {
+	local_migration_attraction = 43.75
+}
+migration_attraction44_0 = {
+	local_migration_attraction = 44.0
+}
+migration_attraction44_25 = {
+	local_migration_attraction = 44.25
+}
+migration_attraction44_5 = {
+	local_migration_attraction = 44.5
+}
+migration_attraction44_75 = {
+	local_migration_attraction = 44.75
+}
+migration_attraction45_0 = {
+	local_migration_attraction = 45.0
+}
+migration_attraction45_25 = {
+	local_migration_attraction = 45.25
+}
+migration_attraction45_5 = {
+	local_migration_attraction = 45.5
+}
+migration_attraction45_75 = {
+	local_migration_attraction = 45.75
+}
+migration_attraction46_0 = {
+	local_migration_attraction = 46.0
+}
+migration_attraction46_25 = {
+	local_migration_attraction = 46.25
+}
+migration_attraction46_5 = {
+	local_migration_attraction = 46.5
+}
+migration_attraction46_75 = {
+	local_migration_attraction = 46.75
+}
+migration_attraction47_0 = {
+	local_migration_attraction = 47.0
+}
+migration_attraction47_25 = {
+	local_migration_attraction = 47.25
+}
+migration_attraction47_5 = {
+	local_migration_attraction = 47.5
+}
+migration_attraction47_75 = {
+	local_migration_attraction = 47.75
+}
+migration_attraction48_0 = {
+	local_migration_attraction = 48.0
+}
+migration_attraction48_25 = {
+	local_migration_attraction = 48.25
+}
+migration_attraction48_5 = {
+	local_migration_attraction = 48.5
+}
+migration_attraction48_75 = {
+	local_migration_attraction = 48.75
+}
+migration_attraction49_0 = {
+	local_migration_attraction = 49.0
+}
+migration_attraction49_25 = {
+	local_migration_attraction = 49.25
+}
+migration_attraction49_5 = {
+	local_migration_attraction = 49.5
+}
+migration_attraction49_75 = {
+	local_migration_attraction = 49.75
+}
+migration_attraction50_0 = {
+	local_migration_attraction = 50.0
+}
+travel_time0_0 = {
+	local_tax_modifier = 1.0
+	local_manpower_modifier = 1.0
+	local_commerce_value_modifier = 1.0
+}
+travel_time0_5 = {
+	local_tax_modifier = 0.995
+	local_manpower_modifier = 0.995
+	local_commerce_value_modifier = 0.995
+}
+travel_time1_0 = {
+	local_tax_modifier = 0.99
+	local_manpower_modifier = 0.99
+	local_commerce_value_modifier = 0.99
+}
+travel_time1_5 = {
+	local_tax_modifier = 0.985
+	local_manpower_modifier = 0.985
+	local_commerce_value_modifier = 0.985
+}
+travel_time2_0 = {
+	local_tax_modifier = 0.98
+	local_manpower_modifier = 0.98
+	local_commerce_value_modifier = 0.98
+}
+travel_time2_5 = {
+	local_tax_modifier = 0.975
+	local_manpower_modifier = 0.975
+	local_commerce_value_modifier = 0.975
+}
+travel_time3_0 = {
+	local_tax_modifier = 0.97
+	local_manpower_modifier = 0.97
+	local_commerce_value_modifier = 0.97
+}
+travel_time3_5 = {
+	local_tax_modifier = 0.965
+	local_manpower_modifier = 0.965
+	local_commerce_value_modifier = 0.965
+}
+travel_time4_0 = {
+	local_tax_modifier = 0.96
+	local_manpower_modifier = 0.96
+	local_commerce_value_modifier = 0.96
+}
+travel_time4_5 = {
+	local_tax_modifier = 0.955
+	local_manpower_modifier = 0.955
+	local_commerce_value_modifier = 0.955
+}
+travel_time5_0 = {
+	local_tax_modifier = 0.95
+	local_manpower_modifier = 0.95
+	local_commerce_value_modifier = 0.95
+}
+travel_time5_5 = {
+	local_tax_modifier = 0.945
+	local_manpower_modifier = 0.945
+	local_commerce_value_modifier = 0.945
+}
+travel_time6_0 = {
+	local_tax_modifier = 0.94
+	local_manpower_modifier = 0.94
+	local_commerce_value_modifier = 0.94
+}
+travel_time6_5 = {
+	local_tax_modifier = 0.935
+	local_manpower_modifier = 0.935
+	local_commerce_value_modifier = 0.935
+}
+travel_time7_0 = {
+	local_tax_modifier = 0.9299999999999999
+	local_manpower_modifier = 0.9299999999999999
+	local_commerce_value_modifier = 0.9299999999999999
+}
+travel_time7_5 = {
+	local_tax_modifier = 0.925
+	local_manpower_modifier = 0.925
+	local_commerce_value_modifier = 0.925
+}
+travel_time8_0 = {
+	local_tax_modifier = 0.92
+	local_manpower_modifier = 0.92
+	local_commerce_value_modifier = 0.92
+}
+travel_time8_5 = {
+	local_tax_modifier = 0.915
+	local_manpower_modifier = 0.915
+	local_commerce_value_modifier = 0.915
+}
+travel_time9_0 = {
+	local_tax_modifier = 0.91
+	local_manpower_modifier = 0.91
+	local_commerce_value_modifier = 0.91
+}
+travel_time9_5 = {
+	local_tax_modifier = 0.905
+	local_manpower_modifier = 0.905
+	local_commerce_value_modifier = 0.905
+}
+travel_time10_0 = {
+	local_tax_modifier = 0.9
+	local_manpower_modifier = 0.9
+	local_commerce_value_modifier = 0.9
+}
+travel_time10_5 = {
+	local_tax_modifier = 0.895
+	local_manpower_modifier = 0.895
+	local_commerce_value_modifier = 0.895
+}
+travel_time11_0 = {
+	local_tax_modifier = 0.89
+	local_manpower_modifier = 0.89
+	local_commerce_value_modifier = 0.89
+}
+travel_time11_5 = {
+	local_tax_modifier = 0.885
+	local_manpower_modifier = 0.885
+	local_commerce_value_modifier = 0.885
+}
+travel_time12_0 = {
+	local_tax_modifier = 0.88
+	local_manpower_modifier = 0.88
+	local_commerce_value_modifier = 0.88
+}
+travel_time12_5 = {
+	local_tax_modifier = 0.875
+	local_manpower_modifier = 0.875
+	local_commerce_value_modifier = 0.875
+}
+travel_time13_0 = {
+	local_tax_modifier = 0.87
+	local_manpower_modifier = 0.87
+	local_commerce_value_modifier = 0.87
+}
+travel_time13_5 = {
+	local_tax_modifier = 0.865
+	local_manpower_modifier = 0.865
+	local_commerce_value_modifier = 0.865
+}
+travel_time14_0 = {
+	local_tax_modifier = 0.86
+	local_manpower_modifier = 0.86
+	local_commerce_value_modifier = 0.86
+}
+travel_time14_5 = {
+	local_tax_modifier = 0.855
+	local_manpower_modifier = 0.855
+	local_commerce_value_modifier = 0.855
+}
+travel_time15_0 = {
+	local_tax_modifier = 0.85
+	local_manpower_modifier = 0.85
+	local_commerce_value_modifier = 0.85
+}
+travel_time15_5 = {
+	local_tax_modifier = 0.845
+	local_manpower_modifier = 0.845
+	local_commerce_value_modifier = 0.845
+}
+travel_time16_0 = {
+	local_tax_modifier = 0.84
+	local_manpower_modifier = 0.84
+	local_commerce_value_modifier = 0.84
+}
+travel_time16_5 = {
+	local_tax_modifier = 0.835
+	local_manpower_modifier = 0.835
+	local_commerce_value_modifier = 0.835
+}
+travel_time17_0 = {
+	local_tax_modifier = 0.83
+	local_manpower_modifier = 0.83
+	local_commerce_value_modifier = 0.83
+}
+travel_time17_5 = {
+	local_tax_modifier = 0.825
+	local_manpower_modifier = 0.825
+	local_commerce_value_modifier = 0.825
+}
+travel_time18_0 = {
+	local_tax_modifier = 0.8200000000000001
+	local_manpower_modifier = 0.8200000000000001
+	local_commerce_value_modifier = 0.8200000000000001
+}
+travel_time18_5 = {
+	local_tax_modifier = 0.815
+	local_manpower_modifier = 0.815
+	local_commerce_value_modifier = 0.815
+}
+travel_time19_0 = {
+	local_tax_modifier = 0.81
+	local_manpower_modifier = 0.81
+	local_commerce_value_modifier = 0.81
+}
+travel_time19_5 = {
+	local_tax_modifier = 0.8049999999999999
+	local_manpower_modifier = 0.8049999999999999
+	local_commerce_value_modifier = 0.8049999999999999
+}
+travel_time20_0 = {
+	local_tax_modifier = 0.8
+	local_manpower_modifier = 0.8
+	local_commerce_value_modifier = 0.8
+}
+travel_time20_5 = {
+	local_tax_modifier = 0.795
+	local_manpower_modifier = 0.795
+	local_commerce_value_modifier = 0.795
+}
+travel_time21_0 = {
+	local_tax_modifier = 0.79
+	local_manpower_modifier = 0.79
+	local_commerce_value_modifier = 0.79
+}
+travel_time21_5 = {
+	local_tax_modifier = 0.785
+	local_manpower_modifier = 0.785
+	local_commerce_value_modifier = 0.785
+}
+travel_time22_0 = {
+	local_tax_modifier = 0.78
+	local_manpower_modifier = 0.78
+	local_commerce_value_modifier = 0.78
+}
+travel_time22_5 = {
+	local_tax_modifier = 0.775
+	local_manpower_modifier = 0.775
+	local_commerce_value_modifier = 0.775
+}
+travel_time23_0 = {
+	local_tax_modifier = 0.77
+	local_manpower_modifier = 0.77
+	local_commerce_value_modifier = 0.77
+}
+travel_time23_5 = {
+	local_tax_modifier = 0.765
+	local_manpower_modifier = 0.765
+	local_commerce_value_modifier = 0.765
+}
+travel_time24_0 = {
+	local_tax_modifier = 0.76
+	local_manpower_modifier = 0.76
+	local_commerce_value_modifier = 0.76
+}
+travel_time24_5 = {
+	local_tax_modifier = 0.755
+	local_manpower_modifier = 0.755
+	local_commerce_value_modifier = 0.755
+}
+travel_time25_0 = {
+	local_tax_modifier = 0.75
+	local_manpower_modifier = 0.75
+	local_commerce_value_modifier = 0.75
+}
+travel_time25_5 = {
+	local_tax_modifier = 0.745
+	local_manpower_modifier = 0.745
+	local_commerce_value_modifier = 0.745
+}
+travel_time26_0 = {
+	local_tax_modifier = 0.74
+	local_manpower_modifier = 0.74
+	local_commerce_value_modifier = 0.74
+}
+travel_time26_5 = {
+	local_tax_modifier = 0.735
+	local_manpower_modifier = 0.735
+	local_commerce_value_modifier = 0.735
+}
+travel_time27_0 = {
+	local_tax_modifier = 0.73
+	local_manpower_modifier = 0.73
+	local_commerce_value_modifier = 0.73
+}
+travel_time27_5 = {
+	local_tax_modifier = 0.725
+	local_manpower_modifier = 0.725
+	local_commerce_value_modifier = 0.725
+}
+travel_time28_0 = {
+	local_tax_modifier = 0.72
+	local_manpower_modifier = 0.72
+	local_commerce_value_modifier = 0.72
+}
+travel_time28_5 = {
+	local_tax_modifier = 0.7150000000000001
+	local_manpower_modifier = 0.7150000000000001
+	local_commerce_value_modifier = 0.7150000000000001
+}
+travel_time29_0 = {
+	local_tax_modifier = 0.71
+	local_manpower_modifier = 0.71
+	local_commerce_value_modifier = 0.71
+}
+travel_time29_5 = {
+	local_tax_modifier = 0.7050000000000001
+	local_manpower_modifier = 0.7050000000000001
+	local_commerce_value_modifier = 0.7050000000000001
+}
+travel_time30_0 = {
+	local_tax_modifier = 0.7
+	local_manpower_modifier = 0.7
+	local_commerce_value_modifier = 0.7
+}
+travel_time30_5 = {
+	local_tax_modifier = 0.6950000000000001
+	local_manpower_modifier = 0.6950000000000001
+	local_commerce_value_modifier = 0.6950000000000001
+}
+travel_time31_0 = {
+	local_tax_modifier = 0.69
+	local_manpower_modifier = 0.69
+	local_commerce_value_modifier = 0.69
+}
+travel_time31_5 = {
+	local_tax_modifier = 0.685
+	local_manpower_modifier = 0.685
+	local_commerce_value_modifier = 0.685
+}
+travel_time32_0 = {
+	local_tax_modifier = 0.6799999999999999
+	local_manpower_modifier = 0.6799999999999999
+	local_commerce_value_modifier = 0.6799999999999999
+}
+travel_time32_5 = {
+	local_tax_modifier = 0.675
+	local_manpower_modifier = 0.675
+	local_commerce_value_modifier = 0.675
+}
+travel_time33_0 = {
+	local_tax_modifier = 0.6699999999999999
+	local_manpower_modifier = 0.6699999999999999
+	local_commerce_value_modifier = 0.6699999999999999
+}
+travel_time33_5 = {
+	local_tax_modifier = 0.665
+	local_manpower_modifier = 0.665
+	local_commerce_value_modifier = 0.665
+}
+travel_time34_0 = {
+	local_tax_modifier = 0.6599999999999999
+	local_manpower_modifier = 0.6599999999999999
+	local_commerce_value_modifier = 0.6599999999999999
+}
+travel_time34_5 = {
+	local_tax_modifier = 0.655
+	local_manpower_modifier = 0.655
+	local_commerce_value_modifier = 0.655
+}
+travel_time35_0 = {
+	local_tax_modifier = 0.65
+	local_manpower_modifier = 0.65
+	local_commerce_value_modifier = 0.65
+}
+travel_time35_5 = {
+	local_tax_modifier = 0.645
+	local_manpower_modifier = 0.645
+	local_commerce_value_modifier = 0.645
+}
+travel_time36_0 = {
+	local_tax_modifier = 0.64
+	local_manpower_modifier = 0.64
+	local_commerce_value_modifier = 0.64
+}
+travel_time36_5 = {
+	local_tax_modifier = 0.635
+	local_manpower_modifier = 0.635
+	local_commerce_value_modifier = 0.635
+}
+travel_time37_0 = {
+	local_tax_modifier = 0.63
+	local_manpower_modifier = 0.63
+	local_commerce_value_modifier = 0.63
+}
+travel_time37_5 = {
+	local_tax_modifier = 0.625
+	local_manpower_modifier = 0.625
+	local_commerce_value_modifier = 0.625
+}
+travel_time38_0 = {
+	local_tax_modifier = 0.62
+	local_manpower_modifier = 0.62
+	local_commerce_value_modifier = 0.62
+}
+travel_time38_5 = {
+	local_tax_modifier = 0.615
+	local_manpower_modifier = 0.615
+	local_commerce_value_modifier = 0.615
+}
+travel_time39_0 = {
+	local_tax_modifier = 0.61
+	local_manpower_modifier = 0.61
+	local_commerce_value_modifier = 0.61
+}
+travel_time39_5 = {
+	local_tax_modifier = 0.605
+	local_manpower_modifier = 0.605
+	local_commerce_value_modifier = 0.605
+}
+travel_time40_0 = {
+	local_tax_modifier = 0.6
+	local_manpower_modifier = 0.6
+	local_commerce_value_modifier = 0.6
+}
+travel_time40_5 = {
+	local_tax_modifier = 0.595
+	local_manpower_modifier = 0.595
+	local_commerce_value_modifier = 0.595
+}
+travel_time41_0 = {
+	local_tax_modifier = 0.5900000000000001
+	local_manpower_modifier = 0.5900000000000001
+	local_commerce_value_modifier = 0.5900000000000001
+}
+travel_time41_5 = {
+	local_tax_modifier = 0.585
+	local_manpower_modifier = 0.585
+	local_commerce_value_modifier = 0.585
+}
+travel_time42_0 = {
+	local_tax_modifier = 0.5800000000000001
+	local_manpower_modifier = 0.5800000000000001
+	local_commerce_value_modifier = 0.5800000000000001
+}
+travel_time42_5 = {
+	local_tax_modifier = 0.575
+	local_manpower_modifier = 0.575
+	local_commerce_value_modifier = 0.575
+}
+travel_time43_0 = {
+	local_tax_modifier = 0.5700000000000001
+	local_manpower_modifier = 0.5700000000000001
+	local_commerce_value_modifier = 0.5700000000000001
+}
+travel_time43_5 = {
+	local_tax_modifier = 0.565
+	local_manpower_modifier = 0.565
+	local_commerce_value_modifier = 0.565
+}
+travel_time44_0 = {
+	local_tax_modifier = 0.56
+	local_manpower_modifier = 0.56
+	local_commerce_value_modifier = 0.56
+}
+travel_time44_5 = {
+	local_tax_modifier = 0.5549999999999999
+	local_manpower_modifier = 0.5549999999999999
+	local_commerce_value_modifier = 0.5549999999999999
+}
+travel_time45_0 = {
+	local_tax_modifier = 0.55
+	local_manpower_modifier = 0.55
+	local_commerce_value_modifier = 0.55
+}
+travel_time45_5 = {
+	local_tax_modifier = 0.5449999999999999
+	local_manpower_modifier = 0.5449999999999999
+	local_commerce_value_modifier = 0.5449999999999999
+}
+travel_time46_0 = {
+	local_tax_modifier = 0.54
+	local_manpower_modifier = 0.54
+	local_commerce_value_modifier = 0.54
+}
+travel_time46_5 = {
+	local_tax_modifier = 0.5349999999999999
+	local_manpower_modifier = 0.5349999999999999
+	local_commerce_value_modifier = 0.5349999999999999
+}
+travel_time47_0 = {
+	local_tax_modifier = 0.53
+	local_manpower_modifier = 0.53
+	local_commerce_value_modifier = 0.53
+}
+travel_time47_5 = {
+	local_tax_modifier = 0.525
+	local_manpower_modifier = 0.525
+	local_commerce_value_modifier = 0.525
+}
+travel_time48_0 = {
+	local_tax_modifier = 0.52
+	local_manpower_modifier = 0.52
+	local_commerce_value_modifier = 0.52
+}
+travel_time48_5 = {
+	local_tax_modifier = 0.515
+	local_manpower_modifier = 0.515
+	local_commerce_value_modifier = 0.515
+}
+travel_time49_0 = {
+	local_tax_modifier = 0.51
+	local_manpower_modifier = 0.51
+	local_commerce_value_modifier = 0.51
+}
+travel_time49_5 = {
+	local_tax_modifier = 0.505
+	local_manpower_modifier = 0.505
+	local_commerce_value_modifier = 0.505
+}
+travel_time50_0 = {
+	local_tax_modifier = 0.5
+	local_manpower_modifier = 0.5
+	local_commerce_value_modifier = 0.5
+}
+travel_time50_5 = {
+	local_tax_modifier = 0.495
+	local_manpower_modifier = 0.495
+	local_commerce_value_modifier = 0.495
+}
+travel_time51_0 = {
+	local_tax_modifier = 0.49
+	local_manpower_modifier = 0.49
+	local_commerce_value_modifier = 0.49
+}
+travel_time51_5 = {
+	local_tax_modifier = 0.485
+	local_manpower_modifier = 0.485
+	local_commerce_value_modifier = 0.485
+}
+travel_time52_0 = {
+	local_tax_modifier = 0.48
+	local_manpower_modifier = 0.48
+	local_commerce_value_modifier = 0.48
+}
+travel_time52_5 = {
+	local_tax_modifier = 0.475
+	local_manpower_modifier = 0.475
+	local_commerce_value_modifier = 0.475
+}
+travel_time53_0 = {
+	local_tax_modifier = 0.47
+	local_manpower_modifier = 0.47
+	local_commerce_value_modifier = 0.47
+}
+travel_time53_5 = {
+	local_tax_modifier = 0.46499999999999997
+	local_manpower_modifier = 0.46499999999999997
+	local_commerce_value_modifier = 0.46499999999999997
+}
+travel_time54_0 = {
+	local_tax_modifier = 0.45999999999999996
+	local_manpower_modifier = 0.45999999999999996
+	local_commerce_value_modifier = 0.45999999999999996
+}
+travel_time54_5 = {
+	local_tax_modifier = 0.45499999999999996
+	local_manpower_modifier = 0.45499999999999996
+	local_commerce_value_modifier = 0.45499999999999996
+}
+travel_time55_0 = {
+	local_tax_modifier = 0.44999999999999996
+	local_manpower_modifier = 0.44999999999999996
+	local_commerce_value_modifier = 0.44999999999999996
+}
+travel_time55_5 = {
+	local_tax_modifier = 0.44499999999999995
+	local_manpower_modifier = 0.44499999999999995
+	local_commerce_value_modifier = 0.44499999999999995
+}
+travel_time56_0 = {
+	local_tax_modifier = 0.43999999999999995
+	local_manpower_modifier = 0.43999999999999995
+	local_commerce_value_modifier = 0.43999999999999995
+}
+travel_time56_5 = {
+	local_tax_modifier = 0.43500000000000005
+	local_manpower_modifier = 0.43500000000000005
+	local_commerce_value_modifier = 0.43500000000000005
+}
+travel_time57_0 = {
+	local_tax_modifier = 0.43000000000000005
+	local_manpower_modifier = 0.43000000000000005
+	local_commerce_value_modifier = 0.43000000000000005
+}
+travel_time57_5 = {
+	local_tax_modifier = 0.42500000000000004
+	local_manpower_modifier = 0.42500000000000004
+	local_commerce_value_modifier = 0.42500000000000004
+}
+travel_time58_0 = {
+	local_tax_modifier = 0.42000000000000004
+	local_manpower_modifier = 0.42000000000000004
+	local_commerce_value_modifier = 0.42000000000000004
+}
+travel_time58_5 = {
+	local_tax_modifier = 0.41500000000000004
+	local_manpower_modifier = 0.41500000000000004
+	local_commerce_value_modifier = 0.41500000000000004
+}
+travel_time59_0 = {
+	local_tax_modifier = 0.41000000000000003
+	local_manpower_modifier = 0.41000000000000003
+	local_commerce_value_modifier = 0.41000000000000003
+}
+travel_time59_5 = {
+	local_tax_modifier = 0.405
+	local_manpower_modifier = 0.405
+	local_commerce_value_modifier = 0.405
+}
+travel_time60_0 = {
+	local_tax_modifier = 0.4
+	local_manpower_modifier = 0.4
+	local_commerce_value_modifier = 0.4
+}
+travel_time60_5 = {
+	local_tax_modifier = 0.395
+	local_manpower_modifier = 0.395
+	local_commerce_value_modifier = 0.395
+}
+travel_time61_0 = {
+	local_tax_modifier = 0.39
+	local_manpower_modifier = 0.39
+	local_commerce_value_modifier = 0.39
+}
+travel_time61_5 = {
+	local_tax_modifier = 0.385
+	local_manpower_modifier = 0.385
+	local_commerce_value_modifier = 0.385
+}
+travel_time62_0 = {
+	local_tax_modifier = 0.38
+	local_manpower_modifier = 0.38
+	local_commerce_value_modifier = 0.38
+}
+travel_time62_5 = {
+	local_tax_modifier = 0.375
+	local_manpower_modifier = 0.375
+	local_commerce_value_modifier = 0.375
+}
+travel_time63_0 = {
+	local_tax_modifier = 0.37
+	local_manpower_modifier = 0.37
+	local_commerce_value_modifier = 0.37
+}
+travel_time63_5 = {
+	local_tax_modifier = 0.365
+	local_manpower_modifier = 0.365
+	local_commerce_value_modifier = 0.365
+}
+travel_time64_0 = {
+	local_tax_modifier = 0.36
+	local_manpower_modifier = 0.36
+	local_commerce_value_modifier = 0.36
+}
+travel_time64_5 = {
+	local_tax_modifier = 0.355
+	local_manpower_modifier = 0.355
+	local_commerce_value_modifier = 0.355
+}
+travel_time65_0 = {
+	local_tax_modifier = 0.35
+	local_manpower_modifier = 0.35
+	local_commerce_value_modifier = 0.35
+}
+travel_time65_5 = {
+	local_tax_modifier = 0.345
+	local_manpower_modifier = 0.345
+	local_commerce_value_modifier = 0.345
+}
+travel_time66_0 = {
+	local_tax_modifier = 0.33999999999999997
+	local_manpower_modifier = 0.33999999999999997
+	local_commerce_value_modifier = 0.33999999999999997
+}
+travel_time66_5 = {
+	local_tax_modifier = 0.33499999999999996
+	local_manpower_modifier = 0.33499999999999996
+	local_commerce_value_modifier = 0.33499999999999996
+}
+travel_time67_0 = {
+	local_tax_modifier = 0.32999999999999996
+	local_manpower_modifier = 0.32999999999999996
+	local_commerce_value_modifier = 0.32999999999999996
+}
+travel_time67_5 = {
+	local_tax_modifier = 0.32499999999999996
+	local_manpower_modifier = 0.32499999999999996
+	local_commerce_value_modifier = 0.32499999999999996
+}
+travel_time68_0 = {
+	local_tax_modifier = 0.31999999999999995
+	local_manpower_modifier = 0.31999999999999995
+	local_commerce_value_modifier = 0.31999999999999995
+}
+travel_time68_5 = {
+	local_tax_modifier = 0.31499999999999995
+	local_manpower_modifier = 0.31499999999999995
+	local_commerce_value_modifier = 0.31499999999999995
+}
+travel_time69_0 = {
+	local_tax_modifier = 0.31000000000000005
+	local_manpower_modifier = 0.31000000000000005
+	local_commerce_value_modifier = 0.31000000000000005
+}
+travel_time69_5 = {
+	local_tax_modifier = 0.30500000000000005
+	local_manpower_modifier = 0.30500000000000005
+	local_commerce_value_modifier = 0.30500000000000005
+}
+travel_time70_0 = {
+	local_tax_modifier = 0.30000000000000004
+	local_manpower_modifier = 0.30000000000000004
+	local_commerce_value_modifier = 0.30000000000000004
+}
+travel_time70_5 = {
+	local_tax_modifier = 0.29500000000000004
+	local_manpower_modifier = 0.29500000000000004
+	local_commerce_value_modifier = 0.29500000000000004
+}
+travel_time71_0 = {
+	local_tax_modifier = 0.29000000000000004
+	local_manpower_modifier = 0.29000000000000004
+	local_commerce_value_modifier = 0.29000000000000004
+}
+travel_time71_5 = {
+	local_tax_modifier = 0.28500000000000003
+	local_manpower_modifier = 0.28500000000000003
+	local_commerce_value_modifier = 0.28500000000000003
+}
+travel_time72_0 = {
+	local_tax_modifier = 0.28
+	local_manpower_modifier = 0.28
+	local_commerce_value_modifier = 0.28
+}
+travel_time72_5 = {
+	local_tax_modifier = 0.275
+	local_manpower_modifier = 0.275
+	local_commerce_value_modifier = 0.275
+}
+travel_time73_0 = {
+	local_tax_modifier = 0.27
+	local_manpower_modifier = 0.27
+	local_commerce_value_modifier = 0.27
+}
+travel_time73_5 = {
+	local_tax_modifier = 0.265
+	local_manpower_modifier = 0.265
+	local_commerce_value_modifier = 0.265
+}
+travel_time74_0 = {
+	local_tax_modifier = 0.26
+	local_manpower_modifier = 0.26
+	local_commerce_value_modifier = 0.26
+}
+travel_time74_5 = {
+	local_tax_modifier = 0.255
+	local_manpower_modifier = 0.255
+	local_commerce_value_modifier = 0.255
+}
+travel_time75_0 = {
+	local_tax_modifier = 0.25
+	local_manpower_modifier = 0.25
+	local_commerce_value_modifier = 0.25
+}
+travel_time75_5 = {
+	local_tax_modifier = 0.245
+	local_manpower_modifier = 0.245
+	local_commerce_value_modifier = 0.245
+}
+travel_time76_0 = {
+	local_tax_modifier = 0.24
+	local_manpower_modifier = 0.24
+	local_commerce_value_modifier = 0.24
+}
+travel_time76_5 = {
+	local_tax_modifier = 0.235
+	local_manpower_modifier = 0.235
+	local_commerce_value_modifier = 0.235
+}
+travel_time77_0 = {
+	local_tax_modifier = 0.22999999999999998
+	local_manpower_modifier = 0.22999999999999998
+	local_commerce_value_modifier = 0.22999999999999998
+}
+travel_time77_5 = {
+	local_tax_modifier = 0.22499999999999998
+	local_manpower_modifier = 0.22499999999999998
+	local_commerce_value_modifier = 0.22499999999999998
+}
+travel_time78_0 = {
+	local_tax_modifier = 0.21999999999999997
+	local_manpower_modifier = 0.21999999999999997
+	local_commerce_value_modifier = 0.21999999999999997
+}
+travel_time78_5 = {
+	local_tax_modifier = 0.21499999999999997
+	local_manpower_modifier = 0.21499999999999997
+	local_commerce_value_modifier = 0.21499999999999997
+}
+travel_time79_0 = {
+	local_tax_modifier = 0.20999999999999996
+	local_manpower_modifier = 0.20999999999999996
+	local_commerce_value_modifier = 0.20999999999999996
+}
+travel_time79_5 = {
+	local_tax_modifier = 0.20499999999999996
+	local_manpower_modifier = 0.20499999999999996
+	local_commerce_value_modifier = 0.20499999999999996
+}
+travel_time80_0 = {
+	local_tax_modifier = 0.19999999999999996
+	local_manpower_modifier = 0.19999999999999996
+	local_commerce_value_modifier = 0.19999999999999996
+}
+travel_time80_5 = {
+	local_tax_modifier = 0.19499999999999995
+	local_manpower_modifier = 0.19499999999999995
+	local_commerce_value_modifier = 0.19499999999999995
+}
+travel_time81_0 = {
+	local_tax_modifier = 0.18999999999999995
+	local_manpower_modifier = 0.18999999999999995
+	local_commerce_value_modifier = 0.18999999999999995
+}
+travel_time81_5 = {
+	local_tax_modifier = 0.18500000000000005
+	local_manpower_modifier = 0.18500000000000005
+	local_commerce_value_modifier = 0.18500000000000005
+}
+travel_time82_0 = {
+	local_tax_modifier = 0.18000000000000005
+	local_manpower_modifier = 0.18000000000000005
+	local_commerce_value_modifier = 0.18000000000000005
+}
+travel_time82_5 = {
+	local_tax_modifier = 0.17500000000000004
+	local_manpower_modifier = 0.17500000000000004
+	local_commerce_value_modifier = 0.17500000000000004
+}
+travel_time83_0 = {
+	local_tax_modifier = 0.17000000000000004
+	local_manpower_modifier = 0.17000000000000004
+	local_commerce_value_modifier = 0.17000000000000004
+}
+travel_time83_5 = {
+	local_tax_modifier = 0.16500000000000004
+	local_manpower_modifier = 0.16500000000000004
+	local_commerce_value_modifier = 0.16500000000000004
+}
+travel_time84_0 = {
+	local_tax_modifier = 0.16000000000000003
+	local_manpower_modifier = 0.16000000000000003
+	local_commerce_value_modifier = 0.16000000000000003
+}
+travel_time84_5 = {
+	local_tax_modifier = 0.15500000000000003
+	local_manpower_modifier = 0.15500000000000003
+	local_commerce_value_modifier = 0.15500000000000003
+}
+travel_time85_0 = {
+	local_tax_modifier = 0.15000000000000002
+	local_manpower_modifier = 0.15000000000000002
+	local_commerce_value_modifier = 0.15000000000000002
+}
+travel_time85_5 = {
+	local_tax_modifier = 0.14500000000000002
+	local_manpower_modifier = 0.14500000000000002
+	local_commerce_value_modifier = 0.14500000000000002
+}
+travel_time86_0 = {
+	local_tax_modifier = 0.14
+	local_manpower_modifier = 0.14
+	local_commerce_value_modifier = 0.14
+}
+travel_time86_5 = {
+	local_tax_modifier = 0.135
+	local_manpower_modifier = 0.135
+	local_commerce_value_modifier = 0.135
+}
+travel_time87_0 = {
+	local_tax_modifier = 0.13
+	local_manpower_modifier = 0.13
+	local_commerce_value_modifier = 0.13
+}
+travel_time87_5 = {
+	local_tax_modifier = 0.125
+	local_manpower_modifier = 0.125
+	local_commerce_value_modifier = 0.125
+}
+travel_time88_0 = {
+	local_tax_modifier = 0.12
+	local_manpower_modifier = 0.12
+	local_commerce_value_modifier = 0.12
+}
+travel_time88_5 = {
+	local_tax_modifier = 0.11499999999999999
+	local_manpower_modifier = 0.11499999999999999
+	local_commerce_value_modifier = 0.11499999999999999
+}
+travel_time89_0 = {
+	local_tax_modifier = 0.10999999999999999
+	local_manpower_modifier = 0.10999999999999999
+	local_commerce_value_modifier = 0.10999999999999999
+}
+travel_time89_5 = {
+	local_tax_modifier = 0.10499999999999998
+	local_manpower_modifier = 0.10499999999999998
+	local_commerce_value_modifier = 0.10499999999999998
+}
+travel_time90_0 = {
+	local_tax_modifier = 0.09999999999999998
+	local_manpower_modifier = 0.09999999999999998
+	local_commerce_value_modifier = 0.09999999999999998
+}
+travel_time90_5 = {
+	local_tax_modifier = 0.09499999999999997
+	local_manpower_modifier = 0.09499999999999997
+	local_commerce_value_modifier = 0.09499999999999997
+}
+travel_time91_0 = {
+	local_tax_modifier = 0.08999999999999997
+	local_manpower_modifier = 0.08999999999999997
+	local_commerce_value_modifier = 0.08999999999999997
+}
+travel_time91_5 = {
+	local_tax_modifier = 0.08499999999999996
+	local_manpower_modifier = 0.08499999999999996
+	local_commerce_value_modifier = 0.08499999999999996
+}
+travel_time92_0 = {
+	local_tax_modifier = 0.07999999999999996
+	local_manpower_modifier = 0.07999999999999996
+	local_commerce_value_modifier = 0.07999999999999996
+}
+travel_time92_5 = {
+	local_tax_modifier = 0.07499999999999996
+	local_manpower_modifier = 0.07499999999999996
+	local_commerce_value_modifier = 0.07499999999999996
+}
+travel_time93_0 = {
+	local_tax_modifier = 0.06999999999999995
+	local_manpower_modifier = 0.06999999999999995
+	local_commerce_value_modifier = 0.06999999999999995
+}
+travel_time93_5 = {
+	local_tax_modifier = 0.06499999999999995
+	local_manpower_modifier = 0.06499999999999995
+	local_commerce_value_modifier = 0.06499999999999995
+}
+travel_time94_0 = {
+	local_tax_modifier = 0.06000000000000005
+	local_manpower_modifier = 0.06000000000000005
+	local_commerce_value_modifier = 0.06000000000000005
+}
+travel_time94_5 = {
+	local_tax_modifier = 0.05500000000000005
+	local_manpower_modifier = 0.05500000000000005
+	local_commerce_value_modifier = 0.05500000000000005
+}
+travel_time95_0 = {
+	local_tax_modifier = 0.050000000000000044
+	local_manpower_modifier = 0.050000000000000044
+	local_commerce_value_modifier = 0.050000000000000044
+}
+travel_time95_5 = {
+	local_tax_modifier = 0.04500000000000004
+	local_manpower_modifier = 0.04500000000000004
+	local_commerce_value_modifier = 0.04500000000000004
+}
+travel_time96_0 = {
+	local_tax_modifier = 0.040000000000000036
+	local_manpower_modifier = 0.040000000000000036
+	local_commerce_value_modifier = 0.040000000000000036
+}
+travel_time96_5 = {
+	local_tax_modifier = 0.03500000000000003
+	local_manpower_modifier = 0.03500000000000003
+	local_commerce_value_modifier = 0.03500000000000003
+}
+travel_time97_0 = {
+	local_tax_modifier = 0.030000000000000027
+	local_manpower_modifier = 0.030000000000000027
+	local_commerce_value_modifier = 0.030000000000000027
+}
+travel_time97_5 = {
+	local_tax_modifier = 0.025000000000000022
+	local_manpower_modifier = 0.025000000000000022
+	local_commerce_value_modifier = 0.025000000000000022
+}
+travel_time98_0 = {
+	local_tax_modifier = 0.020000000000000018
+	local_manpower_modifier = 0.020000000000000018
+	local_commerce_value_modifier = 0.020000000000000018
+}
+travel_time98_5 = {
+	local_tax_modifier = 0.015000000000000013
+	local_manpower_modifier = 0.015000000000000013
+	local_commerce_value_modifier = 0.015000000000000013
+}
+travel_time99_0 = {
+	local_tax_modifier = 0.010000000000000009
+	local_manpower_modifier = 0.010000000000000009
+	local_commerce_value_modifier = 0.010000000000000009
+}
+travel_time99_5 = {
+	local_tax_modifier = 0.0050000000000000044
+	local_manpower_modifier = 0.0050000000000000044
+	local_commerce_value_modifier = 0.0050000000000000044
+}
+travel_time100_0 = {
+	local_tax_modifier = 0.0
+	local_manpower_modifier = 0.0
+	local_commerce_value_modifier = 0.0
+}

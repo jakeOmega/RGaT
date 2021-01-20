@@ -330,9 +330,6 @@ city_population = {
 	local_tribesmen_happyness = -0.003
 	local_food_capacity = 2.4
 	local_migration_attraction = -0.5
-	local_pop_conversion_speed_modifier = 0.01
-	local_pop_assimilation_speed_modifier = 0.01
-	local_migration_speed_modifier = 0.01
 }
 
 overpopulation = { #Scales depending on how much over capacity

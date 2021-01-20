@@ -251,27 +251,6 @@ building_events.4 = {
 	}
 }
 
-building_events.5 = {
-	type = province_event
-	hidden = yes
-	
-	trigger = { 
-		has_building = foundry_building
-		has_variable = province_infrastructure
-	}
-	
-	immediate = {
-		change_variable = {
-			name = province_infrastructure
-			add = investment_amount
-		}
-		
-		while = {
-			limit = {has_building = foundry_building}
-			remove_building_level = foundry_building
-		}
-	}
-}
 
 building_events.6 = {
 	type = province_event

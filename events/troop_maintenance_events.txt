@@ -11,14 +11,8 @@ troop_maintenance.1 = {
         }
         every_army = {
             limit = {
-                OR = {
-                    AND = {
-                        has_commander = yes
-                        commander = {is_mercenary = no}
-                    }
-                    has_commander = no
-                }
-            }
+				commander = {is_mercenary = no}
+			}
             root = {
                 change_variable ={
                     name = troop_count

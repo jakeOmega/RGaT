@@ -1,0 +1,200 @@
+﻿# All global modifiers are here.  They are applied from certain game-features.
+#
+# Effects are fully scriptable here.
+
+
+#these names can NOT be removed or changes, as the code uses them....
+
+
+base_values = {
+	experience_decay = 0.045
+	land_morale_recovery = 0.01		#1%, rest monarch stats
+	naval_morale_recovery = 0.2		#20% morale recovery.
+	monthly_tyranny = -0.02
+	agressive_expansion_monthly_decay = 0.002
+	
+	country_civilization_value = 10
+	loyalty_to_overlord = 10
+	next_ruler_legitimacy = 60
+	num_of_clan_chiefs = 2
+	enslavement_efficiency = 0.05
+	integrate_speed = 0.25
+	global_export_commerce_modifier = 0.2
+	
+	global_manpower = 0.25
+	global_tax_income = 2
+	stability_monthly_decay = 0.01
+	
+	civil_war_threshold = 0.25
+	
+	liburnian_riverine_terrain_combat_bonus = 0.25
+	trireme_riverine_terrain_combat_bonus = 0.25
+	
+	ship_capture_chance = 0.05
+	
+	monthly_military_experience = 0.3
+
+	global_freemen_desired_pop_ratio = 0.1
+	fabricate_claim_speed = 4
+	
+}
+
+is_tribe = {
+	max_loyalty = 100
+	enslavement_efficiency = 0.025
+
+	change_governor_policy_cost_modifier = 0.1
+	army_maintenance_cost = 0.5
+	global_tribesmen_desired_pop_ratio = 0.3
+	global_freemen_desired_pop_ratio = -0.1
+	global_nobles_desired_pop_ratio = -0.07
+	
+	price_found_city_cost_modifier = 0.25
+	price_revoke_city_status_cost_modifier = -0.5
+    price_revoke_metropolis_status_cost_modifier = -0.5
+
+}
+
+peace = {
+	max_war_exhaustion = 20			#base max at peace.
+	global_monthly_civilization = 0.01
+}
+
+#>50 values will be multiplied up to 50 times
+positive_stability = { 
+	research_points_modifier = 0.005
+	monthly_legitimacy = 0.003
+	global_population_happiness = 0.002
+	global_population_growth = 0.0
+	local_migration_speed_modifier = 0.1
+}
+
+##########################################################################
+# City Static Modifiers
+##########################################################################
+
+starving_city = {
+}
+
+province_base_values = {
+	local_population_capacity = 8
+	local_food_capacity = 100
+	local_monthly_civilization = 0.01
+	local_start_experience = 50
+	local_tax_modifier = -1
+	local_manpower_modifier = -1
+	local_commerce_value_modifier = -1
+}
+
+civilization_value = {
+	local_nobles_happyness = 0.007
+	local_citizen_happyness = 0.005
+	local_freemen_happyness = 0.003
+	local_tribesmen_happyness = -0.004
+	
+	barbarian_growth = -0.005
+	local_population_capacity = 0.06 
+	supply_limit_modifier = 0.02
+	
+	local_freemen_desired_pop_ratio = -0.001
+	local_slaves_desired_pop_ratio = 0.002
+	local_start_experience = -0.5
+}
+
+is_capital_city = {
+	supply_limit_modifier = 0.1
+	local_output_modifier = 0.1
+	local_nobles_desired_pop_ratio = 0.1
+	local_citizen_desired_pop_ratio = 0.04
+	local_freemen_desired_pop_ratio = 0.04
+	local_nobles_happyness = happiness_large_svalue
+	local_citizen_happyness = happiness_large_svalue
+	local_population_capacity_modifier = 1
+	local_building_slot = 3
+	local_pop_promotion_speed_modifier = 0.25
+	local_pop_conversion_speed_modifier = 0.20
+	local_pop_assimilation_speed_modifier = 0.20
+	local_monthly_food = 1.5
+}
+
+adjacent_to_major_river = {
+	local_population_capacity_modifier = 0.1
+	local_population_capacity = 2
+	supply_limit_modifier = 0.1
+	local_migration_speed_modifier = 0.25
+}
+
+river_floating_through = {
+	local_population_capacity_modifier = 0.05
+	local_population_capacity = 2
+	supply_limit_modifier = 0.05
+	local_migration_speed_modifier = 0.1
+}
+
+coastal = {
+	local_population_capacity_modifier = 0.05
+	local_population_capacity = 2
+	local_migration_speed = 0.25
+}
+
+coastal_port = {
+	local_population_capacity_modifier = 0.1
+	local_population_capacity = 4
+	supply_limit_modifier = 0.05
+	local_pop_promotion_speed_modifier = 0.10
+	local_migration_speed = 0.5
+}
+
+roads_in_province = {
+	local_monthly_civilization = 0.001
+	local_pop_conversion_speed_modifier = 0.025
+	local_pop_assimilation_speed_modifier = 0.025
+	local_pop_promotion_speed_modifier = 0.025
+	local_pop_demotion_speed_modifier = 0.01
+	local_migration_speed_modifier = 0.25
+	local_base_trade_routes_modifier = 0.05
+	local_population_capacity = 1
+}
+
+empty_capacity = {
+}
+
+is_state_capital = {
+	local_population_capacity = 1
+	local_output_modifier = 0.10
+	local_pop_promotion_speed_modifier = 0.1
+	local_monthly_food = 1
+	local_building_slot = 1
+}
+
+depopulated_province = {
+}
+
+unrest = {
+	city_monthly_state_loyalty = -0.08
+	local_pop_promotion_speed_modifier = -0.1
+	local_pop_demotion_speed_modifier = 0.1
+	local_migration_speed_modifier = 0.25
+}
+
+city_population = {
+	supply_limit = 0.5
+	local_pop_promotion_speed_modifier = 0.05
+	local_pop_demotion_speed_modifier = 0.05
+	local_nobles_happyness = -0.001
+	local_citizen_happyness = -0.002
+	local_freemen_happyness = -0.002
+	local_tribesmen_happyness = -0.003
+	local_output_modifier = 0.01
+}
+
+frigid_climate = {
+	local_population_capacity_modifier = -0.2
+}
+alpine_climate = {
+	local_population_capacity_modifier = -0.25
+}
+
+arid_climate = {
+	local_population_capacity_modifier = -0.5
+}

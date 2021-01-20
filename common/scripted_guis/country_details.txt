@@ -1,0 +1,29 @@
+country_details = {
+	scope = country
+	
+	is_shown = {
+		var:show_country_details > 0
+	}
+}
+
+country_details_open = {
+	scope = country
+	
+	effect = {
+		set_variable = {
+			name = show_country_details
+			value = 1
+		}
+	}
+}
+
+country_details_close = {
+	scope = country
+	
+	effect = {
+		set_variable = {
+			name = show_country_details
+			value = 0
+		}
+	}
+}

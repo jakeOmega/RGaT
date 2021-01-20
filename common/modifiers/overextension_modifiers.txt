@@ -3002,3 +3002,3506 @@ overextension_change4_99 = {
 overextension_change5_0 = {
 	agressive_expansion_monthly_change = 5.0
 }
+admin_ration5_0 = {
+	stability_monthly_change = 0.5
+	monthly_political_influence = 5.0
+}
+admin_ration4_99 = {
+	stability_monthly_change = 0.499
+	monthly_political_influence = 4.99
+}
+admin_ration4_98 = {
+	stability_monthly_change = 0.49800000000000005
+	monthly_political_influence = 4.98
+}
+admin_ration4_97 = {
+	stability_monthly_change = 0.497
+	monthly_political_influence = 4.97
+}
+admin_ration4_96 = {
+	stability_monthly_change = 0.496
+	monthly_political_influence = 4.96
+}
+admin_ration4_95 = {
+	stability_monthly_change = 0.495
+	monthly_political_influence = 4.95
+}
+admin_ration4_94 = {
+	stability_monthly_change = 0.49400000000000005
+	monthly_political_influence = 4.94
+}
+admin_ration4_93 = {
+	stability_monthly_change = 0.493
+	monthly_political_influence = 4.93
+}
+admin_ration4_92 = {
+	stability_monthly_change = 0.492
+	monthly_political_influence = 4.92
+}
+admin_ration4_91 = {
+	stability_monthly_change = 0.491
+	monthly_political_influence = 4.91
+}
+admin_ration4_9 = {
+	stability_monthly_change = 0.49000000000000005
+	monthly_political_influence = 4.9
+}
+admin_ration4_89 = {
+	stability_monthly_change = 0.489
+	monthly_political_influence = 4.89
+}
+admin_ration4_88 = {
+	stability_monthly_change = 0.488
+	monthly_political_influence = 4.88
+}
+admin_ration4_87 = {
+	stability_monthly_change = 0.487
+	monthly_political_influence = 4.87
+}
+admin_ration4_86 = {
+	stability_monthly_change = 0.48600000000000004
+	monthly_political_influence = 4.86
+}
+admin_ration4_85 = {
+	stability_monthly_change = 0.485
+	monthly_political_influence = 4.85
+}
+admin_ration4_84 = {
+	stability_monthly_change = 0.484
+	monthly_political_influence = 4.84
+}
+admin_ration4_83 = {
+	stability_monthly_change = 0.483
+	monthly_political_influence = 4.83
+}
+admin_ration4_82 = {
+	stability_monthly_change = 0.48200000000000004
+	monthly_political_influence = 4.82
+}
+admin_ration4_81 = {
+	stability_monthly_change = 0.481
+	monthly_political_influence = 4.81
+}
+admin_ration4_8 = {
+	stability_monthly_change = 0.48
+	monthly_political_influence = 4.8
+}
+admin_ration4_79 = {
+	stability_monthly_change = 0.479
+	monthly_political_influence = 4.79
+}
+admin_ration4_78 = {
+	stability_monthly_change = 0.47800000000000004
+	monthly_political_influence = 4.78
+}
+admin_ration4_77 = {
+	stability_monthly_change = 0.477
+	monthly_political_influence = 4.77
+}
+admin_ration4_76 = {
+	stability_monthly_change = 0.476
+	monthly_political_influence = 4.76
+}
+admin_ration4_75 = {
+	stability_monthly_change = 0.475
+	monthly_political_influence = 4.75
+}
+admin_ration4_74 = {
+	stability_monthly_change = 0.47400000000000003
+	monthly_political_influence = 4.74
+}
+admin_ration4_73 = {
+	stability_monthly_change = 0.47300000000000003
+	monthly_political_influence = 4.73
+}
+admin_ration4_72 = {
+	stability_monthly_change = 0.472
+	monthly_political_influence = 4.72
+}
+admin_ration4_71 = {
+	stability_monthly_change = 0.471
+	monthly_political_influence = 4.71
+}
+admin_ration4_7 = {
+	stability_monthly_change = 0.47000000000000003
+	monthly_political_influence = 4.7
+}
+admin_ration4_69 = {
+	stability_monthly_change = 0.46900000000000003
+	monthly_political_influence = 4.69
+}
+admin_ration4_68 = {
+	stability_monthly_change = 0.46799999999999997
+	monthly_political_influence = 4.68
+}
+admin_ration4_67 = {
+	stability_monthly_change = 0.46699999999999997
+	monthly_political_influence = 4.67
+}
+admin_ration4_66 = {
+	stability_monthly_change = 0.466
+	monthly_political_influence = 4.66
+}
+admin_ration4_65 = {
+	stability_monthly_change = 0.465
+	monthly_political_influence = 4.65
+}
+admin_ration4_64 = {
+	stability_monthly_change = 0.46399999999999997
+	monthly_political_influence = 4.64
+}
+admin_ration4_63 = {
+	stability_monthly_change = 0.46299999999999997
+	monthly_political_influence = 4.63
+}
+admin_ration4_62 = {
+	stability_monthly_change = 0.462
+	monthly_political_influence = 4.62
+}
+admin_ration4_61 = {
+	stability_monthly_change = 0.461
+	monthly_political_influence = 4.61
+}
+admin_ration4_60 = {
+	stability_monthly_change = 0.45999999999999996
+	monthly_political_influence = 4.6
+}
+admin_ration4_59 = {
+	stability_monthly_change = 0.45899999999999996
+	monthly_political_influence = 4.59
+}
+admin_ration4_58 = {
+	stability_monthly_change = 0.458
+	monthly_political_influence = 4.58
+}
+admin_ration4_57 = {
+	stability_monthly_change = 0.457
+	monthly_political_influence = 4.57
+}
+admin_ration4_56 = {
+	stability_monthly_change = 0.45599999999999996
+	monthly_political_influence = 4.56
+}
+admin_ration4_55 = {
+	stability_monthly_change = 0.45499999999999996
+	monthly_political_influence = 4.55
+}
+admin_ration4_54 = {
+	stability_monthly_change = 0.454
+	monthly_political_influence = 4.54
+}
+admin_ration4_53 = {
+	stability_monthly_change = 0.453
+	monthly_political_influence = 4.53
+}
+admin_ration4_52 = {
+	stability_monthly_change = 0.45199999999999996
+	monthly_political_influence = 4.52
+}
+admin_ration4_51 = {
+	stability_monthly_change = 0.45099999999999996
+	monthly_political_influence = 4.51
+}
+admin_ration4_5 = {
+	stability_monthly_change = 0.45
+	monthly_political_influence = 4.5
+}
+admin_ration4_49 = {
+	stability_monthly_change = 0.449
+	monthly_political_influence = 4.49
+}
+admin_ration4_48 = {
+	stability_monthly_change = 0.44800000000000006
+	monthly_political_influence = 4.48
+}
+admin_ration4_47 = {
+	stability_monthly_change = 0.44699999999999995
+	monthly_political_influence = 4.47
+}
+admin_ration4_46 = {
+	stability_monthly_change = 0.446
+	monthly_political_influence = 4.46
+}
+admin_ration4_45 = {
+	stability_monthly_change = 0.445
+	monthly_political_influence = 4.45
+}
+admin_ration4_44 = {
+	stability_monthly_change = 0.44400000000000006
+	monthly_political_influence = 4.44
+}
+admin_ration4_43 = {
+	stability_monthly_change = 0.44299999999999995
+	monthly_political_influence = 4.43
+}
+admin_ration4_42 = {
+	stability_monthly_change = 0.442
+	monthly_political_influence = 4.42
+}
+admin_ration4_41 = {
+	stability_monthly_change = 0.441
+	monthly_political_influence = 4.41
+}
+admin_ration4_4 = {
+	stability_monthly_change = 0.44000000000000006
+	monthly_political_influence = 4.4
+}
+admin_ration4_39 = {
+	stability_monthly_change = 0.43899999999999995
+	monthly_political_influence = 4.39
+}
+admin_ration4_38 = {
+	stability_monthly_change = 0.438
+	monthly_political_influence = 4.38
+}
+admin_ration4_37 = {
+	stability_monthly_change = 0.437
+	monthly_political_influence = 4.37
+}
+admin_ration4_36 = {
+	stability_monthly_change = 0.43600000000000005
+	monthly_political_influence = 4.36
+}
+admin_ration4_35 = {
+	stability_monthly_change = 0.43499999999999994
+	monthly_political_influence = 4.35
+}
+admin_ration4_34 = {
+	stability_monthly_change = 0.434
+	monthly_political_influence = 4.34
+}
+admin_ration4_33 = {
+	stability_monthly_change = 0.433
+	monthly_political_influence = 4.33
+}
+admin_ration4_32 = {
+	stability_monthly_change = 0.43200000000000005
+	monthly_political_influence = 4.32
+}
+admin_ration4_31 = {
+	stability_monthly_change = 0.43099999999999994
+	monthly_political_influence = 4.31
+}
+admin_ration4_3 = {
+	stability_monthly_change = 0.43
+	monthly_political_influence = 4.3
+}
+admin_ration4_29 = {
+	stability_monthly_change = 0.429
+	monthly_political_influence = 4.29
+}
+admin_ration4_28 = {
+	stability_monthly_change = 0.42800000000000005
+	monthly_political_influence = 4.28
+}
+admin_ration4_27 = {
+	stability_monthly_change = 0.42699999999999994
+	monthly_political_influence = 4.27
+}
+admin_ration4_26 = {
+	stability_monthly_change = 0.426
+	monthly_political_influence = 4.26
+}
+admin_ration4_25 = {
+	stability_monthly_change = 0.425
+	monthly_political_influence = 4.25
+}
+admin_ration4_24 = {
+	stability_monthly_change = 0.42400000000000004
+	monthly_political_influence = 4.24
+}
+admin_ration4_23 = {
+	stability_monthly_change = 0.42300000000000004
+	monthly_political_influence = 4.23
+}
+admin_ration4_22 = {
+	stability_monthly_change = 0.422
+	monthly_political_influence = 4.22
+}
+admin_ration4_21 = {
+	stability_monthly_change = 0.421
+	monthly_political_influence = 4.21
+}
+admin_ration4_2 = {
+	stability_monthly_change = 0.42000000000000004
+	monthly_political_influence = 4.2
+}
+admin_ration4_19 = {
+	stability_monthly_change = 0.41900000000000004
+	monthly_political_influence = 4.19
+}
+admin_ration4_18 = {
+	stability_monthly_change = 0.418
+	monthly_political_influence = 4.18
+}
+admin_ration4_17 = {
+	stability_monthly_change = 0.417
+	monthly_political_influence = 4.17
+}
+admin_ration4_16 = {
+	stability_monthly_change = 0.41600000000000004
+	monthly_political_influence = 4.16
+}
+admin_ration4_15 = {
+	stability_monthly_change = 0.41500000000000004
+	monthly_political_influence = 4.15
+}
+admin_ration4_14 = {
+	stability_monthly_change = 0.414
+	monthly_political_influence = 4.14
+}
+admin_ration4_13 = {
+	stability_monthly_change = 0.413
+	monthly_political_influence = 4.13
+}
+admin_ration4_12 = {
+	stability_monthly_change = 0.41200000000000003
+	monthly_political_influence = 4.12
+}
+admin_ration4_11 = {
+	stability_monthly_change = 0.41100000000000003
+	monthly_political_influence = 4.11
+}
+admin_ration4_1 = {
+	stability_monthly_change = 0.41
+	monthly_political_influence = 4.1
+}
+admin_ration4_09 = {
+	stability_monthly_change = 0.409
+	monthly_political_influence = 4.09
+}
+admin_ration4_08 = {
+	stability_monthly_change = 0.40800000000000003
+	monthly_political_influence = 4.08
+}
+admin_ration4_07 = {
+	stability_monthly_change = 0.40700000000000003
+	monthly_political_influence = 4.07
+}
+admin_ration4_06 = {
+	stability_monthly_change = 0.40599999999999997
+	monthly_political_influence = 4.06
+}
+admin_ration4_05 = {
+	stability_monthly_change = 0.40499999999999997
+	monthly_political_influence = 4.05
+}
+admin_ration4_04 = {
+	stability_monthly_change = 0.404
+	monthly_political_influence = 4.04
+}
+admin_ration4_03 = {
+	stability_monthly_change = 0.403
+	monthly_political_influence = 4.03
+}
+admin_ration4_02 = {
+	stability_monthly_change = 0.40199999999999997
+	monthly_political_influence = 4.02
+}
+admin_ration4_01 = {
+	stability_monthly_change = 0.40099999999999997
+	monthly_political_influence = 4.01
+}
+admin_ration4_0 = {
+	stability_monthly_change = 0.4
+	monthly_political_influence = 4.0
+}
+admin_ration3_99 = {
+	stability_monthly_change = 0.399
+	monthly_political_influence = 3.99
+}
+admin_ration3_98 = {
+	stability_monthly_change = 0.398
+	monthly_political_influence = 3.98
+}
+admin_ration3_97 = {
+	stability_monthly_change = 0.397
+	monthly_political_influence = 3.97
+}
+admin_ration3_96 = {
+	stability_monthly_change = 0.396
+	monthly_political_influence = 3.96
+}
+admin_ration3_95 = {
+	stability_monthly_change = 0.395
+	monthly_political_influence = 3.95
+}
+admin_ration3_94 = {
+	stability_monthly_change = 0.394
+	monthly_political_influence = 3.94
+}
+admin_ration3_93 = {
+	stability_monthly_change = 0.393
+	monthly_political_influence = 3.93
+}
+admin_ration3_92 = {
+	stability_monthly_change = 0.392
+	monthly_political_influence = 3.92
+}
+admin_ration3_91 = {
+	stability_monthly_change = 0.391
+	monthly_political_influence = 3.91
+}
+admin_ration3_9 = {
+	stability_monthly_change = 0.39
+	monthly_political_influence = 3.9
+}
+admin_ration3_89 = {
+	stability_monthly_change = 0.389
+	monthly_political_influence = 3.89
+}
+admin_ration3_88 = {
+	stability_monthly_change = 0.388
+	monthly_political_influence = 3.88
+}
+admin_ration3_87 = {
+	stability_monthly_change = 0.387
+	monthly_political_influence = 3.87
+}
+admin_ration3_86 = {
+	stability_monthly_change = 0.386
+	monthly_political_influence = 3.86
+}
+admin_ration3_85 = {
+	stability_monthly_change = 0.385
+	monthly_political_influence = 3.85
+}
+admin_ration3_84 = {
+	stability_monthly_change = 0.384
+	monthly_political_influence = 3.84
+}
+admin_ration3_83 = {
+	stability_monthly_change = 0.383
+	monthly_political_influence = 3.83
+}
+admin_ration3_82 = {
+	stability_monthly_change = 0.382
+	monthly_political_influence = 3.82
+}
+admin_ration3_81 = {
+	stability_monthly_change = 0.381
+	monthly_political_influence = 3.81
+}
+admin_ration3_80 = {
+	stability_monthly_change = 0.38
+	monthly_political_influence = 3.8
+}
+admin_ration3_79 = {
+	stability_monthly_change = 0.379
+	monthly_political_influence = 3.79
+}
+admin_ration3_78 = {
+	stability_monthly_change = 0.378
+	monthly_political_influence = 3.78
+}
+admin_ration3_77 = {
+	stability_monthly_change = 0.377
+	monthly_political_influence = 3.77
+}
+admin_ration3_76 = {
+	stability_monthly_change = 0.376
+	monthly_political_influence = 3.76
+}
+admin_ration3_75 = {
+	stability_monthly_change = 0.375
+	monthly_political_influence = 3.75
+}
+admin_ration3_74 = {
+	stability_monthly_change = 0.374
+	monthly_political_influence = 3.74
+}
+admin_ration3_73 = {
+	stability_monthly_change = 0.373
+	monthly_political_influence = 3.73
+}
+admin_ration3_72 = {
+	stability_monthly_change = 0.372
+	monthly_political_influence = 3.72
+}
+admin_ration3_71 = {
+	stability_monthly_change = 0.371
+	monthly_political_influence = 3.71
+}
+admin_ration3_7 = {
+	stability_monthly_change = 0.37
+	monthly_political_influence = 3.7
+}
+admin_ration3_69 = {
+	stability_monthly_change = 0.369
+	monthly_political_influence = 3.69
+}
+admin_ration3_68 = {
+	stability_monthly_change = 0.368
+	monthly_political_influence = 3.68
+}
+admin_ration3_67 = {
+	stability_monthly_change = 0.367
+	monthly_political_influence = 3.67
+}
+admin_ration3_66 = {
+	stability_monthly_change = 0.366
+	monthly_political_influence = 3.66
+}
+admin_ration3_65 = {
+	stability_monthly_change = 0.365
+	monthly_political_influence = 3.65
+}
+admin_ration3_64 = {
+	stability_monthly_change = 0.364
+	monthly_political_influence = 3.64
+}
+admin_ration3_63 = {
+	stability_monthly_change = 0.363
+	monthly_political_influence = 3.63
+}
+admin_ration3_62 = {
+	stability_monthly_change = 0.362
+	monthly_political_influence = 3.62
+}
+admin_ration3_61 = {
+	stability_monthly_change = 0.361
+	monthly_political_influence = 3.61
+}
+admin_ration3_6 = {
+	stability_monthly_change = 0.36
+	monthly_political_influence = 3.6
+}
+admin_ration3_59 = {
+	stability_monthly_change = 0.359
+	monthly_political_influence = 3.59
+}
+admin_ration3_58 = {
+	stability_monthly_change = 0.358
+	monthly_political_influence = 3.58
+}
+admin_ration3_57 = {
+	stability_monthly_change = 0.357
+	monthly_political_influence = 3.57
+}
+admin_ration3_56 = {
+	stability_monthly_change = 0.356
+	monthly_political_influence = 3.56
+}
+admin_ration3_55 = {
+	stability_monthly_change = 0.355
+	monthly_political_influence = 3.55
+}
+admin_ration3_54 = {
+	stability_monthly_change = 0.354
+	monthly_political_influence = 3.54
+}
+admin_ration3_53 = {
+	stability_monthly_change = 0.353
+	monthly_political_influence = 3.53
+}
+admin_ration3_52 = {
+	stability_monthly_change = 0.352
+	monthly_political_influence = 3.52
+}
+admin_ration3_51 = {
+	stability_monthly_change = 0.351
+	monthly_political_influence = 3.51
+}
+admin_ration3_5 = {
+	stability_monthly_change = 0.35
+	monthly_political_influence = 3.5
+}
+admin_ration3_49 = {
+	stability_monthly_change = 0.34900000000000003
+	monthly_political_influence = 3.49
+}
+admin_ration3_48 = {
+	stability_monthly_change = 0.348
+	monthly_political_influence = 3.48
+}
+admin_ration3_47 = {
+	stability_monthly_change = 0.34700000000000003
+	monthly_political_influence = 3.47
+}
+admin_ration3_46 = {
+	stability_monthly_change = 0.346
+	monthly_political_influence = 3.46
+}
+admin_ration3_45 = {
+	stability_monthly_change = 0.34500000000000003
+	monthly_political_influence = 3.45
+}
+admin_ration3_44 = {
+	stability_monthly_change = 0.344
+	monthly_political_influence = 3.44
+}
+admin_ration3_43 = {
+	stability_monthly_change = 0.343
+	monthly_political_influence = 3.43
+}
+admin_ration3_42 = {
+	stability_monthly_change = 0.34199999999999997
+	monthly_political_influence = 3.42
+}
+admin_ration3_41 = {
+	stability_monthly_change = 0.341
+	monthly_political_influence = 3.41
+}
+admin_ration3_4 = {
+	stability_monthly_change = 0.33999999999999997
+	monthly_political_influence = 3.4
+}
+admin_ration3_39 = {
+	stability_monthly_change = 0.339
+	monthly_political_influence = 3.39
+}
+admin_ration3_38 = {
+	stability_monthly_change = 0.33799999999999997
+	monthly_political_influence = 3.38
+}
+admin_ration3_37 = {
+	stability_monthly_change = 0.337
+	monthly_political_influence = 3.37
+}
+admin_ration3_36 = {
+	stability_monthly_change = 0.33599999999999997
+	monthly_political_influence = 3.36
+}
+admin_ration3_35 = {
+	stability_monthly_change = 0.335
+	monthly_political_influence = 3.35
+}
+admin_ration3_34 = {
+	stability_monthly_change = 0.33399999999999996
+	monthly_political_influence = 3.34
+}
+admin_ration3_33 = {
+	stability_monthly_change = 0.333
+	monthly_political_influence = 3.33
+}
+admin_ration3_32 = {
+	stability_monthly_change = 0.33199999999999996
+	monthly_political_influence = 3.32
+}
+admin_ration3_31 = {
+	stability_monthly_change = 0.331
+	monthly_political_influence = 3.31
+}
+admin_ration3_30 = {
+	stability_monthly_change = 0.32999999999999996
+	monthly_political_influence = 3.3
+}
+admin_ration3_29 = {
+	stability_monthly_change = 0.329
+	monthly_political_influence = 3.29
+}
+admin_ration3_28 = {
+	stability_monthly_change = 0.32799999999999996
+	monthly_political_influence = 3.28
+}
+admin_ration3_27 = {
+	stability_monthly_change = 0.327
+	monthly_political_influence = 3.27
+}
+admin_ration3_26 = {
+	stability_monthly_change = 0.32599999999999996
+	monthly_political_influence = 3.26
+}
+admin_ration3_25 = {
+	stability_monthly_change = 0.325
+	monthly_political_influence = 3.25
+}
+admin_ration3_24 = {
+	stability_monthly_change = 0.324
+	monthly_political_influence = 3.24
+}
+admin_ration3_23 = {
+	stability_monthly_change = 0.323
+	monthly_political_influence = 3.23
+}
+admin_ration3_22 = {
+	stability_monthly_change = 0.322
+	monthly_political_influence = 3.22
+}
+admin_ration3_21 = {
+	stability_monthly_change = 0.321
+	monthly_political_influence = 3.21
+}
+admin_ration3_2 = {
+	stability_monthly_change = 0.32
+	monthly_political_influence = 3.2
+}
+admin_ration3_19 = {
+	stability_monthly_change = 0.319
+	monthly_political_influence = 3.19
+}
+admin_ration3_18 = {
+	stability_monthly_change = 0.318
+	monthly_political_influence = 3.18
+}
+admin_ration3_17 = {
+	stability_monthly_change = 0.317
+	monthly_political_influence = 3.17
+}
+admin_ration3_16 = {
+	stability_monthly_change = 0.316
+	monthly_political_influence = 3.16
+}
+admin_ration3_15 = {
+	stability_monthly_change = 0.315
+	monthly_political_influence = 3.15
+}
+admin_ration3_14 = {
+	stability_monthly_change = 0.314
+	monthly_political_influence = 3.14
+}
+admin_ration3_13 = {
+	stability_monthly_change = 0.313
+	monthly_political_influence = 3.13
+}
+admin_ration3_12 = {
+	stability_monthly_change = 0.312
+	monthly_political_influence = 3.12
+}
+admin_ration3_11 = {
+	stability_monthly_change = 0.311
+	monthly_political_influence = 3.11
+}
+admin_ration3_1 = {
+	stability_monthly_change = 0.31
+	monthly_political_influence = 3.1
+}
+admin_ration3_09 = {
+	stability_monthly_change = 0.309
+	monthly_political_influence = 3.09
+}
+admin_ration3_08 = {
+	stability_monthly_change = 0.308
+	monthly_political_influence = 3.08
+}
+admin_ration3_07 = {
+	stability_monthly_change = 0.307
+	monthly_political_influence = 3.07
+}
+admin_ration3_06 = {
+	stability_monthly_change = 0.306
+	monthly_political_influence = 3.06
+}
+admin_ration3_05 = {
+	stability_monthly_change = 0.305
+	monthly_political_influence = 3.05
+}
+admin_ration3_04 = {
+	stability_monthly_change = 0.304
+	monthly_political_influence = 3.04
+}
+admin_ration3_03 = {
+	stability_monthly_change = 0.303
+	monthly_political_influence = 3.03
+}
+admin_ration3_02 = {
+	stability_monthly_change = 0.302
+	monthly_political_influence = 3.02
+}
+admin_ration3_01 = {
+	stability_monthly_change = 0.301
+	monthly_political_influence = 3.01
+}
+admin_ration3_0 = {
+	stability_monthly_change = 0.3
+	monthly_political_influence = 3.0
+}
+admin_ration2_99 = {
+	stability_monthly_change = 0.29900000000000004
+	monthly_political_influence = 2.99
+}
+admin_ration2_98 = {
+	stability_monthly_change = 0.298
+	monthly_political_influence = 2.98
+}
+admin_ration2_97 = {
+	stability_monthly_change = 0.29700000000000004
+	monthly_political_influence = 2.97
+}
+admin_ration2_96 = {
+	stability_monthly_change = 0.296
+	monthly_political_influence = 2.96
+}
+admin_ration2_95 = {
+	stability_monthly_change = 0.29500000000000004
+	monthly_political_influence = 2.95
+}
+admin_ration2_94 = {
+	stability_monthly_change = 0.294
+	monthly_political_influence = 2.94
+}
+admin_ration2_93 = {
+	stability_monthly_change = 0.29300000000000004
+	monthly_political_influence = 2.93
+}
+admin_ration2_92 = {
+	stability_monthly_change = 0.292
+	monthly_political_influence = 2.92
+}
+admin_ration2_91 = {
+	stability_monthly_change = 0.29100000000000004
+	monthly_political_influence = 2.91
+}
+admin_ration2_9 = {
+	stability_monthly_change = 0.29
+	monthly_political_influence = 2.9
+}
+admin_ration2_89 = {
+	stability_monthly_change = 0.28900000000000003
+	monthly_political_influence = 2.89
+}
+admin_ration2_88 = {
+	stability_monthly_change = 0.288
+	monthly_political_influence = 2.88
+}
+admin_ration2_87 = {
+	stability_monthly_change = 0.28700000000000003
+	monthly_political_influence = 2.87
+}
+admin_ration2_86 = {
+	stability_monthly_change = 0.286
+	monthly_political_influence = 2.86
+}
+admin_ration2_85 = {
+	stability_monthly_change = 0.28500000000000003
+	monthly_political_influence = 2.85
+}
+admin_ration2_84 = {
+	stability_monthly_change = 0.284
+	monthly_political_influence = 2.84
+}
+admin_ration2_83 = {
+	stability_monthly_change = 0.28300000000000003
+	monthly_political_influence = 2.83
+}
+admin_ration2_82 = {
+	stability_monthly_change = 0.282
+	monthly_political_influence = 2.82
+}
+admin_ration2_81 = {
+	stability_monthly_change = 0.281
+	monthly_political_influence = 2.81
+}
+admin_ration2_80 = {
+	stability_monthly_change = 0.27999999999999997
+	monthly_political_influence = 2.8
+}
+admin_ration2_79 = {
+	stability_monthly_change = 0.279
+	monthly_political_influence = 2.79
+}
+admin_ration2_78 = {
+	stability_monthly_change = 0.27799999999999997
+	monthly_political_influence = 2.78
+}
+admin_ration2_77 = {
+	stability_monthly_change = 0.277
+	monthly_political_influence = 2.77
+}
+admin_ration2_76 = {
+	stability_monthly_change = 0.27599999999999997
+	monthly_political_influence = 2.76
+}
+admin_ration2_75 = {
+	stability_monthly_change = 0.275
+	monthly_political_influence = 2.75
+}
+admin_ration2_74 = {
+	stability_monthly_change = 0.274
+	monthly_political_influence = 2.74
+}
+admin_ration2_73 = {
+	stability_monthly_change = 0.273
+	monthly_political_influence = 2.73
+}
+admin_ration2_72 = {
+	stability_monthly_change = 0.272
+	monthly_political_influence = 2.72
+}
+admin_ration2_71 = {
+	stability_monthly_change = 0.271
+	monthly_political_influence = 2.71
+}
+admin_ration2_7 = {
+	stability_monthly_change = 0.27
+	monthly_political_influence = 2.7
+}
+admin_ration2_69 = {
+	stability_monthly_change = 0.269
+	monthly_political_influence = 2.69
+}
+admin_ration2_68 = {
+	stability_monthly_change = 0.268
+	monthly_political_influence = 2.68
+}
+admin_ration2_67 = {
+	stability_monthly_change = 0.267
+	monthly_political_influence = 2.67
+}
+admin_ration2_66 = {
+	stability_monthly_change = 0.266
+	monthly_political_influence = 2.66
+}
+admin_ration2_65 = {
+	stability_monthly_change = 0.265
+	monthly_political_influence = 2.65
+}
+admin_ration2_64 = {
+	stability_monthly_change = 0.264
+	monthly_political_influence = 2.64
+}
+admin_ration2_63 = {
+	stability_monthly_change = 0.263
+	monthly_political_influence = 2.63
+}
+admin_ration2_62 = {
+	stability_monthly_change = 0.262
+	monthly_political_influence = 2.62
+}
+admin_ration2_61 = {
+	stability_monthly_change = 0.261
+	monthly_political_influence = 2.61
+}
+admin_ration2_6 = {
+	stability_monthly_change = 0.26
+	monthly_political_influence = 2.6
+}
+admin_ration2_59 = {
+	stability_monthly_change = 0.259
+	monthly_political_influence = 2.59
+}
+admin_ration2_58 = {
+	stability_monthly_change = 0.258
+	monthly_political_influence = 2.58
+}
+admin_ration2_57 = {
+	stability_monthly_change = 0.257
+	monthly_political_influence = 2.57
+}
+admin_ration2_56 = {
+	stability_monthly_change = 0.256
+	monthly_political_influence = 2.56
+}
+admin_ration2_55 = {
+	stability_monthly_change = 0.255
+	monthly_political_influence = 2.55
+}
+admin_ration2_54 = {
+	stability_monthly_change = 0.254
+	monthly_political_influence = 2.54
+}
+admin_ration2_53 = {
+	stability_monthly_change = 0.253
+	monthly_political_influence = 2.53
+}
+admin_ration2_52 = {
+	stability_monthly_change = 0.252
+	monthly_political_influence = 2.52
+}
+admin_ration2_51 = {
+	stability_monthly_change = 0.251
+	monthly_political_influence = 2.51
+}
+admin_ration2_5 = {
+	stability_monthly_change = 0.25
+	monthly_political_influence = 2.5
+}
+admin_ration2_49 = {
+	stability_monthly_change = 0.24900000000000003
+	monthly_political_influence = 2.49
+}
+admin_ration2_48 = {
+	stability_monthly_change = 0.248
+	monthly_political_influence = 2.48
+}
+admin_ration2_47 = {
+	stability_monthly_change = 0.24700000000000003
+	monthly_political_influence = 2.47
+}
+admin_ration2_46 = {
+	stability_monthly_change = 0.246
+	monthly_political_influence = 2.46
+}
+admin_ration2_45 = {
+	stability_monthly_change = 0.24500000000000002
+	monthly_political_influence = 2.45
+}
+admin_ration2_44 = {
+	stability_monthly_change = 0.244
+	monthly_political_influence = 2.44
+}
+admin_ration2_43 = {
+	stability_monthly_change = 0.24300000000000002
+	monthly_political_influence = 2.43
+}
+admin_ration2_42 = {
+	stability_monthly_change = 0.242
+	monthly_political_influence = 2.42
+}
+admin_ration2_41 = {
+	stability_monthly_change = 0.24100000000000002
+	monthly_political_influence = 2.41
+}
+admin_ration2_4 = {
+	stability_monthly_change = 0.24
+	monthly_political_influence = 2.4
+}
+admin_ration2_39 = {
+	stability_monthly_change = 0.23900000000000002
+	monthly_political_influence = 2.39
+}
+admin_ration2_38 = {
+	stability_monthly_change = 0.238
+	monthly_political_influence = 2.38
+}
+admin_ration2_37 = {
+	stability_monthly_change = 0.23700000000000002
+	monthly_political_influence = 2.37
+}
+admin_ration2_36 = {
+	stability_monthly_change = 0.236
+	monthly_political_influence = 2.36
+}
+admin_ration2_35 = {
+	stability_monthly_change = 0.23500000000000001
+	monthly_political_influence = 2.35
+}
+admin_ration2_34 = {
+	stability_monthly_change = 0.23399999999999999
+	monthly_political_influence = 2.34
+}
+admin_ration2_33 = {
+	stability_monthly_change = 0.233
+	monthly_political_influence = 2.33
+}
+admin_ration2_32 = {
+	stability_monthly_change = 0.23199999999999998
+	monthly_political_influence = 2.32
+}
+admin_ration2_31 = {
+	stability_monthly_change = 0.231
+	monthly_political_influence = 2.31
+}
+admin_ration2_30 = {
+	stability_monthly_change = 0.22999999999999998
+	monthly_political_influence = 2.3
+}
+admin_ration2_29 = {
+	stability_monthly_change = 0.229
+	monthly_political_influence = 2.29
+}
+admin_ration2_28 = {
+	stability_monthly_change = 0.22799999999999998
+	monthly_political_influence = 2.28
+}
+admin_ration2_27 = {
+	stability_monthly_change = 0.227
+	monthly_political_influence = 2.27
+}
+admin_ration2_26 = {
+	stability_monthly_change = 0.22599999999999998
+	monthly_political_influence = 2.26
+}
+admin_ration2_25 = {
+	stability_monthly_change = 0.225
+	monthly_political_influence = 2.25
+}
+admin_ration2_24 = {
+	stability_monthly_change = 0.22400000000000003
+	monthly_political_influence = 2.24
+}
+admin_ration2_23 = {
+	stability_monthly_change = 0.223
+	monthly_political_influence = 2.23
+}
+admin_ration2_22 = {
+	stability_monthly_change = 0.22200000000000003
+	monthly_political_influence = 2.22
+}
+admin_ration2_21 = {
+	stability_monthly_change = 0.221
+	monthly_political_influence = 2.21
+}
+admin_ration2_2 = {
+	stability_monthly_change = 0.22000000000000003
+	monthly_political_influence = 2.2
+}
+admin_ration2_19 = {
+	stability_monthly_change = 0.219
+	monthly_political_influence = 2.19
+}
+admin_ration2_18 = {
+	stability_monthly_change = 0.21800000000000003
+	monthly_political_influence = 2.18
+}
+admin_ration2_17 = {
+	stability_monthly_change = 0.217
+	monthly_political_influence = 2.17
+}
+admin_ration2_16 = {
+	stability_monthly_change = 0.21600000000000003
+	monthly_political_influence = 2.16
+}
+admin_ration2_15 = {
+	stability_monthly_change = 0.215
+	monthly_political_influence = 2.15
+}
+admin_ration2_14 = {
+	stability_monthly_change = 0.21400000000000002
+	monthly_political_influence = 2.14
+}
+admin_ration2_13 = {
+	stability_monthly_change = 0.213
+	monthly_political_influence = 2.13
+}
+admin_ration2_12 = {
+	stability_monthly_change = 0.21200000000000002
+	monthly_political_influence = 2.12
+}
+admin_ration2_11 = {
+	stability_monthly_change = 0.211
+	monthly_political_influence = 2.11
+}
+admin_ration2_1 = {
+	stability_monthly_change = 0.21000000000000002
+	monthly_political_influence = 2.1
+}
+admin_ration2_09 = {
+	stability_monthly_change = 0.209
+	monthly_political_influence = 2.09
+}
+admin_ration2_08 = {
+	stability_monthly_change = 0.20800000000000002
+	monthly_political_influence = 2.08
+}
+admin_ration2_07 = {
+	stability_monthly_change = 0.207
+	monthly_political_influence = 2.07
+}
+admin_ration2_06 = {
+	stability_monthly_change = 0.20600000000000002
+	monthly_political_influence = 2.06
+}
+admin_ration2_05 = {
+	stability_monthly_change = 0.205
+	monthly_political_influence = 2.05
+}
+admin_ration2_04 = {
+	stability_monthly_change = 0.20400000000000001
+	monthly_political_influence = 2.04
+}
+admin_ration2_03 = {
+	stability_monthly_change = 0.20299999999999999
+	monthly_political_influence = 2.03
+}
+admin_ration2_02 = {
+	stability_monthly_change = 0.202
+	monthly_political_influence = 2.02
+}
+admin_ration2_01 = {
+	stability_monthly_change = 0.20099999999999998
+	monthly_political_influence = 2.01
+}
+admin_ration2_0 = {
+	stability_monthly_change = 0.2
+	monthly_political_influence = 2.0
+}
+admin_ration1_99 = {
+	stability_monthly_change = 0.199
+	monthly_political_influence = 1.99
+}
+admin_ration1_98 = {
+	stability_monthly_change = 0.198
+	monthly_political_influence = 1.98
+}
+admin_ration1_97 = {
+	stability_monthly_change = 0.197
+	monthly_political_influence = 1.97
+}
+admin_ration1_96 = {
+	stability_monthly_change = 0.196
+	monthly_political_influence = 1.96
+}
+admin_ration1_95 = {
+	stability_monthly_change = 0.195
+	monthly_political_influence = 1.95
+}
+admin_ration1_94 = {
+	stability_monthly_change = 0.194
+	monthly_political_influence = 1.94
+}
+admin_ration1_93 = {
+	stability_monthly_change = 0.193
+	monthly_political_influence = 1.93
+}
+admin_ration1_92 = {
+	stability_monthly_change = 0.192
+	monthly_political_influence = 1.92
+}
+admin_ration1_91 = {
+	stability_monthly_change = 0.191
+	monthly_political_influence = 1.91
+}
+admin_ration1_90 = {
+	stability_monthly_change = 0.19
+	monthly_political_influence = 1.9
+}
+admin_ration1_89 = {
+	stability_monthly_change = 0.189
+	monthly_political_influence = 1.89
+}
+admin_ration1_88 = {
+	stability_monthly_change = 0.188
+	monthly_political_influence = 1.88
+}
+admin_ration1_87 = {
+	stability_monthly_change = 0.187
+	monthly_political_influence = 1.87
+}
+admin_ration1_86 = {
+	stability_monthly_change = 0.186
+	monthly_political_influence = 1.86
+}
+admin_ration1_85 = {
+	stability_monthly_change = 0.185
+	monthly_political_influence = 1.85
+}
+admin_ration1_84 = {
+	stability_monthly_change = 0.184
+	monthly_political_influence = 1.84
+}
+admin_ration1_83 = {
+	stability_monthly_change = 0.183
+	monthly_political_influence = 1.83
+}
+admin_ration1_82 = {
+	stability_monthly_change = 0.182
+	monthly_political_influence = 1.82
+}
+admin_ration1_81 = {
+	stability_monthly_change = 0.181
+	monthly_political_influence = 1.81
+}
+admin_ration1_8 = {
+	stability_monthly_change = 0.18
+	monthly_political_influence = 1.8
+}
+admin_ration1_79 = {
+	stability_monthly_change = 0.179
+	monthly_political_influence = 1.79
+}
+admin_ration1_78 = {
+	stability_monthly_change = 0.178
+	monthly_political_influence = 1.78
+}
+admin_ration1_77 = {
+	stability_monthly_change = 0.177
+	monthly_political_influence = 1.77
+}
+admin_ration1_76 = {
+	stability_monthly_change = 0.176
+	monthly_political_influence = 1.76
+}
+admin_ration1_75 = {
+	stability_monthly_change = 0.175
+	monthly_political_influence = 1.75
+}
+admin_ration1_74 = {
+	stability_monthly_change = 0.174
+	monthly_political_influence = 1.74
+}
+admin_ration1_73 = {
+	stability_monthly_change = 0.173
+	monthly_political_influence = 1.73
+}
+admin_ration1_72 = {
+	stability_monthly_change = 0.172
+	monthly_political_influence = 1.72
+}
+admin_ration1_71 = {
+	stability_monthly_change = 0.17099999999999999
+	monthly_political_influence = 1.71
+}
+admin_ration1_7 = {
+	stability_monthly_change = 0.16999999999999998
+	monthly_political_influence = 1.7
+}
+admin_ration1_69 = {
+	stability_monthly_change = 0.16899999999999998
+	monthly_political_influence = 1.69
+}
+admin_ration1_68 = {
+	stability_monthly_change = 0.16799999999999998
+	monthly_political_influence = 1.68
+}
+admin_ration1_67 = {
+	stability_monthly_change = 0.16699999999999998
+	monthly_political_influence = 1.67
+}
+admin_ration1_66 = {
+	stability_monthly_change = 0.16599999999999998
+	monthly_political_influence = 1.66
+}
+admin_ration1_65 = {
+	stability_monthly_change = 0.16499999999999998
+	monthly_political_influence = 1.65
+}
+admin_ration1_64 = {
+	stability_monthly_change = 0.16399999999999998
+	monthly_political_influence = 1.64
+}
+admin_ration1_63 = {
+	stability_monthly_change = 0.16299999999999998
+	monthly_political_influence = 1.63
+}
+admin_ration1_62 = {
+	stability_monthly_change = 0.162
+	monthly_political_influence = 1.62
+}
+admin_ration1_61 = {
+	stability_monthly_change = 0.161
+	monthly_political_influence = 1.61
+}
+admin_ration1_6 = {
+	stability_monthly_change = 0.16
+	monthly_political_influence = 1.6
+}
+admin_ration1_59 = {
+	stability_monthly_change = 0.159
+	monthly_political_influence = 1.59
+}
+admin_ration1_58 = {
+	stability_monthly_change = 0.158
+	monthly_political_influence = 1.58
+}
+admin_ration1_57 = {
+	stability_monthly_change = 0.157
+	monthly_political_influence = 1.57
+}
+admin_ration1_56 = {
+	stability_monthly_change = 0.156
+	monthly_political_influence = 1.56
+}
+admin_ration1_55 = {
+	stability_monthly_change = 0.155
+	monthly_political_influence = 1.55
+}
+admin_ration1_54 = {
+	stability_monthly_change = 0.154
+	monthly_political_influence = 1.54
+}
+admin_ration1_53 = {
+	stability_monthly_change = 0.153
+	monthly_political_influence = 1.53
+}
+admin_ration1_52 = {
+	stability_monthly_change = 0.152
+	monthly_political_influence = 1.52
+}
+admin_ration1_51 = {
+	stability_monthly_change = 0.151
+	monthly_political_influence = 1.51
+}
+admin_ration1_5 = {
+	stability_monthly_change = 0.15
+	monthly_political_influence = 1.5
+}
+admin_ration1_49 = {
+	stability_monthly_change = 0.149
+	monthly_political_influence = 1.49
+}
+admin_ration1_48 = {
+	stability_monthly_change = 0.148
+	monthly_political_influence = 1.48
+}
+admin_ration1_47 = {
+	stability_monthly_change = 0.147
+	monthly_political_influence = 1.47
+}
+admin_ration1_46 = {
+	stability_monthly_change = 0.146
+	monthly_political_influence = 1.46
+}
+admin_ration1_45 = {
+	stability_monthly_change = 0.145
+	monthly_political_influence = 1.45
+}
+admin_ration1_44 = {
+	stability_monthly_change = 0.144
+	monthly_political_influence = 1.44
+}
+admin_ration1_43 = {
+	stability_monthly_change = 0.143
+	monthly_political_influence = 1.43
+}
+admin_ration1_42 = {
+	stability_monthly_change = 0.142
+	monthly_political_influence = 1.42
+}
+admin_ration1_41 = {
+	stability_monthly_change = 0.141
+	monthly_political_influence = 1.41
+}
+admin_ration1_40 = {
+	stability_monthly_change = 0.13999999999999999
+	monthly_political_influence = 1.4
+}
+admin_ration1_39 = {
+	stability_monthly_change = 0.13899999999999998
+	monthly_political_influence = 1.39
+}
+admin_ration1_38 = {
+	stability_monthly_change = 0.13799999999999998
+	monthly_political_influence = 1.38
+}
+admin_ration1_37 = {
+	stability_monthly_change = 0.137
+	monthly_political_influence = 1.37
+}
+admin_ration1_36 = {
+	stability_monthly_change = 0.136
+	monthly_political_influence = 1.36
+}
+admin_ration1_35 = {
+	stability_monthly_change = 0.135
+	monthly_political_influence = 1.35
+}
+admin_ration1_34 = {
+	stability_monthly_change = 0.134
+	monthly_political_influence = 1.34
+}
+admin_ration1_33 = {
+	stability_monthly_change = 0.133
+	monthly_political_influence = 1.33
+}
+admin_ration1_32 = {
+	stability_monthly_change = 0.132
+	monthly_political_influence = 1.32
+}
+admin_ration1_31 = {
+	stability_monthly_change = 0.131
+	monthly_political_influence = 1.31
+}
+admin_ration1_3 = {
+	stability_monthly_change = 0.13
+	monthly_political_influence = 1.3
+}
+admin_ration1_29 = {
+	stability_monthly_change = 0.129
+	monthly_political_influence = 1.29
+}
+admin_ration1_28 = {
+	stability_monthly_change = 0.128
+	monthly_political_influence = 1.28
+}
+admin_ration1_27 = {
+	stability_monthly_change = 0.127
+	monthly_political_influence = 1.27
+}
+admin_ration1_26 = {
+	stability_monthly_change = 0.126
+	monthly_political_influence = 1.26
+}
+admin_ration1_25 = {
+	stability_monthly_change = 0.125
+	monthly_political_influence = 1.25
+}
+admin_ration1_24 = {
+	stability_monthly_change = 0.124
+	monthly_political_influence = 1.24
+}
+admin_ration1_23 = {
+	stability_monthly_change = 0.123
+	monthly_political_influence = 1.23
+}
+admin_ration1_22 = {
+	stability_monthly_change = 0.122
+	monthly_political_influence = 1.22
+}
+admin_ration1_21 = {
+	stability_monthly_change = 0.121
+	monthly_political_influence = 1.21
+}
+admin_ration1_2 = {
+	stability_monthly_change = 0.12
+	monthly_political_influence = 1.2
+}
+admin_ration1_19 = {
+	stability_monthly_change = 0.119
+	monthly_political_influence = 1.19
+}
+admin_ration1_18 = {
+	stability_monthly_change = 0.118
+	monthly_political_influence = 1.18
+}
+admin_ration1_17 = {
+	stability_monthly_change = 0.11699999999999999
+	monthly_political_influence = 1.17
+}
+admin_ration1_16 = {
+	stability_monthly_change = 0.11599999999999999
+	monthly_political_influence = 1.16
+}
+admin_ration1_15 = {
+	stability_monthly_change = 0.11499999999999999
+	monthly_political_influence = 1.15
+}
+admin_ration1_14 = {
+	stability_monthly_change = 0.11399999999999999
+	monthly_political_influence = 1.14
+}
+admin_ration1_13 = {
+	stability_monthly_change = 0.11299999999999999
+	monthly_political_influence = 1.13
+}
+admin_ration1_12 = {
+	stability_monthly_change = 0.11200000000000002
+	monthly_political_influence = 1.12
+}
+admin_ration1_11 = {
+	stability_monthly_change = 0.11100000000000002
+	monthly_political_influence = 1.11
+}
+admin_ration1_1 = {
+	stability_monthly_change = 0.11000000000000001
+	monthly_political_influence = 1.1
+}
+admin_ration1_09 = {
+	stability_monthly_change = 0.10900000000000001
+	monthly_political_influence = 1.09
+}
+admin_ration1_08 = {
+	stability_monthly_change = 0.10800000000000001
+	monthly_political_influence = 1.08
+}
+admin_ration1_07 = {
+	stability_monthly_change = 0.10700000000000001
+	monthly_political_influence = 1.07
+}
+admin_ration1_06 = {
+	stability_monthly_change = 0.10600000000000001
+	monthly_political_influence = 1.06
+}
+admin_ration1_05 = {
+	stability_monthly_change = 0.10500000000000001
+	monthly_political_influence = 1.05
+}
+admin_ration1_04 = {
+	stability_monthly_change = 0.10400000000000001
+	monthly_political_influence = 1.04
+}
+admin_ration1_03 = {
+	stability_monthly_change = 0.10300000000000001
+	monthly_political_influence = 1.03
+}
+admin_ration1_02 = {
+	stability_monthly_change = 0.10200000000000001
+	monthly_political_influence = 1.02
+}
+admin_ration1_01 = {
+	stability_monthly_change = 0.101
+	monthly_political_influence = 1.01
+}
+admin_ration1_0 = {
+	stability_monthly_change = 0.1
+	monthly_political_influence = 1.0
+}
+admin_ration0_99 = {
+	stability_monthly_change = 0.099
+	monthly_political_influence = 0.99
+}
+admin_ration0_98 = {
+	stability_monthly_change = 0.098
+	monthly_political_influence = 0.98
+}
+admin_ration0_97 = {
+	stability_monthly_change = 0.097
+	monthly_political_influence = 0.97
+}
+admin_ration0_96 = {
+	stability_monthly_change = 0.096
+	monthly_political_influence = 0.96
+}
+admin_ration0_95 = {
+	stability_monthly_change = 0.095
+	monthly_political_influence = 0.95
+}
+admin_ration0_94 = {
+	stability_monthly_change = 0.094
+	monthly_political_influence = 0.94
+}
+admin_ration0_93 = {
+	stability_monthly_change = 0.093
+	monthly_political_influence = 0.93
+}
+admin_ration0_92 = {
+	stability_monthly_change = 0.092
+	monthly_political_influence = 0.92
+}
+admin_ration0_91 = {
+	stability_monthly_change = 0.091
+	monthly_political_influence = 0.91
+}
+admin_ration0_9 = {
+	stability_monthly_change = 0.09
+	monthly_political_influence = 0.9
+}
+admin_ration0_89 = {
+	stability_monthly_change = 0.089
+	monthly_political_influence = 0.89
+}
+admin_ration0_88 = {
+	stability_monthly_change = 0.088
+	monthly_political_influence = 0.88
+}
+admin_ration0_87 = {
+	stability_monthly_change = 0.087
+	monthly_political_influence = 0.87
+}
+admin_ration0_86 = {
+	stability_monthly_change = 0.086
+	monthly_political_influence = 0.86
+}
+admin_ration0_85 = {
+	stability_monthly_change = 0.08499999999999999
+	monthly_political_influence = 0.85
+}
+admin_ration0_84 = {
+	stability_monthly_change = 0.08399999999999999
+	monthly_political_influence = 0.84
+}
+admin_ration0_83 = {
+	stability_monthly_change = 0.08299999999999999
+	monthly_political_influence = 0.83
+}
+admin_ration0_82 = {
+	stability_monthly_change = 0.08199999999999999
+	monthly_political_influence = 0.82
+}
+admin_ration0_81 = {
+	stability_monthly_change = 0.081
+	monthly_political_influence = 0.81
+}
+admin_ration0_8 = {
+	stability_monthly_change = 0.08
+	monthly_political_influence = 0.8
+}
+admin_ration0_79 = {
+	stability_monthly_change = 0.079
+	monthly_political_influence = 0.79
+}
+admin_ration0_78 = {
+	stability_monthly_change = 0.078
+	monthly_political_influence = 0.78
+}
+admin_ration0_77 = {
+	stability_monthly_change = 0.077
+	monthly_political_influence = 0.77
+}
+admin_ration0_76 = {
+	stability_monthly_change = 0.076
+	monthly_political_influence = 0.76
+}
+admin_ration0_75 = {
+	stability_monthly_change = 0.075
+	monthly_political_influence = 0.75
+}
+admin_ration0_74 = {
+	stability_monthly_change = 0.074
+	monthly_political_influence = 0.74
+}
+admin_ration0_73 = {
+	stability_monthly_change = 0.073
+	monthly_political_influence = 0.73
+}
+admin_ration0_72 = {
+	stability_monthly_change = 0.072
+	monthly_political_influence = 0.72
+}
+admin_ration0_71 = {
+	stability_monthly_change = 0.071
+	monthly_political_influence = 0.71
+}
+admin_ration0_70 = {
+	stability_monthly_change = 0.06999999999999999
+	monthly_political_influence = 0.7
+}
+admin_ration0_69 = {
+	stability_monthly_change = 0.06899999999999999
+	monthly_political_influence = 0.69
+}
+admin_ration0_68 = {
+	stability_monthly_change = 0.068
+	monthly_political_influence = 0.68
+}
+admin_ration0_67 = {
+	stability_monthly_change = 0.067
+	monthly_political_influence = 0.67
+}
+admin_ration0_66 = {
+	stability_monthly_change = 0.066
+	monthly_political_influence = 0.66
+}
+admin_ration0_65 = {
+	stability_monthly_change = 0.065
+	monthly_political_influence = 0.65
+}
+admin_ration0_64 = {
+	stability_monthly_change = 0.064
+	monthly_political_influence = 0.64
+}
+admin_ration0_63 = {
+	stability_monthly_change = 0.063
+	monthly_political_influence = 0.63
+}
+admin_ration0_62 = {
+	stability_monthly_change = 0.062
+	monthly_political_influence = 0.62
+}
+admin_ration0_61 = {
+	stability_monthly_change = 0.061
+	monthly_political_influence = 0.61
+}
+admin_ration0_6 = {
+	stability_monthly_change = 0.06
+	monthly_political_influence = 0.6
+}
+admin_ration0_59 = {
+	stability_monthly_change = 0.059
+	monthly_political_influence = 0.59
+}
+admin_ration0_58 = {
+	stability_monthly_change = 0.057999999999999996
+	monthly_political_influence = 0.58
+}
+admin_ration0_57 = {
+	stability_monthly_change = 0.056999999999999995
+	monthly_political_influence = 0.57
+}
+admin_ration0_56 = {
+	stability_monthly_change = 0.05600000000000001
+	monthly_political_influence = 0.56
+}
+admin_ration0_55 = {
+	stability_monthly_change = 0.05500000000000001
+	monthly_political_influence = 0.55
+}
+admin_ration0_54 = {
+	stability_monthly_change = 0.054000000000000006
+	monthly_political_influence = 0.54
+}
+admin_ration0_53 = {
+	stability_monthly_change = 0.053000000000000005
+	monthly_political_influence = 0.53
+}
+admin_ration0_52 = {
+	stability_monthly_change = 0.052000000000000005
+	monthly_political_influence = 0.52
+}
+admin_ration0_51 = {
+	stability_monthly_change = 0.051000000000000004
+	monthly_political_influence = 0.51
+}
+admin_ration0_5 = {
+	stability_monthly_change = 0.05
+	monthly_political_influence = 0.5
+}
+admin_ration0_49 = {
+	stability_monthly_change = 0.049
+	monthly_political_influence = 0.49
+}
+admin_ration0_48 = {
+	stability_monthly_change = 0.048
+	monthly_political_influence = 0.48
+}
+admin_ration0_47 = {
+	stability_monthly_change = 0.047
+	monthly_political_influence = 0.47
+}
+admin_ration0_46 = {
+	stability_monthly_change = 0.046
+	monthly_political_influence = 0.46
+}
+admin_ration0_45 = {
+	stability_monthly_change = 0.045
+	monthly_political_influence = 0.45
+}
+admin_ration0_44 = {
+	stability_monthly_change = 0.044
+	monthly_political_influence = 0.44
+}
+admin_ration0_43 = {
+	stability_monthly_change = 0.043
+	monthly_political_influence = 0.43
+}
+admin_ration0_42 = {
+	stability_monthly_change = 0.041999999999999996
+	monthly_political_influence = 0.42
+}
+admin_ration0_41 = {
+	stability_monthly_change = 0.040999999999999995
+	monthly_political_influence = 0.41
+}
+admin_ration0_4 = {
+	stability_monthly_change = 0.04
+	monthly_political_influence = 0.4
+}
+admin_ration0_39 = {
+	stability_monthly_change = 0.039
+	monthly_political_influence = 0.39
+}
+admin_ration0_38 = {
+	stability_monthly_change = 0.038
+	monthly_political_influence = 0.38
+}
+admin_ration0_37 = {
+	stability_monthly_change = 0.037
+	monthly_political_influence = 0.37
+}
+admin_ration0_36 = {
+	stability_monthly_change = 0.036
+	monthly_political_influence = 0.36
+}
+admin_ration0_35 = {
+	stability_monthly_change = 0.034999999999999996
+	monthly_political_influence = 0.35
+}
+admin_ration0_34 = {
+	stability_monthly_change = 0.034
+	monthly_political_influence = 0.34
+}
+admin_ration0_33 = {
+	stability_monthly_change = 0.033
+	monthly_political_influence = 0.33
+}
+admin_ration0_32 = {
+	stability_monthly_change = 0.032
+	monthly_political_influence = 0.32
+}
+admin_ration0_31 = {
+	stability_monthly_change = 0.031
+	monthly_political_influence = 0.31
+}
+admin_ration0_3 = {
+	stability_monthly_change = 0.03
+	monthly_political_influence = 0.3
+}
+admin_ration0_29 = {
+	stability_monthly_change = 0.028999999999999998
+	monthly_political_influence = 0.29
+}
+admin_ration0_28 = {
+	stability_monthly_change = 0.028000000000000004
+	monthly_political_influence = 0.28
+}
+admin_ration0_27 = {
+	stability_monthly_change = 0.027000000000000003
+	monthly_political_influence = 0.27
+}
+admin_ration0_26 = {
+	stability_monthly_change = 0.026000000000000002
+	monthly_political_influence = 0.26
+}
+admin_ration0_25 = {
+	stability_monthly_change = 0.025
+	monthly_political_influence = 0.25
+}
+admin_ration0_24 = {
+	stability_monthly_change = 0.024
+	monthly_political_influence = 0.24
+}
+admin_ration0_23 = {
+	stability_monthly_change = 0.023
+	monthly_political_influence = 0.23
+}
+admin_ration0_22 = {
+	stability_monthly_change = 0.022
+	monthly_political_influence = 0.22
+}
+admin_ration0_21 = {
+	stability_monthly_change = 0.020999999999999998
+	monthly_political_influence = 0.21
+}
+admin_ration0_2 = {
+	stability_monthly_change = 0.02
+	monthly_political_influence = 0.2
+}
+admin_ration0_19 = {
+	stability_monthly_change = 0.019
+	monthly_political_influence = 0.19
+}
+admin_ration0_18 = {
+	stability_monthly_change = 0.018
+	monthly_political_influence = 0.18
+}
+admin_ration0_17 = {
+	stability_monthly_change = 0.017
+	monthly_political_influence = 0.17
+}
+admin_ration0_16 = {
+	stability_monthly_change = 0.016
+	monthly_political_influence = 0.16
+}
+admin_ration0_15 = {
+	stability_monthly_change = 0.015
+	monthly_political_influence = 0.15
+}
+admin_ration0_14 = {
+	stability_monthly_change = 0.014000000000000002
+	monthly_political_influence = 0.14
+}
+admin_ration0_13 = {
+	stability_monthly_change = 0.013000000000000001
+	monthly_political_influence = 0.13
+}
+admin_ration0_12 = {
+	stability_monthly_change = 0.012
+	monthly_political_influence = 0.12
+}
+admin_ration0_11 = {
+	stability_monthly_change = 0.011
+	monthly_political_influence = 0.11
+}
+admin_ration0_1 = {
+	stability_monthly_change = 0.01
+	monthly_political_influence = 0.1
+}
+admin_ration0_09 = {
+	stability_monthly_change = 0.009
+	monthly_political_influence = 0.09
+}
+admin_ration0_08 = {
+	stability_monthly_change = 0.008
+	monthly_political_influence = 0.08
+}
+admin_ration0_07 = {
+	stability_monthly_change = 0.007000000000000001
+	monthly_political_influence = 0.07
+}
+admin_ration0_06 = {
+	stability_monthly_change = 0.006
+	monthly_political_influence = 0.06
+}
+admin_ration0_05 = {
+	stability_monthly_change = 0.005
+	monthly_political_influence = 0.05
+}
+admin_ration0_04 = {
+	stability_monthly_change = 0.004
+	monthly_political_influence = 0.04
+}
+admin_ration0_03 = {
+	stability_monthly_change = 0.003
+	monthly_political_influence = 0.03
+}
+admin_ration0_02 = {
+	stability_monthly_change = 0.002
+	monthly_political_influence = 0.02
+}
+admin_ration0_01 = {
+	stability_monthly_change = 0.001
+	monthly_political_influence = 0.01
+}
+admin_ratio0_0 = {
+	stability_monthly_change = -0.0
+}
+admin_ratio0_01 = {
+	stability_monthly_change = -0.001
+}
+admin_ratio0_02 = {
+	stability_monthly_change = -0.002
+}
+admin_ratio0_03 = {
+	stability_monthly_change = -0.003
+}
+admin_ratio0_04 = {
+	stability_monthly_change = -0.004
+}
+admin_ratio0_05 = {
+	stability_monthly_change = -0.005
+}
+admin_ratio0_06 = {
+	stability_monthly_change = -0.006
+}
+admin_ratio0_07 = {
+	stability_monthly_change = -0.007000000000000001
+}
+admin_ratio0_08 = {
+	stability_monthly_change = -0.008
+}
+admin_ratio0_09 = {
+	stability_monthly_change = -0.009
+}
+admin_ratio0_1 = {
+	stability_monthly_change = -0.01
+}
+admin_ratio0_11 = {
+	stability_monthly_change = -0.011
+}
+admin_ratio0_12 = {
+	stability_monthly_change = -0.012
+}
+admin_ratio0_13 = {
+	stability_monthly_change = -0.013000000000000001
+}
+admin_ratio0_14 = {
+	stability_monthly_change = -0.014000000000000002
+}
+admin_ratio0_15 = {
+	stability_monthly_change = -0.015
+}
+admin_ratio0_16 = {
+	stability_monthly_change = -0.016
+}
+admin_ratio0_17 = {
+	stability_monthly_change = -0.017
+}
+admin_ratio0_18 = {
+	stability_monthly_change = -0.018
+}
+admin_ratio0_19 = {
+	stability_monthly_change = -0.019
+}
+admin_ratio0_2 = {
+	stability_monthly_change = -0.02
+}
+admin_ratio0_21 = {
+	stability_monthly_change = -0.020999999999999998
+}
+admin_ratio0_22 = {
+	stability_monthly_change = -0.022
+}
+admin_ratio0_23 = {
+	stability_monthly_change = -0.023
+}
+admin_ratio0_24 = {
+	stability_monthly_change = -0.024
+}
+admin_ratio0_25 = {
+	stability_monthly_change = -0.025
+}
+admin_ratio0_26 = {
+	stability_monthly_change = -0.026000000000000002
+}
+admin_ratio0_27 = {
+	stability_monthly_change = -0.027000000000000003
+}
+admin_ratio0_28 = {
+	stability_monthly_change = -0.028000000000000004
+}
+admin_ratio0_29 = {
+	stability_monthly_change = -0.028999999999999998
+}
+admin_ratio0_3 = {
+	stability_monthly_change = -0.03
+}
+admin_ratio0_31 = {
+	stability_monthly_change = -0.031
+}
+admin_ratio0_32 = {
+	stability_monthly_change = -0.032
+}
+admin_ratio0_33 = {
+	stability_monthly_change = -0.033
+}
+admin_ratio0_34 = {
+	stability_monthly_change = -0.034
+}
+admin_ratio0_350 = {
+	stability_monthly_change = -0.034999999999999996
+}
+admin_ratio0_36 = {
+	stability_monthly_change = -0.036
+}
+admin_ratio0_37 = {
+	stability_monthly_change = -0.037
+}
+admin_ratio0_38 = {
+	stability_monthly_change = -0.038
+}
+admin_ratio0_39 = {
+	stability_monthly_change = -0.039
+}
+admin_ratio0_4 = {
+	stability_monthly_change = -0.04
+}
+admin_ratio0_410 = {
+	stability_monthly_change = -0.040999999999999995
+}
+admin_ratio0_42 = {
+	stability_monthly_change = -0.041999999999999996
+}
+admin_ratio0_43 = {
+	stability_monthly_change = -0.043
+}
+admin_ratio0_44 = {
+	stability_monthly_change = -0.044
+}
+admin_ratio0_45 = {
+	stability_monthly_change = -0.045
+}
+admin_ratio0_46 = {
+	stability_monthly_change = -0.046
+}
+admin_ratio0_470 = {
+	stability_monthly_change = -0.047
+}
+admin_ratio0_48 = {
+	stability_monthly_change = -0.048
+}
+admin_ratio0_49 = {
+	stability_monthly_change = -0.049
+}
+admin_ratio0_5 = {
+	stability_monthly_change = -0.05
+}
+admin_ratio0_51 = {
+	stability_monthly_change = -0.051000000000000004
+}
+admin_ratio0_52 = {
+	stability_monthly_change = -0.052000000000000005
+}
+admin_ratio0_53 = {
+	stability_monthly_change = -0.053000000000000005
+}
+admin_ratio0_54 = {
+	stability_monthly_change = -0.054000000000000006
+}
+admin_ratio0_55 = {
+	stability_monthly_change = -0.05500000000000001
+}
+admin_ratio0_56 = {
+	stability_monthly_change = -0.05600000000000001
+}
+admin_ratio0_570 = {
+	stability_monthly_change = -0.056999999999999995
+}
+admin_ratio0_58 = {
+	stability_monthly_change = -0.057999999999999996
+}
+admin_ratio0_59 = {
+	stability_monthly_change = -0.059
+}
+admin_ratio0_6 = {
+	stability_monthly_change = -0.06
+}
+admin_ratio0_61 = {
+	stability_monthly_change = -0.061
+}
+admin_ratio0_62 = {
+	stability_monthly_change = -0.062
+}
+admin_ratio0_63 = {
+	stability_monthly_change = -0.063
+}
+admin_ratio0_64 = {
+	stability_monthly_change = -0.064
+}
+admin_ratio0_65 = {
+	stability_monthly_change = -0.065
+}
+admin_ratio0_66 = {
+	stability_monthly_change = -0.066
+}
+admin_ratio0_67 = {
+	stability_monthly_change = -0.067
+}
+admin_ratio0_68 = {
+	stability_monthly_change = -0.068
+}
+admin_ratio0_690 = {
+	stability_monthly_change = -0.06899999999999999
+}
+admin_ratio0_700 = {
+	stability_monthly_change = -0.06999999999999999
+}
+admin_ratio0_71 = {
+	stability_monthly_change = -0.071
+}
+admin_ratio0_72 = {
+	stability_monthly_change = -0.072
+}
+admin_ratio0_73 = {
+	stability_monthly_change = -0.073
+}
+admin_ratio0_74 = {
+	stability_monthly_change = -0.074
+}
+admin_ratio0_75 = {
+	stability_monthly_change = -0.075
+}
+admin_ratio0_76 = {
+	stability_monthly_change = -0.076
+}
+admin_ratio0_77 = {
+	stability_monthly_change = -0.077
+}
+admin_ratio0_78 = {
+	stability_monthly_change = -0.078
+}
+admin_ratio0_79 = {
+	stability_monthly_change = -0.079
+}
+admin_ratio0_8 = {
+	stability_monthly_change = -0.08
+}
+admin_ratio0_81 = {
+	stability_monthly_change = -0.081
+}
+admin_ratio0_820 = {
+	stability_monthly_change = -0.08199999999999999
+}
+admin_ratio0_830 = {
+	stability_monthly_change = -0.08299999999999999
+}
+admin_ratio0_84 = {
+	stability_monthly_change = -0.08399999999999999
+}
+admin_ratio0_85 = {
+	stability_monthly_change = -0.08499999999999999
+}
+admin_ratio0_86 = {
+	stability_monthly_change = -0.086
+}
+admin_ratio0_87 = {
+	stability_monthly_change = -0.087
+}
+admin_ratio0_88 = {
+	stability_monthly_change = -0.088
+}
+admin_ratio0_89 = {
+	stability_monthly_change = -0.089
+}
+admin_ratio0_9 = {
+	stability_monthly_change = -0.09
+}
+admin_ratio0_91 = {
+	stability_monthly_change = -0.091
+}
+admin_ratio0_92 = {
+	stability_monthly_change = -0.092
+}
+admin_ratio0_93 = {
+	stability_monthly_change = -0.093
+}
+admin_ratio0_940 = {
+	stability_monthly_change = -0.094
+}
+admin_ratio0_950 = {
+	stability_monthly_change = -0.095
+}
+admin_ratio0_96 = {
+	stability_monthly_change = -0.096
+}
+admin_ratio0_97 = {
+	stability_monthly_change = -0.097
+}
+admin_ratio0_98 = {
+	stability_monthly_change = -0.098
+}
+admin_ratio0_99 = {
+	stability_monthly_change = -0.099
+}
+admin_ratio1_0 = {
+	stability_monthly_change = -0.1
+}
+admin_ratio1_01 = {
+	stability_monthly_change = -0.101
+}
+admin_ratio1_02 = {
+	stability_monthly_change = -0.10200000000000001
+}
+admin_ratio1_03 = {
+	stability_monthly_change = -0.10300000000000001
+}
+admin_ratio1_04 = {
+	stability_monthly_change = -0.10400000000000001
+}
+admin_ratio1_05 = {
+	stability_monthly_change = -0.10500000000000001
+}
+admin_ratio1_06 = {
+	stability_monthly_change = -0.10600000000000001
+}
+admin_ratio1_07 = {
+	stability_monthly_change = -0.10700000000000001
+}
+admin_ratio1_08 = {
+	stability_monthly_change = -0.10800000000000001
+}
+admin_ratio1_09 = {
+	stability_monthly_change = -0.10900000000000001
+}
+admin_ratio1_1 = {
+	stability_monthly_change = -0.11000000000000001
+}
+admin_ratio1_11 = {
+	stability_monthly_change = -0.11100000000000002
+}
+admin_ratio1_12 = {
+	stability_monthly_change = -0.11200000000000002
+}
+admin_ratio1_130 = {
+	stability_monthly_change = -0.11299999999999999
+}
+admin_ratio1_140 = {
+	stability_monthly_change = -0.11399999999999999
+}
+admin_ratio1_150 = {
+	stability_monthly_change = -0.11499999999999999
+}
+admin_ratio1_16 = {
+	stability_monthly_change = -0.11599999999999999
+}
+admin_ratio1_17 = {
+	stability_monthly_change = -0.11699999999999999
+}
+admin_ratio1_18 = {
+	stability_monthly_change = -0.118
+}
+admin_ratio1_19 = {
+	stability_monthly_change = -0.119
+}
+admin_ratio1_2 = {
+	stability_monthly_change = -0.12
+}
+admin_ratio1_21 = {
+	stability_monthly_change = -0.121
+}
+admin_ratio1_22 = {
+	stability_monthly_change = -0.122
+}
+admin_ratio1_23 = {
+	stability_monthly_change = -0.123
+}
+admin_ratio1_24 = {
+	stability_monthly_change = -0.124
+}
+admin_ratio1_25 = {
+	stability_monthly_change = -0.125
+}
+admin_ratio1_26 = {
+	stability_monthly_change = -0.126
+}
+admin_ratio1_27 = {
+	stability_monthly_change = -0.127
+}
+admin_ratio1_28 = {
+	stability_monthly_change = -0.128
+}
+admin_ratio1_29 = {
+	stability_monthly_change = -0.129
+}
+admin_ratio1_3 = {
+	stability_monthly_change = -0.13
+}
+admin_ratio1_31 = {
+	stability_monthly_change = -0.131
+}
+admin_ratio1_32 = {
+	stability_monthly_change = -0.132
+}
+admin_ratio1_33 = {
+	stability_monthly_change = -0.133
+}
+admin_ratio1_34 = {
+	stability_monthly_change = -0.134
+}
+admin_ratio1_35 = {
+	stability_monthly_change = -0.135
+}
+admin_ratio1_36 = {
+	stability_monthly_change = -0.136
+}
+admin_ratio1_37 = {
+	stability_monthly_change = -0.137
+}
+admin_ratio1_380 = {
+	stability_monthly_change = -0.13799999999999998
+}
+admin_ratio1_390 = {
+	stability_monthly_change = -0.13899999999999998
+}
+admin_ratio1_400 = {
+	stability_monthly_change = -0.13999999999999999
+}
+admin_ratio1_41 = {
+	stability_monthly_change = -0.141
+}
+admin_ratio1_42 = {
+	stability_monthly_change = -0.142
+}
+admin_ratio1_43 = {
+	stability_monthly_change = -0.143
+}
+admin_ratio1_44 = {
+	stability_monthly_change = -0.144
+}
+admin_ratio1_45 = {
+	stability_monthly_change = -0.145
+}
+admin_ratio1_46 = {
+	stability_monthly_change = -0.146
+}
+admin_ratio1_47 = {
+	stability_monthly_change = -0.147
+}
+admin_ratio1_48 = {
+	stability_monthly_change = -0.148
+}
+admin_ratio1_49 = {
+	stability_monthly_change = -0.149
+}
+admin_ratio1_5 = {
+	stability_monthly_change = -0.15
+}
+admin_ratio1_51 = {
+	stability_monthly_change = -0.151
+}
+admin_ratio1_52 = {
+	stability_monthly_change = -0.152
+}
+admin_ratio1_53 = {
+	stability_monthly_change = -0.153
+}
+admin_ratio1_54 = {
+	stability_monthly_change = -0.154
+}
+admin_ratio1_55 = {
+	stability_monthly_change = -0.155
+}
+admin_ratio1_56 = {
+	stability_monthly_change = -0.156
+}
+admin_ratio1_57 = {
+	stability_monthly_change = -0.157
+}
+admin_ratio1_58 = {
+	stability_monthly_change = -0.158
+}
+admin_ratio1_59 = {
+	stability_monthly_change = -0.159
+}
+admin_ratio1_6 = {
+	stability_monthly_change = -0.16
+}
+admin_ratio1_61 = {
+	stability_monthly_change = -0.161
+}
+admin_ratio1_62 = {
+	stability_monthly_change = -0.162
+}
+admin_ratio1_630 = {
+	stability_monthly_change = -0.16299999999999998
+}
+admin_ratio1_640 = {
+	stability_monthly_change = -0.16399999999999998
+}
+admin_ratio1_650 = {
+	stability_monthly_change = -0.16499999999999998
+}
+admin_ratio1_660 = {
+	stability_monthly_change = -0.16599999999999998
+}
+admin_ratio1_67 = {
+	stability_monthly_change = -0.16699999999999998
+}
+admin_ratio1_68 = {
+	stability_monthly_change = -0.16799999999999998
+}
+admin_ratio1_69 = {
+	stability_monthly_change = -0.16899999999999998
+}
+admin_ratio1_7 = {
+	stability_monthly_change = -0.16999999999999998
+}
+admin_ratio1_71 = {
+	stability_monthly_change = -0.17099999999999999
+}
+admin_ratio1_72 = {
+	stability_monthly_change = -0.172
+}
+admin_ratio1_73 = {
+	stability_monthly_change = -0.173
+}
+admin_ratio1_74 = {
+	stability_monthly_change = -0.174
+}
+admin_ratio1_75 = {
+	stability_monthly_change = -0.175
+}
+admin_ratio1_76 = {
+	stability_monthly_change = -0.176
+}
+admin_ratio1_77 = {
+	stability_monthly_change = -0.177
+}
+admin_ratio1_78 = {
+	stability_monthly_change = -0.178
+}
+admin_ratio1_79 = {
+	stability_monthly_change = -0.179
+}
+admin_ratio1_8 = {
+	stability_monthly_change = -0.18
+}
+admin_ratio1_81 = {
+	stability_monthly_change = -0.181
+}
+admin_ratio1_82 = {
+	stability_monthly_change = -0.182
+}
+admin_ratio1_83 = {
+	stability_monthly_change = -0.183
+}
+admin_ratio1_84 = {
+	stability_monthly_change = -0.184
+}
+admin_ratio1_85 = {
+	stability_monthly_change = -0.185
+}
+admin_ratio1_86 = {
+	stability_monthly_change = -0.186
+}
+admin_ratio1_87 = {
+	stability_monthly_change = -0.187
+}
+admin_ratio1_880 = {
+	stability_monthly_change = -0.188
+}
+admin_ratio1_890 = {
+	stability_monthly_change = -0.189
+}
+admin_ratio1_900 = {
+	stability_monthly_change = -0.19
+}
+admin_ratio1_910 = {
+	stability_monthly_change = -0.191
+}
+admin_ratio1_92 = {
+	stability_monthly_change = -0.192
+}
+admin_ratio1_93 = {
+	stability_monthly_change = -0.193
+}
+admin_ratio1_94 = {
+	stability_monthly_change = -0.194
+}
+admin_ratio1_95 = {
+	stability_monthly_change = -0.195
+}
+admin_ratio1_96 = {
+	stability_monthly_change = -0.196
+}
+admin_ratio1_97 = {
+	stability_monthly_change = -0.197
+}
+admin_ratio1_98 = {
+	stability_monthly_change = -0.198
+}
+admin_ratio1_99 = {
+	stability_monthly_change = -0.199
+}
+admin_ratio2_0 = {
+	stability_monthly_change = -0.2
+}
+admin_ratio2_010 = {
+	stability_monthly_change = -0.20099999999999998
+}
+admin_ratio2_02 = {
+	stability_monthly_change = -0.202
+}
+admin_ratio2_030 = {
+	stability_monthly_change = -0.20299999999999999
+}
+admin_ratio2_04 = {
+	stability_monthly_change = -0.20400000000000001
+}
+admin_ratio2_05 = {
+	stability_monthly_change = -0.205
+}
+admin_ratio2_06 = {
+	stability_monthly_change = -0.20600000000000002
+}
+admin_ratio2_07 = {
+	stability_monthly_change = -0.207
+}
+admin_ratio2_08 = {
+	stability_monthly_change = -0.20800000000000002
+}
+admin_ratio2_09 = {
+	stability_monthly_change = -0.209
+}
+admin_ratio2_1 = {
+	stability_monthly_change = -0.21000000000000002
+}
+admin_ratio2_11 = {
+	stability_monthly_change = -0.211
+}
+admin_ratio2_12 = {
+	stability_monthly_change = -0.21200000000000002
+}
+admin_ratio2_13 = {
+	stability_monthly_change = -0.213
+}
+admin_ratio2_14 = {
+	stability_monthly_change = -0.21400000000000002
+}
+admin_ratio2_15 = {
+	stability_monthly_change = -0.215
+}
+admin_ratio2_16 = {
+	stability_monthly_change = -0.21600000000000003
+}
+admin_ratio2_17 = {
+	stability_monthly_change = -0.217
+}
+admin_ratio2_18 = {
+	stability_monthly_change = -0.21800000000000003
+}
+admin_ratio2_19 = {
+	stability_monthly_change = -0.219
+}
+admin_ratio2_2 = {
+	stability_monthly_change = -0.22000000000000003
+}
+admin_ratio2_21 = {
+	stability_monthly_change = -0.221
+}
+admin_ratio2_22 = {
+	stability_monthly_change = -0.22200000000000003
+}
+admin_ratio2_23 = {
+	stability_monthly_change = -0.223
+}
+admin_ratio2_24 = {
+	stability_monthly_change = -0.22400000000000003
+}
+admin_ratio2_25 = {
+	stability_monthly_change = -0.225
+}
+admin_ratio2_260 = {
+	stability_monthly_change = -0.22599999999999998
+}
+admin_ratio2_27 = {
+	stability_monthly_change = -0.227
+}
+admin_ratio2_280 = {
+	stability_monthly_change = -0.22799999999999998
+}
+admin_ratio2_29 = {
+	stability_monthly_change = -0.229
+}
+admin_ratio2_300 = {
+	stability_monthly_change = -0.22999999999999998
+}
+admin_ratio2_31 = {
+	stability_monthly_change = -0.231
+}
+admin_ratio2_32 = {
+	stability_monthly_change = -0.23199999999999998
+}
+admin_ratio2_33 = {
+	stability_monthly_change = -0.233
+}
+admin_ratio2_34 = {
+	stability_monthly_change = -0.23399999999999999
+}
+admin_ratio2_35 = {
+	stability_monthly_change = -0.23500000000000001
+}
+admin_ratio2_36 = {
+	stability_monthly_change = -0.236
+}
+admin_ratio2_37 = {
+	stability_monthly_change = -0.23700000000000002
+}
+admin_ratio2_38 = {
+	stability_monthly_change = -0.238
+}
+admin_ratio2_39 = {
+	stability_monthly_change = -0.23900000000000002
+}
+admin_ratio2_4 = {
+	stability_monthly_change = -0.24
+}
+admin_ratio2_41 = {
+	stability_monthly_change = -0.24100000000000002
+}
+admin_ratio2_42 = {
+	stability_monthly_change = -0.242
+}
+admin_ratio2_43 = {
+	stability_monthly_change = -0.24300000000000002
+}
+admin_ratio2_44 = {
+	stability_monthly_change = -0.244
+}
+admin_ratio2_45 = {
+	stability_monthly_change = -0.24500000000000002
+}
+admin_ratio2_46 = {
+	stability_monthly_change = -0.246
+}
+admin_ratio2_47 = {
+	stability_monthly_change = -0.24700000000000003
+}
+admin_ratio2_48 = {
+	stability_monthly_change = -0.248
+}
+admin_ratio2_49 = {
+	stability_monthly_change = -0.24900000000000003
+}
+admin_ratio2_5 = {
+	stability_monthly_change = -0.25
+}
+admin_ratio2_510 = {
+	stability_monthly_change = -0.251
+}
+admin_ratio2_52 = {
+	stability_monthly_change = -0.252
+}
+admin_ratio2_530 = {
+	stability_monthly_change = -0.253
+}
+admin_ratio2_54 = {
+	stability_monthly_change = -0.254
+}
+admin_ratio2_550 = {
+	stability_monthly_change = -0.255
+}
+admin_ratio2_56 = {
+	stability_monthly_change = -0.256
+}
+admin_ratio2_57 = {
+	stability_monthly_change = -0.257
+}
+admin_ratio2_58 = {
+	stability_monthly_change = -0.258
+}
+admin_ratio2_59 = {
+	stability_monthly_change = -0.259
+}
+admin_ratio2_6 = {
+	stability_monthly_change = -0.26
+}
+admin_ratio2_61 = {
+	stability_monthly_change = -0.261
+}
+admin_ratio2_62 = {
+	stability_monthly_change = -0.262
+}
+admin_ratio2_63 = {
+	stability_monthly_change = -0.263
+}
+admin_ratio2_64 = {
+	stability_monthly_change = -0.264
+}
+admin_ratio2_65 = {
+	stability_monthly_change = -0.265
+}
+admin_ratio2_66 = {
+	stability_monthly_change = -0.266
+}
+admin_ratio2_67 = {
+	stability_monthly_change = -0.267
+}
+admin_ratio2_68 = {
+	stability_monthly_change = -0.268
+}
+admin_ratio2_69 = {
+	stability_monthly_change = -0.269
+}
+admin_ratio2_7 = {
+	stability_monthly_change = -0.27
+}
+admin_ratio2_71 = {
+	stability_monthly_change = -0.271
+}
+admin_ratio2_72 = {
+	stability_monthly_change = -0.272
+}
+admin_ratio2_73 = {
+	stability_monthly_change = -0.273
+}
+admin_ratio2_74 = {
+	stability_monthly_change = -0.274
+}
+admin_ratio2_75 = {
+	stability_monthly_change = -0.275
+}
+admin_ratio2_760 = {
+	stability_monthly_change = -0.27599999999999997
+}
+admin_ratio2_77 = {
+	stability_monthly_change = -0.277
+}
+admin_ratio2_780 = {
+	stability_monthly_change = -0.27799999999999997
+}
+admin_ratio2_79 = {
+	stability_monthly_change = -0.279
+}
+admin_ratio2_800 = {
+	stability_monthly_change = -0.27999999999999997
+}
+admin_ratio2_81 = {
+	stability_monthly_change = -0.281
+}
+admin_ratio2_82 = {
+	stability_monthly_change = -0.282
+}
+admin_ratio2_83 = {
+	stability_monthly_change = -0.28300000000000003
+}
+admin_ratio2_84 = {
+	stability_monthly_change = -0.284
+}
+admin_ratio2_85 = {
+	stability_monthly_change = -0.28500000000000003
+}
+admin_ratio2_86 = {
+	stability_monthly_change = -0.286
+}
+admin_ratio2_87 = {
+	stability_monthly_change = -0.28700000000000003
+}
+admin_ratio2_88 = {
+	stability_monthly_change = -0.288
+}
+admin_ratio2_89 = {
+	stability_monthly_change = -0.28900000000000003
+}
+admin_ratio2_9 = {
+	stability_monthly_change = -0.29
+}
+admin_ratio2_91 = {
+	stability_monthly_change = -0.29100000000000004
+}
+admin_ratio2_92 = {
+	stability_monthly_change = -0.292
+}
+admin_ratio2_93 = {
+	stability_monthly_change = -0.29300000000000004
+}
+admin_ratio2_94 = {
+	stability_monthly_change = -0.294
+}
+admin_ratio2_95 = {
+	stability_monthly_change = -0.29500000000000004
+}
+admin_ratio2_96 = {
+	stability_monthly_change = -0.296
+}
+admin_ratio2_97 = {
+	stability_monthly_change = -0.29700000000000004
+}
+admin_ratio2_98 = {
+	stability_monthly_change = -0.298
+}
+admin_ratio2_99 = {
+	stability_monthly_change = -0.29900000000000004
+}
+admin_ratio3_0 = {
+	stability_monthly_change = -0.3
+}
+admin_ratio3_010 = {
+	stability_monthly_change = -0.301
+}
+admin_ratio3_02 = {
+	stability_monthly_change = -0.302
+}
+admin_ratio3_030 = {
+	stability_monthly_change = -0.303
+}
+admin_ratio3_04 = {
+	stability_monthly_change = -0.304
+}
+admin_ratio3_050 = {
+	stability_monthly_change = -0.305
+}
+admin_ratio3_06 = {
+	stability_monthly_change = -0.306
+}
+admin_ratio3_070 = {
+	stability_monthly_change = -0.307
+}
+admin_ratio3_08 = {
+	stability_monthly_change = -0.308
+}
+admin_ratio3_09 = {
+	stability_monthly_change = -0.309
+}
+admin_ratio3_1 = {
+	stability_monthly_change = -0.31
+}
+admin_ratio3_11 = {
+	stability_monthly_change = -0.311
+}
+admin_ratio3_12 = {
+	stability_monthly_change = -0.312
+}
+admin_ratio3_13 = {
+	stability_monthly_change = -0.313
+}
+admin_ratio3_14 = {
+	stability_monthly_change = -0.314
+}
+admin_ratio3_15 = {
+	stability_monthly_change = -0.315
+}
+admin_ratio3_16 = {
+	stability_monthly_change = -0.316
+}
+admin_ratio3_17 = {
+	stability_monthly_change = -0.317
+}
+admin_ratio3_18 = {
+	stability_monthly_change = -0.318
+}
+admin_ratio3_19 = {
+	stability_monthly_change = -0.319
+}
+admin_ratio3_2 = {
+	stability_monthly_change = -0.32
+}
+admin_ratio3_21 = {
+	stability_monthly_change = -0.321
+}
+admin_ratio3_22 = {
+	stability_monthly_change = -0.322
+}
+admin_ratio3_23 = {
+	stability_monthly_change = -0.323
+}
+admin_ratio3_24 = {
+	stability_monthly_change = -0.324
+}
+admin_ratio3_25 = {
+	stability_monthly_change = -0.325
+}
+admin_ratio3_260 = {
+	stability_monthly_change = -0.32599999999999996
+}
+admin_ratio3_27 = {
+	stability_monthly_change = -0.327
+}
+admin_ratio3_280 = {
+	stability_monthly_change = -0.32799999999999996
+}
+admin_ratio3_29 = {
+	stability_monthly_change = -0.329
+}
+admin_ratio3_300 = {
+	stability_monthly_change = -0.32999999999999996
+}
+admin_ratio3_31 = {
+	stability_monthly_change = -0.331
+}
+admin_ratio3_320 = {
+	stability_monthly_change = -0.33199999999999996
+}
+admin_ratio3_33 = {
+	stability_monthly_change = -0.333
+}
+admin_ratio3_34 = {
+	stability_monthly_change = -0.33399999999999996
+}
+admin_ratio3_35 = {
+	stability_monthly_change = -0.335
+}
+admin_ratio3_36 = {
+	stability_monthly_change = -0.33599999999999997
+}
+admin_ratio3_37 = {
+	stability_monthly_change = -0.337
+}
+admin_ratio3_38 = {
+	stability_monthly_change = -0.33799999999999997
+}
+admin_ratio3_39 = {
+	stability_monthly_change = -0.339
+}
+admin_ratio3_4 = {
+	stability_monthly_change = -0.33999999999999997
+}
+admin_ratio3_41 = {
+	stability_monthly_change = -0.341
+}
+admin_ratio3_42 = {
+	stability_monthly_change = -0.34199999999999997
+}
+admin_ratio3_43 = {
+	stability_monthly_change = -0.343
+}
+admin_ratio3_44 = {
+	stability_monthly_change = -0.344
+}
+admin_ratio3_45 = {
+	stability_monthly_change = -0.34500000000000003
+}
+admin_ratio3_46 = {
+	stability_monthly_change = -0.346
+}
+admin_ratio3_47 = {
+	stability_monthly_change = -0.34700000000000003
+}
+admin_ratio3_48 = {
+	stability_monthly_change = -0.348
+}
+admin_ratio3_49 = {
+	stability_monthly_change = -0.34900000000000003
+}
+admin_ratio3_5 = {
+	stability_monthly_change = -0.35
+}
+admin_ratio3_510 = {
+	stability_monthly_change = -0.351
+}
+admin_ratio3_52 = {
+	stability_monthly_change = -0.352
+}
+admin_ratio3_530 = {
+	stability_monthly_change = -0.353
+}
+admin_ratio3_54 = {
+	stability_monthly_change = -0.354
+}
+admin_ratio3_550 = {
+	stability_monthly_change = -0.355
+}
+admin_ratio3_56 = {
+	stability_monthly_change = -0.356
+}
+admin_ratio3_570 = {
+	stability_monthly_change = -0.357
+}
+admin_ratio3_58 = {
+	stability_monthly_change = -0.358
+}
+admin_ratio3_59 = {
+	stability_monthly_change = -0.359
+}
+admin_ratio3_6 = {
+	stability_monthly_change = -0.36
+}
+admin_ratio3_61 = {
+	stability_monthly_change = -0.361
+}
+admin_ratio3_62 = {
+	stability_monthly_change = -0.362
+}
+admin_ratio3_63 = {
+	stability_monthly_change = -0.363
+}
+admin_ratio3_64 = {
+	stability_monthly_change = -0.364
+}
+admin_ratio3_65 = {
+	stability_monthly_change = -0.365
+}
+admin_ratio3_66 = {
+	stability_monthly_change = -0.366
+}
+admin_ratio3_67 = {
+	stability_monthly_change = -0.367
+}
+admin_ratio3_68 = {
+	stability_monthly_change = -0.368
+}
+admin_ratio3_69 = {
+	stability_monthly_change = -0.369
+}
+admin_ratio3_7 = {
+	stability_monthly_change = -0.37
+}
+admin_ratio3_71 = {
+	stability_monthly_change = -0.371
+}
+admin_ratio3_72 = {
+	stability_monthly_change = -0.372
+}
+admin_ratio3_73 = {
+	stability_monthly_change = -0.373
+}
+admin_ratio3_74 = {
+	stability_monthly_change = -0.374
+}
+admin_ratio3_75 = {
+	stability_monthly_change = -0.375
+}
+admin_ratio3_760 = {
+	stability_monthly_change = -0.376
+}
+admin_ratio3_77 = {
+	stability_monthly_change = -0.377
+}
+admin_ratio3_780 = {
+	stability_monthly_change = -0.378
+}
+admin_ratio3_79 = {
+	stability_monthly_change = -0.379
+}
+admin_ratio3_800 = {
+	stability_monthly_change = -0.38
+}
+admin_ratio3_81 = {
+	stability_monthly_change = -0.381
+}
+admin_ratio3_820 = {
+	stability_monthly_change = -0.382
+}
+admin_ratio3_83 = {
+	stability_monthly_change = -0.383
+}
+admin_ratio3_84 = {
+	stability_monthly_change = -0.384
+}
+admin_ratio3_85 = {
+	stability_monthly_change = -0.385
+}
+admin_ratio3_86 = {
+	stability_monthly_change = -0.386
+}
+admin_ratio3_87 = {
+	stability_monthly_change = -0.387
+}
+admin_ratio3_88 = {
+	stability_monthly_change = -0.388
+}
+admin_ratio3_89 = {
+	stability_monthly_change = -0.389
+}
+admin_ratio3_9 = {
+	stability_monthly_change = -0.39
+}
+admin_ratio3_91 = {
+	stability_monthly_change = -0.391
+}
+admin_ratio3_92 = {
+	stability_monthly_change = -0.392
+}
+admin_ratio3_93 = {
+	stability_monthly_change = -0.393
+}
+admin_ratio3_94 = {
+	stability_monthly_change = -0.394
+}
+admin_ratio3_95 = {
+	stability_monthly_change = -0.395
+}
+admin_ratio3_96 = {
+	stability_monthly_change = -0.396
+}
+admin_ratio3_97 = {
+	stability_monthly_change = -0.397
+}
+admin_ratio3_98 = {
+	stability_monthly_change = -0.398
+}
+admin_ratio3_99 = {
+	stability_monthly_change = -0.399
+}
+admin_ratio4_0 = {
+	stability_monthly_change = -0.4
+}
+admin_ratio4_01 = {
+	stability_monthly_change = -0.40099999999999997
+}
+admin_ratio4_020 = {
+	stability_monthly_change = -0.40199999999999997
+}
+admin_ratio4_03 = {
+	stability_monthly_change = -0.403
+}
+admin_ratio4_04 = {
+	stability_monthly_change = -0.404
+}
+admin_ratio4_05 = {
+	stability_monthly_change = -0.40499999999999997
+}
+admin_ratio4_060 = {
+	stability_monthly_change = -0.40599999999999997
+}
+admin_ratio4_07 = {
+	stability_monthly_change = -0.40700000000000003
+}
+admin_ratio4_08 = {
+	stability_monthly_change = -0.40800000000000003
+}
+admin_ratio4_09 = {
+	stability_monthly_change = -0.409
+}
+admin_ratio4_1 = {
+	stability_monthly_change = -0.41
+}
+admin_ratio4_11 = {
+	stability_monthly_change = -0.41100000000000003
+}
+admin_ratio4_12 = {
+	stability_monthly_change = -0.41200000000000003
+}
+admin_ratio4_13 = {
+	stability_monthly_change = -0.413
+}
+admin_ratio4_14 = {
+	stability_monthly_change = -0.414
+}
+admin_ratio4_15 = {
+	stability_monthly_change = -0.41500000000000004
+}
+admin_ratio4_16 = {
+	stability_monthly_change = -0.41600000000000004
+}
+admin_ratio4_17 = {
+	stability_monthly_change = -0.417
+}
+admin_ratio4_18 = {
+	stability_monthly_change = -0.418
+}
+admin_ratio4_19 = {
+	stability_monthly_change = -0.41900000000000004
+}
+admin_ratio4_2 = {
+	stability_monthly_change = -0.42000000000000004
+}
+admin_ratio4_21 = {
+	stability_monthly_change = -0.421
+}
+admin_ratio4_22 = {
+	stability_monthly_change = -0.422
+}
+admin_ratio4_23 = {
+	stability_monthly_change = -0.42300000000000004
+}
+admin_ratio4_24 = {
+	stability_monthly_change = -0.42400000000000004
+}
+admin_ratio4_25 = {
+	stability_monthly_change = -0.425
+}
+admin_ratio4_26 = {
+	stability_monthly_change = -0.426
+}
+admin_ratio4_270 = {
+	stability_monthly_change = -0.42699999999999994
+}
+admin_ratio4_28 = {
+	stability_monthly_change = -0.42800000000000005
+}
+admin_ratio4_29 = {
+	stability_monthly_change = -0.429
+}
+admin_ratio4_3 = {
+	stability_monthly_change = -0.43
+}
+admin_ratio4_310 = {
+	stability_monthly_change = -0.43099999999999994
+}
+admin_ratio4_32 = {
+	stability_monthly_change = -0.43200000000000005
+}
+admin_ratio4_33 = {
+	stability_monthly_change = -0.433
+}
+admin_ratio4_34 = {
+	stability_monthly_change = -0.434
+}
+admin_ratio4_350 = {
+	stability_monthly_change = -0.43499999999999994
+}
+admin_ratio4_36 = {
+	stability_monthly_change = -0.43600000000000005
+}
+admin_ratio4_37 = {
+	stability_monthly_change = -0.437
+}
+admin_ratio4_38 = {
+	stability_monthly_change = -0.438
+}
+admin_ratio4_39 = {
+	stability_monthly_change = -0.43899999999999995
+}
+admin_ratio4_4 = {
+	stability_monthly_change = -0.44000000000000006
+}
+admin_ratio4_41 = {
+	stability_monthly_change = -0.441
+}
+admin_ratio4_42 = {
+	stability_monthly_change = -0.442
+}
+admin_ratio4_43 = {
+	stability_monthly_change = -0.44299999999999995
+}
+admin_ratio4_44 = {
+	stability_monthly_change = -0.44400000000000006
+}
+admin_ratio4_45 = {
+	stability_monthly_change = -0.445
+}
+admin_ratio4_46 = {
+	stability_monthly_change = -0.446
+}
+admin_ratio4_47 = {
+	stability_monthly_change = -0.44699999999999995
+}
+admin_ratio4_48 = {
+	stability_monthly_change = -0.44800000000000006
+}
+admin_ratio4_49 = {
+	stability_monthly_change = -0.449
+}
+admin_ratio4_5 = {
+	stability_monthly_change = -0.45
+}
+admin_ratio4_51 = {
+	stability_monthly_change = -0.45099999999999996
+}
+admin_ratio4_520 = {
+	stability_monthly_change = -0.45199999999999996
+}
+admin_ratio4_53 = {
+	stability_monthly_change = -0.453
+}
+admin_ratio4_54 = {
+	stability_monthly_change = -0.454
+}
+admin_ratio4_55 = {
+	stability_monthly_change = -0.45499999999999996
+}
+admin_ratio4_560 = {
+	stability_monthly_change = -0.45599999999999996
+}
+admin_ratio4_57 = {
+	stability_monthly_change = -0.457
+}
+admin_ratio4_58 = {
+	stability_monthly_change = -0.458
+}
+admin_ratio4_59 = {
+	stability_monthly_change = -0.45899999999999996
+}
+admin_ratio4_600 = {
+	stability_monthly_change = -0.45999999999999996
+}
+admin_ratio4_61 = {
+	stability_monthly_change = -0.461
+}
+admin_ratio4_62 = {
+	stability_monthly_change = -0.462
+}
+admin_ratio4_63 = {
+	stability_monthly_change = -0.46299999999999997
+}
+admin_ratio4_64 = {
+	stability_monthly_change = -0.46399999999999997
+}
+admin_ratio4_65 = {
+	stability_monthly_change = -0.465
+}
+admin_ratio4_66 = {
+	stability_monthly_change = -0.466
+}
+admin_ratio4_67 = {
+	stability_monthly_change = -0.46699999999999997
+}
+admin_ratio4_68 = {
+	stability_monthly_change = -0.46799999999999997
+}
+admin_ratio4_69 = {
+	stability_monthly_change = -0.46900000000000003
+}
+admin_ratio4_7 = {
+	stability_monthly_change = -0.47000000000000003
+}
+admin_ratio4_71 = {
+	stability_monthly_change = -0.471
+}
+admin_ratio4_72 = {
+	stability_monthly_change = -0.472
+}
+admin_ratio4_73 = {
+	stability_monthly_change = -0.47300000000000003
+}
+admin_ratio4_74 = {
+	stability_monthly_change = -0.47400000000000003
+}
+admin_ratio4_75 = {
+	stability_monthly_change = -0.475
+}
+admin_ratio4_76 = {
+	stability_monthly_change = -0.476
+}
+admin_ratio4_770 = {
+	stability_monthly_change = -0.477
+}
+admin_ratio4_78 = {
+	stability_monthly_change = -0.47800000000000004
+}
+admin_ratio4_79 = {
+	stability_monthly_change = -0.479
+}
+admin_ratio4_8 = {
+	stability_monthly_change = -0.48
+}
+admin_ratio4_810 = {
+	stability_monthly_change = -0.481
+}
+admin_ratio4_82 = {
+	stability_monthly_change = -0.48200000000000004
+}
+admin_ratio4_83 = {
+	stability_monthly_change = -0.483
+}
+admin_ratio4_84 = {
+	stability_monthly_change = -0.484
+}
+admin_ratio4_850 = {
+	stability_monthly_change = -0.485
+}
+admin_ratio4_86 = {
+	stability_monthly_change = -0.48600000000000004
+}
+admin_ratio4_87 = {
+	stability_monthly_change = -0.487
+}
+admin_ratio4_88 = {
+	stability_monthly_change = -0.488
+}
+admin_ratio4_89 = {
+	stability_monthly_change = -0.489
+}
+admin_ratio4_9 = {
+	stability_monthly_change = -0.49000000000000005
+}
+admin_ratio4_91 = {
+	stability_monthly_change = -0.491
+}
+admin_ratio4_92 = {
+	stability_monthly_change = -0.492
+}
+admin_ratio4_93 = {
+	stability_monthly_change = -0.493
+}
+admin_ratio4_94 = {
+	stability_monthly_change = -0.49400000000000005
+}
+admin_ratio4_95 = {
+	stability_monthly_change = -0.495
+}
+admin_ratio4_96 = {
+	stability_monthly_change = -0.496
+}
+admin_ratio4_97 = {
+	stability_monthly_change = -0.497
+}
+admin_ratio4_98 = {
+	stability_monthly_change = -0.49800000000000005
+}
+admin_ratio4_99 = {
+	stability_monthly_change = -0.499
+}
+admin_ratio5_0 = {
+	stability_monthly_change = -0.5
+}

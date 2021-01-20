@@ -2,9 +2,9 @@
 {	
 	events = {
 		crop_yields.2
-		update_pop_growth.1
 	}
 	effect = {
+		trigger_event = {id = update_pop_growth.1 days = {0 364}}
 		trigger_event = {id = state_loyalty.1 days = {0 364}}
 		trigger_event = {id = province_wealth.2 days = {0 364}}
 		trigger_event = {id = building_events.4 days = {0 364}}
@@ -34,6 +34,14 @@ yearly_character_pulse = {
     
 on_game_initialized = {
 	effect = {
+		set_variable = {
+			name = show_province_details
+			value = 0
+		}
+		set_variable = {
+			name = show_country_details
+			value = 0
+		}
 		every_owned_province = {
 			set_variable = settled_flag
 			set_variable = {
@@ -49,13 +57,69 @@ on_game_initialized = {
 				multiply = 0.25
 			}
 			set_variable = {
-				name = province_infrastructure
+				name = farming_infrastructure
 				value = var:province_wealth
 			}
-			change_variable = {
-				name = province_infrastructure
-				multiply = 10
+			set_variable = {
+				name = urban_infrastructure
+				value = var:province_wealth
 			}
+			set_variable = {
+				name = production_infrastructure
+				value = var:province_wealth
+			}
+			set_variable = {
+				name = political_infrastructure
+				value = var:province_wealth
+			}
+			if = {
+				limit = {
+					has_province_rank = settlement
+				}
+				change_variable = {
+					name = farming_infrastructure
+					multiply = 7
+				}
+				change_variable = {
+					name = political_infrastructure
+					multiply = 0
+				}
+				change_variable = {
+					name = urban_infrastructure
+					multiply = 0
+				}
+			}
+			else = {
+				change_variable = {
+					name = urban_infrastructure
+					multiply = 4
+				}
+				change_variable = {
+					name = production_infrastructure
+					multiply = 4
+				}
+				change_variable = {
+					name = farming_infrastructure
+					multiply = 2
+				}
+			}
+			
+			if = {
+				limit = {
+					is_capital = yes
+				}
+				change_variable = {
+					name = political_infrastructure
+					multiply = 2
+				}
+			}
+			else = {
+				change_variable = {
+					name = political_infrastructure
+					multiply = 0.1
+				}
+			}
+			
 			trigger_event = {id = province_wealth.1}
 			trigger_event = {id = province_wealth.2}
 			set_variable = {
@@ -114,7 +178,11 @@ on_game_initialized = {
 					multiply = 1.5
 				}
 				change_variable = {
-					name = province_infrastructure
+					name = urban_infrastructure
+					multiply = 1.5
+				}
+				change_variable = {
+					name = production_infrastructure
 					multiply = 1.5
 				}
 			}
@@ -169,15 +237,7 @@ yearly_country_pulse = {
 		overextension.1
 		cultural_events.1
 		troop_maintenance.1
-		state_type_events.1
-	}
-	effect = {
-		if = {
-			limit = {is_ai = yes}
-			change_law = wealth_taxes_1
-			change_law = income_taxes_10
-			change_law = poll_taxes_0_05
-		}
+		#state_type_events.1
 	}
 }
 
